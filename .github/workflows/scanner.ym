@@ -1,14 +1,17 @@
 name: arb-scanner
+
+# Каждый 15-мин слот: бёрст ~12 мин (8 снимков * 90с = 10.5 мин + ~1.5 мин на setup).
+# Логи коммитятся в репо после КАЖДОГО прогона -> потерять невозможно.
 on:
   schedule:
-    - cron: "*/15 * * * *"
-  workflow_dispatch: {}
+    - cron: "*/15 * * * *"     # каждые 15 минут (UTC), best-effort
+  workflow_dispatch: {}         # ручной запуск кнопкой
 
 permissions:
-  contents: write
+  contents: write               # чтобы коммитить CSV обратно
 
 concurrency:
-  group: scanner
+  group: scanner                # не плодить параллельные прогоны
   cancel-in-progress: false
 
 jobs:
