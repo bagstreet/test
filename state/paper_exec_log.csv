@@ -1,0 +1,6 @@
+t0,chain,token,entry_spread_pct,lo_dex,hi_dex,min_tvl,whale,n_samples,n_pos_after_entry,best_net_pct,actionable
+2026-06-20T10:42:52.287258+00:00,solana,SOL,100.1541,meteora,orca,3168263,1,9,0,-0.2077,0
+2026-06-20T10:46:10.846672+00:00,solana,HYPE,0.3118,meteora,meteora,256663,1,7,0,-1.0471,0
+2026-06-20T10:42:52.287258+00:00,base,AERO,0.5487,aerodrome,uniswap,334014,1,9,2,0.0503,1
+2026-06-20T10:42:52.287258+00:00,base,CBBTC,0.48,uniswap,aerodrome,706004,1,9,0,-0.2591,0
+2026-06-20T10:51:08.788305+00:00,base,WETH,0.7421,uniswap,quickswap,377485,1,4,0,-0.6134,0
