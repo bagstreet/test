@@ -1,0 +1,13 @@
+ts,chain,token,disp_pct,z,cheap_dex,rich_dex,min_tvl,whale
+2026-06-20T10:42:52.287258+00:00,solana,SOL,100.1541,,meteora,orca,3168263,1
+2026-06-20T10:42:52.287258+00:00,base,AERO,0.5487,,aerodrome,uniswap,334014,1
+2026-06-20T10:42:52.287258+00:00,base,CBBTC,0.48,,uniswap,aerodrome,706004,1
+2026-06-20T10:44:32.330944+00:00,base,AERO,0.6509,,aerodrome,uniswap,334014,1
+2026-06-20T10:46:10.846672+00:00,solana,HYPE,0.3118,,meteora,meteora,256663,1
+2026-06-20T10:46:10.846672+00:00,base,AERO,0.9615,,aerodrome,aerodrome,554234,1
+2026-06-20T10:47:49.852943+00:00,solana,HYPE,0.6406,,orca,meteora,336918,1
+2026-06-20T10:51:08.788305+00:00,solana,SOL,0.3919,,raydium,raydium,4036699,1
+2026-06-20T10:51:08.788305+00:00,base,WETH,0.7421,,uniswap,quickswap,377485,1
+2026-06-20T10:52:47.641665+00:00,solana,SOL,0.5606,,raydium,raydium,560179,1
+2026-06-20T10:52:47.641665+00:00,base,WETH,0.7502,,uniswap,aerodrome,266807,1
+2026-06-20T10:54:27.296253+00:00,solana,SOL,0.6167,,raydium,raydium,560179,1
