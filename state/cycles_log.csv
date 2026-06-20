@@ -114,3 +114,13 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-06-20T17:55:47.803514+00:00,solana,SOL→JTO→SOL,2,orca/raydium,46.7097,1.0,-0.8949,0,0
 2026-06-20T17:55:47.803514+00:00,base,ETH→WEETH→AERO→ETH,3,uniswap/aerodrome/uniswap,1.3031,1.0,-0.1801,0,0
 2026-06-20T17:55:47.803514+00:00,base,ETH→WSTETH→FBOMB→AERO→ETH,4,uniswap/aerodrome/aerodrome/uniswap,1.7523,1.0,-0.2737,0,0
+2026-06-20T18:59:55.786937+00:00,solana,PUMP→FARTCOIN →PUMP,2,orca/orca,0.649,4.33,0.004,0,0
+2026-06-20T18:59:55.786937+00:00,base,ETH→VVV→ETH,2,uniswap/uniswap,0.2004,1.0,-0.0605,0,0
+2026-06-20T19:01:36.363214+00:00,solana,PUMP→FARTCOIN →PUMP,2,orca/orca,0.649,4.22,0.0037,0,0
+2026-06-20T19:01:36.363214+00:00,base,ETH→VVV→ETH,2,uniswap/uniswap,0.2004,1.0,-0.0605,0,0
+2026-06-20T19:03:16.851794+00:00,base,ETH→VVV→ETH,2,uniswap/uniswap,0.2004,1.0,-0.0605,0,0
+2026-06-20T19:04:56.942825+00:00,base,ETH→VVV→ETH,2,uniswap/uniswap,0.2004,1.0,-0.0605,0,0
+2026-06-20T19:06:37.057560+00:00,base,ETH→VVV→ETH,2,uniswap/uniswap,0.2004,1.0,-0.0605,0,0
+2026-06-20T19:08:18.078536+00:00,base,ETH→VVV→ETH,2,uniswap/uniswap,0.2004,1.0,-0.0605,0,0
+2026-06-20T19:09:58.516918+00:00,base,ETH→VVV→ETH,2,uniswap/uniswap,0.2004,1.0,-0.0605,0,0
+2026-06-20T19:11:39.190668+00:00,base,ETH→VVV→ETH,2,uniswap/uniswap,0.2004,1.0,-0.0605,0,0
