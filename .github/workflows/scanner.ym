@@ -1,0 +1,42 @@
+name: arb-scanner
+on:
+  schedule:
+    - cron: "*/15 * * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: scanner
+  cancel-in-progress: false
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 14
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - run: pip install requests
+
+      # бёрст: 8 снимков * 90с = ~10.5 мин дискретного сканирования
+      - name: run scanner
+        env:
+          ARB_STATE_DIR: ${{ github.workspace }}/state
+        run: |
+          mkdir -p state
+          python sui_arb_scanner_0.5.py --burst 8 --interval 90 || true
+
+      - name: commit logs
+        run: |
+          git config user.name  "arb-bot"
+          git config user.email "arb-bot@users.noreply.github.com"
+          git add state/ || true
+          git commit -m "logs $(date -u +%FT%TZ)" || echo "nothing to commit"
+          git pull --rebase --autostash || true
+          git push || true
