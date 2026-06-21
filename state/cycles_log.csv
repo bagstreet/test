@@ -1952,3 +1952,33 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-06-21T20:30:44.959482+00:00,solana,RNLD→PENGU→JITOSOL→JUP→RNLD,4,meteora/orca/meteora/meteora,0.9906,1.0,-0.0303,0,0
 2026-06-21T20:33:59.725420+00:00,solana,PENGU→JITOSOL→JUP→RNLD→PENGU,4,orca/meteora/meteora/meteora,0.9906,1.0,-0.617,0,0
 2026-06-21T20:35:36.806437+00:00,solana,PENGU→JITOSOL→JUP→RNLD→PENGU,4,orca/meteora/meteora/meteora,1.3025,1.0,-0.6166,0,0
+2026-06-21T20:47:14.155174+00:00,solana,JUP→TRUMPBUCKS→MET→JUP,3,meteora/meteora/meteora,5.8233,1.0,-0.4179,0,0
+2026-06-21T20:47:14.155174+00:00,base,FBOMB→BMX→USDC→FBOMB,3,aerodrome/uniswap/quickswap,26.3542,2.0,0.3883,0,0
+2026-06-21T20:47:14.155174+00:00,aptos,USDT→APT→USDT,2,liquidswap/liquidswap,154.8593,27.52,16.393,0,0
+2026-06-21T20:48:54.662696+00:00,solana,MET→JUP→TRUMPBUCKS→MET,3,meteora/meteora/meteora,5.8233,1.0,-0.3742,0,0
+2026-06-21T20:48:54.662696+00:00,base,FBOMB→BMX→USDC→FBOMB,3,aerodrome/uniswap/quickswap,26.3542,2.0,0.3883,0,0
+2026-06-21T20:48:54.662696+00:00,aptos,USDT→APT→USDT,2,liquidswap/pancakeswap,154.8329,2.34,1.3763,0,0
+2026-06-21T20:50:36.688721+00:00,sui,HAWAL→USDC→HAWAL,2,flowx/cetus,153.2979,1.0,-0.6606,0,0
+2026-06-21T20:50:36.688721+00:00,solana,BUTTCOIN→FARTCOIN →USDC→ZERO→TRIPLET→BUTTCOIN,5,meteora/raydium/pumpswap/orca/meteora,220.6073,6.09,10.1114,0,0
+2026-06-21T20:50:36.688721+00:00,base,FBOMB→BMX→USDC→FBOMB,3,aerodrome/uniswap/quickswap,26.3542,2.0,0.3883,0,0
+2026-06-21T20:50:36.688721+00:00,aptos,USDT→APT→USDT,2,liquidswap/pancakeswap,154.8329,2.34,1.3763,0,0
+2026-06-21T20:52:17.820552+00:00,sui,HAWAL→USDC→HAWAL,2,flowx/cetus,153.2979,1.0,-0.6606,0,0
+2026-06-21T20:52:17.820552+00:00,solana,BUTTCOIN→FARTCOIN →USDC→ZERO→TRIPLET→BUTTCOIN,5,meteora/raydium/pumpswap/orca/meteora,217.3699,6.09,9.9526,0,0
+2026-06-21T20:52:17.820552+00:00,base,FBOMB→BMX→USDC→FBOMB,3,aerodrome/uniswap/quickswap,26.3542,2.0,0.3883,0,0
+2026-06-21T20:52:17.820552+00:00,aptos,USDT→APT→USDT,2,liquidswap/pancakeswap,154.8329,2.34,1.3763,0,0
+2026-06-21T20:53:58.620916+00:00,sui,HAWAL→USDC→HAWAL,2,flowx/cetus,153.2979,1.0,-0.6606,0,0
+2026-06-21T20:53:58.620916+00:00,solana,BUTTCOIN→FARTCOIN →USDC→ZERO→TRIPLET→BUTTCOIN,5,meteora/raydium/pumpswap/orca/meteora,217.3699,6.09,9.9526,0,0
+2026-06-21T20:53:58.620916+00:00,base,FBOMB→BMX→USDC→FBOMB,3,aerodrome/uniswap/quickswap,26.3542,2.0,0.3883,0,0
+2026-06-21T20:53:58.620916+00:00,aptos,USDT→APT→USDT,2,liquidswap/pancakeswap,154.8329,2.34,1.3763,0,0
+2026-06-21T20:55:40.075272+00:00,sui,HAWAL→USDC→HAWAL,2,flowx/cetus,153.2979,1.0,-0.6606,0,0
+2026-06-21T20:55:40.075272+00:00,solana,BUTTCOIN→FARTCOIN →USDC→ZERO→TRIPLET→BUTTCOIN,5,meteora/raydium/pumpswap/orca/meteora,220.257,6.09,10.0931,0,0
+2026-06-21T20:55:40.075272+00:00,base,USDC→FBOMB→BMX→USDC,3,quickswap/aerodrome/uniswap,26.3542,1.0,-0.5375,0,0
+2026-06-21T20:55:40.075272+00:00,aptos,USDT→APT→USDT,2,liquidswap/pancakeswap,154.8329,2.34,1.3763,0,0
+2026-06-21T20:57:21.284897+00:00,sui,HAWAL→USDC→HAWAL,2,flowx/cetus,153.2979,1.0,-0.6606,0,0
+2026-06-21T20:57:21.284897+00:00,solana,BUTTCOIN→FARTCOIN →USDC→ZERO→TRIPLET→BUTTCOIN,5,meteora/raydium/pumpswap/orca/meteora,217.7435,6.09,9.9708,0,0
+2026-06-21T20:57:21.284897+00:00,base,FBOMB→BMX→USDC→FBOMB,3,aerodrome/uniswap/quickswap,26.3542,2.0,0.3883,0,0
+2026-06-21T20:57:21.284897+00:00,aptos,USDT→APT→USDT,2,liquidswap/pancakeswap,154.8329,2.34,1.3763,0,0
+2026-06-21T20:59:02.107999+00:00,sui,HAWAL→USDC→HAWAL,2,flowx/cetus,153.2979,1.0,-0.6606,0,0
+2026-06-21T20:59:02.107999+00:00,solana,TRIPLET→BUTTCOIN→FARTCOIN →USDC→ZERO→TRIPLET,5,meteora/meteora/raydium/pumpswap/orca,216.9972,6.09,12.0293,0,0
+2026-06-21T20:59:02.107999+00:00,base,FBOMB→BMX→USDC→FBOMB,3,aerodrome/uniswap/quickswap,26.3542,2.0,0.3883,0,0
+2026-06-21T20:59:02.107999+00:00,aptos,USDT→APT→USDT,2,liquidswap/pancakeswap,154.8329,2.34,1.3763,0,0
