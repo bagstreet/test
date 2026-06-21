@@ -1949,3 +1949,6 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-06-21T20:12:23.621181+00:00,solana,USDC→ZERO→TRIPLET→USDC,3,pumpswap/orca/meteora,40.2392,1.0,0.1478,0,0
 2026-06-21T20:12:23.621181+00:00,base,BMX→TYBG→FBOMB→BMX,3,aerodrome/aerodrome/aerodrome,17.5238,1.0,-0.9178,0,0
 2026-06-21T20:12:23.621181+00:00,aptos,USDC→WBTC→USDC,2,aux/thala,2.5887,1.2,-0.0045,0,0
+2026-06-21T20:30:44.959482+00:00,solana,RNLD→PENGU→JITOSOL→JUP→RNLD,4,meteora/orca/meteora/meteora,0.9906,1.0,-0.0303,0,0
+2026-06-21T20:33:59.725420+00:00,solana,PENGU→JITOSOL→JUP→RNLD→PENGU,4,orca/meteora/meteora/meteora,0.9906,1.0,-0.617,0,0
+2026-06-21T20:35:36.806437+00:00,solana,PENGU→JITOSOL→JUP→RNLD→PENGU,4,orca/meteora/meteora/meteora,1.3025,1.0,-0.6166,0,0
