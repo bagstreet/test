@@ -419,3 +419,5 @@ t0,chain,token,entry_spread_pct,lo_dex,hi_dex,min_tvl,whale,n_samples,n_pos_afte
 2026-06-21T18:38:48.680017+00:00,sui,USDC,0.3358,turbos-finance,cetus,262666,0,14,0,-0.8494,0
 2026-06-21T18:40:24.129441+00:00,solana,SOL,0.6236,raydium,raydium,572947,1,14,0,-0.1066,0
 2026-06-21T18:40:24.129441+00:00,solana,TRIPLET,0.6186,pumpswap,meteora,340034,1,14,3,0.1171,1
+2026-06-21T18:46:48.463922+00:00,base,VIRTUAL,0.551,uniswap,aerodrome,892610,1,13,0,-0.4153,0
+2026-06-21T18:50:00.864157+00:00,base,WETH,0.327,uniswap,0x03C01Acae3D0173a93d819efDc832C7C4F153B06,387579,1,13,0,-0.7502,0
