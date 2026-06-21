@@ -140,3 +140,7 @@ t0,chain,token,entry_spread_pct,lo_dex,hi_dex,min_tvl,whale,n_samples,n_pos_afte
 2026-06-21T03:04:08.421008+00:00,sui,SUI,0.3106,steamm,momentum,355252,0,12,0,-1.2881,0
 2026-06-21T02:55:03.275600+00:00,solana,JUP,0.5955,meteora,meteora,411974,1,17,0,-0.4164,0
 2026-06-21T02:56:37.723550+00:00,solana,HYPE,0.8484,orca,meteora,343566,1,17,0,-0.2789,0
+2026-06-21T03:24:12.686594+00:00,sui,USDC,0.3157,turbos-finance,cetus,641872,0,4,0,-0.8989,0
+2026-06-21T03:25:54.824155+00:00,solana,TRUMP,0.5556,meteora,meteora,3856600,0,3,0,-0.0487,0
+2026-06-21T03:04:08.421008+00:00,base,CBETH,0.3136,aerodrome,alien-base,255804,0,18,0,-0.9152,0
+2026-06-21T03:10:27.910784+00:00,solana,MET,1.8462,meteora,meteora,251506,1,18,2,0.0053,1
