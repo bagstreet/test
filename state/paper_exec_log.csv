@@ -132,3 +132,5 @@ t0,chain,token,entry_spread_pct,lo_dex,hi_dex,min_tvl,whale,n_samples,n_pos_afte
 2026-06-21T02:17:13.454033+00:00,sui,CETUS,0.5423,cetus,cetus,445711,0,18,0,-0.8561,0
 2026-06-21T02:18:51.582947+00:00,base,ETH,1.4723,uniswap,uniswap,711968,0,18,2,0.409,1
 2026-06-21T02:35:50.240190+00:00,solana,UMBRA,0.8402,meteora,metadao,507075,0,12,0,-1.1397,0
+2026-06-21T02:30:51.158947+00:00,solana,MET,0.6683,meteora,meteora,667370,1,17,0,-0.0045,0
+2026-06-21T02:40:49.842943+00:00,base,WETH,0.4298,uniswap,uniswap,725755,1,18,0,-0.6229,0
