@@ -1982,3 +1982,12 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-06-21T20:59:02.107999+00:00,solana,TRIPLET→BUTTCOIN→FARTCOIN →USDC→ZERO→TRIPLET,5,meteora/meteora/raydium/pumpswap/orca,216.9972,6.09,12.0293,0,0
 2026-06-21T20:59:02.107999+00:00,base,FBOMB→BMX→USDC→FBOMB,3,aerodrome/uniswap/quickswap,26.3542,2.0,0.3883,0,0
 2026-06-21T20:59:02.107999+00:00,aptos,USDT→APT→USDT,2,liquidswap/pancakeswap,154.8329,2.34,1.3763,0,0
+2026-06-21T21:00:57.257155+00:00,solana,BUTTCOIN→TROLL→ASTY→BUTTCOIN,3,meteora/meteora/meteora,3.7524,1.03,0.0091,0,0
+2026-06-21T21:02:32.286002+00:00,solana,BUTTCOIN→TROLL→ASTY→BUTTCOIN,3,meteora/meteora/meteora,3.7524,1.03,0.0091,0,0
+2026-06-21T21:04:07.091221+00:00,solana,BUTTCOIN→TROLL→ASTY→BUTTCOIN,3,meteora/meteora/meteora,3.7524,1.03,0.0091,0,0
+2026-06-21T21:05:41.730519+00:00,solana,TROLL→ASTY→BUTTCOIN→TROLL,3,meteora/meteora/meteora,3.7524,1.0,-0.0407,0,0
+2026-06-21T21:07:16.597983+00:00,solana,BUTTCOIN→TROLL→ASTY→BUTTCOIN,3,meteora/meteora/meteora,3.7524,1.03,0.0091,0,0
+2026-06-21T21:08:51.576748+00:00,solana,BUTTCOIN→TROLL→ASTY→BUTTCOIN,3,meteora/meteora/meteora,3.7524,1.03,0.0091,0,0
+2026-06-21T21:10:27.366551+00:00,solana,BUTTCOIN→TROLL→ASTY→BUTTCOIN,3,meteora/meteora/meteora,3.7524,1.03,0.0091,0,0
+2026-06-21T21:12:02.385860+00:00,sui,HAWAL→USDC→HAWAL,2,flowx/cetus,153.2979,1.0,-0.6606,0,0
+2026-06-21T21:12:02.385860+00:00,solana,BUTTCOIN→TROLL→ASTY→BUTTCOIN,3,meteora/meteora/meteora,3.7524,1.03,0.0091,0,0
