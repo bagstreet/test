@@ -207,3 +207,11 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-06-21T00:07:45.397140+00:00,solana,JUP→USDC→JUP,2,meteora/orca,0.8336,27.34,0.1037,0,0
 2026-06-21T00:09:26.902793+00:00,sui,USDC→VSUI→USDC,2,momentum/cetus,0.5805,1.0,-0.0484,0,0
 2026-06-21T00:09:26.902793+00:00,solana,JUP→USDC→JUP,2,meteora/orca,0.8336,27.34,0.1037,0,0
+2026-06-21T00:49:21.013988+00:00,sui,FUD→SUI→FUD,2,turbos-finance/bluefin,6.9912,457.69,15.7088,0,0
+2026-06-21T00:50:55.808340+00:00,sui,FUD→SUI→FUD,2,turbos-finance/bluefin,6.9912,457.69,15.7088,0,0
+2026-06-21T00:52:30.363063+00:00,sui,FUD→SUI→FUD,2,turbos-finance/bluefin,6.9912,457.69,15.7088,0,0
+2026-06-21T00:54:05.114839+00:00,sui,FUD→SUI→FUD,2,turbos-finance/bluefin,6.9912,457.69,15.7088,0,0
+2026-06-21T00:55:39.788559+00:00,sui,FUD→SUI→FUD,2,turbos-finance/bluefin,6.9912,457.69,15.7088,0,0
+2026-06-21T00:57:14.494189+00:00,sui,FUD→SUI→FUD,2,turbos-finance/bluefin,6.9912,457.69,15.7088,0,0
+2026-06-21T00:58:49.243132+00:00,sui,FUD→SUI→FUD,2,turbos-finance/bluefin,6.9912,457.69,15.7088,0,0
+2026-06-21T01:00:23.833065+00:00,sui,FUD→SUI→FUD,2,turbos-finance/bluefin,6.9912,457.69,15.7088,0,0
