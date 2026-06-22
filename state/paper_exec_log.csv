@@ -863,3 +863,6 @@ t0,chain,token,entry_spread_pct,lo_dex,hi_dex,min_tvl,whale,n_samples,n_pos_afte
 2026-06-22T14:40:09.597568+00:00,sui,WAL,0.301,bluefin,bluefin,338288,0,2,0,-1.6795,0
 2026-06-22T14:11:35.181162+00:00,solana,USDE,12.0933,meteora,orca,2390095,1,17,16,11.4255,1
 2026-06-22T14:13:18.667717+00:00,base,MAMO,0.9947,aerodrome,aerodrome,354498,0,17,0,-0.4102,0
+2026-06-22T14:40:09.597568+00:00,sui,SUI,0.622,momentum,steamm,345322,0,6,0,-1.3721,0
+2026-06-22T14:19:25.473335+00:00,solana,JUP,0.9896,meteora,meteora,671513,1,17,4,0.0335,1
+2026-06-22T14:51:15.363925+00:00,sui,SUI,0.5797,steamm,momentum,344483,0,4,0,-1.0548,0
