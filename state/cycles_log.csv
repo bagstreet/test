@@ -4142,3 +4142,15 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-06-22T22:58:29.027964+00:00,sui,FOMO→VSUI→FOMO,2,cetus/cetus,-0.4994,1.0,-0.0884,0,0
 2026-06-22T22:58:29.027964+00:00,solana,USELESS→TROLL→USELESS,2,meteora/meteora,1.8779,1.0,-0.0553,0,0
 2026-06-22T22:58:29.027964+00:00,base,VVV→WETH→ZORA→VVV,3,9mm/pancakeswap/uniswap,8.6713,1.0,-0.9717,0,0
+2026-06-22T23:00:59.338863+00:00,sui,FOMO→VSUI→FOMO,2,cetus/cetus,-0.4994,1.0,-0.0884,0,0
+2026-06-22T23:00:59.338863+00:00,solana,USDC→USDT→USDC,2,raydium/raydium,104.4814,1.0,0.1995,0,0
+2026-06-22T23:02:38.222146+00:00,solana,USDC→USDT→USDC,2,raydium/raydium,104.4814,1.0,0.1995,0,0
+2026-06-22T23:04:18.108547+00:00,solana,USDC→USDT→USDC,2,raydium/raydium,104.4814,1.0,0.1995,0,0
+2026-06-22T23:05:56.274603+00:00,solana,USDT→USDC→USDT,2,raydium/raydium,104.4814,1.0,0.1984,0,0
+2026-06-22T23:07:34.714626+00:00,solana,USDT→USDC→USDT,2,raydium/raydium,104.4814,1.0,0.1984,0,0
+2026-06-22T23:07:34.714626+00:00,base,USDC→VVV→USDT→COREX→USDC,4,aerodrome/uniswap/uniswap/uniswap,143.5153,1.0,-0.9155,0,0
+2026-06-22T23:09:12.834334+00:00,solana,USDT→USDC→USDT,2,raydium/raydium,104.4814,1.0,0.1984,0,0
+2026-06-22T23:10:51.050936+00:00,solana,USDC→USDT→USDC,2,raydium/raydium,104.4814,1.0,0.1995,0,0
+2026-06-22T23:10:51.050936+00:00,base,USDT→COREX→USDC→VVV→CBBTC→USDT,5,uniswap/uniswap/aerodrome/hydrex/uniswap,157.4002,1.0,-0.9734,0,0
+2026-06-22T23:12:29.437354+00:00,solana,USDT→USDC→USDT,2,raydium/raydium,104.4814,1.0,0.1984,0,0
+2026-06-22T23:12:29.437354+00:00,base,USDT→COREX→USDC→VVV→CBBTC→USDT,5,uniswap/uniswap/aerodrome/hydrex/uniswap,157.4002,1.0,-0.9734,0,0
