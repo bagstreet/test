@@ -4154,3 +4154,17 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-06-22T23:10:51.050936+00:00,base,USDT→COREX→USDC→VVV→CBBTC→USDT,5,uniswap/uniswap/aerodrome/hydrex/uniswap,157.4002,1.0,-0.9734,0,0
 2026-06-22T23:12:29.437354+00:00,solana,USDT→USDC→USDT,2,raydium/raydium,104.4814,1.0,0.1984,0,0
 2026-06-22T23:12:29.437354+00:00,base,USDT→COREX→USDC→VVV→CBBTC→USDT,5,uniswap/uniswap/aerodrome/hydrex/uniswap,157.4002,1.0,-0.9734,0,0
+2026-06-22T23:26:09.487687+00:00,solana,HOUSE→SOL→UNC→CHURNHOUSE→HOUSE,4,raydium/meteora/meteora/meteora,193.4408,1.0,-0.7485,0,0
+2026-06-22T23:26:09.487687+00:00,aptos,APT→USDT→APT,2,liquidswap/liquidswap,157.8689,8.77,5.2931,0,0
+2026-06-22T23:27:48.683528+00:00,solana,HOUSE→SOL→UNC→CHURNHOUSE→HOUSE,4,raydium/meteora/meteora/meteora,193.4408,1.0,-0.7485,0,0
+2026-06-22T23:27:48.683528+00:00,aptos,APT→USDT→APT,2,liquidswap/liquidswap,157.8689,8.77,5.2931,0,0
+2026-06-22T23:29:27.854366+00:00,solana,HOUSE→SOL→UNC→CHURNHOUSE→HOUSE,4,raydium/meteora/meteora/meteora,193.4408,1.0,-0.7485,0,0
+2026-06-22T23:29:27.854366+00:00,aptos,APT→USDT→APT,2,liquidswap/liquidswap,157.8689,8.77,5.2931,0,0
+2026-06-22T23:31:07.025652+00:00,solana,HOUSE→SOL→UNC→CHURNHOUSE→HOUSE,4,raydium/meteora/meteora/meteora,193.4408,1.0,-0.7485,0,0
+2026-06-22T23:31:07.025652+00:00,aptos,APT→USDT→APT,2,liquidswap/liquidswap,157.8689,8.77,5.2931,0,0
+2026-06-22T23:32:46.483373+00:00,solana,HOUSE→SOL→UNC→CHURNHOUSE→HOUSE,4,raydium/meteora/meteora/meteora,197.6088,1.0,-0.7481,0,0
+2026-06-22T23:32:46.483373+00:00,aptos,APT→USDT→APT,2,liquidswap/liquidswap,157.8689,8.77,5.2931,0,0
+2026-06-22T23:34:25.980313+00:00,aptos,APT→USDT→APT,2,liquidswap/liquidswap,157.8689,8.77,5.2931,0,0
+2026-06-22T23:36:05.204560+00:00,aptos,APT→USDT→APT,2,liquidswap/liquidswap,157.8689,8.77,5.2931,0,0
+2026-06-22T23:37:44.528798+00:00,solana,UNC→CHURNHOUSE→HOUSE→SOL→UNC,4,meteora/meteora/raydium/meteora,197.6088,1.0,-0.6312,0,0
+2026-06-22T23:37:44.528798+00:00,aptos,APT→USDT→APT,2,liquidswap/liquidswap,157.8689,8.77,5.2931,0,0
