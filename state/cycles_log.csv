@@ -2743,3 +2743,17 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-06-22T06:02:08.265729+00:00,sui,SUI→USDSUI→SUI,2,turbos-finance/bluefin,33.8938,1.0,-0.1158,0,0
 2026-06-22T06:02:08.265729+00:00,solana,POPCAT→$WIF→POPCAT,2,meteora/orca,0.8901,1.0,-0.0086,0,0
 2026-06-22T06:02:08.265729+00:00,base,VVV→WETH→VIRTUAL→VVV,3,0xB0C2D8A877A5B48607d9C89B6Ad761F36Bc79C88/aerodrome/uniswap,2.8934,1.0,-0.065,0,0
+2026-06-22T06:15:41.570766+00:00,sui,FOMO→VSUI→FOMO,2,cetus/cetus,-0.4994,1.0,-0.0913,0,0
+2026-06-22T06:15:41.570766+00:00,solana,PENGU→SOL→COAL→USDT→PENGU,4,raydium/meteora/meteora/raydium,7.9076,1.0,0.011,0,0
+2026-06-22T06:15:41.570766+00:00,base,NOCK→ETH→ZORA→NOCK,3,uniswap/uniswap/uniswap,189.335,1.0,-0.955,0,0
+2026-06-22T06:17:19.641644+00:00,sui,FOMO→VSUI→FOMO,2,cetus/cetus,-0.4994,1.0,-0.0913,0,0
+2026-06-22T06:17:19.641644+00:00,base,NOCK→ETH→ZORA→NOCK,3,uniswap/uniswap/uniswap,189.335,1.0,-0.955,0,0
+2026-06-22T06:18:57.558657+00:00,sui,FOMO→VSUI→FOMO,2,cetus/cetus,-0.4994,1.0,-0.0913,0,0
+2026-06-22T06:18:57.558657+00:00,base,NOCK→ETH→ZORA→NOCK,3,uniswap/uniswap/uniswap,189.335,1.0,-0.955,0,0
+2026-06-22T06:20:35.572587+00:00,base,NOCK→ETH→ZORA→NOCK,3,uniswap/uniswap/uniswap,189.8229,1.0,-0.955,0,0
+2026-06-22T06:22:13.514314+00:00,solana,COAL→USDT→PENGU→SOL→COAL,4,meteora/raydium/raydium/meteora,7.9076,1.0,-0.0682,0,0
+2026-06-22T06:22:13.514314+00:00,base,NOCK→ETH→ZORA→NOCK,3,uniswap/uniswap/uniswap,189.8229,1.0,-0.955,0,0
+2026-06-22T06:23:51.387924+00:00,base,NOCK→ETH→ZORA→NOCK,3,uniswap/uniswap/uniswap,190.1889,1.0,-0.955,0,0
+2026-06-22T06:25:29.213910+00:00,solana,COAL→USDT→PENGU→SOL→COAL,4,meteora/raydium/raydium/meteora,7.9237,1.0,-0.0681,0,0
+2026-06-22T06:25:29.213910+00:00,base,NOCK→ETH→ZORA→NOCK,3,uniswap/uniswap/uniswap,190.685,1.0,-0.955,0,0
+2026-06-22T06:27:07.176371+00:00,base,NOCK→ETH→ZORA→NOCK,3,uniswap/uniswap/uniswap,190.807,1.0,-0.955,0,0
