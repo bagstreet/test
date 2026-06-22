@@ -2203,3 +2203,19 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-06-21T23:45:13.138209+00:00,solana,NOBODY→CIRCUIT→BUTTCOIN→FARTCOIN →SOL→NOBODY,5,meteora/meteora/meteora/raydium/meteora,150.4126,1.23,0.7087,0,0
 2026-06-21T23:45:13.138209+00:00,base,VIRTUAL→BNKR→WBLT→USDC→VIRTUAL,4,aerodrome/aerodrome/uniswap/pancakeswap,11.6977,1.0,-0.3453,0,0
 2026-06-21T23:45:13.138209+00:00,aptos,USDC→USDA→USDC,2,liquidswap/aux,180.9484,15.04,10.1518,0,0
+2026-06-22T00:01:02.148855+00:00,solana,JUP→MET→JUP,2,meteora/meteora,11.9409,325.72,18.8886,0,0
+2026-06-22T00:01:02.148855+00:00,aptos,APT→USDT→APT,2,pancakeswap/liquidswap,160.9004,8.24,5.0468,0,0
+2026-06-22T00:02:43.349338+00:00,solana,JUP→MET→JUP,2,meteora/meteora,11.9409,325.71,18.8881,0,0
+2026-06-22T00:02:43.349338+00:00,aptos,APT→USDT→APT,2,pancakeswap/liquidswap,160.9004,8.24,5.0468,0,0
+2026-06-22T00:04:24.006489+00:00,aptos,APT→USDT→APT,2,pancakeswap/liquidswap,160.9004,8.24,5.0468,0,0
+2026-06-22T00:06:04.520651+00:00,solana,MET→JUP→MET,2,meteora/meteora,9.7929,336.67,16.09,0,0
+2026-06-22T00:06:04.520651+00:00,aptos,APT→USDT→APT,2,pancakeswap/liquidswap,160.9004,8.24,5.0468,0,0
+2026-06-22T00:07:44.744803+00:00,solana,MET→JUP→MET,2,meteora/meteora,9.7929,336.67,16.09,0,0
+2026-06-22T00:07:44.744803+00:00,aptos,APT→USDT→APT,2,pancakeswap/liquidswap,160.9004,8.24,5.0468,0,0
+2026-06-22T00:09:25.630660+00:00,solana,JUP→MET→JUP,2,meteora/meteora,9.7929,271.7,12.9829,0,0
+2026-06-22T00:09:25.630660+00:00,aptos,APT→USDT→APT,2,pancakeswap/liquidswap,160.9004,8.24,5.0468,0,0
+2026-06-22T00:11:06.776482+00:00,solana,MET→JUP→MET,2,meteora/meteora,9.0854,249.66,11.0846,0,0
+2026-06-22T00:11:06.776482+00:00,aptos,APT→USDT→APT,2,pancakeswap/liquidswap,160.9004,8.24,5.0468,0,0
+2026-06-22T00:12:46.589356+00:00,solana,JUP→MET→JUP,2,meteora/meteora,9.734,269.74,12.8132,0,0
+2026-06-22T00:12:46.589356+00:00,base,AERO→USDBC→AERO,2,aerodrome/aerodrome,0.7653,5.29,-0.0098,0,0
+2026-06-22T00:12:46.589356+00:00,aptos,APT→USDT→APT,2,pancakeswap/liquidswap,160.9004,8.24,5.0468,0,0
