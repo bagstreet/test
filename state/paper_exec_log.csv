@@ -917,3 +917,10 @@ t0,chain,token,entry_spread_pct,lo_dex,hi_dex,min_tvl,whale,n_samples,n_pos_afte
 2026-06-22T16:30:52.547801+00:00,solana,JUP,0.3411,meteora,meteora,659958,1,13,0,-0.7655,0
 2026-06-22T16:36:07.332342+00:00,solana,GIGA,1.9016,raydium,meteora,270035,1,11,0,-0.3833,0
 2026-06-22T16:55:29.262615+00:00,sui,SUI,0.5992,steamm,momentum,342837,0,12,0,-1.0406,0
+2026-06-22T16:58:54.417727+00:00,solana,SOL,0.4469,meteora,meteora,656311,1,12,4,0.4488,1
+2026-06-22T16:58:54.417727+00:00,base,VVV,0.7802,aerodrome,uniswap,577581,1,12,0,-0.4124,0
+2026-06-22T16:58:54.417727+00:00,base,CBBTC,0.7591,uniswap,aerodrome,437203,1,12,0,-0.091,0
+2026-06-22T16:58:54.417727+00:00,base,WETH,0.7073,aerodrome,uniswap,731942,1,12,0,-0.0778,0
+2026-06-22T17:00:36.934862+00:00,base,VIRTUAL,0.4541,uniswap,aerodrome,1143555,1,11,3,0.128,1
+2026-06-22T17:02:20.087505+00:00,base,AERO,0.5559,aerodrome,aerodrome,645036,1,11,0,-0.3881,0
+2026-06-22T17:22:19.604131+00:00,base,SOL,0.3557,aerodrome,aerodrome,252701,1,10,0,-1.651,0
