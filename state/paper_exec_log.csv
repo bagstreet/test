@@ -609,3 +609,6 @@ t0,chain,token,entry_spread_pct,lo_dex,hi_dex,min_tvl,whale,n_samples,n_pos_afte
 2026-06-22T04:20:53.514631+00:00,solana,JUP,1.6917,meteora,meteora,411788,1,18,0,-0.23,0
 2026-06-22T04:20:53.514631+00:00,solana,SOL,0.8188,orca,raydium,570412,1,18,1,0.0063,0
 2026-06-22T04:42:08.902198+00:00,sui,CETUS,3.9148,cetus,cetus,432473,1,9,0,-0.8539,0
+2026-06-22T05:02:38.753365+00:00,sui,WAL,0.4224,bluefin,bluefin,330670,0,2,0,-1.7042,0
+2026-06-22T04:38:55.634401+00:00,base,WETH,0.5224,quickswap,uniswap,386029,1,17,0,-0.5129,0
+2026-06-22T05:09:06.796367+00:00,solana,USDG,0.9198,orca,orca,3454901,0,2,0,-0.5682,0
