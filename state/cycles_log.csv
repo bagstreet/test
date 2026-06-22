@@ -4104,3 +4104,17 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-06-22T22:06:38.223713+00:00,sui,KW→TURBOS→KW,2,turbos-finance/turbos-finance,63.3654,1.62,0.4307,0,0
 2026-06-22T22:06:38.223713+00:00,sui,FOMO→VSUI→FOMO,2,cetus/cetus,-0.4994,1.0,-0.0884,0,0
 2026-06-22T22:06:38.223713+00:00,base,BMX→USDC→BMX,2,uniswap/aerodrome,2.4489,1.0,-0.0424,0,0
+2026-06-22T22:19:36.204406+00:00,aptos,USDC→APT→USDC,2,liquidswap/liquidswap,159.8179,3.17,1.9203,0,0
+2026-06-22T22:21:11.362147+00:00,aptos,USDC→APT→USDC,2,liquidswap/liquidswap,159.8179,3.17,1.9203,0,0
+2026-06-22T22:22:47.050610+00:00,solana,PEPE→MELANIA→SOL→UNC→PEPE,4,meteora/raydium/meteora/meteora,137.5998,1.0,0.3223,0,0
+2026-06-22T22:22:47.050610+00:00,aptos,USDC→APT→USDC,2,liquidswap/liquidswap,159.8179,3.17,1.9203,0,0
+2026-06-22T22:24:22.802056+00:00,solana,PEPE→MELANIA→SOL→UNC→PEPE,4,meteora/raydium/meteora/meteora,137.5998,1.0,0.3223,0,0
+2026-06-22T22:24:22.802056+00:00,aptos,USDC→APT→USDC,2,liquidswap/liquidswap,159.8179,3.17,1.9203,0,0
+2026-06-22T22:25:58.598565+00:00,aptos,USDC→APT→USDC,2,liquidswap/liquidswap,159.8179,3.17,1.9203,0,0
+2026-06-22T22:27:34.349022+00:00,solana,PEPE→UNC→PEPE,2,meteora/meteora,1.0155,1.0,-0.0372,0,0
+2026-06-22T22:27:34.349022+00:00,aptos,USDC→APT→USDC,2,liquidswap/liquidswap,159.8179,3.17,1.9203,0,0
+2026-06-22T22:29:10.172160+00:00,solana,HOUSE→SOL→UNC→PEPE→HOUSE,4,raydium/meteora/meteora/meteora,207.3825,1.0,-0.4111,0,0
+2026-06-22T22:29:10.172160+00:00,aptos,USDC→APT→USDC,2,liquidswap/liquidswap,161.0287,4.22,2.5753,0,0
+2026-06-22T22:30:45.918830+00:00,sui,RESCUE→WBTC→RESCUE,2,flowx/flowx,0.1148,1.0,-0.0208,0,0
+2026-06-22T22:30:45.918830+00:00,solana,UNC→CHURNHOUSE→HOUSE→SOL→UNC,4,meteora/meteora/raydium/meteora,200.9907,1.0,-0.6307,0,0
+2026-06-22T22:30:45.918830+00:00,aptos,USDC→APT→USDC,2,liquidswap/liquidswap,161.0287,4.22,2.5753,0,0
