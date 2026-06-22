@@ -600,3 +600,4 @@ t0,chain,token,entry_spread_pct,lo_dex,hi_dex,min_tvl,whale,n_samples,n_pos_afte
 2026-06-22T03:47:30.196562+00:00,solana,SOL,0.4627,raydium,meteora,656005,1,18,1,0.891,0
 2026-06-22T03:47:30.196562+00:00,base,AERO,1.8013,aerodrome,uniswap,353399,0,18,0,-0.4977,0
 2026-06-22T03:56:14.019555+00:00,solana,JUPSOL,1.1447,meteora,meteora,274058,1,18,0,-0.8154,0
+2026-06-22T04:05:57.337041+00:00,base,WETH,0.6282,0x03C01Acae3D0173a93d819efDc832C7C4F153B06,uniswap,387705,1,18,0,-0.5129,0
