@@ -555,3 +555,7 @@ t0,chain,token,entry_spread_pct,lo_dex,hi_dex,min_tvl,whale,n_samples,n_pos_afte
 2026-06-22T01:32:32.455711+00:00,base,CBBTC,1.5458,aerodrome,pancakeswap,701404,1,17,14,0.2018,1
 2026-06-22T01:34:13.300591+00:00,solana,SOL,0.5952,meteora,raydium,656590,1,18,0,-0.0849,0
 2026-06-22T01:40:55.713733+00:00,base,VIRTUAL,1.066,aerodrome,aerodrome,478508,1,18,3,0.6024,1
+2026-06-22T01:48:45.880795+00:00,sui,CETUS,0.7108,cetus,cetus,443851,0,15,0,-1.0197,0
+2026-06-22T01:45:36.823419+00:00,solana,TRIPLET,1.4152,meteora,pumpswap,332542,0,17,0,-0.1391,0
+2026-06-22T01:55:03.401128+00:00,base,WETH,0.4432,uniswap,uniswap,729722,1,17,0,-0.3461,0
+2026-06-22T02:22:16.745509+00:00,solana,BUTTCOIN,0.821,pumpswap,meteora,253219,0,4,0,-1.0933,0
