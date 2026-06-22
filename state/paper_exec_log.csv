@@ -885,3 +885,4 @@ t0,chain,token,entry_spread_pct,lo_dex,hi_dex,min_tvl,whale,n_samples,n_pos_afte
 2026-06-22T15:09:04.878651+00:00,base,WETH,0.4938,0x03C01Acae3D0173a93d819efDc832C7C4F153B06,uniswap,387878,1,17,0,-0.5238,0
 2026-06-22T15:12:16.462479+00:00,base,AERO,0.9281,aerodrome,aerodrome,538517,1,17,2,0.2278,1
 2026-06-22T15:12:16.462479+00:00,base,VIRTUAL,0.7681,uniswap,aerodrome,1152130,1,17,1,0.0707,0
+2026-06-22T15:50:38.798736+00:00,base,USDT,0.3307,aerodrome,aerodrome,345556,1,2,0,-1.6437,0
