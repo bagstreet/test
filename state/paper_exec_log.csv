@@ -1313,3 +1313,10 @@ t0,chain,token,entry_spread_pct,lo_dex,hi_dex,min_tvl,whale,n_samples,n_pos_afte
 2026-06-23T08:40:53.740047+00:00,base,AERO,0.825,aerodrome,aerodrome,587255,1,13,0,-0.1024,0
 2026-06-23T08:42:29.445619+00:00,sui,USDC,18.1299,turbos-finance,cetus,491536,1,13,5,16.9217,1
 2026-06-23T08:42:29.445619+00:00,sui,SUI,9.7736,steamm,momentum,334923,1,13,2,8.0783,1
+2026-06-23T08:45:40.497961+00:00,solana,JUP,0.5015,meteora,meteora,410157,1,14,0,-0.5764,0
+2026-06-23T08:48:51.737211+00:00,solana,SOL,2.1907,raydium,meteora,1102881,1,13,12,1.4061,1
+2026-06-23T08:48:51.737211+00:00,base,CBBTC,0.712,aerodrome,uniswap,666843,1,13,0,-0.393,0
+2026-06-23T08:48:51.737211+00:00,base,WETH,0.5008,quickswap,uniswap,364161,1,13,0,-0.5705,0
+2026-06-23T08:50:27.426893+00:00,solana,HYPE,0.328,meteora,orca,360539,1,13,0,-0.409,0
+2026-06-23T08:50:27.426893+00:00,base,VIRTUAL,0.5011,aerodrome,uniswap,754248,1,13,0,-0.1539,0
+2026-06-23T09:06:10.042180+00:00,solana,POPCAT,0.572,raydium,raydium,606977,0,14,0,-0.5709,0
