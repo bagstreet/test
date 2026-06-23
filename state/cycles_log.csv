@@ -5356,3 +5356,12 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-06-23T12:06:18.611237+00:00,solana,MELANIA→SOL→MELANIA,2,raydium/orca,80.6201,2.0,1.0928,0,0
 2026-06-23T12:06:18.611237+00:00,base,AERO→CBBTC→AERO,2,aerodrome/pancakeswap,0.0578,83.69,-0.0058,0,0
 2026-06-23T12:06:18.611237+00:00,aptos,WETH→USDC→WETH,2,liquidswap/liquidswap,199.6325,2.34,1.6884,0,0
+2026-06-23T12:19:56.265577+00:00,sui,FOMO→VSUI→FOMO,2,cetus/cetus,-0.4994,1.0,-0.0929,0,0
+2026-06-23T12:19:56.265577+00:00,base,USDC→DIEM→USDC,2,aerodrome/uniswap,10.0801,753.82,71.4854,0,0
+2026-06-23T12:21:35.094517+00:00,base,USDC→DIEM→USDC,2,aerodrome/uniswap,10.1006,753.82,71.638,0,0
+2026-06-23T12:23:14.461787+00:00,base,DIEM→USDC→DIEM,2,uniswap/aerodrome,10.1749,4.77,0.207,0,0
+2026-06-23T12:24:53.794403+00:00,solana,$WIF→USDC→$WIF,2,meteora/orca,14.7394,1.0,-0.9765,0,0
+2026-06-23T12:28:12.477885+00:00,sui,CETUS→WUSDC→VSUI→WAL→CETUS,4,cetus/flowx/turbos-finance/cetus,4.0921,2.47,0.03,0,0
+2026-06-23T12:29:50.873537+00:00,sui,CETUS→WUSDC→VSUI→WAL→CETUS,4,cetus/flowx/turbos-finance/cetus,4.0921,2.47,0.03,0,0
+2026-06-23T12:31:29.585287+00:00,sui,CETUS→WUSDC→VSUI→WAL→CETUS,4,cetus/flowx/turbos-finance/cetus,4.0921,2.47,0.03,0,0
+2026-06-23T12:31:29.585287+00:00,solana,POPCAT→FARTCOIN →POPCAT,2,meteora/meteora,4.685,1.0,-0.0583,0,0
