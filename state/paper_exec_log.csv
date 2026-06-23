@@ -1195,3 +1195,12 @@ t0,chain,token,entry_spread_pct,lo_dex,hi_dex,min_tvl,whale,n_samples,n_pos_afte
 2026-06-23T04:58:09.875950+00:00,base,WETH,0.8682,aerodrome,uniswap,265469,1,12,0,-0.0914,0
 2026-06-23T04:59:57.951835+00:00,base,VIRTUAL,0.8451,uniswap,aerodrome,773351,1,12,1,0.0449,0
 2026-06-23T05:30:17.239719+00:00,solana,WETH,0.6484,orca,raydium,311368,1,3,0,-1.2646,0
+2026-06-23T05:33:54.057373+00:00,sui,USDC,0.3302,turbos-finance,turbos-finance,264575,1,2,0,-1.9795,0
+2026-06-23T05:21:15.694561+00:00,sui,USDSUI,0.3805,bluefin,turbos-finance,294343,1,12,0,-0.916,0
+2026-06-23T05:21:15.694561+00:00,solana,HYPE,0.7253,meteora,orca,1145574,1,12,0,-0.1244,0
+2026-06-23T05:21:15.694561+00:00,solana,USELESS,0.6274,meteora,raydium,298277,0,12,0,-1.2142,0
+2026-06-23T05:21:15.694561+00:00,base,MAMO,1.3358,aerodrome,aerodrome,311852,1,12,0,-0.4356,0
+2026-06-23T05:21:15.694561+00:00,base,AERO,1.0252,aerodrome,uniswap,375109,1,12,1,0.1536,0
+2026-06-23T05:21:15.694561+00:00,base,CBETH,0.6859,aerodrome,alien-base,254207,0,12,0,-1.1482,0
+2026-06-23T05:23:04.365577+00:00,solana,JUP,4.6139,meteora,meteora,712145,1,12,1,3.5518,0
+2026-06-23T05:23:04.365577+00:00,base,BSDETH,0.4956,aerodrome,aerodrome,578539,0,12,0,-0.3179,0
