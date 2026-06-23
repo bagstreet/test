@@ -1305,3 +1305,11 @@ t0,chain,token,entry_spread_pct,lo_dex,hi_dex,min_tvl,whale,n_samples,n_pos_afte
 2026-06-23T08:18:59.455524+00:00,base,FBOMB,2.8205,aerodrome,aerodrome,1116599,0,14,13,1.9836,1
 2026-06-23T08:18:59.455524+00:00,base,BSDETH,1.4823,aerodrome,aerodrome,564065,1,14,4,0.7757,1
 2026-06-23T08:18:59.455524+00:00,base,MAMO,0.6667,aerodrome,aerodrome,310684,0,14,0,-0.6473,0
+2026-06-23T08:20:37.266688+00:00,base,BNKR,0.3587,aerodrome,uniswap,270061,1,14,0,-1.4266,0
+2026-06-23T08:25:30.881601+00:00,base,ETH,2.6676,uniswap,uniswap,263670,0,11,9,0.9118,1
+2026-06-23T08:25:30.881601+00:00,base,USDT,0.4309,aerodrome,aerodrome,334218,1,11,0,-1.5505,0
+2026-06-23T08:27:08.900053+00:00,base,CBETH,0.4068,aerodrome,pancakeswap,346468,1,10,0,-1.166,0
+2026-06-23T08:39:18.729904+00:00,base,BRETT,1.7997,aerodrome,uniswap,695207,0,13,12,0.799,1
+2026-06-23T08:40:53.740047+00:00,base,AERO,0.825,aerodrome,aerodrome,587255,1,13,0,-0.1024,0
+2026-06-23T08:42:29.445619+00:00,sui,USDC,18.1299,turbos-finance,cetus,491536,1,13,5,16.9217,1
+2026-06-23T08:42:29.445619+00:00,sui,SUI,9.7736,steamm,momentum,334923,1,13,2,8.0783,1
