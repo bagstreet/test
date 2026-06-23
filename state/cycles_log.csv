@@ -5202,3 +5202,43 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-06-23T10:42:43.203014+00:00,base,USDT→COREX→USDC→USDT,3,uniswap/uniswap/aerodrome,216.1596,1.05,0.7871,0,0
 2026-06-23T10:42:43.203014+00:00,base,USDC→ZORA→USDC,2,uniswap/uniswap,64.7861,1.0,0.1481,0,0
 2026-06-23T10:42:43.203014+00:00,aptos,WETH→USDC→WETH,2,liquidswap/liquidswap,199.6325,2.34,1.6884,0,0
+2026-06-23T10:45:41.071615+00:00,sui,HIPPO→SUI→HIPPO,2,turbos-finance/momentum,1.5457,11.2,0.0662,0,0
+2026-06-23T10:45:41.071615+00:00,sui,TURBOS→KW→TURBOS,2,turbos-finance/turbos-finance,63.3654,1.0,-0.9111,0,0
+2026-06-23T10:45:41.071615+00:00,solana,POPCAT→FARTCOIN →POPCAT,2,orca/orca,4.2557,1.0,-0.0055,0,0
+2026-06-23T10:45:41.071615+00:00,base,USDC→ZORA→USDC,2,uniswap/uniswap,64.7861,1.0,0.1481,0,0
+2026-06-23T10:45:41.071615+00:00,base,VVV→USDT→COREX→USDC→ZORA→VVV,5,uniswap/uniswap/uniswap/uniswap/uniswap,225.0656,1.0,-0.9787,0,0
+2026-06-23T10:47:23.738664+00:00,sui,HIPPO→SUI→HIPPO,2,turbos-finance/momentum,1.5457,11.2,0.0662,0,0
+2026-06-23T10:47:23.738664+00:00,sui,TURBOS→KW→TURBOS,2,turbos-finance/turbos-finance,63.3654,1.0,-0.9111,0,0
+2026-06-23T10:47:23.738664+00:00,solana,POPCAT→FARTCOIN →POPCAT,2,orca/orca,4.6235,1.0,-0.002,0,0
+2026-06-23T10:47:23.738664+00:00,base,USDC→ZORA→USDC,2,uniswap/uniswap,64.7861,1.0,0.1481,0,0
+2026-06-23T10:47:23.738664+00:00,base,VVV→USDT→COREX→USDC→ZORA→VVV,5,uniswap/uniswap/uniswap/uniswap/uniswap,225.0656,1.0,-0.9787,0,0
+2026-06-23T10:49:07.133168+00:00,sui,HIPPO→SUI→HIPPO,2,turbos-finance/momentum,1.5457,11.2,0.0662,0,0
+2026-06-23T10:49:07.133168+00:00,sui,TURBOS→KW→TURBOS,2,turbos-finance/turbos-finance,63.3654,1.0,-0.9111,0,0
+2026-06-23T10:49:07.133168+00:00,solana,POPCAT→FARTCOIN →POPCAT,2,orca/orca,4.6235,1.0,-0.002,0,0
+2026-06-23T10:49:07.133168+00:00,base,USDC→ZORA→USDC,2,uniswap/uniswap,64.7861,1.0,0.1481,0,0
+2026-06-23T10:49:07.133168+00:00,base,VVV→USDT→COREX→USDC→ZORA→VVV,5,uniswap/uniswap/uniswap/uniswap/uniswap,225.0656,1.0,-0.9787,0,0
+2026-06-23T10:50:50.695182+00:00,sui,HIPPO→SUI→HIPPO,2,turbos-finance/momentum,1.5457,11.2,0.0662,0,0
+2026-06-23T10:50:50.695182+00:00,sui,TURBOS→KW→TURBOS,2,turbos-finance/turbos-finance,63.3654,1.0,-0.9111,0,0
+2026-06-23T10:50:50.695182+00:00,solana,POPCAT→FARTCOIN →POPCAT,2,orca/orca,4.6235,1.0,-0.002,0,0
+2026-06-23T10:50:50.695182+00:00,base,USDC→ZORA→USDC,2,uniswap/uniswap,64.7861,1.0,0.1481,0,0
+2026-06-23T10:50:50.695182+00:00,base,VVV→USDT→COREX→USDC→ZORA→VVV,5,uniswap/uniswap/uniswap/uniswap/uniswap,224.3368,1.0,-0.9787,0,0
+2026-06-23T10:52:34.203102+00:00,sui,KW→TURBOS→KW,2,turbos-finance/turbos-finance,63.3654,1.62,0.4307,0,0
+2026-06-23T10:52:34.203102+00:00,sui,SUI→HIPPO→SUI,2,momentum/turbos-finance,1.5457,1.0,-0.7573,0,0
+2026-06-23T10:52:34.203102+00:00,solana,FARTCOIN →POPCAT→FARTCOIN ,2,orca/meteora,5.1457,1.0,-0.1842,0,0
+2026-06-23T10:52:34.203102+00:00,base,USDC→ZORA→USDC,2,uniswap/uniswap,64.7861,1.0,0.1481,0,0
+2026-06-23T10:52:34.203102+00:00,base,VVV→USDT→COREX→USDC→ZORA→VVV,5,uniswap/uniswap/uniswap/uniswap/uniswap,224.3368,1.0,-0.9787,0,0
+2026-06-23T10:54:17.359956+00:00,sui,KW→TURBOS→KW,2,turbos-finance/turbos-finance,63.3654,1.62,0.4307,0,0
+2026-06-23T10:54:17.359956+00:00,sui,SUI→HIPPO→SUI,2,momentum/turbos-finance,1.5457,1.0,-0.7573,0,0
+2026-06-23T10:54:17.359956+00:00,solana,FARTCOIN →POPCAT→FARTCOIN ,2,orca/orca,4.9668,1.0,-0.0474,0,0
+2026-06-23T10:54:17.359956+00:00,base,USDC→ZORA→USDC,2,uniswap/uniswap,64.7861,1.0,0.1481,0,0
+2026-06-23T10:54:17.359956+00:00,base,VVV→USDT→COREX→USDC→ZORA→VVV,5,uniswap/uniswap/uniswap/uniswap/uniswap,228.6068,1.0,-0.9787,0,0
+2026-06-23T10:56:00.786132+00:00,sui,KW→TURBOS→KW,2,turbos-finance/turbos-finance,63.3654,1.62,0.4307,0,0
+2026-06-23T10:56:00.786132+00:00,sui,SUI→HIPPO→SUI,2,momentum/turbos-finance,1.5457,1.0,-0.7573,0,0
+2026-06-23T10:56:00.786132+00:00,solana,FARTCOIN →POPCAT→FARTCOIN ,2,orca/orca,4.9668,1.0,-0.0474,0,0
+2026-06-23T10:56:00.786132+00:00,base,USDC→ZORA→USDC,2,uniswap/uniswap,64.7861,1.0,0.1481,0,0
+2026-06-23T10:56:00.786132+00:00,base,VVV→USDT→COREX→USDC→ZORA→VVV,5,uniswap/uniswap/uniswap/uniswap/uniswap,227.5942,1.0,-0.9787,0,0
+2026-06-23T10:57:45.170966+00:00,sui,KW→TURBOS→KW,2,turbos-finance/turbos-finance,63.3654,1.62,0.4307,0,0
+2026-06-23T10:57:45.170966+00:00,sui,SUI→HIPPO→SUI,2,momentum/turbos-finance,1.5457,1.0,-0.7573,0,0
+2026-06-23T10:57:45.170966+00:00,solana,FARTCOIN →POPCAT→FARTCOIN ,2,orca/orca,5.212,1.0,-0.0452,0,0
+2026-06-23T10:57:45.170966+00:00,base,USDC→ZORA→USDC,2,uniswap/uniswap,64.7861,1.0,0.1481,0,0
+2026-06-23T10:57:45.170966+00:00,base,VVV→USDT→COREX→USDC→ZORA→VVV,5,uniswap/uniswap/uniswap/uniswap/uniswap,198.5046,1.0,-0.9788,0,0
