@@ -1328,3 +1328,6 @@ t0,chain,token,entry_spread_pct,lo_dex,hi_dex,min_tvl,whale,n_samples,n_pos_afte
 2026-06-23T09:24:11.155618+00:00,solana,HYPE,0.3028,meteora,meteora,358218,1,18,0,-0.6484,0
 2026-06-23T09:24:11.155618+00:00,base,VIRTUAL,0.8424,aerodrome,aerodrome,470321,1,18,1,0.2594,0
 2026-06-23T09:24:11.155618+00:00,base,AERO,0.8359,aerodrome,uniswap,348162,1,18,1,0.1492,0
+2026-06-23T09:35:38.926608+00:00,base,BRETT,0.8257,uniswap,aerodrome,697722,1,17,0,-0.2491,0
+2026-06-23T09:38:49.528286+00:00,base,VVV,1.834,uniswap,uniswap,478864,0,17,15,0.4972,1
+2026-06-23T09:40:26.536534+00:00,base,SOL,0.3357,aerodrome,aerodrome,253557,1,17,0,-1.6578,0

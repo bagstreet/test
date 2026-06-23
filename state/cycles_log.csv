@@ -5108,3 +5108,29 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-06-23T09:57:27.676458+00:00,solana,UNC→SOL→UNC,2,meteora/meteora,23.9667,6.77,1.1865,0,0
 2026-06-23T09:57:27.676458+00:00,base,USDT→COREX→USDC→VVV→USDT,4,uniswap/uniswap/pancakeswap/uniswap,222.5966,1.0,0.679,0,0
 2026-06-23T09:57:27.676458+00:00,aptos,APT→USDC→APT,2,liquidswap/liquidswap,172.1602,15.33,9.9413,0,0
+2026-06-23T10:01:10.696152+00:00,sui,TURBOS→KW→TURBOS,2,turbos-finance/turbos-finance,63.3654,1.0,-0.9111,0,0
+2026-06-23T10:01:10.696152+00:00,solana,USELESS→FARTCOIN →POPCAT→PEPE→USELESS,4,orca/orca/meteora/meteora,5.2504,1.0,-0.9895,0,0
+2026-06-23T10:01:10.696152+00:00,aptos,APT→USDC→APT,2,liquidswap/liquidswap,172.1602,15.33,9.9413,0,0
+2026-06-23T10:02:53.621661+00:00,sui,TURBOS→KW→TURBOS,2,turbos-finance/turbos-finance,63.3654,1.0,-0.9111,0,0
+2026-06-23T10:02:53.621661+00:00,solana,USELESS→FARTCOIN →POPCAT→PEPE→USELESS,4,orca/orca/meteora/meteora,5.2504,1.0,-0.9895,0,0
+2026-06-23T10:02:53.621661+00:00,aptos,APT→USDC→APT,2,liquidswap/liquidswap,172.1602,15.33,9.9413,0,0
+2026-06-23T10:04:36.972761+00:00,sui,TURBOS→KW→TURBOS,2,turbos-finance/turbos-finance,63.3654,1.0,-0.9111,0,0
+2026-06-23T10:04:36.972761+00:00,solana,USELESS→FARTCOIN →POPCAT→PEPE→USELESS,4,orca/orca/meteora/meteora,5.2504,1.0,-0.9895,0,0
+2026-06-23T10:04:36.972761+00:00,aptos,APT→USDC→APT,2,liquidswap/liquidswap,172.1602,15.33,9.9413,0,0
+2026-06-23T10:06:20.362827+00:00,sui,TURBOS→KW→TURBOS,2,turbos-finance/turbos-finance,63.3654,1.0,-0.9111,0,0
+2026-06-23T10:06:20.362827+00:00,solana,POPCAT→FARTCOIN →POPCAT,2,orca/orca,4.9422,1.0,0.0011,0,0
+2026-06-23T10:06:20.362827+00:00,aptos,APT→USDC→APT,2,liquidswap/liquidswap,172.1602,15.33,9.9413,0,0
+2026-06-23T10:08:03.563524+00:00,sui,TURBOS→KW→TURBOS,2,turbos-finance/turbos-finance,63.3654,1.0,-0.9111,0,0
+2026-06-23T10:08:03.563524+00:00,solana,POPCAT→FARTCOIN →POPCAT,2,orca/orca,4.9422,1.0,0.0011,0,0
+2026-06-23T10:08:03.563524+00:00,aptos,APT→USDC→APT,2,liquidswap/liquidswap,172.1602,15.33,9.9413,0,0
+2026-06-23T10:09:47.010219+00:00,sui,TURBOS→KW→TURBOS,2,turbos-finance/turbos-finance,63.3654,1.0,-0.9111,0,0
+2026-06-23T10:09:47.010219+00:00,solana,USELESS→FARTCOIN →POPCAT→PEPE→USELESS,4,orca/orca/meteora/meteora,5.0174,1.0,-0.9895,0,0
+2026-06-23T10:09:47.010219+00:00,aptos,APT→USDC→APT,2,liquidswap/liquidswap,172.1602,15.33,9.9413,0,0
+2026-06-23T10:11:30.190513+00:00,sui,TURBOS→KW→TURBOS,2,turbos-finance/turbos-finance,63.3654,1.0,-0.9111,0,0
+2026-06-23T10:11:30.190513+00:00,solana,USELESS→FARTCOIN →POPCAT→PEPE→USELESS,4,orca/orca/meteora/meteora,5.0174,1.0,-0.9895,0,0
+2026-06-23T10:11:30.190513+00:00,base,TOSHI→AERO→TOSHI,2,uniswap/aerodrome,0.0633,1.0,-0.2753,0,0
+2026-06-23T10:11:30.190513+00:00,aptos,APT→USDC→APT,2,liquidswap/liquidswap,172.1602,15.33,9.9413,0,0
+2026-06-23T10:13:13.312116+00:00,sui,TURBOS→KW→TURBOS,2,turbos-finance/turbos-finance,63.3654,1.0,-0.9111,0,0
+2026-06-23T10:13:13.312116+00:00,solana,POPCAT→FARTCOIN →POPCAT,2,orca/orca,5.4817,1.0,0.0062,0,0
+2026-06-23T10:13:13.312116+00:00,base,TOSHI→AERO→TOSHI,2,uniswap/aerodrome,0.0633,1.0,-0.2753,0,0
+2026-06-23T10:13:13.312116+00:00,aptos,APT→USDC→APT,2,liquidswap/liquidswap,172.1602,15.33,9.9413,0,0
