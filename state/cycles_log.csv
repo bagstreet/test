@@ -8154,3 +8154,15 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-06-24T19:12:58.159617+00:00,solana,USDC→SQUIRE→USDC,2,meteora/meteora,0.7492,1.0,-0.0862,0,0
 2026-06-24T19:12:58.159617+00:00,base,CBBTC→CBETH→USDC→CBBTC,3,aerodrome/quickswap/aerodrome,3.5066,1.0,-0.0331,0,0
 2026-06-24T19:12:58.159617+00:00,aptos,STAPT→USDC→STAPT,2,liquidswap/liquidswap,5.7827,1.0,-0.1862,0,0
+2026-06-24T19:15:42.857576+00:00,solana,SOL→TROLL→SOL,2,raydium/meteora,27.6775,1.0,-0.5735,0,0
+2026-06-24T19:15:42.857576+00:00,base,COREX→USDT→USDC→COREX,3,uniswap/aerodrome/uniswap,58.2681,1.0,-0.9627,0,0
+2026-06-24T19:17:25.740103+00:00,solana,SOL→TROLL→SOL,2,raydium/meteora,27.803,1.0,-0.4943,0,0
+2026-06-24T19:17:25.740103+00:00,base,CBBTC→SOL→CBBTC,2,aerodrome/hydrex,0.6065,1.0,-0.8363,0,0
+2026-06-24T19:19:10.428561+00:00,solana,PEPE→SOL→TRUMP→USDT→GOLD→PEPE,5,raydium/meteora/raydium/meteora/meteora,19729.4749,10.28,1903.8797,0,0
+2026-06-24T19:19:10.428561+00:00,base,CBBTC→SOL→CBBTC,2,aerodrome/hydrex,0.6065,1.0,-0.8363,0,0
+2026-06-24T19:20:54.281882+00:00,base,CBBTC→SOL→CBBTC,2,aerodrome/hydrex,0.5151,1.0,-0.8364,0,0
+2026-06-24T19:22:40.093797+00:00,base,CBBTC→SOL→CBBTC,2,aerodrome/hydrex,0.5151,1.0,-0.8364,0,0
+2026-06-24T19:24:24.677135+00:00,base,CBBTC→SOL→CBBTC,2,aerodrome/hydrex,0.5151,1.0,-0.8364,0,0
+2026-06-24T19:26:10.057769+00:00,base,CBBTC→SOL→CBBTC,2,aerodrome/hydrex,0.4239,1.0,-0.8364,0,0
+2026-06-24T19:27:53.797735+00:00,solana,PEPE→SOL→TRUMP→USDT→GOLD→PEPE,5,raydium/meteora/raydium/meteora/meteora,19729.4749,10.28,1903.8797,0,0
+2026-06-24T19:27:53.797735+00:00,base,CBBTC→SOL→CBBTC,2,aerodrome/hydrex,0.4239,1.0,-0.8364,0,0
