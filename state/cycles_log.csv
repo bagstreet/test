@@ -6948,3 +6948,25 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-06-24T06:40:19.005631+00:00,solana,SOL→MELANIA→SOL,2,meteora/raydium,69.7532,1.0,-0.987,0,0
 2026-06-24T06:41:53.356241+00:00,solana,SOL→MELANIA→SOL,2,meteora/raydium,69.7532,1.0,-0.987,0,0
 2026-06-24T06:41:53.356241+00:00,base,AXLUSDC→WETH→AXLUSDC,2,baseswap/aerodrome,0.8335,1.0,-0.062,0,0
+2026-06-24T06:45:40.825405+00:00,solana,POPCAT→FARTCOIN →POPCAT,2,meteora/meteora,0.6072,1.0,-0.0688,0,0
+2026-06-24T06:45:40.825405+00:00,base,USDC→ETH→FLETH→USDC,3,uniswap/uniswap/uniswap,32.3287,2.0,0.6019,0,0
+2026-06-24T06:47:18.564054+00:00,sui,TURBOS→CETUS→USDC→TURBOS,3,turbos-finance/magma/turbos-finance,318.7077,1.32,1.3612,0,0
+2026-06-24T06:47:18.564054+00:00,solana,POPCAT→FARTCOIN →POPCAT,2,meteora/meteora,0.6072,1.0,-0.0688,0,0
+2026-06-24T06:47:18.564054+00:00,base,USDC→ETH→FLETH→USDC,3,uniswap/uniswap/uniswap,32.3287,2.0,0.6019,0,0
+2026-06-24T06:48:55.720085+00:00,sui,TURBOS→CETUS→USDC→TURBOS,3,turbos-finance/magma/turbos-finance,318.7077,1.32,1.3612,0,0
+2026-06-24T06:48:55.720085+00:00,solana,FARTCOIN →POPCAT→FARTCOIN ,2,meteora/meteora,0.6072,1.0,-0.1526,0,0
+2026-06-24T06:48:55.720085+00:00,base,USDC→ETH→FLETH→USDC,3,uniswap/uniswap/uniswap,32.3287,2.0,0.6019,0,0
+2026-06-24T06:50:34.750292+00:00,sui,TURBOS→CETUS→USDC→TURBOS,3,turbos-finance/magma/turbos-finance,318.7077,1.32,1.3612,0,0
+2026-06-24T06:50:34.750292+00:00,solana,FARTCOIN →POPCAT→FARTCOIN ,2,meteora/meteora,0.6072,1.0,-0.1526,0,0
+2026-06-24T06:50:34.750292+00:00,base,AXLUSDC→CBETH→WEETH→AERO→AXLUSDC,4,shark-swap/aerodrome/aerodrome/aerodrome,0.623,1.0,-0.1042,0,0
+2026-06-24T06:52:12.031589+00:00,sui,TURBOS→CETUS→USDC→TURBOS,3,turbos-finance/magma/turbos-finance,318.7077,1.32,1.3612,0,0
+2026-06-24T06:52:12.031589+00:00,base,AXLUSDC→CBETH→WEETH→AERO→AXLUSDC,4,shark-swap/aerodrome/aerodrome/aerodrome,0.623,1.0,-0.1042,0,0
+2026-06-24T06:53:49.425391+00:00,sui,TURBOS→CETUS→USDC→TURBOS,3,turbos-finance/magma/turbos-finance,318.7077,1.32,1.3612,0,0
+2026-06-24T06:53:49.425391+00:00,solana,FARTCOIN →POPCAT→FARTCOIN ,2,orca/meteora,0.0251,1.0,-0.1825,0,0
+2026-06-24T06:53:49.425391+00:00,base,USDC→ETH→FLETH→USDC,3,uniswap/uniswap/uniswap,32.3287,2.0,0.6019,0,0
+2026-06-24T06:55:26.530541+00:00,sui,TURBOS→CETUS→USDC→TURBOS,3,turbos-finance/magma/turbos-finance,318.7077,1.32,1.3612,0,0
+2026-06-24T06:55:26.530541+00:00,solana,FARTCOIN →POPCAT→FARTCOIN ,2,orca/meteora,0.2247,1.0,-0.0262,0,0
+2026-06-24T06:55:26.530541+00:00,base,USDC→ETH→FLETH→USDC,3,uniswap/uniswap/uniswap,32.3287,2.0,0.6019,0,0
+2026-06-24T06:57:03.648141+00:00,sui,TURBOS→CETUS→USDC→TURBOS,3,turbos-finance/magma/turbos-finance,318.7077,1.32,1.3612,0,0
+2026-06-24T06:57:03.648141+00:00,solana,FARTCOIN →POPCAT→FARTCOIN ,2,meteora/orca,1.255,1.0,-0.0832,0,0
+2026-06-24T06:57:03.648141+00:00,base,USDC→ETH→FLETH→USDC,3,uniswap/uniswap/uniswap,32.3287,2.0,0.6019,0,0
