@@ -7305,3 +7305,35 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-06-24T10:13:20.226027+00:00,sui,DEEP→USDC→DEEP,2,cetus/steamm,0.6215,1.0,-0.0242,0,0
 2026-06-24T10:13:20.226027+00:00,solana,MELANIA→SOL→MELANIA,2,raydium/orca,68.5952,2.0,0.8819,0,0
 2026-06-24T10:13:20.226027+00:00,base,USDC→VVV→USDC,2,aerodrome/aerodrome,4.6788,1.0,-0.5882,0,0
+2026-06-24T10:15:37.471763+00:00,sui,SEND→ATTN→DEEP→SEND,3,steamm/steamm/cetus,1.4673,1.0,-0.3786,0,0
+2026-06-24T10:15:37.471763+00:00,solana,FARTCOIN →USDC→FARTCOIN ,2,orca/meteora,1.0409,1.0,-0.0059,0,0
+2026-06-24T10:15:37.471763+00:00,base,USDC→CBBTC→VVV→USDC,3,aerodrome/hydrex/aerodrome,4.8572,1.0,-0.5877,0,0
+2026-06-24T10:15:37.471763+00:00,aptos,APT→USDC→APT,2,liquidswap/liquidswap,164.6434,14.89,9.316,0,0
+2026-06-24T10:17:14.846159+00:00,sui,SEND→ATTN→DEEP→SEND,3,steamm/steamm/cetus,1.4673,1.0,-0.3786,0,0
+2026-06-24T10:17:14.846159+00:00,solana,FARTCOIN →USDC→FARTCOIN ,2,orca/meteora,1.0409,1.0,-0.0059,0,0
+2026-06-24T10:17:14.846159+00:00,base,USDC→CBBTC→VVV→USDC,3,aerodrome/hydrex/aerodrome,4.9036,1.0,-0.5876,0,0
+2026-06-24T10:17:14.846159+00:00,aptos,APT→USDC→APT,2,liquidswap/liquidswap,164.6434,14.89,9.316,0,0
+2026-06-24T10:18:52.154292+00:00,sui,SEND→ATTN→DEEP→SEND,3,steamm/steamm/cetus,1.4673,1.0,-0.3786,0,0
+2026-06-24T10:18:52.154292+00:00,solana,FARTCOIN →USDC→FARTCOIN ,2,orca/raydium,1.0685,1.0,-0.0056,0,0
+2026-06-24T10:18:52.154292+00:00,base,USDC→CBBTC→VVV→USDC,3,aerodrome/hydrex/aerodrome,4.8451,1.0,-0.5877,0,0
+2026-06-24T10:18:52.154292+00:00,aptos,APT→USDC→APT,2,liquidswap/liquidswap,164.6434,14.89,9.316,0,0
+2026-06-24T10:20:29.419864+00:00,sui,SEND→ATTN→DEEP→SEND,3,steamm/steamm/cetus,1.4673,1.0,-0.3786,0,0
+2026-06-24T10:20:29.419864+00:00,solana,USDC→FARTCOIN →USDC,2,orca/orca,1.3318,1.0,-0.0435,0,0
+2026-06-24T10:20:29.419864+00:00,base,USDC→CBBTC→VVV→USDC,3,aerodrome/hydrex/aerodrome,4.9633,1.0,-0.5875,0,0
+2026-06-24T10:20:29.419864+00:00,aptos,APT→USDC→APT,2,liquidswap/liquidswap,164.6434,14.89,9.316,0,0
+2026-06-24T10:22:06.577975+00:00,sui,SEND→ATTN→DEEP→SEND,3,steamm/steamm/cetus,1.4673,1.0,-0.3786,0,0
+2026-06-24T10:22:06.577975+00:00,solana,FARTCOIN →USDC→FARTCOIN ,2,orca/meteora,1.4334,1.14,-0.0018,0,0
+2026-06-24T10:22:06.577975+00:00,base,USDC→EURC→CBBTC→VVV→USDC,4,aerodrome/aerodrome/hydrex/aerodrome,5.1612,1.0,-0.5873,0,0
+2026-06-24T10:22:06.577975+00:00,aptos,APT→USDC→APT,2,liquidswap/liquidswap,164.6434,14.89,9.316,0,0
+2026-06-24T10:23:43.748111+00:00,sui,SEND→ATTN→DEEP→SEND,3,steamm/steamm/cetus,1.4673,1.0,-0.3786,0,0
+2026-06-24T10:23:43.748111+00:00,solana,USDC→FARTCOIN →USDC,2,meteora/orca,1.0409,1.0,-0.0461,0,0
+2026-06-24T10:23:43.748111+00:00,base,USDC→EURC→CBBTC→VVV→USDC,4,aerodrome/aerodrome/hydrex/aerodrome,5.1612,1.0,-0.5873,0,0
+2026-06-24T10:23:43.748111+00:00,aptos,APT→USDC→APT,2,liquidswap/liquidswap,164.6434,14.89,9.316,0,0
+2026-06-24T10:25:20.976379+00:00,sui,SEND→ATTN→DEEP→SEND,3,steamm/steamm/cetus,1.4673,1.0,-0.3786,0,0
+2026-06-24T10:25:20.976379+00:00,solana,USDC→FARTCOIN →USDC,2,meteora/orca,1.0409,1.0,-0.0461,0,0
+2026-06-24T10:25:20.976379+00:00,base,USDC→EURC→CBBTC→VVV→USDC,4,aerodrome/aerodrome/hydrex/aerodrome,5.1612,1.0,-0.5873,0,0
+2026-06-24T10:25:20.976379+00:00,aptos,APT→USDC→APT,2,liquidswap/liquidswap,164.6434,14.89,9.316,0,0
+2026-06-24T10:26:58.106936+00:00,sui,SEND→ATTN→DEEP→SEND,3,steamm/steamm/cetus,1.4673,1.0,-0.3786,0,0
+2026-06-24T10:26:58.106936+00:00,solana,USDC→FARTCOIN →USDC,2,orca/orca,1.0961,1.0,-0.0456,0,0
+2026-06-24T10:26:58.106936+00:00,base,USDC→EURC→CBBTC→VVV→USDC,4,aerodrome/aerodrome/hydrex/aerodrome,5.1033,1.0,-0.5874,0,0
+2026-06-24T10:26:58.106936+00:00,aptos,APT→USDC→APT,2,liquidswap/liquidswap,164.6434,14.89,9.316,0,0
