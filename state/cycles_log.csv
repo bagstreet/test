@@ -6886,3 +6886,12 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-06-24T05:34:43.366823+00:00,aptos,USDT→TAPT→USDT,2,liquidswap/thala,0.3669,1.0,-0.6972,0,0
 2026-06-24T05:36:19.974488+00:00,solana,SOL→$WIF→SOL,2,orca/raydium,23.2413,1.0,-0.9918,0,0
 2026-06-24T05:36:19.974488+00:00,aptos,USDT→TAPT→USDT,2,liquidswap/thala,0.3669,1.0,-0.6972,0,0
+2026-06-24T05:48:16.714332+00:00,base,COREX→USDC→USDT→COREX,3,uniswap/aerodrome/uniswap,294.5135,1.0,0.253,0,0
+2026-06-24T05:49:55.515612+00:00,base,COREX→USDC→USDT→COREX,3,uniswap/aerodrome/uniswap,294.5135,1.0,0.253,0,0
+2026-06-24T05:51:34.734370+00:00,base,COREX→USDC→USDT→COREX,3,uniswap/aerodrome/uniswap,294.5135,1.0,0.253,0,0
+2026-06-24T05:53:13.578444+00:00,solana,PEPE→UNC→PEPE,2,meteora/meteora,1.0971,1.0,-0.0428,0,0
+2026-06-24T05:53:13.578444+00:00,base,COREX→USDC→USDT→COREX,3,uniswap/aerodrome/uniswap,294.5135,1.0,0.253,0,0
+2026-06-24T05:54:52.402340+00:00,base,COREX→USDC→USDT→COREX,3,uniswap/aerodrome/uniswap,294.5135,1.0,0.253,0,0
+2026-06-24T05:56:31.203168+00:00,base,COREX→USDC→USDT→COREX,3,uniswap/aerodrome/uniswap,294.5135,1.0,0.253,0,0
+2026-06-24T05:58:11.133271+00:00,base,COREX→USDC→USDT→COREX,3,uniswap/aerodrome/uniswap,294.5135,1.0,0.253,0,0
+2026-06-24T05:59:50.191251+00:00,base,COREX→USDC→USDT→COREX,3,uniswap/aerodrome/uniswap,294.5135,1.0,0.253,0,0
