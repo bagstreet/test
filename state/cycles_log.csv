@@ -6919,3 +6919,17 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-06-24T06:12:59.517666+00:00,solana,USELESS→SOL→USELESS,2,meteora/meteora,6.0628,33.91,1.0029,0,0
 2026-06-24T06:12:59.517666+00:00,base,VVV→WETH→VVV,2,pancakeswap/aerodrome,3.9372,1.0,-0.0425,0,0
 2026-06-24T06:12:59.517666+00:00,aptos,USDT→APT→USDT,2,liquidswap/liquidswap,163.2254,2.56,1.5764,0,0
+2026-06-24T06:15:41.797776+00:00,solana,SQUIRE→USDC→MELANIA→SOL→SQUIRE,4,meteora/meteora/raydium/raydium,89.5952,12.24,9.5709,0,0
+2026-06-24T06:15:41.797776+00:00,base,WETH→CBBTC→WETH,2,aerodrome/aerodrome,0.1297,47.0,0.0005,1,0
+2026-06-24T06:17:18.560488+00:00,solana,SQUIRE→USDC→MELANIA→SOL→SQUIRE,4,meteora/meteora/raydium/raydium,89.5952,12.24,9.5709,0,0
+2026-06-24T06:17:18.560488+00:00,base,CBBTC→WETH→CBBTC,2,aerodrome/aerodrome,0.1414,30.48,-0.0085,1,0
+2026-06-24T06:18:55.247879+00:00,solana,SQUIRE→USDC→MELANIA→SOL→SQUIRE,4,meteora/meteora/raydium/raydium,89.5952,12.24,9.5709,0,0
+2026-06-24T06:18:55.247879+00:00,base,CBBTC→WETH→CBBTC,2,aerodrome/aerodrome,0.1646,3.01,-0.0275,1,0
+2026-06-24T06:20:31.843586+00:00,solana,USDC→MELANIA→SOL→SQUIRE→USDC,4,meteora/raydium/raydium/meteora,95.4046,1.0,-0.0609,0,0
+2026-06-24T06:20:31.843586+00:00,base,CBBTC→WETH→CBBTC,2,aerodrome/aerodrome,0.1547,33.47,-0.0041,1,0
+2026-06-24T06:22:08.327916+00:00,solana,USDC→MELANIA→SOL→SQUIRE→USDC,4,meteora/raydium/raydium/meteora,95.4046,1.0,-0.0609,0,0
+2026-06-24T06:22:08.327916+00:00,base,WETH→CBBTC→WETH,2,aerodrome/aerodrome,0.1403,1142.35,0.7712,1,1
+2026-06-24T06:23:45.042789+00:00,solana,USDC→MELANIA→SOL→SQUIRE→USDC,4,meteora/raydium/raydium/meteora,95.4046,1.0,-0.0609,0,0
+2026-06-24T06:23:45.042789+00:00,base,WETH→CBBTC→WETH,2,aerodrome/aerodrome,0.139,50.36,0.005,1,0
+2026-06-24T06:25:21.454605+00:00,solana,MELANIA→SOL→SQUIRE→USDC→MELANIA,4,raydium/raydium/meteora/meteora,95.4046,4.84,1.9169,0,0
+2026-06-24T06:26:58.164078+00:00,solana,MELANIA→SOL→SQUIRE→USDC→MELANIA,4,raydium/raydium/meteora/meteora,99.1365,4.4,1.7986,0,0
