@@ -7651,3 +7651,15 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-06-24T13:28:02.352658+00:00,solana,PEPE→MELANIA→SOL→SQUIRE→PEPE,4,meteora/raydium/raydium/meteora,87.6876,1.0,0.0105,0,0
 2026-06-24T13:28:02.352658+00:00,base,USDC→WETH→FLETH→USDC,3,aerodrome/pancakeswap/uniswap,33.8481,2.0,0.6327,0,0
 2026-06-24T13:28:02.352658+00:00,base,AXLUSDC→USDC→AXLUSDC,2,balancer/aerodrome,10.7767,1.0,-0.9383,0,0
+2026-06-24T13:30:51.446734+00:00,base,USDBC→WETH→FLETH→USDC→USDBC,4,aerodrome/pancakeswap/uniswap/balancer,38.9491,1.0,-0.9468,0,0
+2026-06-24T13:32:30.319047+00:00,base,USDBC→WETH→FLETH→USDC→USDBC,4,aerodrome/pancakeswap/uniswap/balancer,38.9491,1.0,-0.9468,0,0
+2026-06-24T13:34:07.991375+00:00,solana,TRUMPBUCKS→HYPE→TRUMPBUCKS,2,meteora/meteora,0.3482,1.0,-0.0151,0,0
+2026-06-24T13:34:07.991375+00:00,base,VVV→WETH→VVV,2,sushiswap/9mm,3.7888,1.0,-0.1982,0,0
+2026-06-24T13:35:45.801989+00:00,solana,TRUMPBUCKS→HYPE→TRUMPBUCKS,2,meteora/meteora,0.3584,1.0,-0.015,0,0
+2026-06-24T13:35:45.801989+00:00,base,VVV→WETH→VVV,2,sushiswap/9mm,3.7888,1.0,-0.1982,0,0
+2026-06-24T13:37:23.742422+00:00,solana,TRUMPBUCKS→HYPE→TRUMPBUCKS,2,meteora/meteora,0.3584,1.0,-0.015,0,0
+2026-06-24T13:37:23.742422+00:00,base,VVV→WETH→VVV,2,sushiswap/9mm,3.7888,1.0,-0.1982,0,0
+2026-06-24T13:39:01.800084+00:00,solana,TRUMPBUCKS→HYPE→TRUMPBUCKS,2,meteora/meteora,0.3584,1.0,-0.015,0,0
+2026-06-24T13:39:01.800084+00:00,base,VVV→WETH→VVV,2,sushiswap/9mm,3.6638,1.0,-0.2002,0,0
+2026-06-24T13:40:39.909900+00:00,base,VVV→WETH→VVV,2,sushiswap/9mm,3.6638,1.0,-0.2002,0,0
+2026-06-24T13:42:17.685168+00:00,base,USDBC→WETH→FLETH→USDC→USDBC,4,aerodrome/pancakeswap/uniswap/balancer,38.4305,1.0,-0.9468,0,0
