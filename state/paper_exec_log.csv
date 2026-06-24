@@ -1996,3 +1996,5 @@ t0,chain,token,entry_spread_pct,lo_dex,hi_dex,min_tvl,whale,n_samples,n_pos_afte
 2026-06-24T14:32:41.926648+00:00,base,CBETH,0.505,aerodrome,aerodrome,487918,1,18,0,-0.5966,0
 2026-06-24T14:39:18.240369+00:00,solana,ORE,0.8852,meteora,orca,259938,1,18,0,-0.4968,0
 2026-06-24T14:39:18.240369+00:00,solana,JITOSOL,0.4056,orca,meteora,324721,1,18,3,0.4437,1
+2026-06-24T15:22:09.813098+00:00,sui,WAL,0.3062,bluefin,bluefin,313863,0,2,0,-1.7701,0
+2026-06-24T14:52:19.521471+00:00,base,AERO,1.1306,uniswap,aerodrome,334104,1,18,0,-0.2691,0
