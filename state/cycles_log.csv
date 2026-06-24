@@ -7560,3 +7560,19 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-06-24T12:27:08.561251+00:00,solana,POPCAT→FARTCOIN →POPCAT,2,orca/orca,0.7486,1.0,-0.0261,0,0
 2026-06-24T12:27:08.561251+00:00,base,AERO→CBBTC→AERO,2,aerodrome/aerodrome,0.1556,231.84,0.1502,1,0
 2026-06-24T12:27:08.561251+00:00,aptos,APT→USDC→APT,2,liquidswap/liquidswap,168.1964,15.13,9.6284,0,0
+2026-06-24T12:30:56.813351+00:00,base,ETH→USDC→ETH,2,uniswap/uniswap,1.485,1.0,-0.7506,0,0
+2026-06-24T12:30:56.813351+00:00,aptos,APT→USDC→APT,2,liquidswap/liquidswap,168.1964,15.13,9.6284,0,0
+2026-06-24T12:32:34.018640+00:00,aptos,APT→USDC→APT,2,liquidswap/liquidswap,168.1964,15.13,9.6284,0,0
+2026-06-24T12:34:11.073496+00:00,base,ETH→USDC→ETH,2,uniswap/uniswap,1.4103,1.0,-0.7508,0,0
+2026-06-24T12:34:11.073496+00:00,aptos,APT→USDC→APT,2,liquidswap/liquidswap,168.1964,15.13,9.6284,0,0
+2026-06-24T12:35:48.157119+00:00,solana,IMT→USD1→IMT,2,pumpswap/pumpswap,0.1621,1.0,-0.5737,0,0
+2026-06-24T12:35:48.157119+00:00,base,ETH→USDC→ETH,2,uniswap/uniswap,1.4008,1.0,-0.7507,0,0
+2026-06-24T12:35:48.157119+00:00,aptos,APT→USDC→APT,2,liquidswap/liquidswap,168.1964,15.13,9.6284,0,0
+2026-06-24T12:37:25.946688+00:00,base,ETH→USDC→ETH,2,uniswap/uniswap,1.3818,1.0,-0.7507,0,0
+2026-06-24T12:37:25.946688+00:00,aptos,APT→USDC→APT,2,liquidswap/liquidswap,168.1964,15.13,9.6284,0,0
+2026-06-24T12:39:02.976773+00:00,base,ETH→USDC→ETH,2,uniswap/uniswap,1.3818,1.0,-0.7507,0,0
+2026-06-24T12:39:02.976773+00:00,aptos,APT→USDC→APT,2,liquidswap/liquidswap,168.1964,15.13,9.6284,0,0
+2026-06-24T12:40:39.941893+00:00,base,ETH→USDC→ETH,2,uniswap/uniswap,1.3818,1.0,-0.7507,0,0
+2026-06-24T12:40:39.941893+00:00,aptos,APT→USDC→APT,2,pancakeswap/liquidswap,168.2095,61.34,39.0983,0,0
+2026-06-24T12:42:16.916877+00:00,base,ETH→USDC→ETH,2,uniswap/uniswap,1.3818,1.0,-0.7507,0,0
+2026-06-24T12:42:16.916877+00:00,aptos,APT→USDC→APT,2,pancakeswap/liquidswap,168.2095,61.34,39.0983,0,0
