@@ -6770,3 +6770,35 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-06-24T04:12:32.762223+00:00,base,USDC→VIRTUAL→USDC,2,pancakeswap/aerodrome,0.7177,1.45,-0.0248,0,0
 2026-06-24T04:12:32.762223+00:00,base,WETH→FLETH→USDC→WETH,3,pancakeswap/uniswap/aerodrome,32.9547,1.0,-0.7869,0,0
 2026-06-24T04:12:32.762223+00:00,aptos,USDC→APT→USDC,2,liquidswap/pancakeswap,165.3878,25.11,15.7767,0,0
+2026-06-24T04:15:39.512261+00:00,sui,SUI→WAL→SUI,2,momentum/flowx,4.1595,1.0,-0.3166,0,0
+2026-06-24T04:15:39.512261+00:00,solana,USDC→USELESS→FARTCOIN →ARC→USDC,4,meteora/orca/orca/meteora,11.6452,1.4,0.0694,0,0
+2026-06-24T04:15:39.512261+00:00,base,AERO→DIEM→AERO,2,uniswap/aerodrome,1.2648,1.0,-0.4394,0,0
+2026-06-24T04:15:39.512261+00:00,aptos,WETH→USDC→SOL→USDT→WETH,4,liquidswap/liquidswap/liquidswap/pancakeswap,788.2031,1.0,-0.9932,0,0
+2026-06-24T04:17:17.038587+00:00,sui,SUI→WAL→SUI,2,cetus/flowx,4.129,1.0,-0.3167,0,0
+2026-06-24T04:17:17.038587+00:00,solana,USDC→USELESS→FARTCOIN →ARC→USDC,4,meteora/orca/orca/meteora,11.6452,1.4,0.0694,0,0
+2026-06-24T04:17:17.038587+00:00,base,AERO→DIEM→AERO,2,uniswap/aerodrome,1.2648,1.0,-0.4394,0,0
+2026-06-24T04:17:17.038587+00:00,aptos,WETH→USDC→SOL→USDT→WETH,4,liquidswap/liquidswap/liquidswap/pancakeswap,788.2031,1.0,-0.9932,0,0
+2026-06-24T04:18:54.790368+00:00,sui,SUI→WAL→SUI,2,cetus/flowx,4.129,1.0,-0.3167,0,0
+2026-06-24T04:18:54.790368+00:00,solana,USELESS→FARTCOIN →ARC→USDC→USELESS,4,orca/orca/meteora/meteora,11.6665,20.55,1.1555,0,0
+2026-06-24T04:18:54.790368+00:00,base,AERO→DIEM→AERO,2,uniswap/aerodrome,1.2648,1.0,-0.4394,0,0
+2026-06-24T04:18:54.790368+00:00,aptos,WETH→USDC→SOL→USDT→WETH,4,liquidswap/liquidswap/liquidswap/pancakeswap,788.2031,1.0,-0.9932,0,0
+2026-06-24T04:20:32.239773+00:00,sui,SUI→WAL→SUI,2,cetus/flowx,4.129,1.0,-0.3167,0,0
+2026-06-24T04:20:32.239773+00:00,solana,USELESS→FARTCOIN →ARC→USDC→USELESS,4,orca/orca/meteora/meteora,9.6998,16.78,0.7848,0,0
+2026-06-24T04:20:32.239773+00:00,base,AERO→DIEM→AERO,2,uniswap/aerodrome,1.2648,1.0,-0.4394,0,0
+2026-06-24T04:20:32.239773+00:00,aptos,WETH→USDC→SOL→USDT→WETH,4,liquidswap/liquidswap/liquidswap/pancakeswap,788.2031,1.0,-0.9932,0,0
+2026-06-24T04:22:09.676734+00:00,sui,SUI→WAL→SUI,2,cetus/flowx,4.129,1.0,-0.3167,0,0
+2026-06-24T04:22:09.676734+00:00,solana,ARC→USDC→ARC,2,meteora/meteora,9.6341,565.38,26.5985,0,0
+2026-06-24T04:22:09.676734+00:00,base,AERO→DIEM→AERO,2,uniswap/aerodrome,1.2648,1.0,-0.4394,0,0
+2026-06-24T04:22:09.676734+00:00,aptos,WETH→USDC→SOL→USDT→WETH,4,liquidswap/liquidswap/liquidswap/pancakeswap,788.2031,1.0,-0.9932,0,0
+2026-06-24T04:23:47.293870+00:00,sui,SUI→WAL→SUI,2,bluefin/flowx,4.4599,1.0,-0.3152,0,0
+2026-06-24T04:23:47.293870+00:00,solana,ARC→USDC→ARC,2,meteora/meteora,9.6341,565.38,26.5985,0,0
+2026-06-24T04:23:47.293870+00:00,base,AERO→DIEM→AERO,2,uniswap/aerodrome,1.2648,1.0,-0.4394,0,0
+2026-06-24T04:23:47.293870+00:00,aptos,WETH→USDC→SOL→USDT→WETH,4,liquidswap/liquidswap/liquidswap/pancakeswap,788.2031,1.0,-0.9932,0,0
+2026-06-24T04:25:26.308885+00:00,sui,SUI→WAL→SUI,2,momentum/flowx,4.552,1.0,-0.3148,0,0
+2026-06-24T04:25:26.308885+00:00,solana,ARC→USDC→ARC,2,meteora/meteora,9.6341,565.38,26.5985,0,0
+2026-06-24T04:25:26.308885+00:00,base,AERO→DIEM→AERO,2,uniswap/aerodrome,1.4253,1.0,-0.4385,0,0
+2026-06-24T04:25:26.308885+00:00,aptos,WETH→USDC→SOL→USDT→WETH,4,liquidswap/liquidswap/liquidswap/pancakeswap,788.2031,1.0,-0.9932,0,0
+2026-06-24T04:27:03.685515+00:00,sui,SUI→WAL→SUI,2,bluefin/flowx,4.3509,1.0,-0.3157,0,0
+2026-06-24T04:27:03.685515+00:00,solana,ARC→USDC→ARC,2,meteora/meteora,9.6341,565.38,26.5985,0,0
+2026-06-24T04:27:03.685515+00:00,base,AERO→DIEM→AERO,2,uniswap/aerodrome,1.5864,1.0,-0.4376,0,0
+2026-06-24T04:27:03.685515+00:00,aptos,WETH→USDC→SOL→USDT→WETH,4,liquidswap/liquidswap/liquidswap/pancakeswap,788.2031,1.0,-0.9932,0,0
