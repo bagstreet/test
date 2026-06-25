@@ -9539,3 +9539,27 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-06-25T11:41:57.661107+00:00,solana,FARTCOIN →SOL→ARC→FARTCOIN ,3,raydium/raydium/orca,6.171,1.34,0.0307,0,0
 2026-06-25T11:41:57.661107+00:00,base,USDC→EURC→USDC,2,aerodrome/aerodrome,0.2083,1.09,-0.0289,0,0
 2026-06-25T11:41:57.661107+00:00,aptos,CAKE→USDC→CAKE,2,pancakeswap/pancakeswap,3.3554,1.0,-0.1579,0,0
+2026-06-25T11:45:40.831347+00:00,sui,FUD→SUI→FUD,2,flowx/bluefin,7.5226,1.0,-0.2295,0,0
+2026-06-25T11:45:40.831347+00:00,solana,SOL→PENGU→SOL,2,meteora/meteora,2.4233,1.0,-0.9087,0,0
+2026-06-25T11:45:40.831347+00:00,base,USDC→COREX→USDT→USDC,3,uniswap/uniswap/aerodrome,93.6348,1.0,-0.822,0,0
+2026-06-25T11:47:20.265051+00:00,sui,FUD→SUI→FUD,2,flowx/bluefin,7.5226,1.0,-0.2295,0,0
+2026-06-25T11:47:20.265051+00:00,solana,SOL→PENGU→SOL,2,meteora/meteora,2.4233,1.0,-0.9087,0,0
+2026-06-25T11:47:20.265051+00:00,base,USDC→COREX→USDT→USDC,3,uniswap/uniswap/aerodrome,93.6348,1.0,-0.822,0,0
+2026-06-25T11:48:59.690355+00:00,sui,FUD→SUI→FUD,2,flowx/bluefin,7.5226,1.0,-0.2295,0,0
+2026-06-25T11:48:59.690355+00:00,solana,SOL→PENGU→SOL,2,meteora/meteora,2.4233,1.0,-0.9087,0,0
+2026-06-25T11:48:59.690355+00:00,base,USDC→COREX→USDT→USDC,3,uniswap/uniswap/aerodrome,93.6348,1.0,-0.822,0,0
+2026-06-25T11:50:38.678953+00:00,sui,FUD→SUI→FUD,2,flowx/bluefin,7.5226,1.0,-0.2295,0,0
+2026-06-25T11:50:38.678953+00:00,solana,SOL→PENGU→SOL,2,meteora/meteora,2.4233,1.0,-0.9087,0,0
+2026-06-25T11:50:38.678953+00:00,base,USDC→COREX→USDT→USDC,3,uniswap/uniswap/aerodrome,93.6348,1.0,-0.822,0,0
+2026-06-25T11:52:17.553905+00:00,sui,FUD→SUI→FUD,2,flowx/bluefin,7.5226,1.0,-0.2295,0,0
+2026-06-25T11:52:17.553905+00:00,solana,SOL→PENGU→SOL,2,meteora/meteora,2.4233,1.0,-0.9087,0,0
+2026-06-25T11:52:17.553905+00:00,base,USDC→COREX→USDT→USDC,3,uniswap/uniswap/aerodrome,93.6348,1.0,-0.822,0,0
+2026-06-25T11:53:57.097033+00:00,sui,FUD→SUI→FUD,2,flowx/bluefin,7.5226,1.0,-0.2295,0,0
+2026-06-25T11:53:57.097033+00:00,solana,SOL→PENGU→SOL,2,meteora/meteora,2.4233,1.0,-0.9087,0,0
+2026-06-25T11:53:57.097033+00:00,base,USDC→COREX→USDT→USDC,3,uniswap/uniswap/aerodrome,93.6348,1.0,-0.822,0,0
+2026-06-25T11:55:36.000635+00:00,sui,FUD→SUI→FUD,2,flowx/bluefin,7.5226,1.0,-0.2295,0,0
+2026-06-25T11:55:36.000635+00:00,solana,SOL→PENGU→SOL,2,meteora/meteora,2.4233,1.0,-0.9087,0,0
+2026-06-25T11:55:36.000635+00:00,base,USDC→COREX→USDT→USDC,3,uniswap/uniswap/aerodrome,93.6348,1.0,-0.822,0,0
+2026-06-25T11:57:15.781302+00:00,sui,DEEP→WAL→HAWAL→SUI→BUCK→DEEP,5,cetus/momentum/cetus/cetus/cetus,6.1257,1.0,-0.7682,0,0
+2026-06-25T11:57:15.781302+00:00,solana,SOL→PENGU→SOL,2,meteora/meteora,2.4233,1.0,-0.9087,0,0
+2026-06-25T11:57:15.781302+00:00,base,USDC→COREX→USDT→USDC,3,uniswap/uniswap/aerodrome,93.6348,1.0,-0.822,0,0
