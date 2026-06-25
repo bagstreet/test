@@ -8778,3 +8778,15 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-06-25T02:59:25.730893+00:00,solana,USELESS→USDC→USELESS,2,meteora/meteora,16.234,6.02,0.4605,0,0
 2026-06-25T02:59:25.730893+00:00,base,USDC→BMX→USDC,2,uniswap/uniswap,19.8443,1.0,0.0278,0,0
 2026-06-25T02:59:25.730893+00:00,aptos,USDC→CAKE→USDC,2,pancakeswap/pancakeswap,4.9777,1.0,-0.1036,0,0
+2026-06-25T03:01:03.508066+00:00,sui,KW→USDT→KW,2,turbos-finance/turbos-finance,61.8491,3.03,0.8049,0,0
+2026-06-25T03:02:44.236756+00:00,sui,KW→USDT→KW,2,turbos-finance/turbos-finance,61.8491,3.03,0.8049,0,0
+2026-06-25T03:04:25.368760+00:00,sui,KW→USDT→KW,2,turbos-finance/turbos-finance,61.8491,3.03,0.8049,0,0
+2026-06-25T03:06:06.237707+00:00,sui,KW→USDT→KW,2,turbos-finance/turbos-finance,61.8491,3.03,0.8049,0,0
+2026-06-25T03:07:47.575425+00:00,sui,KW→USDT→KW,2,turbos-finance/turbos-finance,61.8491,3.03,0.8049,0,0
+2026-06-25T03:07:47.575425+00:00,solana,TROLL→SOL→TROLL,2,meteora/raydium,27.301,1.0,-0.8389,0,0
+2026-06-25T03:09:28.142354+00:00,sui,KW→USDT→KW,2,turbos-finance/turbos-finance,61.8491,3.03,0.8049,0,0
+2026-06-25T03:09:28.142354+00:00,solana,TROLL→SOL→TROLL,2,meteora/raydium,27.301,1.0,-0.8389,0,0
+2026-06-25T03:11:08.671805+00:00,sui,KW→USDT→KW,2,turbos-finance/turbos-finance,61.8491,3.03,0.8049,0,0
+2026-06-25T03:11:08.671805+00:00,solana,TROLL→SOL→TROLL,2,meteora/raydium,27.301,1.0,-0.8389,0,0
+2026-06-25T03:12:49.245875+00:00,sui,KW→USDT→KW,2,turbos-finance/turbos-finance,61.8491,3.03,0.8049,0,0
+2026-06-25T03:12:49.245875+00:00,solana,TROLL→SOL→TROLL,2,meteora/raydium,27.301,1.0,-0.8389,0,0
