@@ -9026,3 +9026,23 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-06-25T05:40:32.058087+00:00,solana,USDC→MELANIA→JITOSOL→FARTCOIN →USDC,4,meteora/orca/meteora/raydium,126.1234,1.0,-0.9187,0,0
 2026-06-25T05:42:07.812526+00:00,sui,KW→USDT→KW,2,turbos-finance/turbos-finance,61.8491,3.03,0.8049,0,0
 2026-06-25T05:42:07.812526+00:00,solana,MELANIA→JITOSOL→FARTCOIN →USDC→MELANIA,4,orca/meteora/raydium/meteora,126.6066,1.0,-0.1899,0,0
+2026-06-25T06:01:05.495724+00:00,sui,VSUI→WAL→VSUI,2,turbos-finance/magma,0.1002,1.0,-0.9887,0,0
+2026-06-25T06:01:05.495724+00:00,solana,FARTCOIN →JITOSOL→FARTCOIN ,2,raydium/meteora,0.3338,12.28,0.0105,0,0
+2026-06-25T06:01:05.495724+00:00,base,TOSHI→MAMO→VIRTUAL→WETH→TOSHI,4,aerodrome/aerodrome/aerodrome/pancakeswap,3.545,2.0,0.0393,0,0
+2026-06-25T06:01:05.495724+00:00,aptos,STAPT→USDC→STAPT,2,pancakeswap/liquidswap,7.6188,1.0,-0.0054,0,0
+2026-06-25T06:02:53.942057+00:00,solana,FARTCOIN →JITOSOL→FARTCOIN ,2,raydium/meteora,0.3338,12.28,0.0105,0,0
+2026-06-25T06:02:53.942057+00:00,base,TOSHI→MAMO→VIRTUAL→WETH→TOSHI,4,aerodrome/aerodrome/aerodrome/pancakeswap,3.545,2.0,0.0393,0,0
+2026-06-25T06:02:53.942057+00:00,aptos,STAPT→USDC→STAPT,2,pancakeswap/liquidswap,7.6188,1.0,-0.0054,0,0
+2026-06-25T06:04:42.387114+00:00,solana,FARTCOIN →JITOSOL→FARTCOIN ,2,raydium/meteora,0.3338,12.28,0.0105,0,0
+2026-06-25T06:04:42.387114+00:00,base,TOSHI→MAMO→VIRTUAL→WETH→TOSHI,4,aerodrome/aerodrome/aerodrome/pancakeswap,3.545,2.0,0.0393,0,0
+2026-06-25T06:04:42.387114+00:00,aptos,STAPT→USDC→STAPT,2,pancakeswap/liquidswap,7.6188,1.0,-0.0054,0,0
+2026-06-25T06:06:30.995927+00:00,solana,FARTCOIN →JITOSOL→FARTCOIN ,2,raydium/meteora,0.3338,12.28,0.0105,0,0
+2026-06-25T06:06:30.995927+00:00,aptos,STAPT→USDC→STAPT,2,pancakeswap/liquidswap,7.6188,1.0,-0.0054,0,0
+2026-06-25T06:08:19.589105+00:00,solana,FARTCOIN →JITOSOL→FARTCOIN ,2,raydium/meteora,0.3338,12.28,0.0105,0,0
+2026-06-25T06:08:19.589105+00:00,aptos,STAPT→USDC→STAPT,2,pancakeswap/liquidswap,7.6188,1.0,-0.0054,0,0
+2026-06-25T06:10:08.448122+00:00,solana,FARTCOIN →JITOSOL→FARTCOIN ,2,raydium/meteora,0.3338,12.28,0.0105,0,0
+2026-06-25T06:10:08.448122+00:00,aptos,STAPT→USDC→STAPT,2,pancakeswap/liquidswap,7.6188,1.0,-0.0054,0,0
+2026-06-25T06:11:57.207654+00:00,solana,JITOSOL→FARTCOIN →JITOSOL,2,meteora/raydium,0.3338,1.0,-0.0953,0,0
+2026-06-25T06:11:57.207654+00:00,aptos,STAPT→USDC→STAPT,2,pancakeswap/liquidswap,7.6188,1.0,-0.0054,0,0
+2026-06-25T06:13:45.820515+00:00,solana,XSOL→JUP→PEPE→XSOL,3,meteora/meteora/meteora,6.3209,1.0,-0.9851,0,0
+2026-06-25T06:13:45.820515+00:00,aptos,STAPT→USDC→STAPT,2,pancakeswap/liquidswap,7.6188,1.0,-0.0054,0,0
