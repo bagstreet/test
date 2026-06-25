@@ -10163,3 +10163,12 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-06-25T18:57:21.484620+00:00,sui,DEEP→CETUS→DEEP,2,cetus/cetus,0.1899,1.0,-0.2347,0,0
 2026-06-25T18:57:21.484620+00:00,base,WETH→AXLUSDC→WETH,2,baseswap/horizondex,5.2735,1.0,-0.9589,0,0
 2026-06-25T18:57:21.484620+00:00,aptos,WETH→USDT→WETH,2,liquidswap/pancakeswap,200.7093,1.0,-0.9486,0,0
+2026-06-25T19:01:05.679478+00:00,aptos,USDT→WETH→USDT,2,pancakeswap/liquidswap,200.7093,84.17,61.7709,0,0
+2026-06-25T19:02:55.386625+00:00,aptos,USDT→WETH→USDT,2,pancakeswap/liquidswap,200.7093,84.17,61.7709,0,0
+2026-06-25T19:04:44.783745+00:00,aptos,USDT→WETH→USDT,2,pancakeswap/liquidswap,200.7093,84.17,61.7709,0,0
+2026-06-25T19:06:33.848605+00:00,aptos,USDT→WETH→USDT,2,pancakeswap/liquidswap,200.7093,84.17,61.7709,0,0
+2026-06-25T19:08:23.757013+00:00,aptos,USDT→WETH→USDT,2,pancakeswap/liquidswap,200.7093,84.17,61.7709,0,0
+2026-06-25T19:10:12.161593+00:00,aptos,USDT→WETH→USDT,2,pancakeswap/liquidswap,200.7093,84.17,61.7709,0,0
+2026-06-25T19:12:00.911813+00:00,aptos,USDT→WETH→USDT,2,pancakeswap/liquidswap,200.7093,84.17,61.7709,0,0
+2026-06-25T19:13:50.300296+00:00,base,TOSHI→WETH→TOSHI,2,aerodrome/pancakeswap,2.0661,2.0,0.0111,0,0
+2026-06-25T19:13:50.300296+00:00,aptos,USDT→WETH→USDT,2,pancakeswap/liquidswap,200.7093,84.17,61.7709,0,0
