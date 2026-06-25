@@ -10345,3 +10345,24 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-06-25T21:59:24.900379+00:00,base,WETH→BRETT→WETH,2,aerodrome/uniswap,2.9111,1.0,-0.5298,0,0
 2026-06-25T22:01:05.756769+00:00,sui,USDC→BUCK→USDC,2,bluefin/steamm,0.0506,1.0,-0.024,0,0
 2026-06-25T22:01:05.756769+00:00,base,WETH→BRETT→WETH,2,aerodrome/uniswap,2.9111,1.0,-0.5298,0,0
+2026-06-25T22:15:38.303561+00:00,sui,RESCUE→XAUM→USDC→TURBOS→SCA→RESCUE,5,flowx/bluefin/turbos-finance/turbos-finance/flowx,7.7134,1.0,-0.0148,0,0
+2026-06-25T22:15:38.303561+00:00,solana,PEPE→TRUMP→USDT→GOLD→PEPE,4,meteora/raydium/meteora/meteora,19885.074,7.77,769.9103,0,0
+2026-06-25T22:15:38.303561+00:00,solana,FARTCOIN →USDC→FARTCOIN ,2,raydium/meteora,131.289,3.17,1.6431,0,0
+2026-06-25T22:15:38.303561+00:00,aptos,USDT→APT→USDT,2,liquidswap/liquidswap,182.689,1.0,-0.5626,0,0
+2026-06-25T22:17:17.131596+00:00,solana,PEPE→TRUMP→USDT→GOLD→PEPE,4,meteora/raydium/meteora/meteora,19885.074,7.77,769.9103,0,0
+2026-06-25T22:17:17.131596+00:00,solana,FARTCOIN →USDC→FARTCOIN ,2,raydium/meteora,131.289,3.17,1.6431,0,0
+2026-06-25T22:17:17.131596+00:00,aptos,USDT→APT→USDT,2,liquidswap/liquidswap,182.689,1.0,-0.5626,0,0
+2026-06-25T22:18:55.648026+00:00,solana,FARTCOIN →USDC→FARTCOIN ,2,raydium/raydium,130.5966,3.16,1.6287,0,0
+2026-06-25T22:18:55.648026+00:00,aptos,USDT→APT→USDT,2,liquidswap/liquidswap,182.689,1.0,-0.5626,0,0
+2026-06-25T22:20:34.104610+00:00,solana,USDC→FARTCOIN →USDC,2,orca/raydium,130.6728,1.0,-0.0329,0,0
+2026-06-25T22:20:34.104610+00:00,aptos,USDT→APT→USDT,2,liquidswap/liquidswap,182.689,1.0,-0.5626,0,0
+2026-06-25T22:22:13.378987+00:00,sui,RESCUE→XAUM→USDC→TURBOS→SCA→RESCUE,5,flowx/bluefin/turbos-finance/turbos-finance/flowx,7.7113,1.0,-0.0148,0,0
+2026-06-25T22:22:13.378987+00:00,solana,FARTCOIN →USDC→FARTCOIN ,2,raydium/raydium,130.9806,3.17,1.6367,0,0
+2026-06-25T22:22:13.378987+00:00,aptos,USDT→APT→USDT,2,liquidswap/liquidswap,182.689,1.0,-0.5626,0,0
+2026-06-25T22:23:52.111434+00:00,sui,RESCUE→XAUM→USDC→TURBOS→SCA→RESCUE,5,flowx/bluefin/turbos-finance/turbos-finance/flowx,7.6755,1.0,-0.0152,0,0
+2026-06-25T22:23:52.111434+00:00,solana,FARTCOIN →USDC→FARTCOIN ,2,raydium/meteora,131.289,3.17,1.6431,0,0
+2026-06-25T22:23:52.111434+00:00,aptos,USDT→APT→USDT,2,liquidswap/liquidswap,182.689,1.0,-0.5626,0,0
+2026-06-25T22:25:30.530630+00:00,solana,FARTCOIN →USDC→FARTCOIN ,2,raydium/orca,130.6728,3.16,1.6304,0,0
+2026-06-25T22:25:30.530630+00:00,aptos,USDT→APT→USDT,2,liquidswap/liquidswap,182.689,1.0,-0.5626,0,0
+2026-06-25T22:27:08.818293+00:00,solana,FARTCOIN →USDC→FARTCOIN ,2,raydium/meteora,131.289,3.17,1.6431,0,0
+2026-06-25T22:27:08.818293+00:00,aptos,USDT→APT→USDT,2,liquidswap/liquidswap,182.689,1.0,-0.5626,0,0

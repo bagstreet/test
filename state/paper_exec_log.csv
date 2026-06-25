@@ -2745,3 +2745,7 @@ t0,chain,token,entry_spread_pct,lo_dex,hi_dex,min_tvl,whale,n_samples,n_pos_afte
 2026-06-25T21:36:57.523057+00:00,base,CBETH,0.3304,aerodrome,aerodrome,501437,1,7,0,-0.967,0
 2026-06-25T21:28:38.502747+00:00,sui,USDSUI,0.693,turbos-finance,bluefin,400079,0,13,0,-0.7768,0
 2026-06-25T21:28:38.502747+00:00,base,AERO,0.8663,aerodrome,aerodrome,573725,1,13,2,0.3041,1
+2026-06-25T21:36:57.523057+00:00,base,WSTETH,0.9532,aerodrome,aerodrome,531104,0,10,0,-0.3175,0
+2026-06-25T21:36:57.523057+00:00,base,USDT,0.3307,aerodrome,aerodrome,273443,1,10,0,-1.7222,0
+2026-06-25T21:50:55.693603+00:00,solana,JUP,0.4917,meteora,meteora,308844,1,12,0,-0.9885,0
+2026-06-25T21:50:55.693603+00:00,base,CBBTC,3.6368,aerodrome,pancakeswap,282986,1,12,11,2.1997,1
