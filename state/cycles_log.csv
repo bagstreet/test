@@ -9251,3 +9251,11 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-06-25T08:41:53.302792+00:00,sui,KW→TURBOS→KW,2,turbos-finance/turbos-finance,61.3104,1.52,0.3907,0,0
 2026-06-25T08:41:53.302792+00:00,solana,USD1→USELESS→USDC→USD1,3,raydium/meteora/raydium,18.3684,1.0,-0.9542,0,0
 2026-06-25T08:41:53.302792+00:00,base,BNKR→WBLT→BNKR,2,uniswap/aerodrome,2.6869,1.0,-0.0984,0,0
+2026-06-25T08:45:37.491296+00:00,sui,SUI→USDT→SUI,2,turbos-finance/cetus,1.6235,1.0,-0.7593,0,0
+2026-06-25T08:47:16.847174+00:00,sui,SUI→USDT→SUI,2,turbos-finance/cetus,1.6235,1.0,-0.7593,0,0
+2026-06-25T08:48:55.856213+00:00,sui,SUI→USDT→SUI,2,turbos-finance/cetus,1.6235,1.0,-0.7593,0,0
+2026-06-25T08:50:35.010562+00:00,sui,SUI→USDT→SUI,2,turbos-finance/cetus,1.6235,1.0,-0.7593,0,0
+2026-06-25T08:52:13.869202+00:00,sui,SUI→USDT→SUI,2,turbos-finance/cetus,1.6235,1.0,-0.7593,0,0
+2026-06-25T08:53:52.573043+00:00,sui,SUI→USDT→SUI,2,turbos-finance/cetus,1.6235,1.0,-0.7593,0,0
+2026-06-25T08:55:31.457911+00:00,sui,SUI→USDT→SUI,2,turbos-finance/cetus,1.6235,1.0,-0.7593,0,0
+2026-06-25T08:57:10.552016+00:00,sui,SUI→USDT→SUI,2,turbos-finance/cetus,1.6235,1.0,-0.7593,0,0
