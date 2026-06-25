@@ -10313,3 +10313,13 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-06-25T21:12:47.853217+00:00,solana,POPCAT→$WIF→POPCAT,2,meteora/orca,0.7957,1.0,-0.0103,0,0
 2026-06-25T21:12:47.853217+00:00,base,WETH→AXLUSDC→WETH,2,baseswap/horizondex,5.2735,1.0,-0.9589,0,0
 2026-06-25T21:12:47.853217+00:00,aptos,CAKE→USDC→CAKE,2,pancakeswap/pancakeswap,5.6759,1.0,-0.1402,0,0
+2026-06-25T21:25:19.241185+00:00,sui,FOMO→VSUI→FOMO,2,cetus/cetus,-0.4994,1.0,-0.0906,0,0
+2026-06-25T21:26:58.758805+00:00,sui,FOMO→VSUI→FOMO,2,cetus/cetus,-0.4994,1.0,-0.0906,0,0
+2026-06-25T21:28:38.502747+00:00,sui,FOMO→VSUI→FOMO,2,cetus/cetus,-0.4994,1.0,-0.0906,0,0
+2026-06-25T21:30:18.390938+00:00,sui,FOMO→VSUI→FOMO,2,cetus/cetus,-0.4994,1.0,-0.0906,0,0
+2026-06-25T21:31:58.446600+00:00,sui,FOMO→VSUI→FOMO,2,cetus/cetus,-0.4994,1.0,-0.0906,0,0
+2026-06-25T21:33:38.150245+00:00,sui,FOMO→VSUI→FOMO,2,cetus/cetus,-0.4994,1.0,-0.0906,0,0
+2026-06-25T21:33:38.150245+00:00,base,USDC→VVV→WETH→MAMO→USDC,4,uniswap/uniswap/aerodrome/uniswap,8.1588,1.0,-0.8651,0,0
+2026-06-25T21:35:17.956143+00:00,sui,FOMO→VSUI→FOMO,2,cetus/cetus,-0.4994,1.0,-0.0906,0,0
+2026-06-25T21:35:17.956143+00:00,base,USDC→VVV→WETH→MAMO→USDC,4,uniswap/uniswap/aerodrome/uniswap,8.1588,1.0,-0.8651,0,0
+2026-06-25T21:36:57.523057+00:00,sui,FOMO→VSUI→FOMO,2,cetus/cetus,-0.4994,1.0,-0.0906,0,0
