@@ -9013,3 +9013,16 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-06-25T05:27:52.134111+00:00,sui,CETUS→WUSDT→CETUS,2,cetus/flowx,2.1066,1.0,-0.165,0,0
 2026-06-25T05:27:52.134111+00:00,solana,JLP→INF→JLP,2,orca/orca,1.4705,1.0,-0.003,0,0
 2026-06-25T05:27:52.134111+00:00,base,MAMO→ETH→ZORA→MAMO,3,uniswap/uniswap/aerodrome,27.3884,1.0,-0.9245,0,0
+2026-06-25T05:30:55.312398+00:00,sui,KW→USDT→KW,2,turbos-finance/turbos-finance,61.8491,3.03,0.8049,0,0
+2026-06-25T05:30:55.312398+00:00,solana,FARTCOIN →USDC→MELANIA→JITOSOL→FARTCOIN ,4,raydium/meteora/orca/raydium,125.6893,1.0,-0.7064,0,0
+2026-06-25T05:32:31.247882+00:00,sui,KW→USDT→KW,2,turbos-finance/turbos-finance,61.8491,3.03,0.8049,0,0
+2026-06-25T05:32:31.247882+00:00,solana,FARTCOIN →USDC→MELANIA→JITOSOL→FARTCOIN ,4,raydium/meteora/orca/raydium,125.6893,1.0,-0.7064,0,0
+2026-06-25T05:34:07.145636+00:00,sui,KW→USDT→KW,2,turbos-finance/turbos-finance,61.8491,3.03,0.8049,0,0
+2026-06-25T05:35:42.856999+00:00,sui,KW→USDT→KW,2,turbos-finance/turbos-finance,61.8491,3.03,0.8049,0,0
+2026-06-25T05:37:18.628795+00:00,sui,KW→USDT→KW,2,turbos-finance/turbos-finance,61.8491,3.03,0.8049,0,0
+2026-06-25T05:37:18.628795+00:00,solana,MELANIA→JITOSOL→FARTCOIN →USDC→MELANIA,4,orca/raydium/raydium/meteora,125.6893,1.0,-0.1931,0,0
+2026-06-25T05:38:54.532076+00:00,sui,KW→USDT→KW,2,turbos-finance/turbos-finance,61.8491,3.03,0.8049,0,0
+2026-06-25T05:40:32.058087+00:00,sui,KW→USDT→KW,2,turbos-finance/turbos-finance,61.8491,3.03,0.8049,0,0
+2026-06-25T05:40:32.058087+00:00,solana,USDC→MELANIA→JITOSOL→FARTCOIN →USDC,4,meteora/orca/meteora/raydium,126.1234,1.0,-0.9187,0,0
+2026-06-25T05:42:07.812526+00:00,sui,KW→USDT→KW,2,turbos-finance/turbos-finance,61.8491,3.03,0.8049,0,0
+2026-06-25T05:42:07.812526+00:00,solana,MELANIA→JITOSOL→FARTCOIN →USDC→MELANIA,4,orca/meteora/raydium/meteora,126.6066,1.0,-0.1899,0,0
