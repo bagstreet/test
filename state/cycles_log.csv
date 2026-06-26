@@ -11953,3 +11953,18 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-06-26T18:57:08.772285+00:00,solana,USDC→ARC→USDC,2,meteora/orca,6.15,1.0,-0.0743,0,0
 2026-06-26T18:57:08.772285+00:00,base,MAMO→USDC→MAMO,2,aerodrome/hydrex,3.493,2.65,0.0417,0,0
 2026-06-26T18:57:08.772285+00:00,aptos,USDC→STAPT→USDC,2,liquidswap/pancakeswap,7.2666,1.0,-0.0284,0,0
+2026-06-26T19:00:57.143600+00:00,sui,FUD→WUSDC→DEEP→CETUS→FUD,4,flowx/flowx/cetus/cetus,15.9115,1.0,-0.9241,0,0
+2026-06-26T19:00:57.143600+00:00,aptos,USDC→WETH→USDC,2,liquidswap/liquidswap,206.1538,9.31,6.9564,0,0
+2026-06-26T19:02:37.899235+00:00,aptos,USDC→WETH→USDC,2,liquidswap/liquidswap,206.1538,9.31,6.9564,0,0
+2026-06-26T19:04:14.267373+00:00,solana,USDT→USDC→COAL→USDT,3,orca/raydium/meteora,124.7551,1.0,-0.9472,0,0
+2026-06-26T19:04:14.267373+00:00,aptos,USDC→WETH→USDC,2,liquidswap/liquidswap,206.1538,9.31,6.9564,0,0
+2026-06-26T19:05:50.418121+00:00,solana,PEPE→POPCAT→FARTCOIN →USDC→COAL→PEPE,5,meteora/meteora/raydium/raydium/meteora,231.2679,2.0,3.1035,0,0
+2026-06-26T19:05:50.418121+00:00,aptos,USDC→WETH→USDC,2,liquidswap/liquidswap,206.1538,9.31,6.9564,0,0
+2026-06-26T19:07:26.702250+00:00,solana,PEPE→POPCAT→FARTCOIN →USDC→COAL→PEPE,5,meteora/meteora/raydium/raydium/meteora,231.2679,2.0,3.1035,0,0
+2026-06-26T19:07:26.702250+00:00,aptos,USDC→WETH→USDC,2,liquidswap/liquidswap,206.1538,9.31,6.9564,0,0
+2026-06-26T19:09:03.077626+00:00,solana,COAL→PEPE→POPCAT→FARTCOIN →USDC→COAL,5,meteora/meteora/meteora/raydium/raydium,230.9929,1.0,-0.9016,0,0
+2026-06-26T19:09:03.077626+00:00,aptos,USDC→WETH→USDC,2,liquidswap/liquidswap,206.1538,9.31,6.9564,0,0
+2026-06-26T19:10:39.344980+00:00,solana,COAL→PEPE→POPCAT→FARTCOIN →USDC→COAL,5,meteora/meteora/meteora/raydium/raydium,230.9013,1.0,-0.9018,0,0
+2026-06-26T19:10:39.344980+00:00,aptos,USDC→WETH→USDC,2,liquidswap/liquidswap,206.1538,9.31,6.9564,0,0
+2026-06-26T19:12:15.725460+00:00,solana,COAL→PEPE→POPCAT→FARTCOIN →USDC→COAL,5,meteora/meteora/orca/raydium/raydium,230.6613,1.0,-0.9018,0,0
+2026-06-26T19:12:15.725460+00:00,aptos,USDC→WETH→USDC,2,liquidswap/liquidswap,206.1538,9.31,6.9564,0,0
