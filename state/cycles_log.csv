@@ -11103,3 +11103,26 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-06-26T08:10:52.331508+00:00,solana,FARTCOIN →USDC→CBBTC→SOL→FARTCOIN ,4,raydium/raydium/orca/meteora,263.1665,1.0,0.3301,0,0
 2026-06-26T08:12:30.342871+00:00,sui,MAGMA→USDC→WAL→SUI→MAGMA,4,magma/cetus/cetus/turbos-finance,97.7489,1.0,-0.9832,0,0
 2026-06-26T08:12:30.342871+00:00,solana,FARTCOIN →USDC→CBBTC→SOL→FARTCOIN ,4,raydium/raydium/orca/meteora,263.1665,1.0,0.3301,0,0
+2026-06-26T08:15:38.620158+00:00,sui,NS→CETUS→NS,2,cetus/cetus,6.7804,1.39,0.0262,0,0
+2026-06-26T08:15:38.620158+00:00,base,USDT→WETH→USDC→COREX→USDT,4,aerodrome/iziswap/uniswap/uniswap,35.2395,1.0,-0.4588,0,0
+2026-06-26T08:15:38.620158+00:00,aptos,USDC→APT→USDC,2,liquidswap/pancakeswap,181.7622,8.34,5.6383,0,0
+2026-06-26T08:17:19.344249+00:00,sui,NS→CETUS→NS,2,cetus/cetus,6.7804,1.39,0.0262,0,0
+2026-06-26T08:17:19.344249+00:00,base,USDT→WETH→USDC→COREX→USDT,4,aerodrome/iziswap/uniswap/uniswap,35.2182,1.0,-0.4588,0,0
+2026-06-26T08:17:19.344249+00:00,aptos,USDC→APT→USDC,2,liquidswap/pancakeswap,181.7622,8.34,5.6383,0,0
+2026-06-26T08:19:00.121476+00:00,sui,NS→CETUS→NS,2,cetus/cetus,6.7804,1.39,0.0262,0,0
+2026-06-26T08:19:00.121476+00:00,base,USDT→WETH→USDC→COREX→USDT,4,aerodrome/iziswap/uniswap/uniswap,35.2182,1.0,-0.4588,0,0
+2026-06-26T08:19:00.121476+00:00,aptos,USDC→APT→USDC,2,liquidswap/pancakeswap,181.7622,8.34,5.6383,0,0
+2026-06-26T08:20:41.267054+00:00,sui,NS→CETUS→NS,2,cetus/cetus,6.7804,1.39,0.0262,0,0
+2026-06-26T08:20:41.267054+00:00,base,USDT→WETH→USDC→COREX→USDT,4,aerodrome/aerodrome/uniswap/uniswap,35.0486,1.0,-0.4591,0,0
+2026-06-26T08:20:41.267054+00:00,aptos,USDC→APT→USDC,2,liquidswap/pancakeswap,181.7622,8.34,5.6383,0,0
+2026-06-26T08:22:22.127958+00:00,sui,NS→CETUS→NS,2,cetus/cetus,6.7804,1.39,0.0262,0,0
+2026-06-26T08:22:22.127958+00:00,base,USDT→WETH→USDC→COREX→USDT,4,aerodrome/aerodrome/uniswap/uniswap,34.9849,1.0,-0.4592,0,0
+2026-06-26T08:22:22.127958+00:00,aptos,USDC→APT→USDC,2,liquidswap/pancakeswap,181.7622,8.34,5.6383,0,0
+2026-06-26T08:24:03.231074+00:00,sui,NS→CETUS→NS,2,cetus/cetus,6.7804,1.39,0.0262,0,0
+2026-06-26T08:24:03.231074+00:00,base,USDT→WETH→USDC→COREX→USDT,4,aerodrome/aerodrome/uniswap/uniswap,79.8487,1.0,-0.2691,0,0
+2026-06-26T08:24:03.231074+00:00,aptos,USDC→APT→USDC,2,liquidswap/pancakeswap,181.7622,8.34,5.6383,0,0
+2026-06-26T08:25:44.450755+00:00,sui,CETUS→NS→CETUS,2,cetus/cetus,6.7804,1.0,0.0107,0,0
+2026-06-26T08:25:44.450755+00:00,base,CLAWNCH→CLANKER→WETH→CLAWNCH,3,uniswap/aerodrome/uniswap,3.1368,1.0,-0.0574,0,0
+2026-06-26T08:25:44.450755+00:00,aptos,USDC→APT→USDC,2,liquidswap/pancakeswap,181.7622,8.34,5.6383,0,0
+2026-06-26T08:27:25.545807+00:00,sui,CETUS→NS→CETUS,2,cetus/cetus,6.7804,1.0,0.0107,0,0
+2026-06-26T08:27:25.545807+00:00,aptos,USDC→APT→USDC,2,liquidswap/pancakeswap,181.7622,8.34,5.6383,0,0
