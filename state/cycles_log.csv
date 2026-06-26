@@ -11772,3 +11772,24 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-06-26T16:39:20.163812+00:00,solana,USDC→FARTCOIN →USDC,2,raydium/raydium,117.6479,1.0,-0.0506,0,0
 2026-06-26T16:41:01.534337+00:00,solana,USDC→HYPE→FARTCOIN →USDC,3,meteora/orca/raydium,117.8271,1.0,-0.0502,0,0
 2026-06-26T16:42:43.117733+00:00,solana,USDC→FARTCOIN →USDC,2,meteora/raydium,118.0962,1.0,-0.0497,0,0
+2026-06-26T16:45:37.193590+00:00,base,BMX→WBLT→BMX,2,velocimeter/aerodrome,0.4146,7.75,-0.014,0,0
+2026-06-26T16:45:37.193590+00:00,aptos,USDA→USDC→USDA,2,aux/liquidswap,180.4712,79.55,53.6525,0,0
+2026-06-26T16:47:16.966748+00:00,sui,TURBOS→NS→TURBOS,2,turbos-finance/turbos-finance,3.3464,1.0,-0.4549,0,0
+2026-06-26T16:47:16.966748+00:00,base,BMX→WBLT→BMX,2,velocimeter/aerodrome,0.4146,7.75,-0.014,0,0
+2026-06-26T16:47:16.966748+00:00,aptos,USDA→USDC→USDA,2,aux/liquidswap,180.4712,79.55,53.6525,0,0
+2026-06-26T16:48:56.506351+00:00,sui,TURBOS→NS→TURBOS,2,turbos-finance/turbos-finance,3.3464,1.0,-0.4549,0,0
+2026-06-26T16:48:56.506351+00:00,base,BMX→WBLT→BMX,2,velocimeter/aerodrome,0.4146,7.75,-0.014,0,0
+2026-06-26T16:48:56.506351+00:00,aptos,USDA→USDC→USDA,2,aux/liquidswap,180.4712,79.55,53.6525,0,0
+2026-06-26T16:50:36.164315+00:00,sui,TURBOS→NS→TURBOS,2,turbos-finance/turbos-finance,3.3464,1.0,-0.4549,0,0
+2026-06-26T16:50:36.164315+00:00,base,BMX→WBLT→BMX,2,velocimeter/aerodrome,0.4146,7.75,-0.014,0,0
+2026-06-26T16:50:36.164315+00:00,aptos,USDA→USDC→USDA,2,aux/liquidswap,180.4712,79.55,53.6525,0,0
+2026-06-26T16:52:15.701833+00:00,base,BMX→WBLT→BMX,2,velocimeter/aerodrome,0.4146,7.75,-0.014,0,0
+2026-06-26T16:52:15.701833+00:00,aptos,USDC→USDA→USDC,2,liquidswap/aux,180.4712,14.52,9.7758,0,0
+2026-06-26T16:53:55.097953+00:00,base,BMX→WBLT→BMX,2,velocimeter/aerodrome,0.4146,7.75,-0.014,0,0
+2026-06-26T16:53:55.097953+00:00,aptos,USDC→USDA→USDC,2,liquidswap/aux,180.4712,14.52,9.7758,0,0
+2026-06-26T16:55:36.435607+00:00,sui,TURBOS→NS→TURBOS,2,turbos-finance/turbos-finance,3.3464,1.0,-0.4549,0,0
+2026-06-26T16:55:36.435607+00:00,base,BMX→WBLT→BMX,2,velocimeter/aerodrome,0.4146,7.75,-0.014,0,0
+2026-06-26T16:55:36.435607+00:00,aptos,USDC→USDA→USDC,2,liquidswap/aux,180.4712,14.52,9.7758,0,0
+2026-06-26T16:57:16.115589+00:00,sui,TURBOS→NS→TURBOS,2,turbos-finance/turbos-finance,3.3464,1.0,-0.4549,0,0
+2026-06-26T16:57:16.115589+00:00,base,BMX→WBLT→BMX,2,velocimeter/aerodrome,0.4146,7.75,-0.014,0,0
+2026-06-26T16:57:16.115589+00:00,aptos,USDC→USDA→USDC,2,liquidswap/aux,180.4712,14.52,9.7758,0,0
