@@ -10456,3 +10456,8 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-06-25T23:57:06.388435+00:00,sui,USDC→TURBOS→USDC,2,turbos-finance/turbos-finance,2.1277,1.0,-0.5638,0,0
 2026-06-25T23:57:06.388435+00:00,solana,USDT→ORE→USDT,2,orca/orca,1.5973,1.0,-0.1372,0,0
 2026-06-25T23:57:06.388435+00:00,base,VTX→NOCK→VTX,2,uniswap/baseswap,1.9359,1.0,-0.0284,0,0
+2026-06-26T00:01:02.818840+00:00,solana,FARTCOIN →USDC→CBBTC→PAWEL→JITOSOL→FARTCOIN ,5,raydium/raydium/meteora/meteora/meteora,241.5029,1.0,-0.9878,0,0
+2026-06-26T00:04:29.272713+00:00,base,KEYCAT→AIOCTO→BRETT→USDC→MAMO→KEYCAT,5,uniswap/uniswap/uniswap/hydrex/aerodrome,19.2689,1.0,-0.2588,0,0
+2026-06-26T00:06:12.383612+00:00,base,KEYCAT→AIOCTO→BRETT→USDC→MAMO→KEYCAT,5,uniswap/uniswap/uniswap/hydrex/aerodrome,19.2689,1.0,-0.2588,0,0
+2026-06-26T00:07:55.668953+00:00,base,KEYCAT→AIOCTO→BRETT→USDC→MAMO→KEYCAT,5,uniswap/uniswap/uniswap/hydrex/aerodrome,19.2689,1.0,-0.2588,0,0
+2026-06-26T00:09:38.714145+00:00,base,KEYCAT→AIOCTO→BRETT→USDC→MAMO→KEYCAT,5,uniswap/uniswap/uniswap/hydrex/aerodrome,19.2689,1.0,-0.2588,0,0
