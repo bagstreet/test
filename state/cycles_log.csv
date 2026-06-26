@@ -11563,3 +11563,9 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-06-26T13:25:39.108301+00:00,base,EURC→USDC→EURC,2,aerodrome/aerodrome,0.1192,1.0,-0.0401,0,0
 2026-06-26T13:27:18.809763+00:00,solana,SOL→HOUSE→SOL,2,meteora/orca,4.3981,1.0,-0.9979,0,0
 2026-06-26T13:27:18.809763+00:00,base,EURC→USDC→EURC,2,aerodrome/aerodrome,0.1279,1.0,-0.0401,0,0
+2026-06-26T13:30:49.138534+00:00,sui,FUD→SUI→FUD,2,flowx/cetus,24.7046,1.0,-0.1163,0,0
+2026-06-26T13:30:49.138534+00:00,base,VVV→WETH→VVV,2,pancakeswap/aerodrome,2.4435,1.0,-0.0585,0,0
+2026-06-26T13:32:30.678060+00:00,base,VVV→WETH→VVV,2,pancakeswap/aerodrome,2.4435,1.0,-0.0585,0,0
+2026-06-26T13:34:11.986670+00:00,base,VVV→WETH→VVV,2,pancakeswap/aerodrome,2.4435,1.0,-0.0585,0,0
+2026-06-26T13:35:52.897708+00:00,base,WETH→USDT→VVV→WETH,3,aerodrome/uniswap/pancakeswap,2.4077,1.0,-0.8968,0,0
+2026-06-26T13:42:38.833908+00:00,sui,FUD→SUI→FUD,2,flowx/cetus,24.5189,1.0,-0.1177,0,0
