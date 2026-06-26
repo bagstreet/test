@@ -10967,3 +10967,24 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-06-26T06:23:47.597835+00:00,solana,FARTCOIN →POPCAT→FARTCOIN ,2,meteora/meteora,0.6719,1.0,-0.1981,0,0
 2026-06-26T06:25:25.710461+00:00,solana,POPCAT→$WIF→POPCAT,2,orca/meteora,0.0823,1.0,-0.0119,0,0
 2026-06-26T06:27:03.976665+00:00,solana,POPCAT→$WIF→POPCAT,2,orca/orca,0.5305,1.62,-0.0057,0,0
+2026-06-26T06:30:49.949981+00:00,sui,SUI→NS→SUI,2,cetus/turbos-finance,2.6486,1.0,-0.8903,0,0
+2026-06-26T06:30:49.949981+00:00,solana,PAWEL→USDT→GOLD→PEPE→MELANIA→PAWEL,5,meteora/meteora/meteora/meteora/meteora,19613.2545,1.0,4.823,0,0
+2026-06-26T06:30:49.949981+00:00,aptos,USDT→APT→USDT,2,liquidswap/liquidswap,190.1952,1.0,-0.5607,0,0
+2026-06-26T06:32:29.581790+00:00,sui,SUI→NS→SUI,2,cetus/turbos-finance,2.6486,1.0,-0.8903,0,0
+2026-06-26T06:32:29.581790+00:00,solana,PEPE→MELANIA→PAWEL→USDT→GOLD→PEPE,5,meteora/meteora/meteora/meteora/meteora,19613.2545,2.0,140.9038,0,0
+2026-06-26T06:32:29.581790+00:00,aptos,USDT→APT→USDT,2,liquidswap/liquidswap,190.1952,1.0,-0.5607,0,0
+2026-06-26T06:34:08.887036+00:00,sui,SUI→NS→SUI,2,cetus/turbos-finance,2.6486,1.0,-0.8903,0,0
+2026-06-26T06:34:08.887036+00:00,solana,PEPE→MELANIA→PAWEL→USDT→GOLD→PEPE,5,meteora/meteora/meteora/meteora/meteora,19613.2545,2.0,140.9038,0,0
+2026-06-26T06:34:08.887036+00:00,aptos,USDT→APT→USDT,2,liquidswap/liquidswap,190.1952,1.0,-0.5607,0,0
+2026-06-26T06:35:47.973772+00:00,sui,SUI→NS→SUI,2,cetus/turbos-finance,2.6486,1.0,-0.8903,0,0
+2026-06-26T06:35:47.973772+00:00,solana,PEPE→MELANIA→PAWEL→USDT→GOLD→PEPE,5,meteora/meteora/meteora/meteora/meteora,19613.2545,2.0,140.9038,0,0
+2026-06-26T06:35:47.973772+00:00,aptos,USDT→APT→USDT,2,liquidswap/liquidswap,190.1952,1.0,-0.5607,0,0
+2026-06-26T06:37:27.532331+00:00,sui,SUI→NS→SUI,2,cetus/turbos-finance,2.6486,1.0,-0.8903,0,0
+2026-06-26T06:37:27.532331+00:00,solana,PEPE→MELANIA→PAWEL→USDT→GOLD→PEPE,5,meteora/meteora/meteora/meteora/meteora,19613.2545,2.0,140.9038,0,0
+2026-06-26T06:37:27.532331+00:00,aptos,USDT→APT→USDT,2,liquidswap/liquidswap,190.1952,1.0,-0.5607,0,0
+2026-06-26T06:39:06.954735+00:00,sui,SUI→NS→SUI,2,cetus/turbos-finance,2.7123,1.0,-0.8903,0,0
+2026-06-26T06:39:06.954735+00:00,aptos,USDT→APT→USDT,2,liquidswap/liquidswap,190.1952,1.0,-0.5607,0,0
+2026-06-26T06:40:46.290671+00:00,sui,SUI→NS→SUI,2,cetus/turbos-finance,2.968,1.0,-0.8903,0,0
+2026-06-26T06:40:46.290671+00:00,aptos,USDT→APT→USDT,2,liquidswap/liquidswap,190.1952,1.0,-0.5607,0,0
+2026-06-26T06:42:25.595361+00:00,sui,SUI→NS→SUI,2,cetus/turbos-finance,3.0321,1.0,-0.8903,0,0
+2026-06-26T06:42:25.595361+00:00,aptos,USDT→APT→USDT,2,liquidswap/liquidswap,190.1952,1.0,-0.5607,0,0
