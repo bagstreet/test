@@ -10765,3 +10765,27 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-06-26T04:12:32.339183+00:00,sui,USDC→NS→CETUS→USDC,3,steamm/cetus/cetus,7.0138,1.0,-0.6005,0,0
 2026-06-26T04:12:32.339183+00:00,solana,FARTCOIN →USDC→FARTCOIN ,2,raydium/meteora,133.0387,3.21,1.6783,0,0
 2026-06-26T04:12:32.339183+00:00,base,USDC→BMX→USDC,2,aerodrome/uniswap,17.8869,1.0,0.0442,0,0
+2026-06-26T04:15:38.124161+00:00,sui,NAVX→SUI→BUCK→NAVX,3,cetus/cetus/cetus,2.1128,1.0,-0.1977,0,0
+2026-06-26T04:15:38.124161+00:00,solana,PEPE→USDT→GOLD→PEPE,3,meteora/meteora/meteora,19737.4699,9.22,906.6821,0,0
+2026-06-26T04:15:38.124161+00:00,aptos,USDC→APT→USDC,2,liquidswap/liquidswap,189.1328,2.99,2.0767,0,0
+2026-06-26T04:17:18.980341+00:00,sui,NAVX→SUI→BUCK→NAVX,3,cetus/cetus/cetus,1.9221,1.0,-0.1992,0,0
+2026-06-26T04:17:18.980341+00:00,aptos,USDC→APT→USDC,2,liquidswap/liquidswap,189.1328,2.99,2.0767,0,0
+2026-06-26T04:19:00.383064+00:00,sui,NAVX→SUI→BUCK→NAVX,3,cetus/cetus/cetus,1.9221,1.0,-0.1992,0,0
+2026-06-26T04:19:00.383064+00:00,base,BMX→WBLT→CLANKER→MAMO→BMX,4,aerodrome/uniswap/aerodrome/aerodrome,0.7622,1.0,-0.9835,0,0
+2026-06-26T04:19:00.383064+00:00,aptos,USDC→APT→USDC,2,liquidswap/liquidswap,189.1328,2.99,2.0767,0,0
+2026-06-26T04:20:41.394278+00:00,sui,NAVX→SUI→BUCK→NAVX,3,cetus/cetus/cetus,1.9221,1.0,-0.1992,0,0
+2026-06-26T04:20:41.394278+00:00,base,BMX→WBLT→CLANKER→MAMO→BMX,4,aerodrome/uniswap/aerodrome/aerodrome,0.7622,1.0,-0.9835,0,0
+2026-06-26T04:20:41.394278+00:00,aptos,USDC→APT→USDC,2,liquidswap/liquidswap,189.1328,2.99,2.0767,0,0
+2026-06-26T04:22:22.561234+00:00,sui,NAVX→SUI→BUCK→NAVX,3,cetus/cetus/cetus,1.9221,1.0,-0.1992,0,0
+2026-06-26T04:22:22.561234+00:00,base,BMX→WBLT→CLANKER→MAMO→BMX,4,aerodrome/uniswap/aerodrome/aerodrome,0.7622,1.0,-0.9835,0,0
+2026-06-26T04:22:22.561234+00:00,aptos,USDC→APT→USDC,2,liquidswap/liquidswap,189.1328,2.99,2.0767,0,0
+2026-06-26T04:24:03.747654+00:00,sui,NAVX→SUI→BUCK→NAVX,3,cetus/cetus/cetus,1.9221,1.0,-0.1992,0,0
+2026-06-26T04:24:03.747654+00:00,solana,PEPE→USDT→GOLD→PEPE,3,meteora/meteora/meteora,19737.4699,9.22,906.6821,0,0
+2026-06-26T04:24:03.747654+00:00,base,BMX→WBLT→CLANKER→MAMO→BMX,4,aerodrome/uniswap/aerodrome/aerodrome,0.7622,1.0,-0.9835,0,0
+2026-06-26T04:24:03.747654+00:00,aptos,USDC→APT→USDC,2,liquidswap/liquidswap,189.1328,2.99,2.0767,0,0
+2026-06-26T04:25:45.046727+00:00,sui,NAVX→SUI→BUCK→NAVX,3,cetus/cetus/cetus,1.9221,1.0,-0.1992,0,0
+2026-06-26T04:25:45.046727+00:00,base,MAMO→BMX→WBLT→CLANKER→MAMO,4,aerodrome/aerodrome/uniswap/aerodrome,0.7622,1.0,-0.2675,0,0
+2026-06-26T04:25:45.046727+00:00,aptos,USDC→APT→USDC,2,liquidswap/liquidswap,189.1328,2.99,2.0767,0,0
+2026-06-26T04:27:26.074457+00:00,sui,NAVX→SUI→BUCK→NAVX,3,cetus/cetus/cetus,1.9221,1.0,-0.1992,0,0
+2026-06-26T04:27:26.074457+00:00,base,MAMO→BMX→WBLT→CLANKER→MAMO,4,aerodrome/aerodrome/uniswap/aerodrome,0.7622,1.0,-0.2675,0,0
+2026-06-26T04:27:26.074457+00:00,aptos,USDC→APT→USDC,2,liquidswap/liquidswap,189.1328,2.99,2.0767,0,0
