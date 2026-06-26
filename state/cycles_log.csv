@@ -11263,3 +11263,16 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-06-26T09:53:41.484609+00:00,sui,NAVX→CETUS→NAVX,2,cetus/cetus,4.9051,1.0,-0.0292,0,0
 2026-06-26T09:55:18.615233+00:00,sui,NAVX→CETUS→NAVX,2,cetus/cetus,4.9051,1.0,-0.0292,0,0
 2026-06-26T09:56:55.760942+00:00,sui,NAVX→CETUS→NAVX,2,cetus/cetus,4.9051,1.0,-0.0292,0,0
+2026-06-26T10:00:57.062264+00:00,sui,USDC→TURBOS→USDC,2,turbos-finance/turbos-finance,0.4765,1.0,-0.9693,0,0
+2026-06-26T10:00:57.062264+00:00,base,AERO→USDC→AERO,2,aerodrome/aerodrome,3.957,126.54,2.4492,0,0
+2026-06-26T10:02:39.518129+00:00,sui,USDC→TURBOS→USDC,2,turbos-finance/turbos-finance,0.4765,1.0,-0.9693,0,0
+2026-06-26T10:02:39.518129+00:00,base,AERO→USDC→AERO,2,aerodrome/aerodrome,4.136,132.2,2.6762,0,0
+2026-06-26T10:04:21.301870+00:00,sui,USDC→TURBOS→USDC,2,turbos-finance/turbos-finance,0.4883,1.0,-0.9693,0,0
+2026-06-26T10:04:21.301870+00:00,base,AERO→USDC→AERO,2,aerodrome/aerodrome,4.0912,130.78,2.6185,0,0
+2026-06-26T10:06:03.263713+00:00,sui,USDC→TURBOS→USDC,2,turbos-finance/turbos-finance,1.6293,1.0,-0.9693,0,0
+2026-06-26T10:06:03.263713+00:00,base,AERO→USDC→AERO,2,aerodrome/aerodrome,4.0688,130.07,2.5898,0,0
+2026-06-26T10:07:44.681134+00:00,sui,USDC→TURBOS→USDC,2,turbos-finance/turbos-finance,1.6293,1.0,-0.9693,0,0
+2026-06-26T10:09:25.748811+00:00,sui,USDC→TURBOS→USDC,2,turbos-finance/turbos-finance,1.6293,1.0,-0.9693,0,0
+2026-06-26T10:11:07.091467+00:00,sui,USDC→TURBOS→USDC,2,turbos-finance/turbos-finance,1.6293,1.0,-0.9693,0,0
+2026-06-26T10:11:07.091467+00:00,base,USDC→VVV→USDC,2,aerodrome/alien-base,2.6772,1.0,-0.9764,0,0
+2026-06-26T10:12:49.305388+00:00,sui,USDC→TURBOS→USDC,2,turbos-finance/turbos-finance,1.6293,1.0,-0.9693,0,0
