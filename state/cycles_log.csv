@@ -10943,3 +10943,18 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-06-26T05:57:23.698579+00:00,solana,FARTCOIN →USDC→CBBTC→SOL→FARTCOIN ,4,raydium/raydium/orca/meteora,258.1327,1.0,0.3157,0,0
 2026-06-26T05:57:23.698579+00:00,base,USDBC→USDT→USDBC,2,aerodrome/quickswap,11.9159,1.0,-0.0596,0,0
 2026-06-26T05:57:23.698579+00:00,aptos,USDT→APT→USDT,2,liquidswap/liquidswap,195.6505,1.0,-0.5593,0,0
+2026-06-26T06:00:55.954619+00:00,sui,CETUS→NS→CETUS,2,cetus/cetus,6.7804,1.0,0.0107,0,0
+2026-06-26T06:00:55.954619+00:00,base,USDT→CBETH→USDC→COREX→USDT,4,uniswap/aerodrome/uniswap/uniswap,37.6321,1.0,-0.4554,0,0
+2026-06-26T06:02:37.370548+00:00,sui,CETUS→NS→CETUS,2,cetus/cetus,6.7804,1.0,0.0107,0,0
+2026-06-26T06:02:37.370548+00:00,base,USDT→CBETH→USDC→COREX→USDT,4,uniswap/aerodrome/uniswap/uniswap,37.6321,1.0,-0.4554,0,0
+2026-06-26T06:04:20.050302+00:00,sui,CETUS→NS→CETUS,2,cetus/cetus,6.7804,1.0,0.0107,0,0
+2026-06-26T06:04:20.050302+00:00,base,USDT→CBETH→USDC→COREX→USDT,4,uniswap/aerodrome/uniswap/uniswap,37.6321,1.0,-0.4554,0,0
+2026-06-26T06:06:01.353219+00:00,sui,CETUS→NS→CETUS,2,cetus/cetus,6.7804,1.0,0.0107,0,0
+2026-06-26T06:06:01.353219+00:00,base,USDT→CBETH→USDC→COREX→USDT,4,uniswap/aerodrome/uniswap/uniswap,37.6181,1.0,-0.4554,0,0
+2026-06-26T06:07:42.466382+00:00,sui,CETUS→NS→CETUS,2,cetus/cetus,6.7804,1.0,0.0107,0,0
+2026-06-26T06:07:42.466382+00:00,base,USDT→CBETH→USDC→COREX→USDT,4,uniswap/aerodrome/uniswap/uniswap,37.5668,1.0,-0.4555,0,0
+2026-06-26T06:09:26.012507+00:00,sui,CETUS→NS→CETUS,2,cetus/cetus,6.7804,1.0,0.0107,0,0
+2026-06-26T06:09:26.012507+00:00,base,USDT→CBETH→USDC→COREX→USDT,4,uniswap/aerodrome/uniswap/uniswap,37.5668,1.0,-0.4555,0,0
+2026-06-26T06:11:06.838753+00:00,sui,CETUS→NS→CETUS,2,cetus/cetus,6.7804,1.0,0.0107,0,0
+2026-06-26T06:11:06.838753+00:00,base,COREX→USDT→CBETH→USDC→COREX,4,uniswap/uniswap/aerodrome/uniswap,37.5358,1.0,-0.7789,0,0
+2026-06-26T06:12:47.411647+00:00,base,USDC→COREX→USDT→USDC,3,uniswap/uniswap/aerodrome,37.3123,1.0,-0.4499,0,0
