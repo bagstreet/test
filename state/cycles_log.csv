@@ -10617,3 +10617,29 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-06-26T02:13:10.353532+00:00,solana,USDC→SQUIRE→USDC,2,meteora/meteora,0.2416,1.0,-0.1007,0,0
 2026-06-26T02:13:10.353532+00:00,base,TOSHI→BRETT→USDC→TOSHI,3,aerodrome/uniswap/aerodrome,17.9261,1.0,-0.1723,0,0
 2026-06-26T02:13:10.353532+00:00,aptos,APT→USDC→APT,2,liquidswap/liquidswap,186.0851,15.96,11.0115,0,0
+2026-06-26T02:15:37.773928+00:00,solana,PYUSD→FARTCOIN →USDC→CBBTC→PYUSD,4,raydium/raydium/raydium/meteora,260.7358,1.0,-0.7805,0,0
+2026-06-26T02:15:37.773928+00:00,base,ODAI→USDBC→USDT→ETH→FLETH→ODAI,5,uniswap/aerodrome/uniswap/uniswap/uniswap,368.7306,6.52,11.0396,0,0
+2026-06-26T02:15:37.773928+00:00,base,BMX→USDC→COREX→USDT→ETH→BMX,5,uniswap/uniswap/uniswap/uniswap/uniswap,46.435,1.0,-0.2346,0,0
+2026-06-26T02:15:37.773928+00:00,base,USDT→USDC→COREX→USDT,3,uniswap/uniswap/uniswap,23.8164,1.0,-0.5063,0,0
+2026-06-26T02:15:37.773928+00:00,aptos,USDT→APT→USDT,2,liquidswap/liquidswap,195.6505,1.0,-0.5593,0,0
+2026-06-26T02:17:16.291870+00:00,solana,PYUSD→FARTCOIN →USDC→CBBTC→PYUSD,4,raydium/raydium/raydium/meteora,259.0507,1.0,-0.7807,0,0
+2026-06-26T02:17:16.291870+00:00,base,COREX→USDT→USDC→COREX,3,uniswap/uniswap/uniswap,23.8164,1.0,-0.7798,0,0
+2026-06-26T02:17:16.291870+00:00,aptos,USDT→APT→USDT,2,liquidswap/liquidswap,195.6505,1.0,-0.5593,0,0
+2026-06-26T02:18:54.814581+00:00,solana,PYUSD→FARTCOIN →USDC→CBBTC→PYUSD,4,raydium/raydium/raydium/meteora,259.0507,1.0,-0.7807,0,0
+2026-06-26T02:18:54.814581+00:00,base,COREX→USDT→USDC→COREX,3,uniswap/uniswap/uniswap,23.8164,1.0,-0.7798,0,0
+2026-06-26T02:18:54.814581+00:00,aptos,USDT→APT→USDT,2,liquidswap/liquidswap,195.6505,1.0,-0.5593,0,0
+2026-06-26T02:20:34.053276+00:00,solana,PYUSD→FARTCOIN →USDC→CBBTC→PYUSD,4,raydium/raydium/raydium/meteora,259.0507,1.0,-0.7807,0,0
+2026-06-26T02:20:34.053276+00:00,base,COREX→USDT→USDC→COREX,3,uniswap/uniswap/uniswap,23.8164,1.0,-0.7798,0,0
+2026-06-26T02:20:34.053276+00:00,aptos,USDT→APT→USDT,2,liquidswap/liquidswap,195.6505,1.0,-0.5593,0,0
+2026-06-26T02:22:12.590548+00:00,solana,USDC→CBBTC→PYUSD→FARTCOIN →USDC,4,raydium/meteora/raydium/raydium,259.0507,1.0,-0.5962,0,0
+2026-06-26T02:22:12.590548+00:00,base,COREX→USDT→USDC→COREX,3,uniswap/uniswap/uniswap,23.8164,1.0,-0.7798,0,0
+2026-06-26T02:22:12.590548+00:00,aptos,USDT→APT→USDT,2,liquidswap/liquidswap,195.6505,1.0,-0.5593,0,0
+2026-06-26T02:23:51.022330+00:00,solana,USDC→CBBTC→PYUSD→FARTCOIN →USDC,4,raydium/meteora/raydium/raydium,259.0507,1.0,-0.5962,0,0
+2026-06-26T02:23:51.022330+00:00,base,COREX→USDT→USDC→COREX,3,uniswap/uniswap/uniswap,32.7183,1.0,-0.7763,0,0
+2026-06-26T02:23:51.022330+00:00,aptos,USDT→APT→USDT,2,liquidswap/liquidswap,195.6505,1.0,-0.5593,0,0
+2026-06-26T02:25:29.357533+00:00,solana,USDC→USDT→USELESS→FARTCOIN →USDC,4,raydium/meteora/meteora/raydium,174.6828,1.0,-0.3803,0,0
+2026-06-26T02:25:29.357533+00:00,base,COREX→USDT→USDC→COREX,3,uniswap/uniswap/uniswap,32.7183,1.0,-0.7763,0,0
+2026-06-26T02:25:29.357533+00:00,aptos,USDT→APT→USDT,2,liquidswap/liquidswap,195.6505,1.0,-0.5593,0,0
+2026-06-26T02:27:07.761413+00:00,solana,USDC→USDT→USELESS→FARTCOIN →USDC,4,raydium/meteora/meteora/raydium,174.6828,1.0,-0.3803,0,0
+2026-06-26T02:27:07.761413+00:00,base,COREX→USDT→USDC→COREX,3,uniswap/uniswap/uniswap,32.7183,1.0,-0.7763,0,0
+2026-06-26T02:27:07.761413+00:00,aptos,USDT→APT→USDT,2,liquidswap/liquidswap,195.6505,1.0,-0.5593,0,0
