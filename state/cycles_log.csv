@@ -11992,3 +11992,22 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-06-26T19:37:31.949909+00:00,sui,CETUS→NAVX→CETUS,2,cetus/cetus,1.7334,1.0,-0.2151,0,0
 2026-06-26T19:37:31.949909+00:00,solana,FARTCOIN →USDC→ARC→FARTCOIN ,3,raydium/meteora/orca,131.4573,2.89,1.4967,0,0
 2026-06-26T19:37:31.949909+00:00,aptos,USDC→APT→USDC,2,liquidswap/pancakeswap,173.5221,8.23,5.3585,0,0
+2026-06-26T19:49:46.389641+00:00,sui,TURBOS→CETUS→TURBOS,2,turbos-finance/turbos-finance,81.5703,1.0,-0.0156,0,0
+2026-06-26T19:49:46.389641+00:00,solana,SOL→ORE→STORE→SOL,3,meteora/meteora/meteora,17.5546,5.03,0.4139,0,0
+2026-06-26T19:51:22.840310+00:00,sui,TURBOS→CETUS→TURBOS,2,turbos-finance/turbos-finance,81.5703,1.0,-0.0156,0,0
+2026-06-26T19:51:22.840310+00:00,solana,SOL→ORE→STORE→SOL,3,meteora/meteora/meteora,17.5546,5.03,0.4139,0,0
+2026-06-26T19:53:01.413676+00:00,sui,TURBOS→CETUS→TURBOS,2,turbos-finance/turbos-finance,81.5703,1.0,-0.0156,0,0
+2026-06-26T19:53:01.413676+00:00,solana,SOL→ORE→STORE→SOL,3,meteora/meteora/meteora,17.5546,5.03,0.4139,0,0
+2026-06-26T19:54:40.197924+00:00,sui,TURBOS→CETUS→TURBOS,2,turbos-finance/turbos-finance,81.5703,1.0,-0.0156,0,0
+2026-06-26T19:54:40.197924+00:00,solana,SOL→PENGU→SOL,2,orca/meteora,7.1,1.0,-0.9078,0,0
+2026-06-26T19:56:18.816621+00:00,sui,TURBOS→CETUS→TURBOS,2,turbos-finance/turbos-finance,81.5703,1.0,-0.0156,0,0
+2026-06-26T19:56:18.816621+00:00,solana,SOL→PENGU→SOL,2,orca/meteora,7.1,1.0,-0.9078,0,0
+2026-06-26T19:57:57.183078+00:00,sui,TURBOS→CETUS→TURBOS,2,turbos-finance/turbos-finance,81.5703,1.0,-0.0156,0,0
+2026-06-26T19:57:57.183078+00:00,solana,SOL→PENGU→SOL,2,orca/meteora,7.1,1.0,-0.9078,0,0
+2026-06-26T19:57:57.183078+00:00,base,WETH→SOL→WETH,2,aerodrome/aerodrome,7.2975,1.0,-0.9792,0,0
+2026-06-26T19:59:35.506922+00:00,sui,TURBOS→CETUS→TURBOS,2,turbos-finance/turbos-finance,81.5703,1.0,-0.0156,0,0
+2026-06-26T19:59:35.506922+00:00,solana,SOL→PENGU→SOL,2,orca/meteora,7.1,1.0,-0.9078,0,0
+2026-06-26T19:59:35.506922+00:00,base,SOL→WETH→SOL,2,aerodrome/aerodrome,7.2975,1.0,-0.4756,0,0
+2026-06-26T20:01:14.292841+00:00,sui,TURBOS→CETUS→TURBOS,2,turbos-finance/turbos-finance,81.5703,1.0,-0.0156,0,0
+2026-06-26T20:01:14.292841+00:00,solana,SOL→TROLL→SOL,2,meteora/meteora,6.7603,1.29,0.0328,0,0
+2026-06-26T20:01:14.292841+00:00,base,SOL→WETH→SOL,2,aerodrome/aerodrome,7.0209,1.0,-0.4763,0,0
