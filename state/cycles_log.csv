@@ -10988,3 +10988,16 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-06-26T06:40:46.290671+00:00,aptos,USDT→APT→USDT,2,liquidswap/liquidswap,190.1952,1.0,-0.5607,0,0
 2026-06-26T06:42:25.595361+00:00,sui,SUI→NS→SUI,2,cetus/turbos-finance,3.0321,1.0,-0.8903,0,0
 2026-06-26T06:42:25.595361+00:00,aptos,USDT→APT→USDT,2,liquidswap/liquidswap,190.1952,1.0,-0.5607,0,0
+2026-06-26T06:54:30.858682+00:00,solana,TROLL→SOL→TROLL,2,meteora/raydium,26.471,1.0,-0.9913,0,0
+2026-06-26T06:54:30.858682+00:00,base,CLAWNCH→CLANKER→🌙8→CLAWNCH,3,uniswap/uniswap/uniswap,4.3462,1.0,-0.046,0,0
+2026-06-26T06:54:30.858682+00:00,aptos,USDC→STAPT→USDC,2,liquidswap/liquidswap,7.1603,1.0,-0.0289,0,0
+2026-06-26T06:56:06.650780+00:00,solana,TROLL→SOL→TROLL,2,meteora/raydium,26.471,1.0,-0.9913,0,0
+2026-06-26T06:56:06.650780+00:00,base,CLAWNCH→CLANKER→🌙8→CLAWNCH,3,uniswap/uniswap/uniswap,4.3462,1.0,-0.046,0,0
+2026-06-26T06:56:06.650780+00:00,aptos,USDC→STAPT→USDC,2,liquidswap/liquidswap,7.1603,1.0,-0.0289,0,0
+2026-06-26T06:57:44.822378+00:00,aptos,USDC→STAPT→USDC,2,liquidswap/liquidswap,7.1603,1.0,-0.0289,0,0
+2026-06-26T06:59:22.883318+00:00,aptos,USDC→STAPT→USDC,2,liquidswap/liquidswap,7.1603,1.0,-0.0289,0,0
+2026-06-26T07:01:00.812335+00:00,aptos,USDC→STAPT→USDC,2,liquidswap/liquidswap,7.1603,1.0,-0.0289,0,0
+2026-06-26T07:02:38.977302+00:00,aptos,USDC→STAPT→USDC,2,liquidswap/liquidswap,7.1603,1.0,-0.0289,0,0
+2026-06-26T07:04:17.157280+00:00,aptos,USDC→STAPT→USDC,2,liquidswap/liquidswap,7.1603,1.0,-0.0289,0,0
+2026-06-26T07:05:55.420668+00:00,base,CLAWNCH→CLANKER→🌙8→CLAWNCH,3,uniswap/uniswap/uniswap,4.3462,1.0,-0.046,0,0
+2026-06-26T07:05:55.420668+00:00,aptos,USDC→STAPT→USDC,2,liquidswap/liquidswap,7.1603,1.0,-0.0289,0,0
