@@ -10858,3 +10858,24 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-06-26T05:12:52.598304+00:00,solana,PEPE→USDT→GOLD→PEPE,3,meteora/meteora/meteora,19833.0261,9.24,913.0693,0,0
 2026-06-26T05:12:52.598304+00:00,base,CLANKER→WETH→CLANKER,2,aerodrome/uniswap,1.3849,1.0,-0.9422,0,0
 2026-06-26T05:12:52.598304+00:00,aptos,USDT→APT→USDT,2,liquidswap/liquidswap,195.6505,1.0,-0.5593,0,0
+2026-06-26T05:15:38.783978+00:00,solana,FARTCOIN →USDC→JUP→PAWEL→PENGU→FARTCOIN ,5,raydium/meteora/meteora/meteora/meteora,260.9006,1.0,-0.9929,0,0
+2026-06-26T05:15:38.783978+00:00,base,USDC→COREX→USDT→VVV→USDC,4,uniswap/uniswap/uniswap/uniswap,42.7928,1.0,-0.4324,0,0
+2026-06-26T05:17:18.160683+00:00,sui,USDC→DEEP→USDC,2,cetus/turbos-finance,4.5943,1.0,-0.9391,0,0
+2026-06-26T05:17:18.160683+00:00,solana,FARTCOIN →USDC→JUP→PAWEL→PENGU→FARTCOIN ,5,raydium/meteora/meteora/meteora/meteora,260.9006,1.0,-0.9929,0,0
+2026-06-26T05:17:18.160683+00:00,base,USDC→COREX→USDT→VVV→USDC,4,uniswap/uniswap/uniswap/uniswap,42.7928,1.0,-0.4324,0,0
+2026-06-26T05:18:57.530708+00:00,sui,USDC→DEEP→USDC,2,cetus/turbos-finance,4.5943,1.0,-0.9391,0,0
+2026-06-26T05:18:57.530708+00:00,solana,FARTCOIN →USDC→JUP→PAWEL→PENGU→FARTCOIN ,5,raydium/meteora/meteora/meteora/meteora,260.9006,1.0,-0.9929,0,0
+2026-06-26T05:18:57.530708+00:00,base,USDC→COREX→USDT→VVV→USDC,4,uniswap/uniswap/uniswap/uniswap,42.7928,1.0,-0.4324,0,0
+2026-06-26T05:20:36.927545+00:00,sui,USDC→DEEP→USDC,2,cetus/turbos-finance,4.5943,1.0,-0.9391,0,0
+2026-06-26T05:20:36.927545+00:00,solana,FARTCOIN →USDC→JUP→PAWEL→PENGU→FARTCOIN ,5,raydium/meteora/meteora/meteora/meteora,260.9006,1.0,-0.9929,0,0
+2026-06-26T05:20:36.927545+00:00,base,USDC→COREX→USDT→VVV→USDC,4,uniswap/uniswap/uniswap/uniswap,42.7928,1.0,-0.4324,0,0
+2026-06-26T05:22:16.069602+00:00,sui,USDC→DEEP→USDC,2,cetus/turbos-finance,4.5943,1.0,-0.9391,0,0
+2026-06-26T05:22:16.069602+00:00,solana,FARTCOIN →USDC→JUP→PAWEL→PENGU→FARTCOIN ,5,raydium/meteora/meteora/meteora/meteora,260.9006,1.0,-0.9929,0,0
+2026-06-26T05:22:16.069602+00:00,base,USDC→COREX→USDT→VVV→USDC,4,uniswap/uniswap/uniswap/uniswap,42.7928,1.0,-0.4324,0,0
+2026-06-26T05:23:55.371583+00:00,solana,FARTCOIN →USDC→JUP→PAWEL→PENGU→FARTCOIN ,5,raydium/meteora/meteora/meteora/meteora,260.9006,1.0,-0.9929,0,0
+2026-06-26T05:23:55.371583+00:00,base,USDC→COREX→USDT→VVV→USDC,4,uniswap/uniswap/uniswap/uniswap,42.7928,1.0,-0.4324,0,0
+2026-06-26T05:25:34.797148+00:00,sui,USDC→DEEP→USDC,2,steamm/turbos-finance,4.0946,1.0,-0.94,0,0
+2026-06-26T05:25:34.797148+00:00,solana,PENGU→FARTCOIN →USDC→JUP→PAWEL→PENGU,5,meteora/raydium/meteora/meteora/meteora,260.9006,1.0,-0.6947,0,0
+2026-06-26T05:25:34.797148+00:00,base,USDC→COREX→USDT→VVV→USDC,4,uniswap/uniswap/uniswap/uniswap,42.7928,1.0,-0.4324,0,0
+2026-06-26T05:27:14.046850+00:00,solana,PENGU→FARTCOIN →USDC→JUP→PAWEL→PENGU,5,meteora/raydium/meteora/meteora/meteora,260.9006,1.0,-0.6947,0,0
+2026-06-26T05:27:14.046850+00:00,base,COREX→USDT→VVV→USDC→COREX,4,uniswap/uniswap/uniswap/uniswap,42.7928,1.0,-0.7752,0,0
