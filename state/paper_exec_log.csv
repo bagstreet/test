@@ -2822,3 +2822,9 @@ t0,chain,token,entry_spread_pct,lo_dex,hi_dex,min_tvl,whale,n_samples,n_pos_afte
 2026-06-26T01:05:46.788257+00:00,base,CBBTC,1.2404,aerodrome,uniswap,287280,1,18,0,-0.5198,0
 2026-06-26T01:07:22.698914+00:00,base,ETH,0.6891,uniswap,uniswap,665904,0,17,0,-0.1534,0
 2026-06-26T01:08:58.748619+00:00,base,MAMO,1.2279,aerodrome,aerodrome,320582,0,17,0,-0.4166,0
+2026-06-26T01:34:07.785489+00:00,solana,USELESS,0.3128,raydium,meteora,333963,1,7,0,-1.516,0
+2026-06-26T01:34:07.785489+00:00,base,WEETH,1.0226,aerodrome,aerodrome,388707,0,8,0,-0.508,0
+2026-06-26T01:49:05.515267+00:00,solana,USDC,0.4616,orca,raydium,1303889,0,3,0,-0.3457,0
+2026-06-26T01:24:13.063238+00:00,solana,HYPE,2.2059,meteora,orca,396380,1,17,1,0.6962,0
+2026-06-26T01:27:39.457464+00:00,solana,FO,1.0106,meteora,meteora,2454849,0,17,7,0.3091,1
+2026-06-26T01:27:39.457464+00:00,base,CBETH,0.3798,hydrex,pancakeswap,355225,0,17,0,-0.5281,0
