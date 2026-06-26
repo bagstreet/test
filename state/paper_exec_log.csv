@@ -3098,3 +3098,9 @@ t0,chain,token,entry_spread_pct,lo_dex,hi_dex,min_tvl,whale,n_samples,n_pos_afte
 2026-06-26T11:06:15.800674+00:00,sui,USDSUI,0.602,turbos-finance,bluefin,335879,1,18,0,-1.0807,0
 2026-06-26T11:08:00.600927+00:00,solana,CBBTC,0.375,orca,orca,5008593,1,17,0,-0.3094,0
 2026-06-26T11:30:56.332635+00:00,solana,TRUMP,0.5917,meteora,meteora,3677478,1,7,0,-0.0176,0
+2026-06-26T11:50:35.486265+00:00,solana,POPCAT,0.6374,raydium,raydium,577680,1,2,0,-0.6417,0
+2026-06-26T11:23:47.510580+00:00,solana,FO,0.5947,meteora,meteora,2477637,1,17,14,0.1618,1
+2026-06-26T11:47:16.781795+00:00,solana,FARTCOIN ,0.5877,orca,raydium,708714,0,5,0,-0.4774,0
+2026-06-26T11:23:47.510580+00:00,base,CBBTC,1.0518,uniswap,uniswap,384008,1,17,0,-0.3164,0
+2026-06-26T11:23:47.510580+00:00,base,WETH,0.8618,pancakeswap,uniswap,709941,1,17,1,0.0034,0
+2026-06-26T11:23:47.510580+00:00,base,VIRTUAL,0.5004,uniswap,aerodrome,988615,1,17,0,-0.5019,0
