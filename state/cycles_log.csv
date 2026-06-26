@@ -11843,3 +11843,20 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-06-26T17:35:21.521640+00:00,base,CBBTC→WETH→CBBTC,2,aerodrome/aerodrome,0.1375,26.44,-0.0118,1,0
 2026-06-26T17:37:00.131764+00:00,sui,FUD→WUSDC→VSUI→NAVX→CETUS→FUD,5,flowx/flowx/cetus/cetus/cetus,13.685,1.0,-0.9259,0,0
 2026-06-26T17:37:00.131764+00:00,solana,SOL→FARTCOIN →SOL,2,meteora/raydium,9.6279,1.0,-0.8967,0,0
+2026-06-26T17:49:09.104351+00:00,sui,FUD→SUI→FUD,2,cetus/cetus,19.4441,1.0,-0.0706,0,0
+2026-06-26T17:49:09.104351+00:00,base,BMX→MAMO→ZORA→VVV→ETH→BMX,5,aerodrome/aerodrome/sushiswap/uniswap/uniswap,3.3451,1.0,-0.911,0,0
+2026-06-26T17:49:09.104351+00:00,aptos,USDT→WETH→USDT,2,liquidswap/liquidswap,195.757,2.77,1.9753,0,0
+2026-06-26T17:50:43.797006+00:00,sui,FUD→SUI→FUD,2,cetus/cetus,19.4441,1.0,-0.0706,0,0
+2026-06-26T17:50:43.797006+00:00,base,BMX→MAMO→ZORA→VVV→ETH→BMX,5,aerodrome/aerodrome/sushiswap/uniswap/uniswap,3.243,1.0,-0.9111,0,0
+2026-06-26T17:50:43.797006+00:00,aptos,USDT→WETH→USDT,2,liquidswap/liquidswap,195.757,2.77,1.9753,0,0
+2026-06-26T17:52:19.073011+00:00,sui,FUD→SUI→FUD,2,cetus/cetus,19.4441,1.0,-0.0706,0,0
+2026-06-26T17:52:19.073011+00:00,base,BMX→MAMO→ZORA→VVV→ETH→BMX,5,aerodrome/aerodrome/sushiswap/uniswap/uniswap,3.243,1.0,-0.9111,0,0
+2026-06-26T17:52:19.073011+00:00,aptos,USDT→WETH→USDT,2,liquidswap/liquidswap,195.757,2.77,1.9753,0,0
+2026-06-26T17:53:54.481450+00:00,sui,FUD→SUI→FUD,2,cetus/cetus,19.4441,1.0,-0.0706,0,0
+2026-06-26T17:53:54.481450+00:00,base,BMX→MAMO→ZORA→VVV→ETH→BMX,5,aerodrome/aerodrome/sushiswap/uniswap/uniswap,3.243,1.0,-0.9111,0,0
+2026-06-26T17:53:54.481450+00:00,aptos,USDT→WETH→USDT,2,liquidswap/liquidswap,195.757,2.77,1.9753,0,0
+2026-06-26T17:55:30.122225+00:00,base,BMX→MAMO→ZORA→VVV→ETH→BMX,5,aerodrome/aerodrome/sushiswap/uniswap/uniswap,3.243,1.0,-0.9111,0,0
+2026-06-26T17:55:30.122225+00:00,aptos,USDT→WETH→USDT,2,liquidswap/liquidswap,195.757,2.77,1.9753,0,0
+2026-06-26T17:57:05.574434+00:00,base,BMX→MAMO→ZORA→VVV→ETH→BMX,5,aerodrome/aerodrome/sushiswap/uniswap/uniswap,3.243,1.0,-0.9111,0,0
+2026-06-26T17:58:40.874468+00:00,base,BMX→MAMO→ZORA→VVV→ETH→BMX,5,aerodrome/aerodrome/sushiswap/uniswap/uniswap,3.243,1.0,-0.9111,0,0
+2026-06-26T18:00:16.097699+00:00,base,BMX→MAMO→ZORA→VVV→ETH→BMX,5,aerodrome/aerodrome/sushiswap/uniswap/uniswap,3.243,1.0,-0.9111,0,0
