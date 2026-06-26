@@ -2804,3 +2804,6 @@ t0,chain,token,entry_spread_pct,lo_dex,hi_dex,min_tvl,whale,n_samples,n_pos_afte
 2026-06-26T00:25:42.434792+00:00,solana,SOL,3.3388,meteora,meteora,625992,1,12,11,2.7357,1
 2026-06-26T00:50:40.030734+00:00,solana,ORE,0.8736,meteora,orca,251467,1,4,0,-1.2101,0
 2026-06-26T00:56:04.260632+00:00,solana,ONE,3.6036,orca,raydium,3144151,1,3,1,2.9759,0
+2026-06-26T00:56:04.260632+00:00,solana,CBBTC,0.3839,orca,orca,4962878,1,5,0,-0.3811,0
+2026-06-26T00:32:56.167838+00:00,solana,JUP,0.4917,meteora,meteora,308846,1,13,0,-0.7469,0
+2026-06-26T00:32:56.167838+00:00,base,CBBTC,1.2529,aerodrome,pancakeswap,287280,1,13,0,-0.6197,0
