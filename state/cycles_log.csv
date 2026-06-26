@@ -11087,3 +11087,19 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-06-26T07:57:35.170571+00:00,base,WETH→CBETH→WETH,2,iziswap/aerodrome,1.3454,3.84,-0.0043,0,0
 2026-06-26T07:57:35.170571+00:00,base,USDC→ZORA→USDC,2,uniswap/uniswap,2.6895,1.0,-0.4345,0,0
 2026-06-26T07:57:35.170571+00:00,aptos,WETH→USDT→WETH,2,liquidswap/pancakeswap,197.0003,1.0,-0.9486,0,0
+2026-06-26T08:01:01.526676+00:00,sui,USDC→WAL→USDC,2,cetus/steamm,2.9208,1.0,-0.0292,0,0
+2026-06-26T08:01:01.526676+00:00,solana,FARTCOIN →USDC→CBBTC→SOL→FARTCOIN ,4,raydium/raydium/orca/meteora,263.2963,1.0,0.3303,0,0
+2026-06-26T08:01:01.526676+00:00,base,SOL→CBBTC→SOL,2,hydrex/pancakeswap,2.7414,1.0,-0.1123,0,0
+2026-06-26T08:02:39.934122+00:00,sui,WAL→USDC→WAL,2,steamm/cetus,2.9208,12.27,0.1578,0,0
+2026-06-26T08:02:39.934122+00:00,solana,FARTCOIN →USDC→CBBTC→SOL→FARTCOIN ,4,raydium/raydium/orca/meteora,263.2963,1.0,0.3303,0,0
+2026-06-26T08:04:18.903581+00:00,sui,MAGMA→USDC→WAL→SUI→MAGMA,4,magma/cetus/cetus/turbos-finance,96.9275,1.0,-0.983,0,0
+2026-06-26T08:04:18.903581+00:00,solana,USDC→CBBTC→SOL→FARTCOIN →USDC,4,raydium/orca/meteora/raydium,263.2963,1.0,-0.5912,0,0
+2026-06-26T08:05:57.269298+00:00,sui,MAGMA→USDC→WAL→SUI→MAGMA,4,magma/cetus/cetus/turbos-finance,97.8132,1.0,-0.983,0,0
+2026-06-26T08:07:35.330092+00:00,sui,MAGMA→USDC→WAL→SUI→MAGMA,4,magma/cetus/cetus/turbos-finance,98.1823,1.0,-0.983,0,0
+2026-06-26T08:07:35.330092+00:00,solana,FARTCOIN →USDC→CBBTC→SOL→FARTCOIN ,4,raydium/raydium/orca/meteora,263.2963,1.0,0.3303,0,0
+2026-06-26T08:09:14.132211+00:00,sui,MAGMA→USDC→WAL→SUI→MAGMA,4,magma/cetus/cetus/turbos-finance,98.1453,1.0,-0.983,0,0
+2026-06-26T08:09:14.132211+00:00,solana,FARTCOIN →USDC→CBBTC→SOL→FARTCOIN ,4,raydium/raydium/orca/meteora,263.1665,1.0,0.3301,0,0
+2026-06-26T08:10:52.331508+00:00,sui,MAGMA→USDC→WAL→SUI→MAGMA,4,magma/cetus/cetus/turbos-finance,97.7122,1.0,-0.9832,0,0
+2026-06-26T08:10:52.331508+00:00,solana,FARTCOIN →USDC→CBBTC→SOL→FARTCOIN ,4,raydium/raydium/orca/meteora,263.1665,1.0,0.3301,0,0
+2026-06-26T08:12:30.342871+00:00,sui,MAGMA→USDC→WAL→SUI→MAGMA,4,magma/cetus/cetus/turbos-finance,97.7489,1.0,-0.9832,0,0
+2026-06-26T08:12:30.342871+00:00,solana,FARTCOIN →USDC→CBBTC→SOL→FARTCOIN ,4,raydium/raydium/orca/meteora,263.1665,1.0,0.3301,0,0
