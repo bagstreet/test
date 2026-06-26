@@ -11908,3 +11908,16 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-06-26T18:27:50.850914+00:00,sui,DEEP→WAL→DEEP,2,fullsail/cetus,0.6411,1.0,-0.0881,0,0
 2026-06-26T18:27:50.850914+00:00,solana,USDC→XSOL→USDC,2,orca/meteora,2.9224,1.0,-0.5311,0,0
 2026-06-26T18:27:50.850914+00:00,aptos,USDT→APT→USDT,2,liquidswap/pancakeswap,172.6987,2.23,1.4327,0,0
+2026-06-26T18:30:54.068163+00:00,solana,SOL→FARTCOIN →SOL,2,meteora/raydium,8.9871,1.0,-0.8974,0,0
+2026-06-26T18:32:30.733372+00:00,solana,SOL→FARTCOIN →SOL,2,meteora/raydium,8.9871,1.0,-0.8974,0,0
+2026-06-26T18:32:30.733372+00:00,base,BRETT→TOSHI→ETH→BRETT,3,aerodrome/uniswap/uniswap,1.9012,1.0,-0.1899,0,0
+2026-06-26T18:34:06.841992+00:00,solana,SOL→FARTCOIN →SOL,2,meteora/raydium,8.6376,1.0,-0.8985,0,0
+2026-06-26T18:34:06.841992+00:00,base,BRETT→TOSHI→ETH→BRETT,3,aerodrome/uniswap/uniswap,1.9012,1.0,-0.1899,0,0
+2026-06-26T18:35:42.941639+00:00,solana,SOL→FARTCOIN →SOL,2,meteora/raydium,8.4629,1.0,-0.8986,0,0
+2026-06-26T18:35:42.941639+00:00,base,BRETT→TOSHI→ETH→BRETT,3,aerodrome/uniswap/uniswap,1.9012,1.0,-0.1899,0,0
+2026-06-26T18:37:19.070268+00:00,solana,FARTCOIN →SOL→FARTCOIN ,2,raydium/meteora,8.4629,2.77,0.1048,0,0
+2026-06-26T18:37:19.070268+00:00,base,BRETT→TOSHI→ETH→BRETT,3,aerodrome/uniswap/uniswap,1.9012,1.0,-0.1899,0,0
+2026-06-26T18:38:55.307550+00:00,solana,FARTCOIN →SOL→FARTCOIN ,2,raydium/meteora,8.4629,2.77,0.1048,0,0
+2026-06-26T18:38:55.307550+00:00,base,BRETT→TOSHI→ETH→BRETT,3,aerodrome/uniswap/uniswap,1.8298,1.0,-0.1905,0,0
+2026-06-26T18:40:31.603970+00:00,solana,FARTCOIN →JITOSOL→CBBTC→SOL→FARTCOIN ,4,raydium/raydium/orca/meteora,11.7804,452.2,25.8842,0,0
+2026-06-26T18:42:07.819415+00:00,solana,FARTCOIN →JITOSOL→CBBTC→SOL→FARTCOIN ,4,raydium/raydium/orca/meteora,11.7139,450.45,25.6421,0,0
