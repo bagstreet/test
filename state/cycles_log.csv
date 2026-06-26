@@ -12120,3 +12120,27 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-06-26T21:44:45.265613+00:00,solana,FARTCOIN →SOL→FARTCOIN ,2,raydium/meteora,5.6593,1.85,0.0417,0,0
 2026-06-26T21:44:45.265613+00:00,base,WETH→SOL→WETH,2,aerodrome/solidlycom,6.0938,1.0,-0.9822,0,0
 2026-06-26T21:44:45.265613+00:00,aptos,USDC→WETH→USDC,2,liquidswap/pancakeswap,2.6984,1.0,-0.0696,0,0
+2026-06-26T21:45:35.745299+00:00,sui,TURBOS→CETUS→TURBOS,2,turbos-finance/turbos-finance,81.5703,1.0,-0.0156,0,0
+2026-06-26T21:45:35.745299+00:00,solana,USDT→SOL→USDT,2,raydium/meteora,1.3334,1080.03,7.1669,0,0
+2026-06-26T21:45:35.745299+00:00,base,USDBC→USDT→USDBC,2,aerodrome/quickswap,0.1326,1.0,-0.168,0,0
+2026-06-26T21:47:14.561316+00:00,sui,TURBOS→CETUS→TURBOS,2,turbos-finance/turbos-finance,81.5703,1.0,-0.0156,0,0
+2026-06-26T21:47:14.561316+00:00,solana,USDT→SOL→USDT,2,raydium/meteora,1.3334,1080.03,7.1669,0,0
+2026-06-26T21:47:14.561316+00:00,base,USDBC→USDT→USDBC,2,aerodrome/quickswap,0.1326,1.0,-0.168,0,0
+2026-06-26T21:48:53.104035+00:00,sui,TURBOS→CETUS→TURBOS,2,turbos-finance/turbos-finance,81.5703,1.0,-0.0156,0,0
+2026-06-26T21:48:53.104035+00:00,solana,SOL→MELANIA→SOL,2,raydium/raydium,72.9943,1.0,-0.9885,0,0
+2026-06-26T21:48:53.104035+00:00,base,USDBC→USDT→USDBC,2,aerodrome/quickswap,0.1326,1.0,-0.168,0,0
+2026-06-26T21:50:31.600272+00:00,sui,TURBOS→CETUS→TURBOS,2,turbos-finance/turbos-finance,81.5703,1.0,-0.0156,0,0
+2026-06-26T21:50:31.600272+00:00,solana,SOL→MELANIA→SOL,2,raydium/raydium,72.9943,1.0,-0.9885,0,0
+2026-06-26T21:50:31.600272+00:00,base,USDBC→USDT→USDBC,2,aerodrome/quickswap,0.1326,1.0,-0.168,0,0
+2026-06-26T21:52:10.124142+00:00,sui,TURBOS→CETUS→TURBOS,2,turbos-finance/turbos-finance,81.5703,1.0,-0.0156,0,0
+2026-06-26T21:52:10.124142+00:00,solana,SOL→USDT→SOL,2,meteora/raydium,0.5816,6.59,0.0091,0,0
+2026-06-26T21:52:10.124142+00:00,base,USDBC→USDT→USDBC,2,aerodrome/quickswap,0.1326,1.0,-0.168,0,0
+2026-06-26T21:53:48.845213+00:00,sui,TURBOS→CETUS→TURBOS,2,turbos-finance/turbos-finance,81.5703,1.0,-0.0156,0,0
+2026-06-26T21:53:48.845213+00:00,solana,SOL→USDT→SOL,2,meteora/raydium,0.019,1.0,-0.0102,0,0
+2026-06-26T21:53:48.845213+00:00,base,USDBC→USDT→USDBC,2,aerodrome/quickswap,0.1326,1.0,-0.168,0,0
+2026-06-26T21:55:27.242095+00:00,sui,TURBOS→CETUS→TURBOS,2,turbos-finance/turbos-finance,81.5703,1.0,-0.0156,0,0
+2026-06-26T21:55:27.242095+00:00,solana,USDT→SOL→USDT,2,raydium/meteora,0.019,15.55,-0.0085,0,0
+2026-06-26T21:55:27.242095+00:00,base,USDBC→USDT→USDBC,2,aerodrome/quickswap,0.1326,1.0,-0.168,0,0
+2026-06-26T21:57:05.886186+00:00,sui,TURBOS→CETUS→TURBOS,2,turbos-finance/turbos-finance,81.5703,1.0,-0.0156,0,0
+2026-06-26T21:57:05.886186+00:00,solana,USDT→SOL→USDT,2,raydium/meteora,0.019,15.55,-0.0085,0,0
+2026-06-26T21:57:05.886186+00:00,base,USDBC→USDT→USDBC,2,aerodrome/quickswap,0.1326,1.0,-0.168,0,0
