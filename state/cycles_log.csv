@@ -11584,3 +11584,35 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-06-26T13:55:38.632705+00:00,solana,SOL→ORE→SOL,2,meteora/meteora,7.3042,13.47,0.4732,0,0
 2026-06-26T13:57:18.838369+00:00,solana,SOL→ORE→SOL,2,meteora/meteora,7.3042,13.47,0.4732,0,0
 2026-06-26T13:57:18.838369+00:00,base,EURC→ETH→EURC,2,uniswap/uniswap,0.9914,1.0,-0.0267,0,0
+2026-06-26T14:01:01.096031+00:00,sui,SUI→NS→SUI,2,turbos-finance/turbos-finance,4.6613,1.0,-0.89,0,0
+2026-06-26T14:01:01.096031+00:00,solana,POPCAT→$WIF→POPCAT,2,orca/meteora,1.233,1.0,-0.004,0,0
+2026-06-26T14:01:01.096031+00:00,base,EURC→USDC→EURC,2,aerodrome/aerodrome,0.163,1.0,-0.0397,0,0
+2026-06-26T14:01:01.096031+00:00,aptos,APT→USDC→APT,2,liquidswap/liquidswap,181.4417,15.67,10.5955,0,0
+2026-06-26T14:02:47.309425+00:00,sui,SUI→NS→SUI,2,cetus/turbos-finance,4.9934,1.0,-0.89,0,0
+2026-06-26T14:02:47.309425+00:00,solana,FARTCOIN →USDC→ARC→FARTCOIN ,3,raydium/meteora/orca,134.0876,2.92,1.5392,0,0
+2026-06-26T14:02:47.309425+00:00,base,EURC→USDC→EURC,2,aerodrome/aerodrome,0.1542,1.0,-0.0398,0,0
+2026-06-26T14:02:47.309425+00:00,aptos,APT→USDC→APT,2,liquidswap/liquidswap,181.4417,15.67,10.5955,0,0
+2026-06-26T14:04:34.489453+00:00,sui,NS→SUI→NS,2,turbos-finance/turbos-finance,4.7276,1.0,-0.078,0,0
+2026-06-26T14:04:34.489453+00:00,solana,FARTCOIN →USDC→ARC→FARTCOIN ,3,raydium/meteora/orca,134.0876,2.92,1.5392,0,0
+2026-06-26T14:04:34.489453+00:00,base,EURC→USDC→EURC,2,aerodrome/aerodrome,0.1279,1.0,-0.0401,0,0
+2026-06-26T14:04:34.489453+00:00,aptos,APT→USDC→APT,2,liquidswap/liquidswap,181.4417,15.67,10.5955,0,0
+2026-06-26T14:06:20.406109+00:00,sui,NS→SUI→NS,2,turbos-finance/turbos-finance,4.7276,1.0,-0.078,0,0
+2026-06-26T14:06:20.406109+00:00,solana,FARTCOIN →USDC→ARC→FARTCOIN ,3,raydium/meteora/orca,134.0876,2.92,1.5392,0,0
+2026-06-26T14:06:20.406109+00:00,base,EURC→USDC→EURC,2,aerodrome/aerodrome,0.1279,1.0,-0.0401,0,0
+2026-06-26T14:06:20.406109+00:00,aptos,APT→USDC→APT,2,liquidswap/liquidswap,181.4417,15.67,10.5955,0,0
+2026-06-26T14:08:06.106829+00:00,sui,NS→SUI→NS,2,turbos-finance/momentum,4.5155,1.0,-0.0799,0,0
+2026-06-26T14:08:06.106829+00:00,solana,FARTCOIN →USDC→ARC→FARTCOIN ,3,raydium/meteora/orca,134.0876,2.92,1.5392,0,0
+2026-06-26T14:08:06.106829+00:00,base,EURC→USDC→EURC,2,aerodrome/aerodrome,0.1192,1.0,-0.0401,0,0
+2026-06-26T14:08:06.106829+00:00,aptos,APT→USDC→APT,2,liquidswap/liquidswap,181.4417,15.67,10.5955,0,0
+2026-06-26T14:09:52.385998+00:00,sui,NS→SUI→NS,2,turbos-finance/momentum,4.5155,1.0,-0.0799,0,0
+2026-06-26T14:09:52.385998+00:00,solana,FARTCOIN →USDC→ARC→FARTCOIN ,3,raydium/meteora/orca,134.0876,2.92,1.5392,0,0
+2026-06-26T14:09:52.385998+00:00,base,EURC→USDC→EURC,2,aerodrome/aerodrome,0.1192,1.0,-0.0401,0,0
+2026-06-26T14:09:52.385998+00:00,aptos,APT→USDC→APT,2,liquidswap/liquidswap,181.4417,15.67,10.5955,0,0
+2026-06-26T14:11:38.354383+00:00,sui,NS→SUI→NS,2,turbos-finance/momentum,4.5155,1.0,-0.0799,0,0
+2026-06-26T14:11:38.354383+00:00,solana,FARTCOIN →USDC→ARC→FARTCOIN ,3,raydium/meteora/orca,134.0876,2.92,1.5392,0,0
+2026-06-26T14:11:38.354383+00:00,base,EURC→USDC→EURC,2,aerodrome/aerodrome,0.1279,1.0,-0.0401,0,0
+2026-06-26T14:11:38.354383+00:00,aptos,APT→USDC→APT,2,liquidswap/liquidswap,181.4417,15.67,10.5955,0,0
+2026-06-26T14:13:23.907138+00:00,sui,NS→SUI→NS,2,turbos-finance/momentum,4.5155,1.0,-0.0799,0,0
+2026-06-26T14:13:23.907138+00:00,solana,FARTCOIN →USDC→ARC→FARTCOIN ,3,raydium/meteora/orca,134.0876,2.92,1.5392,0,0
+2026-06-26T14:13:23.907138+00:00,base,EURC→USDC→EURC,2,aerodrome/aerodrome,0.1279,1.0,-0.0401,0,0
+2026-06-26T14:13:23.907138+00:00,aptos,APT→USDC→APT,2,liquidswap/liquidswap,181.4417,15.67,10.5955,0,0
