@@ -11825,3 +11825,21 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-06-26T17:12:53.436659+00:00,solana,SOL→SQUIRE→SOL,2,meteora/raydium,7.2853,1.0,-0.9834,0,0
 2026-06-26T17:12:53.436659+00:00,base,ODAI→USDBC→WETH→FLETH→ODAI,4,uniswap/aerodrome/pancakeswap/uniswap,259.2773,7.92,7.0596,0,0
 2026-06-26T17:12:53.436659+00:00,aptos,USDC→WETH→USDC,2,liquidswap/liquidswap,206.1538,9.31,6.9564,0,0
+2026-06-26T17:25:30.300424+00:00,sui,FUD→WUSDC→VSUI→NAVX→CETUS→FUD,5,flowx/flowx/cetus/cetus/cetus,13.8263,1.0,-0.9258,0,0
+2026-06-26T17:25:30.300424+00:00,solana,SOL→FARTCOIN →SOL,2,meteora/raydium,8.9289,1.0,-0.8979,0,0
+2026-06-26T17:27:08.489030+00:00,sui,FUD→WUSDC→VSUI→NAVX→CETUS→FUD,5,flowx/flowx/cetus/cetus/cetus,13.8263,1.0,-0.9258,0,0
+2026-06-26T17:27:08.489030+00:00,solana,FARTCOIN →SOL→FARTCOIN ,2,raydium/meteora,8.9289,2.93,0.1179,0,0
+2026-06-26T17:28:47.047399+00:00,sui,FUD→WUSDC→VSUI→NAVX→CETUS→FUD,5,flowx/flowx/cetus/cetus/cetus,14.0711,1.0,-0.9256,0,0
+2026-06-26T17:28:47.047399+00:00,solana,FARTCOIN →SOL→FARTCOIN ,2,raydium/meteora,8.9289,2.93,0.1179,0,0
+2026-06-26T17:30:25.747843+00:00,sui,FUD→WUSDC→VSUI→NAVX→CETUS→FUD,5,flowx/flowx/cetus/cetus/cetus,14.0711,1.0,-0.9256,0,0
+2026-06-26T17:30:25.747843+00:00,solana,FARTCOIN →SOL→FARTCOIN ,2,raydium/meteora,8.9289,2.93,0.1179,0,0
+2026-06-26T17:32:04.337226+00:00,sui,FUD→WUSDC→VSUI→NAVX→CETUS→FUD,5,flowx/flowx/cetus/cetus/cetus,14.0711,1.0,-0.9256,0,0
+2026-06-26T17:32:04.337226+00:00,solana,SOL→FARTCOIN →SOL,2,meteora/raydium,9.6279,1.0,-0.8967,0,0
+2026-06-26T17:32:04.337226+00:00,base,WETH→CBBTC→WETH,2,aerodrome/aerodrome,0.1183,60.61,0.0058,1,0
+2026-06-26T17:33:42.926058+00:00,sui,FUD→WUSDC→VSUI→NAVX→CETUS→FUD,5,flowx/flowx/cetus/cetus/cetus,14.0711,1.0,-0.9256,0,0
+2026-06-26T17:33:42.926058+00:00,solana,FARTCOIN →SOL→FARTCOIN ,2,raydium/meteora,9.6279,3.16,0.1389,0,0
+2026-06-26T17:35:21.521640+00:00,sui,FUD→WUSDC→VSUI→NAVX→CETUS→FUD,5,flowx/flowx/cetus/cetus/cetus,13.7049,1.0,-0.9259,0,0
+2026-06-26T17:35:21.521640+00:00,solana,FARTCOIN →SOL→FARTCOIN ,2,raydium/meteora,9.6279,3.16,0.1389,0,0
+2026-06-26T17:35:21.521640+00:00,base,CBBTC→WETH→CBBTC,2,aerodrome/aerodrome,0.1375,26.44,-0.0118,1,0
+2026-06-26T17:37:00.131764+00:00,sui,FUD→WUSDC→VSUI→NAVX→CETUS→FUD,5,flowx/flowx/cetus/cetus/cetus,13.685,1.0,-0.9259,0,0
+2026-06-26T17:37:00.131764+00:00,solana,SOL→FARTCOIN →SOL,2,meteora/raydium,9.6279,1.0,-0.8967,0,0
