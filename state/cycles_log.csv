@@ -10532,3 +10532,37 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-06-26T01:25:56.318992+00:00,aptos,USDT→APT→USDT,2,liquidswap/liquidswap,189.4137,1.0,-0.5609,0,0
 2026-06-26T01:27:39.457464+00:00,solana,GODL→ORE→GODL,2,meteora/orca,3.6078,15.45,0.2663,0,0
 2026-06-26T01:27:39.457464+00:00,aptos,USDT→APT→USDT,2,liquidswap/liquidswap,189.4137,1.0,-0.5609,0,0
+2026-06-26T01:30:49.996746+00:00,solana,POPCAT→FARTCOIN →POPCAT,2,orca/orca,0.6988,1.0,-0.0287,0,0
+2026-06-26T01:30:49.996746+00:00,solana,USELESS→TROLL→PENGU→USDT→USELESS,4,meteora/orca/raydium/meteora,5.8442,1.0,-0.0472,0,0
+2026-06-26T01:30:49.996746+00:00,base,ODAI→USDBC→USDT→WETH→FLETH→ODAI,5,uniswap/aerodrome/aerodrome/pancakeswap/uniswap,342.9188,6.52,10.071,0,0
+2026-06-26T01:30:49.996746+00:00,base,USDC→COREX→USDT→USDC,3,uniswap/uniswap/uniswap,23.8164,1.0,-0.507,0,0
+2026-06-26T01:32:29.105479+00:00,solana,POPCAT→FARTCOIN →POPCAT,2,orca/orca,0.6988,1.0,-0.0287,0,0
+2026-06-26T01:32:29.105479+00:00,solana,USELESS→TROLL→PENGU→USDT→USELESS,4,meteora/orca/raydium/meteora,5.8442,1.0,-0.0472,0,0
+2026-06-26T01:32:29.105479+00:00,base,ODAI→USDBC→USDT→WETH→FLETH→ODAI,5,uniswap/aerodrome/aerodrome/pancakeswap/uniswap,343.057,6.52,10.0762,0,0
+2026-06-26T01:32:29.105479+00:00,base,USDC→COREX→USDT→USDC,3,uniswap/uniswap/uniswap,23.8164,1.0,-0.507,0,0
+2026-06-26T01:34:07.785489+00:00,solana,POPCAT→FARTCOIN →POPCAT,2,orca/orca,0.6988,1.0,-0.0287,0,0
+2026-06-26T01:34:07.785489+00:00,solana,USELESS→TROLL→PENGU→USDT→USELESS,4,meteora/orca/raydium/meteora,7.5584,1.0,-0.0316,0,0
+2026-06-26T01:34:07.785489+00:00,base,ODAI→USDBC→USDT→WETH→FLETH→ODAI,5,uniswap/aerodrome/aerodrome/pancakeswap/uniswap,343.1261,6.52,10.0788,0,0
+2026-06-26T01:34:07.785489+00:00,base,USDC→COREX→USDT→USDC,3,uniswap/uniswap/uniswap,23.8164,1.0,-0.507,0,0
+2026-06-26T01:35:46.241043+00:00,solana,FARTCOIN →POPCAT→FARTCOIN ,2,orca/orca,0.6988,1.0,-0.0695,0,0
+2026-06-26T01:35:46.241043+00:00,solana,USDT→USELESS→TROLL→PENGU→USDT,4,meteora/meteora/orca/raydium,7.5584,1.0,-0.5633,0,0
+2026-06-26T01:35:46.241043+00:00,solana,TROLL→SOL→TROLL,2,meteora/orca,27.52,1.0,-0.9911,0,0
+2026-06-26T01:35:46.241043+00:00,base,ODAI→USDBC→USDT→WETH→FLETH→ODAI,5,uniswap/aerodrome/aerodrome/pancakeswap/uniswap,343.3334,6.52,10.0866,0,0
+2026-06-26T01:35:46.241043+00:00,base,USDC→COREX→USDT→USDC,3,uniswap/uniswap/uniswap,23.8164,1.0,-0.507,0,0
+2026-06-26T01:37:25.089948+00:00,solana,FARTCOIN →POPCAT→FARTCOIN ,2,orca/orca,0.6988,1.0,-0.0695,0,0
+2026-06-26T01:37:25.089948+00:00,solana,USDT→USELESS→TROLL→PENGU→USDT,4,meteora/meteora/orca/raydium,7.5584,1.0,-0.5633,0,0
+2026-06-26T01:37:25.089948+00:00,solana,TROLL→SOL→TROLL,2,meteora/orca,27.52,1.0,-0.9911,0,0
+2026-06-26T01:37:25.089948+00:00,base,ODAI→USDBC→USDT→WETH→FLETH→ODAI,5,uniswap/aerodrome/aerodrome/pancakeswap/uniswap,342.7806,6.52,10.0658,0,0
+2026-06-26T01:37:25.089948+00:00,base,USDC→COREX→USDT→USDC,3,uniswap/uniswap/uniswap,23.8164,1.0,-0.507,0,0
+2026-06-26T01:39:03.658774+00:00,solana,POPCAT→FARTCOIN →POPCAT,2,orca/orca,0.6988,1.0,-0.0287,0,0
+2026-06-26T01:39:03.658774+00:00,solana,USELESS→TROLL→PENGU→USDT→USELESS,4,meteora/orca/raydium/meteora,6.856,1.0,-0.0382,0,0
+2026-06-26T01:39:03.658774+00:00,base,ODAI→USDBC→USDT→WETH→FLETH→ODAI,5,uniswap/aerodrome/aerodrome/pancakeswap/uniswap,342.9188,6.52,10.071,0,0
+2026-06-26T01:39:03.658774+00:00,base,USDC→COREX→USDT→USDC,3,uniswap/uniswap/uniswap,23.8164,1.0,-0.507,0,0
+2026-06-26T01:40:42.139450+00:00,solana,POPCAT→FARTCOIN →POPCAT,2,orca/orca,0.6988,1.0,-0.0287,0,0
+2026-06-26T01:40:42.139450+00:00,solana,USELESS→TROLL→PENGU→USDT→USELESS,4,meteora/orca/raydium/meteora,6.856,1.0,-0.0382,0,0
+2026-06-26T01:40:42.139450+00:00,base,ODAI→USDBC→USDT→WETH→FLETH→ODAI,5,uniswap/aerodrome/aerodrome/pancakeswap/uniswap,355.8955,6.52,10.558,0,0
+2026-06-26T01:40:42.139450+00:00,base,USDC→COREX→USDT→USDC,3,uniswap/uniswap/uniswap,23.8164,1.0,-0.507,0,0
+2026-06-26T01:42:20.736632+00:00,solana,POPCAT→FARTCOIN →POPCAT,2,orca/orca,0.6988,1.0,-0.0287,0,0
+2026-06-26T01:42:20.736632+00:00,solana,USELESS→TROLL→PENGU→USDT→USELESS,4,meteora/orca/raydium/meteora,6.767,1.0,-0.039,0,0
+2026-06-26T01:42:20.736632+00:00,base,ODAI→USDBC→USDT→WETH→FLETH→ODAI,5,uniswap/aerodrome/aerodrome/pancakeswap/uniswap,355.8955,6.52,10.558,0,0
+2026-06-26T01:42:20.736632+00:00,base,USDC→COREX→USDT→USDC,3,uniswap/uniswap/uniswap,23.8164,1.0,-0.507,0,0
