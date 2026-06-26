@@ -11616,3 +11616,29 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-06-26T14:13:23.907138+00:00,solana,FARTCOIN →USDC→ARC→FARTCOIN ,3,raydium/meteora/orca,134.0876,2.92,1.5392,0,0
 2026-06-26T14:13:23.907138+00:00,base,EURC→USDC→EURC,2,aerodrome/aerodrome,0.1279,1.0,-0.0401,0,0
 2026-06-26T14:13:23.907138+00:00,aptos,APT→USDC→APT,2,liquidswap/liquidswap,181.4417,15.67,10.5955,0,0
+2026-06-26T14:15:40.567662+00:00,sui,FUD→TURBOS→KW→USDT→SUI→FUD,5,turbos-finance/turbos-finance/turbos-finance/cetus/cetus,97.4829,2.0,1.8169,0,0
+2026-06-26T14:15:40.567662+00:00,solana,PAWEL→MELANIA→JITOSOL→PAWEL,3,meteora/orca/meteora,0.6139,1.0,-0.1084,0,0
+2026-06-26T14:15:40.567662+00:00,base,USDT→USDBC→USDT,2,quickswap/aerodrome,0.1225,1.0,-0.1675,0,0
+2026-06-26T14:15:40.567662+00:00,aptos,APT→USDT→APT,2,liquidswap/liquidswap,191.903,1.0,0.3096,0,0
+2026-06-26T14:17:20.282584+00:00,sui,FUD→TURBOS→KW→USDT→SUI→FUD,5,turbos-finance/turbos-finance/turbos-finance/cetus/cetus,97.4829,2.0,1.8169,0,0
+2026-06-26T14:17:20.282584+00:00,solana,PAWEL→MELANIA→JITOSOL→PAWEL,3,meteora/orca/meteora,0.6139,1.0,-0.1084,0,0
+2026-06-26T14:17:20.282584+00:00,base,USDBC→USDT→USDBC,2,aerodrome/quickswap,0.1225,1.0,-0.1681,0,0
+2026-06-26T14:17:20.282584+00:00,aptos,APT→USDT→APT,2,liquidswap/liquidswap,191.903,1.0,0.3096,0,0
+2026-06-26T14:19:00.296278+00:00,sui,FUD→TURBOS→KW→USDT→SUI→FUD,5,turbos-finance/turbos-finance/turbos-finance/cetus/cetus,97.4829,2.0,1.8169,0,0
+2026-06-26T14:19:00.296278+00:00,solana,MELANIA→SOL→MELANIA,2,raydium/meteora,71.8664,3.8,1.1718,0,0
+2026-06-26T14:19:00.296278+00:00,base,USDBC→USDT→USDBC,2,aerodrome/quickswap,0.1225,1.0,-0.1681,0,0
+2026-06-26T14:19:00.296278+00:00,aptos,APT→USDT→APT,2,liquidswap/liquidswap,191.903,1.0,0.3096,0,0
+2026-06-26T14:20:40.770286+00:00,sui,FUD→TURBOS→KW→USDT→SUI→FUD,5,turbos-finance/turbos-finance/turbos-finance/cetus/cetus,97.4829,2.0,1.8169,0,0
+2026-06-26T14:20:40.770286+00:00,base,USDBC→USDT→USDBC,2,aerodrome/quickswap,0.1225,1.0,-0.1681,0,0
+2026-06-26T14:20:40.770286+00:00,aptos,APT→USDT→APT,2,liquidswap/liquidswap,191.903,1.0,0.3096,0,0
+2026-06-26T14:22:21.489160+00:00,solana,JITOSOL→FARTCOIN →JITOSOL,2,raydium/meteora,0.0753,1.0,-0.7233,0,0
+2026-06-26T14:22:21.489160+00:00,base,USDBC→USDT→USDBC,2,aerodrome/quickswap,0.1225,1.0,-0.1681,0,0
+2026-06-26T14:22:21.489160+00:00,aptos,APT→USDT→APT,2,liquidswap/liquidswap,191.903,1.0,0.3096,0,0
+2026-06-26T14:24:02.824606+00:00,base,USDBC→USDT→USDBC,2,aerodrome/quickswap,0.1225,1.0,-0.1681,0,0
+2026-06-26T14:24:02.824606+00:00,aptos,APT→USDT→APT,2,liquidswap/liquidswap,191.903,1.0,0.3096,0,0
+2026-06-26T14:25:42.812549+00:00,solana,PAWEL→JITOSOL→PENGU→PAWEL,3,meteora/orca/meteora,0.743,1.0,-0.0097,0,0
+2026-06-26T14:25:42.812549+00:00,base,USDBC→USDT→USDBC,2,aerodrome/quickswap,0.1225,1.0,-0.1681,0,0
+2026-06-26T14:25:42.812549+00:00,aptos,APT→USDT→APT,2,liquidswap/liquidswap,191.903,1.0,0.3096,0,0
+2026-06-26T14:27:23.966508+00:00,solana,PAWEL→JITOSOL→PENGU→PAWEL,3,meteora/orca/meteora,0.743,1.0,-0.0097,0,0
+2026-06-26T14:27:23.966508+00:00,base,USDBC→USDT→USDBC,2,aerodrome/quickswap,0.1225,1.0,-0.1681,0,0
+2026-06-26T14:27:23.966508+00:00,aptos,APT→USDT→APT,2,liquidswap/liquidswap,191.903,1.0,0.3096,0,0
