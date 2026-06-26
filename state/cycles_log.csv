@@ -12059,3 +12059,13 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-06-26T20:42:21.351512+00:00,sui,SCB→SUI→FUD→SCB,3,turbos-finance/cetus/flowx,33.4077,1.0,-0.8572,0,0
 2026-06-26T20:42:21.351512+00:00,solana,USD1→USDC→USD1,2,meteora/raydium,7.4995,1.0,-0.9537,0,0
 2026-06-26T20:42:21.351512+00:00,aptos,USDT→WETH→USDT,2,liquidswap/liquidswap,195.757,2.77,1.9753,0,0
+2026-06-26T20:45:39.607421+00:00,sui,SCB→SUI→FUD→SCB,3,turbos-finance/cetus/flowx,33.4077,1.0,-0.8572,0,0
+2026-06-26T20:45:39.607421+00:00,solana,TROLL→SOL→TROLL,2,meteora/meteora,4.6349,1.0,-0.8654,0,0
+2026-06-26T20:47:16.187253+00:00,sui,SCB→SUI→FUD→SCB,3,turbos-finance/cetus/flowx,33.4077,1.0,-0.8572,0,0
+2026-06-26T20:47:16.187253+00:00,solana,TROLL→SOL→TROLL,2,meteora/meteora,4.6349,1.0,-0.8654,0,0
+2026-06-26T20:48:52.218189+00:00,sui,SCB→SUI→FUD→SCB,3,turbos-finance/cetus/flowx,33.4077,1.0,-0.8572,0,0
+2026-06-26T20:50:28.461938+00:00,sui,SCB→SUI→FUD→SCB,3,turbos-finance/cetus/flowx,33.4077,1.0,-0.8572,0,0
+2026-06-26T20:52:04.665621+00:00,sui,SCB→SUI→FUD→SCB,3,turbos-finance/cetus/flowx,33.4077,1.0,-0.8572,0,0
+2026-06-26T20:53:40.880230+00:00,sui,SCB→SUI→FUD→SCB,3,turbos-finance/cetus/flowx,33.4077,1.0,-0.8572,0,0
+2026-06-26T20:55:17.023408+00:00,sui,SCB→SUI→FUD→SCB,3,turbos-finance/cetus/flowx,33.4077,1.0,-0.8572,0,0
+2026-06-26T20:56:53.209147+00:00,sui,SCB→SUI→FUD→SCB,3,turbos-finance/cetus/flowx,33.4077,1.0,-0.8572,0,0
