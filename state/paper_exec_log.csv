@@ -3739,3 +3739,4 @@ t0,chain,token,entry_spread_pct,lo_dex,hi_dex,min_tvl,whale,n_samples,n_pos_afte
 2026-06-27T14:27:30.310771+00:00,base,WETH,0.9106,uniswap,0x03C01Acae3D0173a93d819efDc832C7C4F153B06,384941,1,10,0,-0.6313,0
 2026-06-27T14:43:07.606555+00:00,base,VIRTUAL,0.3877,aerodrome,uniswap,382025,1,13,0,-0.1279,0
 2026-06-27T15:10:06.247328+00:00,base,NOCK,0.3321,aerodrome,aerodrome,1115194,0,3,1,1.1578,0
+2026-06-27T15:18:47.597719+00:00,solana,FARTCOIN ,0.6767,orca,raydium,500434,0,3,0,-0.5695,0
