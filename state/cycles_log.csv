@@ -13790,3 +13790,18 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-06-27T19:35:11.926229+00:00,solana,USELESS→FARTCOIN →$WIF→PEPE→USELESS,4,orca/orca/meteora/meteora,0.8075,1.0,-0.9912,0,0
 2026-06-27T19:35:11.926229+00:00,base,ZORA→USDC→CLANKER→ZORA,3,uniswap/uniswap/uniswap,13.9046,2.0,0.2454,0,0
 2026-06-27T19:35:11.926229+00:00,aptos,WETH→USDT→WETH,2,liquidswap/liquidswap,197.6506,1.0,-0.6952,0,0
+2026-06-27T19:47:32.101902+00:00,sui,WUSDC→USDC→SEND→DEEP→WUSDC,4,cetus/bluefin/cetus/flowx,11.347,1.0,-0.9959,0,0
+2026-06-27T19:47:32.101902+00:00,solana,GODL→ORE→GODL,2,meteora/orca,3.9065,17.75,0.3335,0,0
+2026-06-27T19:49:12.676507+00:00,sui,NAVX→SEND→TURBOS→NAVX,3,steamm/turbos-finance/turbos-finance,9.4939,1.0,-0.998,0,0
+2026-06-27T19:49:12.676507+00:00,solana,GODL→ORE→GODL,2,meteora/orca,3.9065,17.75,0.3335,0,0
+2026-06-27T19:50:54.091867+00:00,sui,WUSDC→USDC→SEND→DEEP→WUSDC,4,cetus/cetus/cetus/flowx,12.1727,1.0,-0.9959,0,0
+2026-06-27T19:50:54.091867+00:00,solana,ORE→GODL→ORE,2,orca/meteora,3.9065,1.0,-0.0103,0,0
+2026-06-27T19:52:35.598876+00:00,sui,WUSDC→USDC→SEND→DEEP→WUSDC,4,cetus/cetus/cetus/flowx,12.1727,1.0,-0.9959,0,0
+2026-06-27T19:52:35.598876+00:00,solana,GODL→ORE→GODL,2,meteora/orca,3.9065,17.75,0.3335,0,0
+2026-06-27T19:54:16.979553+00:00,sui,WUSDC→USDC→SEND→DEEP→WUSDC,4,cetus/cetus/cetus/flowx,12.1727,1.0,-0.9959,0,0
+2026-06-27T19:54:16.979553+00:00,solana,GODL→ORE→GODL,2,meteora/orca,3.9065,17.75,0.3335,0,0
+2026-06-27T19:54:16.979553+00:00,base,TOSHI→USDT→USDBC→TOSHI,3,uniswap/aerodrome/aerodrome,99.0765,1.0,-0.6906,0,0
+2026-06-27T19:55:59.002319+00:00,solana,GODL→ORE→GODL,2,meteora/orca,3.9065,17.75,0.3335,0,0
+2026-06-27T19:55:59.002319+00:00,base,TOSHI→USDT→USDBC→TOSHI,3,uniswap/aerodrome/aerodrome,99.0765,1.0,-0.6906,0,0
+2026-06-27T19:57:39.892911+00:00,solana,GODL→ORE→GODL,2,meteora/orca,3.9065,17.75,0.3335,0,0
+2026-06-27T19:59:21.732000+00:00,solana,GODL→ORE→GODL,2,meteora/orca,3.9065,17.75,0.3335,0,0
