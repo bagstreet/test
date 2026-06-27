@@ -13082,3 +13082,14 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-06-27T09:42:04.516389+00:00,solana,MELANIA→SOL→MELANIA,2,raydium/meteora,71.7941,3.83,1.1813,0,0
 2026-06-27T09:42:04.516389+00:00,base,GROK→ZORA→HERO→AERO→USDC→GROK,5,uniswap/aerodrome/aerodrome/aerodrome/uniswap,6.3561,1.0,-0.92,0,0
 2026-06-27T09:42:04.516389+00:00,aptos,USDT→APT→USDT,2,liquidswap/liquidswap,170.8729,2.39,1.5222,0,0
+2026-06-27T09:45:41.973818+00:00,solana,JUP→SOL→XSOL→JUP,3,meteora/meteora/meteora,6.0732,12.55,0.3654,0,0
+2026-06-27T09:45:41.973818+00:00,base,WETH→VIRTUAL→WETH,2,aerodrome/aerodrome,0.0191,1.0,-0.0314,1,0
+2026-06-27T09:47:22.409268+00:00,solana,JUP→SOL→XSOL→JUP,3,meteora/meteora/meteora,6.0732,12.55,0.3654,0,0
+2026-06-27T09:49:02.942515+00:00,solana,XSOL→JUP→SOL→XSOL,3,meteora/meteora/meteora,6.0732,28.81,1.5119,0,0
+2026-06-27T09:50:43.270329+00:00,solana,JUP→SOL→XSOL→JUP,3,meteora/meteora/meteora,6.0732,12.55,0.3654,0,0
+2026-06-27T09:52:23.387455+00:00,solana,JUP→SOL→XSOL→JUP,3,meteora/meteora/meteora,6.0732,12.55,0.3654,0,0
+2026-06-27T09:52:23.387455+00:00,base,TOSHI→WETH→TOSHI,2,alien-base/diamondswap,2.976,2.0,0.0157,0,0
+2026-06-27T09:54:03.645331+00:00,solana,TRUMPBUCKS→HYPE→TRUMPBUCKS,2,meteora/meteora,0.3352,1.0,-0.0095,0,0
+2026-06-27T09:54:03.645331+00:00,base,TOSHI→WETH→TOSHI,2,alien-base/diamondswap,2.976,2.0,0.0157,0,0
+2026-06-27T09:55:43.945961+00:00,base,TOSHI→WETH→TOSHI,2,alien-base/diamondswap,2.976,2.0,0.0157,0,0
+2026-06-27T09:57:24.559488+00:00,base,TOSHI→WETH→TOSHI,2,alien-base/diamondswap,2.976,2.0,0.0157,0,0
