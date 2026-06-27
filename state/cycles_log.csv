@@ -12501,3 +12501,18 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-06-27T02:42:26.682386+00:00,solana,MELANIA→SOL→MELANIA,2,raydium/meteora,73.5187,3.95,1.2427,0,0
 2026-06-27T02:42:26.682386+00:00,base,EURC→WSTETH→CBETH→VCNT→EURC,4,aerodrome/solidlycom/uniswap/uniswap,0.2516,1.0,-0.0346,0,0
 2026-06-27T02:42:26.682386+00:00,aptos,APT→USDC→APT,2,pancakeswap/liquidswap,173.9907,62.38,40.8584,0,0
+2026-06-27T02:45:40.968308+00:00,base,NOCK→USDC→NOCK,2,uniswap/uniswap,42.7462,4.29,0.8061,0,0
+2026-06-27T02:45:40.968308+00:00,aptos,USDC→BNB→USDC,2,pancakeswap/pancakeswap,6.3342,1.0,-0.4811,0,0
+2026-06-27T02:47:29.379442+00:00,base,NOCK→USDC→NOCK,2,uniswap/uniswap,42.7462,4.29,0.8061,0,0
+2026-06-27T02:47:29.379442+00:00,aptos,USDC→BNB→USDC,2,pancakeswap/pancakeswap,6.3342,1.0,-0.4811,0,0
+2026-06-27T02:49:17.736298+00:00,aptos,USDC→BNB→USDC,2,pancakeswap/pancakeswap,6.3342,1.0,-0.4811,0,0
+2026-06-27T02:51:06.201679+00:00,aptos,USDC→BNB→USDC,2,pancakeswap/pancakeswap,6.3342,1.0,-0.4811,0,0
+2026-06-27T02:52:54.046621+00:00,aptos,USDC→BNB→USDC,2,pancakeswap/pancakeswap,6.3342,1.0,-0.4811,0,0
+2026-06-27T02:54:42.388646+00:00,base,BRETT→USDC→BRETT,2,uniswap/baseswap,8.1566,1.0,-0.9052,0,0
+2026-06-27T02:54:42.388646+00:00,aptos,USDC→BNB→USDC,2,pancakeswap/pancakeswap,6.3342,1.0,-0.4811,0,0
+2026-06-27T02:56:30.682197+00:00,solana,USDC→FARTCOIN →USDC,2,meteora/raydium,113.8857,1.0,-0.056,0,0
+2026-06-27T02:56:30.682197+00:00,base,BRETT→USDC→BRETT,2,uniswap/baseswap,8.1566,1.0,-0.9052,0,0
+2026-06-27T02:56:30.682197+00:00,aptos,USDC→BNB→USDC,2,pancakeswap/pancakeswap,6.3342,1.0,-0.4811,0,0
+2026-06-27T02:58:18.899578+00:00,solana,USDC→FARTCOIN →USDC,2,meteora/raydium,113.8857,1.0,-0.056,0,0
+2026-06-27T02:58:18.899578+00:00,base,BRETT→USDC→BRETT,2,uniswap/baseswap,8.1566,1.0,-0.9052,0,0
+2026-06-27T02:58:18.899578+00:00,aptos,USDC→BNB→USDC,2,pancakeswap/pancakeswap,6.3342,1.0,-0.4811,0,0
