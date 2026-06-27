@@ -3670,3 +3670,4 @@ t0,chain,token,entry_spread_pct,lo_dex,hi_dex,min_tvl,whale,n_samples,n_pos_afte
 2026-06-27T11:38:56.048534+00:00,sui,USDC,0.3,turbos-finance,turbos-finance,258707,0,13,0,-1.6951,0
 2026-06-27T11:40:32.639853+00:00,base,CBBTC,0.4928,uniswap,aerodrome,684477,1,13,0,-0.5774,0
 2026-06-27T11:40:32.639853+00:00,base,WETH,0.3619,uniswap,uniswap,743508,1,13,0,-0.5926,0
+2026-06-27T11:48:37.732481+00:00,solana,HYPE,0.3153,meteora,orca,393669,1,13,0,-1.0435,0
