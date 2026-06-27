@@ -12516,3 +12516,23 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-06-27T02:58:18.899578+00:00,solana,USDC→FARTCOIN →USDC,2,meteora/raydium,113.8857,1.0,-0.056,0,0
 2026-06-27T02:58:18.899578+00:00,base,BRETT→USDC→BRETT,2,uniswap/baseswap,8.1566,1.0,-0.9052,0,0
 2026-06-27T02:58:18.899578+00:00,aptos,USDC→BNB→USDC,2,pancakeswap/pancakeswap,6.3342,1.0,-0.4811,0,0
+2026-06-27T03:01:05.426734+00:00,sui,NS→USDC→SEND→SUI→NS,4,cetus/bluefin/flowx/turbos-finance,7.6047,1.0,-0.69,0,0
+2026-06-27T03:01:05.426734+00:00,solana,FARTCOIN →USDC→FARTCOIN ,2,raydium/meteora,113.8857,2.83,1.2988,0,0
+2026-06-27T03:01:05.426734+00:00,base,RSR→USDC→ZORA→BNKR→RSR,4,aerodrome/uniswap/uniswap/aerodrome,71.9182,1.0,-0.5326,0,0
+2026-06-27T03:02:46.684047+00:00,sui,NS→USDC→SEND→SUI→NS,4,cetus/bluefin/flowx/turbos-finance,7.6047,1.0,-0.69,0,0
+2026-06-27T03:02:46.684047+00:00,solana,FARTCOIN →USDC→FARTCOIN ,2,raydium/meteora,113.8857,2.83,1.2988,0,0
+2026-06-27T03:02:46.684047+00:00,base,RSR→USDC→RSR,2,aerodrome/uniswap,2.1623,1.0,-0.2328,0,0
+2026-06-27T03:04:28.483830+00:00,sui,NS→USDC→SEND→SUI→NS,4,cetus/bluefin/flowx/turbos-finance,7.6047,1.0,-0.69,0,0
+2026-06-27T03:04:28.483830+00:00,solana,FARTCOIN →USDC→FARTCOIN ,2,raydium/meteora,113.723,2.83,1.2956,0,0
+2026-06-27T03:04:28.483830+00:00,base,RSR→USDC→RSR,2,aerodrome/uniswap,2.1623,1.0,-0.2328,0,0
+2026-06-27T03:06:09.499037+00:00,sui,NS→USDC→SEND→SUI→NS,4,cetus/bluefin/flowx/turbos-finance,7.6047,1.0,-0.69,0,0
+2026-06-27T03:06:09.499037+00:00,solana,FARTCOIN →USDC→FARTCOIN ,2,raydium/meteora,113.723,2.83,1.2956,0,0
+2026-06-27T03:06:09.499037+00:00,base,RSR→USDC→RSR,2,aerodrome/uniswap,2.1623,1.0,-0.2328,0,0
+2026-06-27T03:07:50.718240+00:00,solana,FARTCOIN →USDC→FARTCOIN ,2,raydium/meteora,113.8857,2.83,1.2989,0,0
+2026-06-27T03:07:50.718240+00:00,base,RSR→USDC→RSR,2,aerodrome/uniswap,2.1623,1.0,-0.2328,0,0
+2026-06-27T03:09:32.099898+00:00,solana,FARTCOIN →USDC→FARTCOIN ,2,raydium/meteora,113.8857,2.83,1.2989,0,0
+2026-06-27T03:09:32.099898+00:00,base,RSR→USDC→RSR,2,aerodrome/uniswap,2.1623,1.0,-0.2328,0,0
+2026-06-27T03:11:12.827914+00:00,solana,FARTCOIN →USDC→FARTCOIN ,2,raydium/meteora,113.8857,2.83,1.2989,0,0
+2026-06-27T03:11:12.827914+00:00,base,RSR→USDC→RSR,2,aerodrome/uniswap,2.1623,1.0,-0.2328,0,0
+2026-06-27T03:12:53.840900+00:00,solana,USELESS→USDC→USELESS,2,orca/meteora,5.6271,27.36,0.7493,0,0
+2026-06-27T03:12:53.840900+00:00,base,RSR→USDC→RSR,2,aerodrome/uniswap,2.1623,1.0,-0.2328,0,0
