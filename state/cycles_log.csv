@@ -13606,3 +13606,21 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-06-27T16:57:00.712486+00:00,sui,FOMO→VSUI→FOMO,2,cetus/cetus,-0.4994,1.0,-0.0901,0,0
 2026-06-27T16:57:00.712486+00:00,solana,TRUMPBUCKS→SHITCOIN→TRUMPBUCKS,2,meteora/meteora,0.3695,1.0,-0.0188,0,0
 2026-06-27T16:57:00.712486+00:00,aptos,APT→USDC→APT,2,animeswap/liquidswap,177.429,2.22,1.4587,0,0
+2026-06-27T17:08:55.656136+00:00,solana,ARC→PEPE→USELESS→FARTCOIN →ARC,4,meteora/meteora/orca/orca,1.7215,1.0,-0.9936,0,0
+2026-06-27T17:08:55.656136+00:00,base,EURC→WETH→EURC,2,9mm/alien-base,7.5906,1.0,-0.722,0,0
+2026-06-27T17:08:55.656136+00:00,aptos,WETH→USDT→WETH,2,liquidswap/liquidswap,197.6506,1.0,-0.6952,0,0
+2026-06-27T17:10:31.799551+00:00,solana,ARC→PEPE→USELESS→FARTCOIN →ARC,4,meteora/meteora/orca/orca,1.7215,1.0,-0.9936,0,0
+2026-06-27T17:10:31.799551+00:00,base,EURC→WETH→EURC,2,9mm/alien-base,7.5906,1.0,-0.722,0,0
+2026-06-27T17:10:31.799551+00:00,aptos,WETH→USDT→WETH,2,liquidswap/liquidswap,197.6506,1.0,-0.6952,0,0
+2026-06-27T17:12:10.006581+00:00,solana,ARC→PEPE→USELESS→FARTCOIN →ARC,4,meteora/meteora/orca/orca,1.7215,1.0,-0.9936,0,0
+2026-06-27T17:12:10.006581+00:00,aptos,WETH→USDT→WETH,2,liquidswap/liquidswap,197.6506,1.0,-0.6952,0,0
+2026-06-27T17:13:48.730251+00:00,solana,PEPE→USELESS→FARTCOIN →ARC→PEPE,4,meteora/orca/orca/meteora,1.0566,1.0,-0.0717,0,0
+2026-06-27T17:13:48.730251+00:00,aptos,WETH→USDT→WETH,2,liquidswap/liquidswap,197.6506,1.0,-0.6952,0,0
+2026-06-27T17:15:27.317272+00:00,solana,PEPE→USELESS→FARTCOIN →ARC→PEPE,4,meteora/orca/orca/meteora,1.0041,1.0,-0.0722,0,0
+2026-06-27T17:15:27.317272+00:00,aptos,WETH→USDT→WETH,2,liquidswap/liquidswap,197.6506,1.0,-0.6952,0,0
+2026-06-27T17:17:05.524999+00:00,solana,PEPE→USELESS→FARTCOIN →ARC→PEPE,4,meteora/orca/orca/meteora,1.0041,1.0,-0.0722,0,0
+2026-06-27T17:17:05.524999+00:00,aptos,WETH→USDT→WETH,2,liquidswap/liquidswap,197.6506,1.0,-0.6952,0,0
+2026-06-27T17:18:44.079233+00:00,solana,ARC→PEPE→USELESS→FARTCOIN →ARC,4,meteora/meteora/orca/orca,1.0041,1.0,-0.9937,0,0
+2026-06-27T17:18:44.079233+00:00,aptos,USDT→WETH→USDT,2,liquidswap/liquidswap,197.6506,87.71,139.0429,0,0
+2026-06-27T17:20:22.479828+00:00,solana,PEPE→USELESS→FARTCOIN →ARC→PEPE,4,meteora/orca/orca/meteora,1.0041,1.0,-0.0722,0,0
+2026-06-27T17:20:22.479828+00:00,aptos,WETH→USDT→WETH,2,liquidswap/liquidswap,197.6506,1.0,-0.6952,0,0
