@@ -12366,3 +12366,34 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-06-27T01:17:11.386683+00:00,sui,WAL→DEEP→WAL,2,fullsail/cetus,1.1119,1.0,-0.257,0,0
 2026-06-27T01:17:11.386683+00:00,solana,USDC→USD1→USDC,2,raydium/meteora,7.4995,1.0,-0.9538,0,0
 2026-06-27T01:17:11.386683+00:00,base,RSR→USDC→RSR,2,aerodrome/uniswap,2.1623,1.0,-0.2328,0,0
+2026-06-27T01:30:53.739045+00:00,sui,USDC→TURBOS→USDC,2,turbos-finance/turbos-finance,2.2477,1.0,-0.5529,0,0
+2026-06-27T01:30:53.739045+00:00,solana,FARTCOIN →USDC→TROLL→PENGU→JITOSOL→FARTCOIN ,5,raydium/orca/orca/orca/raydium,118.0956,2.17,1.0246,0,0
+2026-06-27T01:30:53.739045+00:00,base,WBLT→BMX→WBLT,2,velocimeter/aerodrome,0.2551,4.24,-0.0246,0,0
+2026-06-27T01:30:53.739045+00:00,aptos,USDC→WETH→USDC,2,liquidswap/pancakeswap,2.6984,1.0,-0.0696,0,0
+2026-06-27T01:32:38.104520+00:00,sui,USDC→TURBOS→USDC,2,turbos-finance/turbos-finance,2.2477,1.0,-0.5529,0,0
+2026-06-27T01:32:38.104520+00:00,solana,USDC→FARTCOIN →USDC,2,meteora/raydium,115.8714,1.0,-0.0529,0,0
+2026-06-27T01:32:38.104520+00:00,base,WBLT→BMX→WBLT,2,velocimeter/aerodrome,0.2551,4.24,-0.0246,0,0
+2026-06-27T01:32:38.104520+00:00,aptos,USDC→WETH→USDC,2,liquidswap/pancakeswap,2.6984,1.0,-0.0696,0,0
+2026-06-27T01:34:21.833843+00:00,sui,USDC→TURBOS→USDC,2,turbos-finance/turbos-finance,2.2477,1.0,-0.5529,0,0
+2026-06-27T01:34:21.833843+00:00,solana,USDC→FARTCOIN →USDC,2,raydium/raydium,116.2623,1.0,-0.0522,0,0
+2026-06-27T01:34:21.833843+00:00,base,WBLT→BMX→WBLT,2,velocimeter/aerodrome,0.2551,4.24,-0.0246,0,0
+2026-06-27T01:34:21.833843+00:00,aptos,USDC→WETH→USDC,2,liquidswap/pancakeswap,2.6984,1.0,-0.0696,0,0
+2026-06-27T01:36:05.785061+00:00,sui,USDC→TURBOS→USDC,2,turbos-finance/turbos-finance,2.2477,1.0,-0.5529,0,0
+2026-06-27T01:36:05.785061+00:00,solana,FARTCOIN →USDC→TROLL→PENGU→JITOSOL→FARTCOIN ,5,raydium/orca/orca/orca/raydium,117.3499,2.16,1.0136,0,0
+2026-06-27T01:36:05.785061+00:00,base,WBLT→BMX→WBLT,2,velocimeter/aerodrome,0.2551,4.24,-0.0246,0,0
+2026-06-27T01:36:05.785061+00:00,aptos,USDC→WETH→USDC,2,liquidswap/pancakeswap,2.6984,1.0,-0.0696,0,0
+2026-06-27T01:37:49.913207+00:00,sui,USDC→TURBOS→USDC,2,turbos-finance/turbos-finance,2.2477,1.0,-0.5529,0,0
+2026-06-27T01:37:49.913207+00:00,solana,FARTCOIN →USDC→TROLL→PENGU→JITOSOL→FARTCOIN ,5,raydium/orca/orca/orca/raydium,117.3499,2.16,1.0136,0,0
+2026-06-27T01:37:49.913207+00:00,base,WBLT→BMX→WBLT,2,velocimeter/aerodrome,0.2551,4.24,-0.0246,0,0
+2026-06-27T01:37:49.913207+00:00,aptos,USDC→WETH→USDC,2,liquidswap/pancakeswap,2.6984,1.0,-0.0696,0,0
+2026-06-27T01:39:33.524580+00:00,sui,USDC→TURBOS→USDC,2,turbos-finance/turbos-finance,2.2477,1.0,-0.5529,0,0
+2026-06-27T01:39:33.524580+00:00,solana,FARTCOIN →USDC→TROLL→PENGU→JITOSOL→FARTCOIN ,5,raydium/orca/orca/orca/raydium,117.3175,2.16,1.0131,0,0
+2026-06-27T01:39:33.524580+00:00,base,WBLT→BMX→WBLT,2,velocimeter/aerodrome,0.2551,4.24,-0.0246,0,0
+2026-06-27T01:39:33.524580+00:00,aptos,USDC→WETH→USDC,2,liquidswap/pancakeswap,2.6984,1.0,-0.0696,0,0
+2026-06-27T01:41:17.675900+00:00,sui,USDC→TURBOS→USDC,2,turbos-finance/turbos-finance,2.2477,1.0,-0.5529,0,0
+2026-06-27T01:41:17.675900+00:00,solana,FARTCOIN →USDC→TROLL→PENGU→JITOSOL→FARTCOIN ,5,raydium/orca/orca/orca/raydium,117.3175,2.16,1.0131,0,0
+2026-06-27T01:41:17.675900+00:00,base,BMX→WBLT→BMX,2,aerodrome/velocimeter,0.2551,6.97,-0.0211,0,0
+2026-06-27T01:41:17.675900+00:00,aptos,USDC→WETH→USDC,2,liquidswap/pancakeswap,2.6984,1.0,-0.0696,0,0
+2026-06-27T01:43:01.236296+00:00,sui,USDC→TURBOS→USDC,2,turbos-finance/turbos-finance,2.2477,1.0,-0.5529,0,0
+2026-06-27T01:43:01.236296+00:00,solana,FARTCOIN →USDC→TROLL→PENGU→JITOSOL→FARTCOIN ,5,raydium/orca/orca/orca/raydium,117.3175,2.16,1.0131,0,0
+2026-06-27T01:43:01.236296+00:00,base,BMX→WBLT→BMX,2,aerodrome/velocimeter,0.2551,6.97,-0.0211,0,0
