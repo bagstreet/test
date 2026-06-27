@@ -13314,3 +13314,17 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-06-27T12:41:59.282166+00:00,solana,JUP→USDC→JUP,2,meteora/meteora,10.9289,2338.84,124.4818,1,1
 2026-06-27T12:41:59.282166+00:00,base,WETH→AERO→USDC→VVV→WETH,4,aerodrome/aerodrome/alien-base/sushiswap,9.2764,1.0,-0.9991,0,0
 2026-06-27T12:41:59.282166+00:00,aptos,APT→USDC→APT,2,pancakeswap/liquidswap,177.6407,63.06,41.994,0,0
+2026-06-27T12:45:40.991394+00:00,solana,UNC→SOL→UNC,2,meteora/meteora,5.28,3.74,0.0873,0,0
+2026-06-27T12:45:40.991394+00:00,base,USDC→USDT→USDBC→AERO→USDC,4,solidlycom/aerodrome/aerodrome/aerodrome,4.6631,1.0,-0.1324,0,0
+2026-06-27T12:47:25.726092+00:00,solana,UNC→SOL→UNC,2,meteora/meteora,5.28,3.74,0.0873,0,0
+2026-06-27T12:47:25.726092+00:00,base,USDC→ETH→USDBC→AERO→USDC,4,uniswap/uniswap/aerodrome/aerodrome,4.9781,13.41,0.2996,0,0
+2026-06-27T12:49:09.601999+00:00,solana,UNC→SOL→UNC,2,meteora/meteora,5.28,3.74,0.0873,0,0
+2026-06-27T12:49:09.601999+00:00,base,USDC→ETH→USDBC→AERO→USDC,4,uniswap/uniswap/aerodrome/aerodrome,4.9781,13.41,0.2996,0,0
+2026-06-27T12:50:53.406984+00:00,solana,UNC→SOL→UNC,2,meteora/meteora,5.28,3.74,0.0873,0,0
+2026-06-27T12:50:53.406984+00:00,base,USDC→ETH→USDBC→AERO→USDC,4,uniswap/uniswap/aerodrome/aerodrome,4.9781,13.41,0.2996,0,0
+2026-06-27T12:52:37.851016+00:00,base,USDC→ETH→USDBC→AERO→USDC,4,uniswap/uniswap/aerodrome/aerodrome,4.9781,13.41,0.2996,0,0
+2026-06-27T12:54:21.992080+00:00,base,USDC→ETH→USDBC→AERO→USDC,4,uniswap/uniswap/aerodrome/aerodrome,4.9781,13.41,0.2996,0,0
+2026-06-27T12:56:05.902930+00:00,sui,FOMO→VSUI→FOMO,2,cetus/cetus,-0.4994,1.0,-0.0901,0,0
+2026-06-27T12:56:05.902930+00:00,base,AERO→USDC→ETH→USDBC→AERO,4,aerodrome/uniswap/uniswap/aerodrome,4.9781,27.86,0.655,0,0
+2026-06-27T12:57:50.136290+00:00,sui,FOMO→VSUI→FOMO,2,cetus/cetus,-0.4994,1.0,-0.0901,0,0
+2026-06-27T12:57:50.136290+00:00,base,AERO→USDC→ETH→USDBC→AERO,4,aerodrome/uniswap/uniswap/aerodrome,4.9781,27.86,0.655,0,0
