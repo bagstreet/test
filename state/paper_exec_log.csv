@@ -3752,3 +3752,6 @@ t0,chain,token,entry_spread_pct,lo_dex,hi_dex,min_tvl,whale,n_samples,n_pos_afte
 2026-06-27T15:10:06.247328+00:00,base,WSTETH,0.8376,aerodrome,aerodrome,538815,0,19,13,0.2341,1
 2026-06-27T15:11:45.880227+00:00,sui,USDC,0.5625,turbos-finance,cetus,334934,0,19,0,-1.3472,0
 2026-06-27T15:11:45.880227+00:00,base,VVV,0.9608,aerodrome,aerodrome,303250,0,19,0,-0.4902,0
+2026-06-27T15:13:26.151335+00:00,solana,USELESS,0.8391,raydium,meteora,373931,0,19,0,-1.0684,0
+2026-06-27T15:15:06.299408+00:00,base,WEETH,0.7535,aerodrome,aerodrome,428753,0,19,0,-0.529,0
+2026-06-27T15:15:06.299408+00:00,base,VIRTUAL,0.6386,aerodrome,uniswap,712626,1,19,0,-0.1942,0
