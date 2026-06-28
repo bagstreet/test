@@ -15131,3 +15131,25 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-06-28T12:57:08.654486+00:00,sui,SUI→ATTN→SUI,2,steamm/bluefin,0.0738,1.0,-0.4928,0,0
 2026-06-28T12:57:08.654486+00:00,solana,SOL→MELANIA→SOL,2,orca/raydium,72.9241,1.0,-0.9883,0,0
 2026-06-28T12:57:08.654486+00:00,aptos,USDT→WETH→USDT,2,pancakeswap/liquidswap,198.664,84.08,61.2084,0,0
+2026-06-28T13:10:08.209375+00:00,sui,SUI→USDC→SUI,2,cetus/steamm,0.9869,1.0,-0.0525,0,0
+2026-06-28T13:10:08.209375+00:00,solana,USDT→FARTCOIN →USDC→USDT,3,meteora/raydium/orca,224.3121,1.0,0.4033,0,0
+2026-06-28T13:10:08.209375+00:00,aptos,USDC→APT→USDC,2,liquidswap/animeswap,181.6499,1.0,0.1821,0,0
+2026-06-28T13:11:46.172143+00:00,sui,SUI→USDC→SUI,2,cetus/steamm,0.9869,1.0,-0.0525,0,0
+2026-06-28T13:11:46.172143+00:00,aptos,USDC→APT→USDC,2,liquidswap/animeswap,181.6499,1.0,0.1821,0,0
+2026-06-28T13:13:27.299321+00:00,sui,SUI→USDC→SUI,2,cetus/steamm,0.9869,1.0,-0.0525,0,0
+2026-06-28T13:13:27.299321+00:00,aptos,USDC→APT→USDC,2,liquidswap/animeswap,181.6499,1.0,0.1821,0,0
+2026-06-28T13:15:08.446468+00:00,sui,SUI→USDC→SUI,2,cetus/steamm,0.9869,1.0,-0.0525,0,0
+2026-06-28T13:15:08.446468+00:00,aptos,USDC→APT→USDC,2,liquidswap/animeswap,181.6499,1.0,0.1821,0,0
+2026-06-28T13:16:49.788489+00:00,sui,SUI→USDC→SUI,2,cetus/steamm,0.9869,1.0,-0.0525,0,0
+2026-06-28T13:16:49.788489+00:00,solana,USDT→PENGU→PUMP→FARTCOIN →USDC→USDT,5,raydium/meteora/orca/raydium/orca,153.8922,1.0,-0.9443,0,0
+2026-06-28T13:16:49.788489+00:00,aptos,USDC→APT→USDC,2,liquidswap/animeswap,181.6499,1.0,0.1821,0,0
+2026-06-28T13:18:31.641360+00:00,sui,SUI→USDC→SUI,2,cetus/steamm,0.9869,1.0,-0.0525,0,0
+2026-06-28T13:18:31.641360+00:00,solana,USDT→PENGU→PUMP→FARTCOIN →USDC→USDT,5,raydium/meteora/orca/raydium/orca,153.8922,1.0,-0.9443,0,0
+2026-06-28T13:18:31.641360+00:00,aptos,USDC→APT→USDC,2,liquidswap/animeswap,181.6499,1.0,0.1821,0,0
+2026-06-28T13:20:12.596717+00:00,sui,SUI→USDC→SUI,2,cetus/steamm,0.9869,1.0,-0.0525,0,0
+2026-06-28T13:20:12.596717+00:00,solana,USDC→USDT→PENGU→PUMP→FARTCOIN →USDC,5,orca/raydium/meteora/orca/raydium,153.8922,1.0,-0.946,0,0
+2026-06-28T13:20:12.596717+00:00,aptos,USDC→APT→USDC,2,liquidswap/animeswap,181.6499,1.0,0.1821,0,0
+2026-06-28T13:21:53.139146+00:00,sui,SUI→USDC→SUI,2,cetus/steamm,0.9869,1.0,-0.0525,0,0
+2026-06-28T13:21:53.139146+00:00,solana,USDT→PENGU→PUMP→FARTCOIN →USDC→USDT,5,raydium/meteora/orca/raydium/orca,153.8922,1.0,-0.9443,0,0
+2026-06-28T13:21:53.139146+00:00,base,B3→WETH→B3,2,pancakeswap/alien-base,12.0299,1.0,-0.8468,0,0
+2026-06-28T13:21:53.139146+00:00,aptos,USDC→APT→USDC,2,liquidswap/animeswap,181.6499,1.0,0.1821,0,0
