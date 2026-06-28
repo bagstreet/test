@@ -14217,3 +14217,24 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-06-28T02:06:35.118415+00:00,base,AERO→USDBC→AERO,2,uniswap/aerodrome,0.8172,1.23,-0.025,0,0
 2026-06-28T02:08:16.765673+00:00,solana,$WIF→POPCAT→$WIF,2,raydium/raydium,40.3959,1.0,-0.9827,0,0
 2026-06-28T02:08:16.765673+00:00,base,AERO→USDBC→AERO,2,uniswap/aerodrome,0.8172,1.23,-0.025,0,0
+2026-06-28T02:21:16.214536+00:00,solana,FARTCOIN →POPCAT→$WIF→PYUSD→FARTCOIN ,4,meteora/raydium/orca/raydium,41.3706,1.0,-0.9759,0,0
+2026-06-28T02:21:16.214536+00:00,base,ZORA→ETH→CLANKER→ZORA,3,uniswap/uniswap/uniswap,5.0256,1.0,-0.1534,0,0
+2026-06-28T02:21:16.214536+00:00,aptos,APT→USDT→APT,2,liquidswap/liquidswap,183.0315,9.51,6.4697,0,0
+2026-06-28T02:23:02.352732+00:00,solana,$WIF→PYUSD→FARTCOIN →POPCAT→$WIF,4,orca/raydium/meteora/raydium,41.3706,1.0,-0.9832,0,0
+2026-06-28T02:23:02.352732+00:00,aptos,APT→USDT→APT,2,liquidswap/liquidswap,183.0315,9.51,6.4697,0,0
+2026-06-28T02:24:51.600505+00:00,solana,$WIF→PYUSD→FARTCOIN →POPCAT→$WIF,4,orca/raydium/meteora/raydium,40.9947,1.0,-0.9832,0,0
+2026-06-28T02:24:51.600505+00:00,aptos,APT→USDT→APT,2,liquidswap/liquidswap,183.0315,9.51,6.4697,0,0
+2026-06-28T02:26:40.786665+00:00,solana,$WIF→PYUSD→FARTCOIN →POPCAT→$WIF,4,orca/raydium/meteora/raydium,40.9947,1.0,-0.9832,0,0
+2026-06-28T02:26:40.786665+00:00,base,WBLT→BMX→WBLT,2,velocimeter/aerodrome,1.356,23.01,0.1255,0,0
+2026-06-28T02:26:40.786665+00:00,aptos,APT→USDT→APT,2,liquidswap/liquidswap,183.0315,9.51,6.4697,0,0
+2026-06-28T02:28:29.712761+00:00,solana,POPCAT→$WIF→PYUSD→FARTCOIN →POPCAT,4,raydium/orca/raydium/meteora,40.9947,1.0,-0.914,0,0
+2026-06-28T02:28:29.712761+00:00,base,B3→MAMO→B3,2,aerodrome/aerodrome,0.3196,6.91,-0.019,0,0
+2026-06-28T02:28:29.712761+00:00,aptos,APT→USDT→APT,2,liquidswap/liquidswap,183.0315,9.51,6.4697,0,0
+2026-06-28T02:30:17.991682+00:00,solana,POPCAT→$WIF→PYUSD→FARTCOIN →POPCAT,4,raydium/orca/raydium/meteora,41.1615,1.0,-0.9139,0,0
+2026-06-28T02:30:17.991682+00:00,aptos,APT→USDT→APT,2,liquidswap/liquidswap,183.0315,9.51,6.4697,0,0
+2026-06-28T02:32:06.891907+00:00,solana,$WIF→PYUSD→FARTCOIN →POPCAT→$WIF,4,orca/raydium/meteora/raydium,41.1615,1.0,-0.9832,0,0
+2026-06-28T02:32:06.891907+00:00,base,USDC→MAMO→CLANKER→ZORA→USDC,4,hydrex/aerodrome/uniswap/uniswap,18.1229,1.0,-0.2369,0,0
+2026-06-28T02:32:06.891907+00:00,aptos,APT→USDT→APT,2,liquidswap/liquidswap,183.0315,9.51,6.4697,0,0
+2026-06-28T02:33:55.523561+00:00,solana,FARTCOIN →POPCAT→$WIF→PYUSD→FARTCOIN ,4,meteora/raydium/orca/raydium,41.1615,1.0,-0.9759,0,0
+2026-06-28T02:33:55.523561+00:00,base,USDC→MAMO→CLANKER→ZORA→USDC,4,hydrex/aerodrome/uniswap/uniswap,18.1229,1.0,-0.2369,0,0
+2026-06-28T02:33:55.523561+00:00,aptos,APT→USDT→APT,2,liquidswap/liquidswap,183.0315,9.51,6.4697,0,0
