@@ -3970,3 +3970,4 @@ t0,chain,token,entry_spread_pct,lo_dex,hi_dex,min_tvl,whale,n_samples,n_pos_afte
 2026-06-28T02:23:02.352732+00:00,base,CBETH,0.3465,aerodrome,pancakeswap,296180,1,12,0,-0.9749,0
 2026-06-28T02:24:51.600505+00:00,sui,USDSUI,0.3403,cetus,turbos-finance,696100,0,12,0,-0.7353,0
 2026-06-28T02:24:51.600505+00:00,solana,HYPE,0.8429,meteora,meteora,396266,1,12,8,0.0341,1
+2026-06-28T02:28:29.712761+00:00,solana,MET,1.17,meteora,meteora,276230,0,13,0,-0.0854,0
