@@ -15511,3 +15511,30 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-06-28T18:22:50.209240+00:00,sui,USDC→WAL→USDC,2,steamm/cetus,2.6166,1.0,-0.4167,0,0
 2026-06-28T18:22:50.209240+00:00,solana,GIGA→SPX→GIGA,2,meteora/meteora,0.4284,5.77,0.0023,0,0
 2026-06-28T18:22:50.209240+00:00,base,BRETT→ETH→BRETT,2,uniswap/uniswap,0.4105,3.9,-0.0217,0,0
+2026-06-28T18:35:10.615518+00:00,sui,SEND→MSEND→SEND,2,steamm/steamm,211.4283,1.0,-0.9208,0,0
+2026-06-28T18:35:10.615518+00:00,base,WETH→FBOMB→AERO→WETH,3,uniswap/aerodrome/aerodrome,8.0454,1.0,-0.845,0,0
+2026-06-28T18:35:10.615518+00:00,aptos,APT→USDC→APT,2,animeswap/liquidswap,183.6034,2.02,1.36,0,0
+2026-06-28T18:36:59.713037+00:00,sui,SEND→MSEND→SEND,2,steamm/steamm,211.4283,1.0,-0.9208,0,0
+2026-06-28T18:36:59.713037+00:00,solana,GIGA→SOL→GIGA,2,meteora/meteora,2.5172,1.0,-0.8497,0,0
+2026-06-28T18:36:59.713037+00:00,base,WETH→FBOMB→AERO→WETH,3,uniswap/aerodrome/aerodrome,8.0454,1.0,-0.845,0,0
+2026-06-28T18:36:59.713037+00:00,aptos,APT→USDC→APT,2,animeswap/liquidswap,183.6034,2.02,1.36,0,0
+2026-06-28T18:38:48.839944+00:00,sui,SEND→MSEND→SEND,2,steamm/steamm,211.4283,1.0,-0.9208,0,0
+2026-06-28T18:38:48.839944+00:00,base,WETH→FBOMB→AERO→WETH,3,uniswap/aerodrome/aerodrome,8.0454,1.0,-0.845,0,0
+2026-06-28T18:38:48.839944+00:00,aptos,APT→USDC→APT,2,animeswap/liquidswap,183.6034,2.02,1.36,0,0
+2026-06-28T18:40:37.511871+00:00,sui,SEND→MSEND→SEND,2,steamm/steamm,211.4283,1.0,-0.9208,0,0
+2026-06-28T18:40:37.511871+00:00,base,WETH→FBOMB→AERO→WETH,3,uniswap/aerodrome/aerodrome,8.0454,1.0,-0.845,0,0
+2026-06-28T18:40:37.511871+00:00,aptos,APT→USDC→APT,2,animeswap/liquidswap,183.6034,2.02,1.36,0,0
+2026-06-28T18:42:26.639740+00:00,sui,SEND→MSEND→SEND,2,steamm/steamm,211.4283,1.0,-0.9208,0,0
+2026-06-28T18:42:26.639740+00:00,base,WETH→FBOMB→AERO→WETH,3,uniswap/aerodrome/aerodrome,8.0454,1.0,-0.845,0,0
+2026-06-28T18:42:26.639740+00:00,aptos,APT→USDC→APT,2,animeswap/liquidswap,183.6034,2.02,1.36,0,0
+2026-06-28T18:44:15.773941+00:00,sui,SEND→MSEND→SEND,2,steamm/steamm,211.4283,1.0,-0.9208,0,0
+2026-06-28T18:44:15.773941+00:00,base,WETH→FBOMB→AERO→WETH,3,uniswap/aerodrome/aerodrome,8.0454,1.0,-0.845,0,0
+2026-06-28T18:44:15.773941+00:00,aptos,APT→USDC→APT,2,animeswap/liquidswap,183.6034,2.02,1.36,0,0
+2026-06-28T18:46:04.888471+00:00,sui,SEND→MSEND→SEND,2,steamm/steamm,211.4283,1.0,-0.9208,0,0
+2026-06-28T18:46:04.888471+00:00,solana,GIGA→SOL→FARTCOIN →USDC→GIGA,4,meteora/meteora/raydium/meteora,164.6598,1.0,-0.5963,0,0
+2026-06-28T18:46:04.888471+00:00,base,WETH→FBOMB→AERO→WETH,3,uniswap/aerodrome/aerodrome,8.0454,1.0,-0.845,0,0
+2026-06-28T18:46:04.888471+00:00,aptos,APT→USDC→APT,2,animeswap/liquidswap,183.6034,2.02,1.36,0,0
+2026-06-28T18:47:53.902961+00:00,sui,SEND→MSEND→SEND,2,steamm/steamm,211.4283,1.0,-0.9208,0,0
+2026-06-28T18:47:53.902961+00:00,solana,GIGA→SOL→FARTCOIN →USDC→GIGA,4,meteora/meteora/raydium/meteora,164.6598,1.0,-0.5963,0,0
+2026-06-28T18:47:53.902961+00:00,base,WETH→FBOMB→AERO→WETH,3,uniswap/aerodrome/aerodrome,8.0454,1.0,-0.845,0,0
+2026-06-28T18:47:53.902961+00:00,aptos,APT→USDC→APT,2,animeswap/liquidswap,183.6034,2.02,1.36,0,0
