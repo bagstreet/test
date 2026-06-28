@@ -3977,3 +3977,5 @@ t0,chain,token,entry_spread_pct,lo_dex,hi_dex,min_tvl,whale,n_samples,n_pos_afte
 2026-06-28T02:53:17.402619+00:00,base,WETH,0.5333,quickswap,uniswap,399520,1,18,0,-0.5747,0
 2026-06-28T02:54:55.841596+00:00,solana,JUP,2.4782,meteora,meteora,304010,1,18,5,0.7871,1
 2026-06-28T02:56:34.353999+00:00,solana,PENGU,0.9268,meteora,orca,2180128,0,18,0,-0.0526,0
+2026-06-28T03:04:14.478528+00:00,solana,TRUMP,0.6061,meteora,orca,860420,0,17,0,-0.005,0
+2026-06-28T03:10:39.609533+00:00,solana,ORE,2.3268,orca,meteora,259590,1,17,6,0.2854,1
