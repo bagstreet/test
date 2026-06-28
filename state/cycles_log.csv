@@ -14651,3 +14651,16 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-06-28T07:00:16.363246+00:00,solana,$WIF→POPCAT→$WIF,2,meteora/raydium,44.4123,1.0,-0.9826,0,0
 2026-06-28T07:00:16.363246+00:00,base,ZORA→USDC→ZORA,2,uniswap/uniswap,10.6218,195.87,10.1098,0,0
 2026-06-28T07:00:16.363246+00:00,aptos,USDC→TAPT→USDC,2,pancakeswap/animeswap,6.4975,1.0,-0.8549,0,0
+2026-06-28T07:00:59.632040+00:00,aptos,USDC→WBTC→USDC,2,liquidswap/animeswap,2.8803,2.0,0.03,0,0
+2026-06-28T07:02:39.343696+00:00,aptos,USDC→WBTC→USDC,2,liquidswap/animeswap,2.8803,2.0,0.03,0,0
+2026-06-28T07:04:19.721324+00:00,aptos,USDC→WBTC→USDC,2,liquidswap/animeswap,2.8803,2.0,0.03,0,0
+2026-06-28T07:05:59.198993+00:00,aptos,USDC→WBTC→USDC,2,liquidswap/animeswap,2.8803,2.0,0.03,0,0
+2026-06-28T07:07:38.858484+00:00,solana,BONK→$WIF→BONK,2,meteora/meteora,5.3748,3.9,0.0935,0,0
+2026-06-28T07:07:38.858484+00:00,aptos,USDC→WBTC→USDC,2,liquidswap/animeswap,2.8803,2.0,0.03,0,0
+2026-06-28T07:09:18.374348+00:00,solana,BONK→$WIF→BONK,2,meteora/meteora,5.3748,3.9,0.0935,0,0
+2026-06-28T07:09:18.374348+00:00,aptos,USDC→WBTC→USDC,2,liquidswap/animeswap,2.8803,2.0,0.03,0,0
+2026-06-28T07:10:57.956659+00:00,solana,BONK→$WIF→BONK,2,meteora/meteora,5.3748,3.9,0.0935,0,0
+2026-06-28T07:10:57.956659+00:00,base,KEYCAT→WETH→KEYCAT,2,pancakeswap/aerodrome,1.7804,1.0,-0.8636,0,0
+2026-06-28T07:10:57.956659+00:00,aptos,USDC→WBTC→USDC,2,liquidswap/animeswap,2.8803,2.0,0.03,0,0
+2026-06-28T07:12:38.046165+00:00,base,KEYCAT→WETH→KEYCAT,2,pancakeswap/aerodrome,1.7804,1.0,-0.8636,0,0
+2026-06-28T07:12:38.046165+00:00,aptos,USDC→WBTC→USDC,2,liquidswap/animeswap,2.8803,2.0,0.03,0,0
