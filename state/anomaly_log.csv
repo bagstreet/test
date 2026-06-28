@@ -23396,3 +23396,10 @@ ts,chain,token,disp_pct,z,cheap_dex,rich_dex,min_tvl,whale
 2026-06-28T04:42:59.597977+00:00,base,CBBTC,0.5661,0.87,pancakeswap,aerodrome,287011,1
 2026-06-28T04:42:59.597977+00:00,base,VIRTUAL,0.4706,1.5,uniswap,aerodrome,656154,1
 2026-06-28T04:42:59.597977+00:00,base,WETH,0.4034,0.36,pancakeswap,uniswap,743531,1
+2026-06-28T04:45:37.928788+00:00,base,CBBTC,0.5137,0.3,aerodrome,aerodrome,685077,1
+2026-06-28T04:45:37.928788+00:00,base,WETH,0.3738,-0.5,uniswap,uniswap,743533,1
+2026-06-28T04:48:56.807979+00:00,base,CBBTC,0.4151,-0.81,uniswap,aerodrome,442431,1
+2026-06-28T04:50:36.190146+00:00,base,CBBTC,0.4151,-0.79,uniswap,aerodrome,442431,1
+2026-06-28T04:52:15.479530+00:00,base,CBBTC,0.3189,-1.78,uniswap,aerodrome,442431,1
+2026-06-28T04:53:54.750795+00:00,base,CBBTC,0.3189,-1.65,uniswap,aerodrome,442431,1
+2026-06-28T04:57:13.436104+00:00,base,WETH,0.3739,0.0,uniswap,uniswap,743533,1
