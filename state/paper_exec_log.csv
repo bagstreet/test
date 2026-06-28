@@ -4234,3 +4234,11 @@ t0,chain,token,entry_spread_pct,lo_dex,hi_dex,min_tvl,whale,n_samples,n_pos_afte
 2026-06-28T14:11:57.135881+00:00,solana,FARTCOIN ,0.6202,raydium,orca,493478,0,7,0,-0.4032,0
 2026-06-28T14:22:01.602315+00:00,base,EURC,0.885,aerodrome,aerodrome,512692,1,2,0,-1.2845,0
 2026-06-28T14:25:14.447314+00:00,base,NOCK,1.124,aerodrome,aerodrome,1067219,1,2,0,-0.8778,0
+2026-06-28T14:01:02.674440+00:00,solana,JITOSOL,0.3255,orca,raydium,333107,1,18,0,-0.2714,0
+2026-06-28T14:25:14.447314+00:00,solana,POPCAT,0.6842,raydium,raydium,576969,1,5,0,-0.5539,0
+2026-06-28T14:02:51.478976+00:00,base,CBBTC,2.8043,pancakeswap,aerodrome,344970,1,18,17,1.3492,1
+2026-06-28T14:32:09.511828+00:00,aptos,APT,0.9901,pancakeswap,pancakeswap,343699,1,2,0,-1.6596,0
+2026-06-28T14:06:29.447906+00:00,solana,SOL,0.6246,meteora,pumpswap,654253,1,18,2,0.6106,1
+2026-06-28T14:26:50.693012+00:00,solana,USELESS,0.6107,raydium,meteora,361868,0,7,0,-1.094,0
+2026-06-28T14:10:06.879043+00:00,solana,JUP,0.3742,meteora,meteora,303630,1,18,0,-0.4738,0
+2026-06-28T14:11:57.135881+00:00,solana,MET,0.8542,meteora,meteora,278186,1,18,6,0.0963,1
