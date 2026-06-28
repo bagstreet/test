@@ -14201,3 +14201,19 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-06-28T01:40:01.292056+00:00,base,AERO→BRETT→AERO,2,aerodrome/aerodrome,0.0779,1.0,-0.0759,0,0
 2026-06-28T01:41:50.437053+00:00,solana,FARTCOIN →$WIF→JUP→JITOSOL→FARTCOIN ,4,orca/meteora/meteora/meteora,3.5149,1.0,-0.0207,0,0
 2026-06-28T01:43:39.285704+00:00,solana,FARTCOIN →$WIF→JUP→JITOSOL→FARTCOIN ,4,orca/meteora/meteora/meteora,3.5136,1.0,-0.0207,0,0
+2026-06-28T01:56:29.242708+00:00,solana,POPCAT→$WIF→POPCAT,2,raydium/raydium,40.3959,1.0,-0.9119,0,0
+2026-06-28T01:56:29.242708+00:00,base,ZORA→CBBTC→AERO→ZORA,3,uniswap/aerodrome/aerodrome,0.9486,1.0,-0.042,0,0
+2026-06-28T01:58:07.029111+00:00,solana,POPCAT→$WIF→POPCAT,2,raydium/raydium,40.3959,1.0,-0.9119,0,0
+2026-06-28T01:58:07.029111+00:00,base,ZORA→CBBTC→AERO→ZORA,3,uniswap/aerodrome/aerodrome,0.9486,1.0,-0.042,0,0
+2026-06-28T01:59:49.174552+00:00,solana,POPCAT→$WIF→POPCAT,2,raydium/raydium,40.3959,1.0,-0.9119,0,0
+2026-06-28T01:59:49.174552+00:00,base,ZORA→CBBTC→AERO→ZORA,3,uniswap/aerodrome/aerodrome,1.1189,1.0,-0.0404,0,0
+2026-06-28T02:01:30.092562+00:00,solana,POPCAT→$WIF→POPCAT,2,raydium/raydium,40.3959,1.0,-0.9119,0,0
+2026-06-28T02:01:30.092562+00:00,base,ZORA→CBBTC→AERO→ZORA,3,uniswap/aerodrome/aerodrome,1.1977,1.0,-0.0396,0,0
+2026-06-28T02:03:11.803459+00:00,solana,POPCAT→$WIF→POPCAT,2,raydium/raydium,40.3959,1.0,-0.9119,0,0
+2026-06-28T02:03:11.803459+00:00,base,AERO→ZORA→CBBTC→AERO,3,aerodrome/uniswap/aerodrome,1.1058,1.0,-0.6102,0,0
+2026-06-28T02:04:53.267124+00:00,solana,POPCAT→$WIF→POPCAT,2,raydium/raydium,40.3959,1.0,-0.9119,0,0
+2026-06-28T02:04:53.267124+00:00,base,AERO→USDBC→AERO,2,uniswap/aerodrome,0.8172,1.23,-0.025,0,0
+2026-06-28T02:06:35.118415+00:00,solana,$WIF→POPCAT→$WIF,2,raydium/raydium,40.3959,1.0,-0.9827,0,0
+2026-06-28T02:06:35.118415+00:00,base,AERO→USDBC→AERO,2,uniswap/aerodrome,0.8172,1.23,-0.025,0,0
+2026-06-28T02:08:16.765673+00:00,solana,$WIF→POPCAT→$WIF,2,raydium/raydium,40.3959,1.0,-0.9827,0,0
+2026-06-28T02:08:16.765673+00:00,base,AERO→USDBC→AERO,2,uniswap/aerodrome,0.8172,1.23,-0.025,0,0
