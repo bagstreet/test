@@ -14544,3 +14544,32 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-06-28T05:42:51.964095+00:00,solana,$WIF→POPCAT→$WIF,2,meteora/raydium,42.5766,1.0,-0.9827,0,0
 2026-06-28T05:42:51.964095+00:00,base,DEGEN→AERO→DEGEN,2,aerodrome/aerodrome,0.8715,1.0,-0.0321,0,0
 2026-06-28T05:42:51.964095+00:00,aptos,USDT→WBTC→USDT,2,liquidswap/liquidswap,3.2939,1.0,-0.364,0,0
+2026-06-28T05:45:43.544277+00:00,sui,CETUS→SUI→CETUS,2,cetus/cetus,1.0225,3.03,-0.0045,0,0
+2026-06-28T05:45:43.544277+00:00,solana,FARTCOIN →USDT→USDG→JITOSOL→FARTCOIN ,4,meteora/raydium/orca/orca,14.1663,1.44,0.0889,0,0
+2026-06-28T05:45:43.544277+00:00,base,B3→WETH→B3,2,alien-base/pancakeswap,5.5011,2.0,0.071,0,0
+2026-06-28T05:45:43.544277+00:00,aptos,APT→BUSD→APT,2,animeswap/pancakeswap,8.4273,1.0,-0.7666,0,0
+2026-06-28T05:47:25.917875+00:00,sui,CETUS→SUI→CETUS,2,cetus/cetus,1.0225,3.03,-0.0045,0,0
+2026-06-28T05:47:25.917875+00:00,solana,USDT→USDG→JITOSOL→FARTCOIN →USDT,4,raydium/orca/orca/meteora,14.1663,1.0,-0.2024,0,0
+2026-06-28T05:47:25.917875+00:00,base,B3→WETH→B3,2,alien-base/pancakeswap,5.5011,2.0,0.071,0,0
+2026-06-28T05:47:25.917875+00:00,aptos,APT→BUSD→APT,2,animeswap/pancakeswap,8.4273,1.0,-0.7666,0,0
+2026-06-28T05:49:07.842492+00:00,sui,CETUS→SUI→CETUS,2,cetus/cetus,1.0225,3.03,-0.0045,0,0
+2026-06-28T05:49:07.842492+00:00,solana,USDG→JITOSOL→FARTCOIN →USDT→USDG,4,orca/meteora/meteora/raydium,14.1172,1.0,-0.2036,0,0
+2026-06-28T05:49:07.842492+00:00,base,B3→WETH→B3,2,alien-base/pancakeswap,5.5011,2.0,0.071,0,0
+2026-06-28T05:49:07.842492+00:00,aptos,APT→BUSD→APT,2,animeswap/pancakeswap,8.4273,1.0,-0.7666,0,0
+2026-06-28T05:50:48.879579+00:00,sui,SUI→CETUS→SUI,2,cetus/cetus,1.0225,1.0,-0.0746,0,0
+2026-06-28T05:50:48.879579+00:00,solana,USDG→JITOSOL→FARTCOIN →USDT→USDG,4,orca/meteora/meteora/raydium,13.9516,1.0,-0.2045,0,0
+2026-06-28T05:50:48.879579+00:00,base,B3→WETH→B3,2,alien-base/pancakeswap,5.5011,2.0,0.071,0,0
+2026-06-28T05:50:48.879579+00:00,aptos,APT→BUSD→APT,2,animeswap/pancakeswap,8.4273,1.0,-0.7666,0,0
+2026-06-28T05:52:30.726153+00:00,sui,CETUS→SUI→CETUS,2,cetus/cetus,1.0225,3.03,-0.0045,0,0
+2026-06-28T05:52:30.726153+00:00,solana,USDT→USDG→JITOSOL→FARTCOIN →USDT,4,raydium/orca/meteora/meteora,13.9508,1.0,-0.2036,0,0
+2026-06-28T05:52:30.726153+00:00,base,B3→WETH→B3,2,alien-base/pancakeswap,5.5011,2.0,0.071,0,0
+2026-06-28T05:52:30.726153+00:00,aptos,APT→BUSD→APT,2,animeswap/pancakeswap,8.4273,1.0,-0.7666,0,0
+2026-06-28T05:54:12.424875+00:00,sui,CETUS→SUI→CETUS,2,cetus/cetus,1.0225,3.03,-0.0045,0,0
+2026-06-28T05:54:12.424875+00:00,solana,USDT→USDG→JITOSOL→FARTCOIN →USDT,4,raydium/orca/meteora/meteora,13.9506,1.0,-0.2036,0,0
+2026-06-28T05:54:12.424875+00:00,aptos,APT→BUSD→APT,2,animeswap/pancakeswap,8.4273,1.0,-0.7666,0,0
+2026-06-28T05:55:53.912278+00:00,sui,CETUS→SUI→CETUS,2,cetus/cetus,1.0225,3.03,-0.0045,0,0
+2026-06-28T05:55:53.912278+00:00,solana,USDG→JITOSOL→FARTCOIN →USDT→USDG,4,orca/meteora/meteora/raydium,13.9506,1.0,-0.2045,0,0
+2026-06-28T05:55:53.912278+00:00,aptos,APT→BUSD→APT,2,animeswap/pancakeswap,8.4273,1.0,-0.7666,0,0
+2026-06-28T05:57:35.476759+00:00,sui,CETUS→SUI→CETUS,2,cetus/cetus,1.0225,3.03,-0.0045,0,0
+2026-06-28T05:57:35.476759+00:00,solana,JITOSOL→FARTCOIN →USDT→USDG→JITOSOL,4,meteora/meteora/raydium/orca,13.9506,1.0,-0.9771,0,0
+2026-06-28T05:57:35.476759+00:00,aptos,APT→BUSD→APT,2,animeswap/pancakeswap,8.4273,1.0,-0.7666,0,0
