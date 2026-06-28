@@ -14187,3 +14187,17 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-06-28T01:25:47.126473+00:00,aptos,USDC→TAPT→USDC,2,pancakeswap/animeswap,6.4975,1.0,-0.8549,0,0
 2026-06-28T01:27:28.152077+00:00,solana,POPCAT→$WIF→POPCAT,2,raydium/raydium,40.3959,1.0,-0.9119,0,0
 2026-06-28T01:27:28.152077+00:00,aptos,USDC→TAPT→USDC,2,pancakeswap/animeswap,6.4975,1.0,-0.8549,0,0
+2026-06-28T01:30:55.377764+00:00,solana,$WIF→JUP→JITOSOL→FARTCOIN →$WIF,4,meteora/meteora/meteora/orca,3.3934,1.0,-0.0351,0,0
+2026-06-28T01:30:55.377764+00:00,base,AERO→BRETT→AERO,2,aerodrome/aerodrome,0.0783,1.0,-0.0762,0,0
+2026-06-28T01:32:44.334036+00:00,solana,$WIF→JUP→JITOSOL→FARTCOIN →$WIF,4,meteora/meteora/meteora/orca,3.3934,1.0,-0.0351,0,0
+2026-06-28T01:32:44.334036+00:00,base,AERO→BRETT→AERO,2,aerodrome/aerodrome,0.0783,1.0,-0.076,0,0
+2026-06-28T01:34:33.789814+00:00,solana,$WIF→JUP→JITOSOL→FARTCOIN →$WIF,4,meteora/meteora/meteora/orca,3.3934,1.0,-0.0351,0,0
+2026-06-28T01:34:33.789814+00:00,base,AERO→BRETT→AERO,2,aerodrome/aerodrome,0.0783,1.0,-0.076,0,0
+2026-06-28T01:36:23.141087+00:00,solana,$WIF→JUP→JITOSOL→FARTCOIN →$WIF,4,meteora/meteora/meteora/orca,3.3504,1.0,-0.0355,0,0
+2026-06-28T01:36:23.141087+00:00,base,AERO→BRETT→AERO,2,aerodrome/aerodrome,0.0783,1.0,-0.076,0,0
+2026-06-28T01:38:12.447028+00:00,solana,FARTCOIN →$WIF→JUP→JITOSOL→FARTCOIN ,4,orca/meteora/meteora/orca,3.4118,1.0,-0.0217,0,0
+2026-06-28T01:38:12.447028+00:00,base,AERO→BRETT→AERO,2,aerodrome/aerodrome,0.0783,1.0,-0.076,0,0
+2026-06-28T01:40:01.292056+00:00,solana,FARTCOIN →$WIF→JUP→JITOSOL→FARTCOIN ,4,orca/meteora/meteora/orca,3.3688,1.0,-0.0221,0,0
+2026-06-28T01:40:01.292056+00:00,base,AERO→BRETT→AERO,2,aerodrome/aerodrome,0.0779,1.0,-0.0759,0,0
+2026-06-28T01:41:50.437053+00:00,solana,FARTCOIN →$WIF→JUP→JITOSOL→FARTCOIN ,4,orca/meteora/meteora/meteora,3.5149,1.0,-0.0207,0,0
+2026-06-28T01:43:39.285704+00:00,solana,FARTCOIN →$WIF→JUP→JITOSOL→FARTCOIN ,4,orca/meteora/meteora/meteora,3.5136,1.0,-0.0207,0,0
