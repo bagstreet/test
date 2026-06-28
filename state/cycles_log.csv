@@ -14238,3 +14238,30 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-06-28T02:33:55.523561+00:00,solana,FARTCOIN →POPCAT→$WIF→PYUSD→FARTCOIN ,4,meteora/raydium/orca/raydium,41.1615,1.0,-0.9759,0,0
 2026-06-28T02:33:55.523561+00:00,base,USDC→MAMO→CLANKER→ZORA→USDC,4,hydrex/aerodrome/uniswap/uniswap,18.1229,1.0,-0.2369,0,0
 2026-06-28T02:33:55.523561+00:00,aptos,APT→USDT→APT,2,liquidswap/liquidswap,183.0315,9.51,6.4697,0,0
+2026-06-28T02:46:42.736370+00:00,sui,SUI→WAL→SUI,2,magma/cetus,0.482,1.0,-0.0217,0,0
+2026-06-28T02:46:42.736370+00:00,solana,PEPE→ARC→FARTCOIN →$WIF→BONK→PEPE,5,meteora/orca/orca/meteora/meteora,6.7222,1.0,-0.9801,0,0
+2026-06-28T02:46:42.736370+00:00,base,BNKR→WETH→BNKR,2,rubicon/aerodrome,2.5086,1.0,-0.9539,0,0
+2026-06-28T02:46:42.736370+00:00,aptos,STAPT→USDT→STAPT,2,pancakeswap/pancakeswap,3.3731,1.0,-0.2994,0,0
+2026-06-28T02:48:20.435167+00:00,sui,SUI→WAL→SUI,2,magma/cetus,0.482,1.0,-0.0217,0,0
+2026-06-28T02:48:20.435167+00:00,solana,BONK→PEPE→ARC→FARTCOIN →$WIF→BONK,5,meteora/meteora/orca/orca/meteora,6.6962,1.0,-0.5366,0,0
+2026-06-28T02:48:20.435167+00:00,base,BNKR→WETH→BNKR,2,rubicon/aerodrome,2.5086,1.0,-0.9539,0,0
+2026-06-28T02:48:20.435167+00:00,aptos,STAPT→USDT→STAPT,2,pancakeswap/pancakeswap,3.3731,1.0,-0.2994,0,0
+2026-06-28T02:49:59.147085+00:00,sui,SUI→WAL→SUI,2,magma/momentum,0.4683,1.0,-0.0223,0,0
+2026-06-28T02:49:59.147085+00:00,base,BNKR→WETH→BNKR,2,rubicon/aerodrome,2.5511,1.0,-0.9539,0,0
+2026-06-28T02:49:59.147085+00:00,aptos,STAPT→USDT→STAPT,2,pancakeswap/pancakeswap,3.3731,1.0,-0.2994,0,0
+2026-06-28T02:51:37.885464+00:00,sui,SUI→WAL→SUI,2,magma/momentum,0.4683,1.0,-0.0223,0,0
+2026-06-28T02:51:37.885464+00:00,solana,BONK→PEPE→ARC→FARTCOIN →$WIF→BONK,5,meteora/meteora/orca/orca/meteora,5.7486,1.0,-0.5408,0,0
+2026-06-28T02:51:37.885464+00:00,base,BNKR→WETH→BNKR,2,rubicon/aerodrome,2.5511,1.0,-0.9539,0,0
+2026-06-28T02:51:37.885464+00:00,aptos,STAPT→USDT→STAPT,2,pancakeswap/pancakeswap,3.3731,1.0,-0.2994,0,0
+2026-06-28T02:53:17.402619+00:00,sui,SUI→WAL→SUI,2,magma/momentum,0.4683,1.0,-0.0223,0,0
+2026-06-28T02:53:17.402619+00:00,base,BNKR→WETH→BNKR,2,rubicon/aerodrome,2.5511,1.0,-0.9539,0,0
+2026-06-28T02:53:17.402619+00:00,aptos,STAPT→USDT→STAPT,2,pancakeswap/pancakeswap,3.3731,1.0,-0.2994,0,0
+2026-06-28T02:54:55.841596+00:00,sui,SUI→WAL→SUI,2,magma/momentum,0.4683,1.0,-0.0223,0,0
+2026-06-28T02:54:55.841596+00:00,base,BNKR→WETH→BNKR,2,rubicon/hydrex,2.601,1.0,-0.9538,0,0
+2026-06-28T02:54:55.841596+00:00,aptos,STAPT→USDT→STAPT,2,pancakeswap/pancakeswap,3.3731,1.0,-0.2994,0,0
+2026-06-28T02:56:34.353999+00:00,sui,SUI→WAL→SUI,2,magma/momentum,0.4683,1.0,-0.0223,0,0
+2026-06-28T02:56:34.353999+00:00,base,BNKR→WETH→BNKR,2,rubicon/hydrex,2.601,1.0,-0.9538,0,0
+2026-06-28T02:56:34.353999+00:00,aptos,STAPT→USDT→STAPT,2,pancakeswap/pancakeswap,3.3731,1.0,-0.2994,0,0
+2026-06-28T02:58:12.743210+00:00,sui,SUI→WAL→SUI,2,magma/momentum,0.4683,1.0,-0.0223,0,0
+2026-06-28T02:58:12.743210+00:00,base,BNKR→WETH→BNKR,2,rubicon/hydrex,2.601,1.0,-0.9538,0,0
+2026-06-28T02:58:12.743210+00:00,aptos,USDT→STAPT→USDT,2,pancakeswap/pancakeswap,3.3731,1.0,-0.3855,0,0
