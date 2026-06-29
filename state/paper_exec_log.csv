@@ -5013,3 +5013,7 @@ t0,chain,token,entry_spread_pct,lo_dex,hi_dex,min_tvl,whale,n_samples,n_pos_afte
 2026-06-29T18:41:13.409309+00:00,base,CBBTC,0.77,hydrex,uniswap,288674,1,13,1,0.0508,0
 2026-06-29T18:41:13.409309+00:00,base,VIRTUAL,0.7285,uniswap,aerodrome,696983,1,13,1,0.0689,0
 2026-06-29T18:42:51.246678+00:00,base,WETH,0.4056,uniswap,0x03C01Acae3D0173a93d819efDc832C7C4F153B06,384885,1,13,0,-1.0454,0
+2026-06-29T19:35:47.899166+00:00,aptos,APT,0.4245,pancakeswap,pancakeswap,347759,0,2,0,-1.6505,0
+2026-06-29T19:09:36.386179+00:00,solana,RAY,1.6278,raydium,raydium,954435,0,19,7,1.4767,1
+2026-06-29T19:11:13.898658+00:00,sui,CETUS,0.7357,cetus,cetus,434943,0,19,0,-0.968,0
+2026-06-29T19:23:48.215467+00:00,sui,USDC,0.3508,turbos-finance,turbos-finance,260681,0,11,0,-1.6846,0
