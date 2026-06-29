@@ -17349,3 +17349,21 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-06-29T16:35:55.558325+00:00,base,WETH→AERO→WETH,2,equalizer/aerodrome,68.8286,20.75,6.1803,0,0
 2026-06-29T16:35:55.558325+00:00,base,WETH→VVV→WETH,2,aerodrome/pancakeswap,4.2443,1.0,-0.8972,0,0
 2026-06-29T16:35:55.558325+00:00,aptos,TAPT→USDT→TAPT,2,liquidswap/pancakeswap,1.3664,1.0,-0.3292,0,0
+2026-06-29T16:48:00.965940+00:00,sui,TURBOS→KW→TURBOS,2,turbos-finance/turbos-finance,63.1215,1.0,-0.9167,0,0
+2026-06-29T16:48:00.965940+00:00,solana,POPCAT→FARTCOIN →POPCAT,2,meteora/meteora,1.0965,1.0,-0.1075,0,0
+2026-06-29T16:48:00.965940+00:00,base,AXLUSDC→WETH→AXLUSDC,2,crescentswap/horizondex,0.9662,1.0,-0.048,0,0
+2026-06-29T16:49:38.054117+00:00,sui,TURBOS→KW→TURBOS,2,turbos-finance/turbos-finance,63.1215,1.0,-0.9167,0,0
+2026-06-29T16:49:38.054117+00:00,solana,FARTCOIN →SOL→USDT→FARTCOIN ,3,raydium/raydium/meteora,4.686,1.21,0.0181,0,0
+2026-06-29T16:49:38.054117+00:00,base,AXLUSDC→WETH→AXLUSDC,2,crescentswap/horizondex,0.9662,1.0,-0.048,0,0
+2026-06-29T16:51:16.822866+00:00,sui,TURBOS→KW→TURBOS,2,turbos-finance/turbos-finance,63.1215,1.0,-0.9167,0,0
+2026-06-29T16:51:16.822866+00:00,solana,FARTCOIN→SOL→FARTCOIN,2,meteora/meteora,4.9694,1.45,0.0256,0,0
+2026-06-29T16:52:55.535398+00:00,sui,TURBOS→KW→TURBOS,2,turbos-finance/turbos-finance,63.1215,1.0,-0.9167,0,0
+2026-06-29T16:52:55.535398+00:00,solana,FARTCOIN→SOL→FARTCOIN,2,meteora/meteora,4.9694,1.45,0.0256,0,0
+2026-06-29T16:54:34.488679+00:00,sui,TURBOS→KW→TURBOS,2,turbos-finance/turbos-finance,63.1215,1.0,-0.9167,0,0
+2026-06-29T16:54:34.488679+00:00,solana,SOL→FARTCOIN→SOL,2,meteora/meteora,4.9694,1.0,-0.9079,0,0
+2026-06-29T16:56:13.279037+00:00,sui,KW→TURBOS→KW,2,turbos-finance/turbos-finance,63.1215,1.63,0.4305,0,0
+2026-06-29T16:56:13.279037+00:00,solana,SOL→FARTCOIN→SOL,2,meteora/meteora,4.9694,1.0,-0.9079,0,0
+2026-06-29T16:57:51.799664+00:00,sui,KW→TURBOS→KW,2,turbos-finance/turbos-finance,63.1215,1.63,0.4305,0,0
+2026-06-29T16:57:51.799664+00:00,solana,SOL→FARTCOIN→SOL,2,meteora/meteora,4.9694,1.0,-0.9079,0,0
+2026-06-29T16:59:30.782937+00:00,sui,KW→TURBOS→KW,2,turbos-finance/turbos-finance,63.1215,1.63,0.4305,0,0
+2026-06-29T16:59:30.782937+00:00,solana,SOL→FARTCOIN→SOL,2,meteora/meteora,4.9694,1.0,-0.9079,0,0
