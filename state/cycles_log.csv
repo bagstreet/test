@@ -16516,3 +16516,35 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-06-29T07:36:06.050319+00:00,sui,SEND→MSEND→SEND,2,steamm/steamm,215.5612,1.0,-0.9332,0,0
 2026-06-29T07:36:06.050319+00:00,solana,GIGA→SIGMA→GIGA,2,meteora/orca,5.3224,1.0,-0.0399,0,0
 2026-06-29T07:36:06.050319+00:00,base,NOCK→ETH→NOCK,2,uniswap/uniswap,24.4661,2.83,0.297,0,0
+2026-06-29T07:48:40.847828+00:00,sui,NAVX→TURBOS→NAVX,2,turbos-finance/turbos-finance,1.1797,1.0,-0.9851,0,0
+2026-06-29T07:48:40.847828+00:00,solana,$WIF→SOL→JUP→$WIF,3,raydium/meteora/meteora,17.2326,1.0,-0.0057,0,0
+2026-06-29T07:48:40.847828+00:00,base,BRETT→WETH→BRETT,2,pancakeswap/aerodrome,5.0451,1.0,-0.0065,0,0
+2026-06-29T07:48:40.847828+00:00,aptos,CAKE→USDC→CAKE,2,pancakeswap/pancakeswap,4.4995,11.57,0.2374,0,0
+2026-06-29T07:50:18.605222+00:00,sui,VSUI→NAVX→VSUI,2,cetus/cetus,0.1626,1.0,-0.1588,0,0
+2026-06-29T07:50:18.605222+00:00,solana,$WIF→SOL→JUP→$WIF,3,raydium/meteora/meteora,17.3136,1.0,-0.005,0,0
+2026-06-29T07:50:18.605222+00:00,base,BRETT→WETH→BRETT,2,pancakeswap/aerodrome,5.0451,1.0,-0.0065,0,0
+2026-06-29T07:50:18.605222+00:00,aptos,CAKE→USDC→CAKE,2,pancakeswap/pancakeswap,4.4995,11.57,0.2374,0,0
+2026-06-29T07:51:56.738218+00:00,sui,IKA→DEEP→VSUI→NAVX→IKA,4,cetus/bluefin/cetus/cetus,1.9138,1.0,-0.7498,0,0
+2026-06-29T07:51:56.738218+00:00,solana,$WIF→SOL→JUP→$WIF,3,raydium/meteora/meteora,17.5166,1.0,-0.0033,0,0
+2026-06-29T07:51:56.738218+00:00,base,BRETT→WETH→BRETT,2,pancakeswap/aerodrome,5.0451,1.0,-0.0065,0,0
+2026-06-29T07:51:56.738218+00:00,aptos,CAKE→USDC→CAKE,2,pancakeswap/pancakeswap,4.4995,11.57,0.2374,0,0
+2026-06-29T07:53:35.037006+00:00,sui,IKA→DEEP→VSUI→NAVX→IKA,4,cetus/bluefin/cetus/cetus,1.9138,1.0,-0.7498,0,0
+2026-06-29T07:53:35.037006+00:00,solana,$WIF→SOL→JUP→$WIF,3,raydium/meteora/meteora,17.5166,1.0,-0.0033,0,0
+2026-06-29T07:53:35.037006+00:00,base,BRETT→WETH→BRETT,2,pancakeswap/aerodrome,6.8328,1.27,0.0128,0,0
+2026-06-29T07:53:35.037006+00:00,aptos,CAKE→USDC→CAKE,2,pancakeswap/pancakeswap,4.4995,11.57,0.2374,0,0
+2026-06-29T07:55:13.202257+00:00,sui,IKA→DEEP→VSUI→NAVX→IKA,4,cetus/bluefin/cetus/cetus,1.9138,1.0,-0.7498,0,0
+2026-06-29T07:55:13.202257+00:00,solana,$WIF→SOL→JUP→$WIF,3,raydium/meteora/meteora,17.5166,1.0,-0.0033,0,0
+2026-06-29T07:55:13.202257+00:00,base,BRETT→WETH→BRETT,2,pancakeswap/aerodrome,6.8328,1.27,0.0128,0,0
+2026-06-29T07:55:13.202257+00:00,aptos,CAKE→USDC→CAKE,2,pancakeswap/pancakeswap,4.4995,11.57,0.2374,0,0
+2026-06-29T07:56:51.451203+00:00,sui,IKA→DEEP→VSUI→NAVX→IKA,4,cetus/bluefin/cetus/cetus,1.9138,1.0,-0.7498,0,0
+2026-06-29T07:56:51.451203+00:00,solana,USELESS→FARTCOIN →$WIF→SOL→USELESS,4,orca/orca/raydium/meteora,20.9963,1.69,0.1588,0,0
+2026-06-29T07:56:51.451203+00:00,base,BRETT→WETH→BRETT,2,pancakeswap/aerodrome,6.8328,1.27,0.0128,0,0
+2026-06-29T07:56:51.451203+00:00,aptos,CAKE→USDC→CAKE,2,pancakeswap/pancakeswap,4.4995,11.57,0.2374,0,0
+2026-06-29T07:58:29.906588+00:00,sui,TURBOS→NAVX→TURBOS,2,turbos-finance/turbos-finance,1.1797,1.0,-0.2699,0,0
+2026-06-29T07:58:29.906588+00:00,solana,USELESS→FARTCOIN →$WIF→SOL→USELESS,4,orca/orca/raydium/meteora,20.9963,1.69,0.1588,0,0
+2026-06-29T07:58:29.906588+00:00,base,BRETT→WETH→BRETT,2,pancakeswap/aerodrome,6.8328,1.27,0.0128,0,0
+2026-06-29T07:58:29.906588+00:00,aptos,CAKE→USDC→CAKE,2,pancakeswap/pancakeswap,4.4995,11.57,0.2374,0,0
+2026-06-29T08:00:08.264867+00:00,sui,IKA→DEEP→VSUI→NAVX→IKA,4,cetus/bluefin/cetus/cetus,1.9138,1.0,-0.7498,0,0
+2026-06-29T08:00:08.264867+00:00,solana,USELESS→FARTCOIN →$WIF→SOL→USELESS,4,orca/orca/raydium/meteora,20.9963,1.69,0.1588,0,0
+2026-06-29T08:00:08.264867+00:00,base,BRETT→WETH→BRETT,2,pancakeswap/aerodrome,6.8328,1.27,0.0128,0,0
+2026-06-29T08:00:08.264867+00:00,aptos,CAKE→USDC→CAKE,2,pancakeswap/pancakeswap,4.4995,11.57,0.2374,0,0
