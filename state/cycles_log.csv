@@ -18994,3 +18994,14 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-06-30T11:25:43.403603+00:00,aptos,APT→USDT→APT,2,aux/liquidswap,175.2804,7.76,5.0969,0,0
 2026-06-30T11:27:24.091728+00:00,solana,FARTCOIN →$WIF→USDT→FARTCOIN ,3,orca/raydium/meteora,4.123,1.0,-0.3547,0,0
 2026-06-30T11:27:24.091728+00:00,aptos,APT→USDT→APT,2,aux/liquidswap,175.2804,7.76,5.0969,0,0
+2026-06-30T11:31:02.251927+00:00,solana,ORE→USDC→USDT→ORE,3,meteora/orca/orca,6.348,1.0,-0.9689,0,0
+2026-06-30T11:32:42.200600+00:00,solana,ORE→USDC→USDT→ORE,3,meteora/orca/orca,6.348,1.0,-0.9689,0,0
+2026-06-30T11:34:22.268692+00:00,solana,ORE→USDC→USDT→ORE,3,meteora/orca/orca,6.348,1.0,-0.9689,0,0
+2026-06-30T11:36:02.270829+00:00,solana,ORE→USDC→USDT→ORE,3,meteora/orca/orca,6.348,1.0,-0.9689,0,0
+2026-06-30T11:37:41.795843+00:00,solana,ORE→USDC→USDT→ORE,3,meteora/orca/orca,6.348,1.0,-0.9689,0,0
+2026-06-30T11:39:21.933220+00:00,solana,PEPE→USDT→GOLD→PEPE,3,meteora/meteora/meteora,18593.7824,9.64,892.7529,0,0
+2026-06-30T11:39:21.933220+00:00,solana,USDT→ORE→USDC→USDT,3,orca/meteora/orca,6.348,1.0,-0.1842,0,0
+2026-06-30T11:41:01.705983+00:00,solana,PEPE→USDT→GOLD→PEPE,3,meteora/meteora/meteora,18593.7824,9.64,892.7529,0,0
+2026-06-30T11:41:01.705983+00:00,solana,USDT→ORE→USDC→USDT,3,orca/meteora/orca,6.348,1.0,-0.1842,0,0
+2026-06-30T11:42:41.546111+00:00,solana,PEPE→USDT→GOLD→PEPE,3,meteora/meteora/meteora,18593.7824,9.64,892.7529,0,0
+2026-06-30T11:42:41.546111+00:00,solana,PEPE→ORE→USDC→USDT→GOLD→PEPE,5,meteora/meteora/orca/meteora/meteora,19795.9996,2.0,388.2976,0,0
