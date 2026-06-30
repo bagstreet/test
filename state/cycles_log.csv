@@ -19494,3 +19494,14 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-06-30T17:43:59.053727+00:00,solana,USDC→MSOL→FARTCOIN →USDC,3,orca/raydium/raydium,165.6887,1.0,0.0442,0,0
 2026-06-30T17:43:59.053727+00:00,base,ETH→VIRTUAL→ETH,2,uniswap/uniswap,0.4152,1.0,-0.7102,0,0
 2026-06-30T17:43:59.053727+00:00,aptos,WETH→USDC→WETH,2,pancakeswap/pancakeswap,1.2745,1.0,-0.9845,0,0
+2026-06-30T17:45:38.330295+00:00,sui,TURBOS→USDC→TURBOS,2,turbos-finance/turbos-finance,0.2934,14.79,0.0017,0,0
+2026-06-30T17:45:38.330295+00:00,base,VIRTUAL→CBBTC→USDC→VIRTUAL,3,aerodrome/uniswap/uniswap,1.3827,8.55,0.0289,0,0
+2026-06-30T17:47:17.553707+00:00,sui,TURBOS→USDC→TURBOS,2,turbos-finance/turbos-finance,0.2934,14.79,0.0017,0,0
+2026-06-30T17:47:17.553707+00:00,base,VIRTUAL→CBBTC→USDC→VIRTUAL,3,aerodrome/uniswap/uniswap,1.3827,8.55,0.0289,0,0
+2026-06-30T17:48:57.323882+00:00,sui,TURBOS→USDC→TURBOS,2,turbos-finance/turbos-finance,0.2934,14.79,0.0017,0,0
+2026-06-30T17:48:57.323882+00:00,base,VIRTUAL→CBBTC→USDC→VIRTUAL,3,aerodrome/uniswap/uniswap,1.3827,8.55,0.0289,0,0
+2026-06-30T17:50:36.717676+00:00,sui,TURBOS→USDC→TURBOS,2,turbos-finance/turbos-finance,0.2934,14.79,0.0017,0,0
+2026-06-30T17:52:15.960820+00:00,sui,TURBOS→USDC→TURBOS,2,turbos-finance/turbos-finance,0.2934,14.79,0.0017,0,0
+2026-06-30T17:53:55.090130+00:00,sui,TURBOS→USDC→TURBOS,2,turbos-finance/turbos-finance,0.2934,14.79,0.0017,0,0
+2026-06-30T17:55:34.060051+00:00,sui,TURBOS→USDC→TURBOS,2,turbos-finance/turbos-finance,0.2934,14.79,0.0017,0,0
+2026-06-30T17:57:13.045319+00:00,sui,TURBOS→USDC→TURBOS,2,turbos-finance/turbos-finance,0.2934,14.79,0.0017,0,0
