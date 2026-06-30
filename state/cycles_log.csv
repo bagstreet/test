@@ -18304,3 +18304,13 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-06-30T03:56:48.269451+00:00,sui,WUSDT→SUI→WUSDT,2,cetus/cetus,0.5178,1.0,-0.2965,0,0
 2026-06-30T03:56:48.269451+00:00,base,USDC→AERO→USDC,2,aerodrome/aerodrome,2.4911,76.76,0.9201,0,0
 2026-06-30T03:56:48.269451+00:00,aptos,USDC→CAKE→USDC,2,pancakeswap/pancakeswap,3.2542,1.0,-0.0913,0,0
+2026-06-30T04:01:04.533007+00:00,sui,DEEP→SUI→DEEP,2,cetus/momentum,1.7071,1.0,-0.8832,0,0
+2026-06-30T04:01:04.533007+00:00,base,USDC→VVV→USDC,2,uniswap/aerodrome,6.1142,1.0,-0.6127,0,0
+2026-06-30T04:02:42.266450+00:00,sui,DEEP→SUI→DEEP,2,cetus/momentum,1.7071,1.0,-0.8832,0,0
+2026-06-30T04:02:42.266450+00:00,base,USDC→VVV→USDC,2,uniswap/aerodrome,6.1142,1.0,-0.6127,0,0
+2026-06-30T04:04:20.367287+00:00,base,USDC→VVV→USDC,2,uniswap/aerodrome,6.1142,1.0,-0.6127,0,0
+2026-06-30T04:05:57.961450+00:00,base,USDC→VVV→USDC,2,uniswap/aerodrome,6.1142,1.0,-0.6127,0,0
+2026-06-30T04:07:35.547767+00:00,base,USDC→VVV→USDC,2,uniswap/aerodrome,6.1142,1.0,-0.6127,0,0
+2026-06-30T04:09:13.133774+00:00,base,USDC→VVV→USDC,2,uniswap/aerodrome,6.1142,1.0,-0.6127,0,0
+2026-06-30T04:10:50.700864+00:00,base,USDC→VVV→USDC,2,aerodrome/aerodrome,6.4042,1.0,-0.5879,0,0
+2026-06-30T04:12:28.543140+00:00,base,USDC→VVV→USDC,2,aerodrome/aerodrome,6.4042,1.0,-0.5879,0,0
