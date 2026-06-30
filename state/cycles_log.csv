@@ -19505,3 +19505,25 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-06-30T17:53:55.090130+00:00,sui,TURBOS→USDC→TURBOS,2,turbos-finance/turbos-finance,0.2934,14.79,0.0017,0,0
 2026-06-30T17:55:34.060051+00:00,sui,TURBOS→USDC→TURBOS,2,turbos-finance/turbos-finance,0.2934,14.79,0.0017,0,0
 2026-06-30T17:57:13.045319+00:00,sui,TURBOS→USDC→TURBOS,2,turbos-finance/turbos-finance,0.2934,14.79,0.0017,0,0
+2026-06-30T18:01:07.315337+00:00,sui,HASUI→USDC→HASUI,2,cetus/momentum,0.5995,1.0,-0.67,0,0
+2026-06-30T18:01:07.315337+00:00,solana,JTO→SOL→JTO,2,raydium/meteora,50.4441,2.14,0.4747,0,0
+2026-06-30T18:01:07.315337+00:00,aptos,CAKE→USDC→CAKE,2,pancakeswap/pancakeswap,2.9438,7.69,0.0924,0,0
+2026-06-30T18:02:50.285829+00:00,sui,HASUI→USDC→HASUI,2,cetus/momentum,0.5995,1.0,-0.67,0,0
+2026-06-30T18:02:50.285829+00:00,solana,JTO→SOL→JTO,2,raydium/meteora,50.4441,2.14,0.4747,0,0
+2026-06-30T18:02:50.285829+00:00,aptos,CAKE→USDC→CAKE,2,pancakeswap/pancakeswap,2.9438,7.69,0.0924,0,0
+2026-06-30T18:04:36.041517+00:00,sui,HASUI→USDC→HASUI,2,cetus/momentum,0.5995,1.0,-0.67,0,0
+2026-06-30T18:04:36.041517+00:00,solana,SOL→JTO→SOL,2,meteora/raydium,47.278,1.0,-0.8866,0,0
+2026-06-30T18:04:36.041517+00:00,aptos,CAKE→USDC→CAKE,2,pancakeswap/pancakeswap,2.9438,7.69,0.0924,0,0
+2026-06-30T18:06:23.101890+00:00,sui,HASUI→USDC→HASUI,2,cetus/momentum,0.5995,1.0,-0.67,0,0
+2026-06-30T18:06:23.101890+00:00,solana,$WIF→USDT→FARTCOIN →$WIF,3,raydium/meteora/orca,5.4576,1.0,-0.3937,0,0
+2026-06-30T18:06:23.101890+00:00,aptos,CAKE→USDC→CAKE,2,pancakeswap/pancakeswap,2.9438,7.69,0.0924,0,0
+2026-06-30T18:08:05.625945+00:00,sui,HASUI→USDC→HASUI,2,cetus/momentum,0.5995,1.0,-0.67,0,0
+2026-06-30T18:08:05.625945+00:00,aptos,CAKE→USDC→CAKE,2,pancakeswap/pancakeswap,2.9438,7.69,0.0924,0,0
+2026-06-30T18:09:52.520510+00:00,sui,HASUI→USDC→HASUI,2,cetus/momentum,0.5995,1.0,-0.67,0,0
+2026-06-30T18:09:52.520510+00:00,aptos,CAKE→USDC→CAKE,2,pancakeswap/pancakeswap,2.9438,7.69,0.0924,0,0
+2026-06-30T18:11:35.471031+00:00,sui,HASUI→USDC→HASUI,2,cetus/momentum,0.5995,1.0,-0.67,0,0
+2026-06-30T18:11:35.471031+00:00,solana,SOL→JTO→SOL,2,meteora/raydium,46.8694,1.0,-0.8871,0,0
+2026-06-30T18:11:35.471031+00:00,aptos,CAKE→USDC→CAKE,2,pancakeswap/pancakeswap,2.9438,7.69,0.0924,0,0
+2026-06-30T18:13:17.960036+00:00,sui,HASUI→USDC→HASUI,2,cetus/momentum,0.5995,1.0,-0.67,0,0
+2026-06-30T18:13:17.960036+00:00,solana,SOL→JTO→SOL,2,meteora/raydium,46.8694,1.0,-0.8871,0,0
+2026-06-30T18:13:17.960036+00:00,aptos,CAKE→USDC→CAKE,2,pancakeswap/pancakeswap,2.9438,7.69,0.0924,0,0
