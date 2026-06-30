@@ -5283,3 +5283,4 @@ t0,chain,token,entry_spread_pct,lo_dex,hi_dex,min_tvl,whale,n_samples,n_pos_afte
 2026-06-30T09:12:45.245397+00:00,solana,POPCAT,0.6554,raydium,raydium,570492,1,13,0,-0.4545,0
 2026-06-30T09:14:23.166850+00:00,base,CBBTC,0.7481,aerodrome,uniswap,358145,1,13,0,-0.0481,0
 2026-06-30T09:14:23.166850+00:00,base,WEETH,0.4322,aerodrome,aerodrome,460185,0,13,0,-0.9385,0
+2026-06-30T09:20:52.372743+00:00,base,EURC,0.885,aerodrome,aerodrome,536695,1,14,0,-0.2702,0
