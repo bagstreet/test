@@ -19717,3 +19717,12 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-06-30T20:27:33.929816+00:00,sui,WAL→USDC→WAL,2,cetus/steamm,12.1809,1.0,0.0115,0,0
 2026-06-30T20:27:33.929816+00:00,solana,IMT→PERCOLATOR→IMT,2,pumpswap/pumpswap,1.8818,1.0,-0.3943,0,0
 2026-06-30T20:27:33.929816+00:00,base,VVV→WETH→VVV,2,pancakeswap/sushiswap,8.6015,1.0,-0.003,0,0
+2026-06-30T20:39:53.647510+00:00,base,USDBC→AERO→USDBC,2,aerodrome/aerodrome,0.4295,1.0,-0.0288,0,0
+2026-06-30T20:41:29.567118+00:00,base,USDBC→AERO→USDBC,2,aerodrome/aerodrome,0.4295,1.0,-0.0288,0,0
+2026-06-30T20:43:06.377064+00:00,base,USDBC→AERO→USDBC,2,aerodrome/aerodrome,0.4295,1.0,-0.0288,0,0
+2026-06-30T20:44:42.741503+00:00,base,USDBC→AERO→USDBC,2,aerodrome/aerodrome,0.4295,1.0,-0.0288,0,0
+2026-06-30T20:46:19.036884+00:00,base,USDBC→AERO→USDBC,2,aerodrome/aerodrome,0.4295,1.0,-0.0288,0,0
+2026-06-30T20:47:55.395970+00:00,base,USDBC→AERO→USDBC,2,aerodrome/aerodrome,0.4295,1.0,-0.0288,0,0
+2026-06-30T20:49:31.748727+00:00,solana,IMT→NEET→HORSEMEAT→IMT,3,raydium/meteora/orca,197.1761,1.9,1.3689,0,0
+2026-06-30T20:49:31.748727+00:00,base,USDBC→AERO→USDBC,2,aerodrome/aerodrome,0.4295,1.0,-0.0288,0,0
+2026-06-30T20:51:07.996359+00:00,base,USDBC→AERO→USDBC,2,aerodrome/aerodrome,0.4295,1.0,-0.0288,0,0
