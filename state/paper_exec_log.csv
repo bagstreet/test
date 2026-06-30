@@ -5237,3 +5237,5 @@ t0,chain,token,entry_spread_pct,lo_dex,hi_dex,min_tvl,whale,n_samples,n_pos_afte
 2026-06-30T07:05:55.340987+00:00,solana,RAY,0.6432,raydium,raydium,937084,0,17,4,0.1698,1
 2026-06-30T07:09:06.918527+00:00,solana,WBTC,1.5028,raydium,meteora,287732,0,17,0,-0.2582,0
 2026-06-30T07:09:06.918527+00:00,solana,JUP,1.0577,orca,meteora,292629,1,17,0,-0.9081,0
+2026-06-30T07:45:38.468839+00:00,solana,TRUMP,0.6061,meteora,meteora,3632109,0,3,0,-0.0046,0
+2026-06-30T07:20:26.256701+00:00,solana,ORE,0.8255,orca,meteora,282769,1,17,0,-1.0895,0
