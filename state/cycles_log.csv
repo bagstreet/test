@@ -20038,3 +20038,11 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-07-01T01:27:31.797705+00:00,solana,TROLL→IME→TROLL,2,meteora/meteora,0.4588,1.0,-0.5217,0,0
 2026-07-01T01:27:31.797705+00:00,base,USDC→VVV→USDC,2,uniswap/aerodrome,11.478,1.0,-0.5836,0,0
 2026-07-01T01:27:31.797705+00:00,aptos,USDT→WETH→USDT,2,liquidswap/liquidswap,199.4815,87.42,139.7872,0,0
+2026-07-01T01:31:00.922075+00:00,base,AERO→AXLUSDC→USDBC→AERO,3,aerodrome/balancer/aerodrome,0.9049,1.0,-0.0649,0,0
+2026-07-01T01:32:42.230701+00:00,base,AERO→AXLUSDC→USDBC→AERO,3,aerodrome/balancer/aerodrome,1.3138,1.0,-0.061,0,0
+2026-07-01T01:34:23.927337+00:00,base,AERO→AXLUSDC→USDBC→AERO,3,aerodrome/balancer/aerodrome,1.3138,1.0,-0.061,0,0
+2026-07-01T01:36:04.557190+00:00,base,AERO→AXLUSDC→USDBC→AERO,3,aerodrome/balancer/aerodrome,1.3138,1.0,-0.061,0,0
+2026-07-01T01:37:45.772041+00:00,base,AERO→AXLUSDC→USDBC→AERO,3,aerodrome/balancer/aerodrome,1.3138,1.0,-0.061,0,0
+2026-07-01T01:39:26.716588+00:00,base,AERO→AXLUSDC→USDBC→AERO,3,aerodrome/balancer/aerodrome,1.3138,1.0,-0.061,0,0
+2026-07-01T01:41:07.084190+00:00,base,SURPLUS→USDC→VIRTUAL→CBBTC→VVV→SURPLUS,5,uniswap/aerodrome/aerodrome/hydrex/uniswap,14.2202,114.68,10.7939,0,0
+2026-07-01T01:42:47.933827+00:00,base,SURPLUS→USDC→VIRTUAL→CBBTC→VVV→SURPLUS,5,uniswap/aerodrome/aerodrome/hydrex/uniswap,14.2202,114.68,10.7939,0,0
