@@ -20584,3 +20584,27 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-07-01T07:27:03.216909+00:00,solana,SOL→ORE→SOL,2,meteora/meteora,2.3229,1.4,0.0062,0,0
 2026-07-01T07:27:03.216909+00:00,base,AXLUSDC→WETH→AXLUSDC,2,pancakeswap/shark-swap,0.6895,1.0,-0.0354,0,0
 2026-07-01T07:27:03.216909+00:00,aptos,WETH→USDC→WETH,2,liquidswap/pancakeswap,201.514,1.0,-0.9837,0,0
+2026-07-01T07:31:01.177488+00:00,sui,CETUS→HAEDAL→CETUS,2,cetus/cetus,0.6389,1.0,-0.0873,0,0
+2026-07-01T07:31:01.177488+00:00,solana,USDT→FARTCOIN →USDC→JUP→JLP→USDT,5,meteora/raydium/meteora/meteora/meteora,119.2568,1.0,0.0021,0,0
+2026-07-01T07:31:01.177488+00:00,base,ETH→VVV→ETH,2,uniswap/uniswap,0.8428,1.0,-0.8404,0,0
+2026-07-01T07:32:44.058540+00:00,sui,HAEDAL→CETUS→HAEDAL,2,cetus/cetus,0.6389,1.0,-0.0801,0,0
+2026-07-01T07:32:44.058540+00:00,solana,FARTCOIN →USDC→JUP→JLP→USDT→FARTCOIN ,5,raydium/meteora/meteora/meteora/meteora,117.93,2.74,1.2969,0,0
+2026-07-01T07:32:44.058540+00:00,base,USDT→VVV→ETH→USDT,3,uniswap/uniswap/uniswap,1.1062,1.83,-0.0199,0,0
+2026-07-01T07:34:26.935601+00:00,sui,CETUS→HAEDAL→CETUS,2,cetus/cetus,0.6389,1.0,-0.0873,0,0
+2026-07-01T07:34:26.935601+00:00,solana,FARTCOIN →USDC→JUP→JLP→USDT→FARTCOIN ,5,raydium/meteora/meteora/meteora/meteora,117.9566,2.74,1.2974,0,0
+2026-07-01T07:34:26.935601+00:00,base,USDT→VVV→ETH→USDT,3,uniswap/uniswap/uniswap,1.1062,1.83,-0.0199,0,0
+2026-07-01T07:36:09.498726+00:00,sui,DEEP→USDC→CETUS→DEEP,3,turbos-finance/cetus/cetus,3.4781,1.0,-0.1425,0,0
+2026-07-01T07:36:09.498726+00:00,solana,FARTCOIN →USDC→JUP→JLP→USDT→FARTCOIN ,5,raydium/meteora/meteora/meteora/meteora,117.9566,2.74,1.2974,0,0
+2026-07-01T07:36:09.498726+00:00,base,USDT→VVV→ETH→USDT,3,uniswap/uniswap/uniswap,1.1062,1.83,-0.0199,0,0
+2026-07-01T07:37:52.116794+00:00,sui,DEEP→USDC→CETUS→DEEP,3,turbos-finance/cetus/cetus,3.4781,1.0,-0.1425,0,0
+2026-07-01T07:37:52.116794+00:00,solana,FARTCOIN →USDC→JUP→JLP→USDT→FARTCOIN ,5,raydium/meteora/meteora/meteora/meteora,117.9566,2.74,1.2974,0,0
+2026-07-01T07:37:52.116794+00:00,base,USDT→VVV→ETH→USDT,3,uniswap/uniswap/uniswap,1.1062,1.83,-0.0199,0,0
+2026-07-01T07:39:34.723626+00:00,sui,DEEP→USDC→CETUS→DEEP,3,turbos-finance/cetus/cetus,3.4781,1.0,-0.1425,0,0
+2026-07-01T07:39:34.723626+00:00,solana,FARTCOIN →USDC→JUP→JLP→USDT→FARTCOIN ,5,raydium/meteora/meteora/meteora/meteora,116.4753,2.72,1.2703,0,0
+2026-07-01T07:39:34.723626+00:00,base,USDT→VVV→ETH→USDT,3,uniswap/uniswap/uniswap,1.1062,1.83,-0.0199,0,0
+2026-07-01T07:41:17.057331+00:00,sui,CETUS→HAEDAL→CETUS,2,cetus/cetus,0.6389,1.0,-0.0873,0,0
+2026-07-01T07:41:17.057331+00:00,solana,FARTCOIN →USDC→JUP→JLP→USDT→FARTCOIN ,5,raydium/meteora/meteora/meteora/meteora,116.4753,2.72,1.2703,0,0
+2026-07-01T07:41:17.057331+00:00,base,USDT→VVV→ETH→USDT,3,uniswap/uniswap/uniswap,1.1062,1.83,-0.0199,0,0
+2026-07-01T07:42:59.719259+00:00,sui,CETUS→HAEDAL→CETUS,2,cetus/cetus,0.6389,1.0,-0.0873,0,0
+2026-07-01T07:42:59.719259+00:00,solana,FARTCOIN →USDC→JUP→JLP→USDT→FARTCOIN ,5,raydium/meteora/meteora/meteora/meteora,116.4753,2.72,1.2703,0,0
+2026-07-01T07:42:59.719259+00:00,base,USDT→VVV→ETH→USDT,3,uniswap/uniswap/uniswap,1.1062,1.83,-0.0199,0,0
