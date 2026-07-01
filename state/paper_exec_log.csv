@@ -5878,3 +5878,4 @@ t0,chain,token,entry_spread_pct,lo_dex,hi_dex,min_tvl,whale,n_samples,n_pos_afte
 2026-07-01T12:09:29.169953+00:00,base,WEETH,1.5044,aerodrome,aerodrome,409271,0,13,12,0.056,1
 2026-07-01T12:09:29.169953+00:00,base,VIRTUAL,0.3236,uniswap,aerodrome,994473,1,13,0,-0.7124,0
 2026-07-01T12:14:23.657447+00:00,solana,JITOSOL,0.6892,orca,meteora,343415,0,13,0,-0.091,0
+2026-07-01T12:16:01.921902+00:00,base,VVV,0.4886,aerodrome,aerodrome,286849,1,14,0,-1.0345,0
