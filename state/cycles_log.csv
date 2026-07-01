@@ -20457,3 +20457,11 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-07-01T06:12:43.051149+00:00,solana,JUP→USDC→JUP,2,orca/meteora,10.8524,448.32,23.6902,0,0
 2026-07-01T06:12:43.051149+00:00,base,AERO→AXLUSDC→WETH→AERO,3,aerodrome/throne/aerodrome,1.2371,1.0,-0.067,0,0
 2026-07-01T06:12:43.051149+00:00,aptos,WETH→USDC→WETH,2,liquidswap/pancakeswap,201.514,1.0,-0.9837,0,0
+2026-07-01T06:15:41.224911+00:00,sui,SUI→USDC→SUI,2,steamm/turbos-finance,1.3079,1.0,-0.3565,0,0
+2026-07-01T06:17:22.372787+00:00,sui,SUI→USDC→SUI,2,steamm/turbos-finance,1.3079,1.0,-0.3565,0,0
+2026-07-01T06:19:02.825442+00:00,sui,SUI→USDC→SUI,2,steamm/turbos-finance,1.3079,1.0,-0.3565,0,0
+2026-07-01T06:20:43.444905+00:00,sui,SUI→USDC→SUI,2,steamm/turbos-finance,1.3079,1.0,-0.3565,0,0
+2026-07-01T06:22:23.874505+00:00,sui,SUI→USDC→SUI,2,steamm/turbos-finance,1.3079,1.0,-0.3576,0,0
+2026-07-01T06:24:04.199700+00:00,sui,SUI→USDC→SUI,2,magma/turbos-finance,1.6717,1.0,-0.365,0,0
+2026-07-01T06:25:44.901617+00:00,sui,SUI→USDC→SUI,2,magma/turbos-finance,1.6717,1.0,-0.365,0,0
+2026-07-01T06:27:25.355511+00:00,sui,SUI→USDC→SUI,2,magma/turbos-finance,1.6717,1.0,-0.365,0,0
