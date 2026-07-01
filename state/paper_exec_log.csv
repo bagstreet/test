@@ -5815,3 +5815,7 @@ t0,chain,token,entry_spread_pct,lo_dex,hi_dex,min_tvl,whale,n_samples,n_pos_afte
 2026-07-01T09:47:21.915507+00:00,solana,AVICI,8.2923,metadao,meteora,697447,1,17,7,7.2183,1
 2026-07-01T09:50:42.911370+00:00,solana,HYPE,0.3908,meteora,meteora,377086,1,17,0,-0.4421,0
 2026-07-01T10:17:27.613179+00:00,base,EURC,0.885,aerodrome,aerodrome,591345,1,7,0,-0.2903,0
+2026-07-01T10:01:14.779543+00:00,solana,WBTC,0.5809,orca,meteora,281336,1,18,0,-1.097,0
+2026-07-01T10:02:54.568136+00:00,solana,MET,1.0962,meteora,meteora,291560,1,18,5,0.2573,1
+2026-07-01T10:11:14.162289+00:00,sui,USDSUI,0.5915,turbos-finance,cetus,466641,0,17,0,-0.5668,0
+2026-07-01T10:12:53.989389+00:00,base,ETH,0.3415,uniswap,uniswap,573915,0,17,0,-0.6655,0
