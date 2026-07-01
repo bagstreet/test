@@ -20979,3 +20979,19 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-07-01T11:57:35.082733+00:00,solana,USDC→ASTY→RAY→USDC,3,meteora/meteora/orca,2.7848,1.0,-0.0525,0,0
 2026-07-01T11:57:35.082733+00:00,base,VVV→USDC→VVV,2,aerodrome/aerodrome,8.1257,1.0,-0.9736,0,0
 2026-07-01T11:57:35.082733+00:00,aptos,APT→ZUSDT→WUSDC→APT,3,cellana/cellana/cellana,4.0422,1.0,-0.4113,0,0
+2026-07-01T12:09:29.169953+00:00,sui,TURBOS→USDC→TURBOS,2,turbos-finance/turbos-finance,0.5018,26.18,0.0456,0,0
+2026-07-01T12:09:29.169953+00:00,solana,USDC→FARTCOIN →USDC,2,meteora/raydium,101.9311,1.0,-0.0727,0,0
+2026-07-01T12:11:07.009756+00:00,sui,TURBOS→USDC→TURBOS,2,turbos-finance/turbos-finance,0.5018,26.18,0.0456,0,0
+2026-07-01T12:11:07.009756+00:00,solana,SOL→USDC→SOL,2,meteora/raydium,0.2421,71.36,0.0763,1,0
+2026-07-01T12:12:45.302274+00:00,sui,TURBOS→USDC→TURBOS,2,turbos-finance/turbos-finance,0.5018,26.18,0.0456,0,0
+2026-07-01T12:12:45.302274+00:00,solana,SOL→USDC→SOL,2,meteora/meteora,0.2554,22.67,0.0189,1,0
+2026-07-01T12:14:23.657447+00:00,sui,TURBOS→USDC→TURBOS,2,turbos-finance/turbos-finance,0.5018,26.18,0.0456,0,0
+2026-07-01T12:14:23.657447+00:00,solana,USDC→SOL→USDC,2,meteora/meteora,0.2827,31.76,0.0349,0,0
+2026-07-01T12:16:01.921902+00:00,sui,USDC→TURBOS→USDC,2,turbos-finance/turbos-finance,0.4798,1.0,-0.5317,0,0
+2026-07-01T12:16:01.921902+00:00,solana,USDC→SOL→USDC,2,raydium/orca,1.1469,17008.36,97.2421,1,1
+2026-07-01T12:17:40.480792+00:00,sui,USDC→TURBOS→USDC,2,turbos-finance/turbos-finance,0.4798,1.0,-0.5317,0,0
+2026-07-01T12:17:40.480792+00:00,solana,USDC→SOL→USDC,2,pumpswap/orca,1.119,5898.15,32.8971,1,1
+2026-07-01T12:19:20.741947+00:00,sui,USDC→TURBOS→USDC,2,turbos-finance/turbos-finance,0.4798,1.0,-0.5317,0,0
+2026-07-01T12:19:20.741947+00:00,solana,USDC→SOL→USDC,2,raydium/orca,1.1509,17068.25,97.9311,1,1
+2026-07-01T12:20:58.760723+00:00,sui,USDC→TURBOS→USDC,2,turbos-finance/turbos-finance,0.4798,1.0,-0.5317,0,0
+2026-07-01T12:20:58.760723+00:00,solana,SOL→USDC→SOL,2,orca/pumpswap,1.119,78.4,0.4274,1,1
