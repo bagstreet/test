@@ -20170,3 +20170,23 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-07-01T03:12:53.342992+00:00,solana,USDC→JUP→USDC,2,meteora/meteora,6.8135,35.44,1.1774,0,0
 2026-07-01T03:12:53.342992+00:00,base,OLAS→USDC→OLAS,2,aerodrome/balancer,0.0938,5.18,-0.0276,0,0
 2026-07-01T03:12:53.342992+00:00,aptos,CAKE→USDC→CAKE,2,pancakeswap/pancakeswap,0.4687,1.0,-0.1769,0,0
+2026-07-01T03:15:35.838260+00:00,solana,JITOSOL→FARTCOIN →JITOSOL,2,raydium/meteora,0.0156,1.0,-0.6826,0,0
+2026-07-01T03:15:35.838260+00:00,base,SURPLUS→USDC→WEETH→WETH→SURPLUS,4,uniswap/aerodrome/aerodrome/uniswap,11.9077,21.6,2.3442,0,0
+2026-07-01T03:15:35.838260+00:00,aptos,WETH→USDC→WETH,2,liquidswap/pancakeswap,198.3189,1.0,-0.9837,0,0
+2026-07-01T03:17:14.070387+00:00,solana,SOL→FARTCOIN →SOL,2,orca/raydium,6.5238,1.0,-0.8858,0,0
+2026-07-01T03:17:14.070387+00:00,base,SURPLUS→USDC→WEETH→WETH→SURPLUS,4,uniswap/aerodrome/aerodrome/uniswap,11.9077,21.6,2.3442,0,0
+2026-07-01T03:17:14.070387+00:00,aptos,WETH→USDC→WETH,2,liquidswap/pancakeswap,198.3189,1.0,-0.9837,0,0
+2026-07-01T03:18:52.095093+00:00,solana,SOL→FARTCOIN →SOL,2,orca/raydium,6.5238,1.0,-0.8858,0,0
+2026-07-01T03:18:52.095093+00:00,base,SURPLUS→USDC→WEETH→WETH→SURPLUS,4,uniswap/aerodrome/aerodrome/uniswap,11.9077,21.6,2.3442,0,0
+2026-07-01T03:18:52.095093+00:00,aptos,WETH→USDC→WETH,2,liquidswap/pancakeswap,198.3189,1.0,-0.9837,0,0
+2026-07-01T03:20:33.338003+00:00,solana,SOL→FARTCOIN →SOL,2,orca/raydium,6.5238,1.0,-0.8858,0,0
+2026-07-01T03:20:33.338003+00:00,base,SURPLUS→USDC→WEETH→WETH→SURPLUS,4,uniswap/aerodrome/aerodrome/uniswap,11.9077,21.6,2.3442,0,0
+2026-07-01T03:20:33.338003+00:00,aptos,WETH→USDC→WETH,2,liquidswap/pancakeswap,198.3189,1.0,-0.9837,0,0
+2026-07-01T03:22:11.150667+00:00,solana,SOL→FARTCOIN →SOL,2,orca/raydium,6.5238,1.0,-0.8858,0,0
+2026-07-01T03:22:11.150667+00:00,aptos,WETH→USDC→WETH,2,liquidswap/pancakeswap,198.3189,1.0,-0.9837,0,0
+2026-07-01T03:23:48.861731+00:00,solana,SOL→FARTCOIN →SOL,2,orca/raydium,6.5238,1.0,-0.8858,0,0
+2026-07-01T03:23:48.861731+00:00,aptos,WETH→USDC→WETH,2,liquidswap/pancakeswap,198.3189,1.0,-0.9837,0,0
+2026-07-01T03:25:27.211815+00:00,solana,SOL→FARTCOIN →SOL,2,orca/raydium,6.5238,1.0,-0.8858,0,0
+2026-07-01T03:25:27.211815+00:00,aptos,WETH→USDC→WETH,2,liquidswap/pancakeswap,198.3189,1.0,-0.9837,0,0
+2026-07-01T03:27:05.030880+00:00,solana,SOL→FARTCOIN →SOL,2,orca/raydium,6.5238,1.0,-0.8858,0,0
+2026-07-01T03:27:05.030880+00:00,aptos,WETH→USDC→WETH,2,liquidswap/pancakeswap,198.3189,1.0,-0.9837,0,0
