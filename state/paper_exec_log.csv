@@ -5939,3 +5939,11 @@ t0,chain,token,entry_spread_pct,lo_dex,hi_dex,min_tvl,whale,n_samples,n_pos_afte
 2026-07-01T13:41:09.157211+00:00,base,CBETH,0.4616,aerodrome,hydrex,504826,1,18,0,-0.5066,0
 2026-07-01T13:41:09.157211+00:00,base,VIRTUAL,0.3016,aerodrome,aerodrome,393352,1,18,0,-0.0919,0
 2026-07-01T14:06:05.129482+00:00,base,EURC,0.885,aerodrome,aerodrome,565159,1,5,0,-0.2508,0
+2026-07-01T13:47:21.303976+00:00,solana,JUP,1.4109,meteora,orca,269683,1,16,3,40.6207,1
+2026-07-01T13:54:08.700002+00:00,solana,HYPE,0.4554,meteora,meteora,252256,1,12,1,0.0031,0
+2026-07-01T13:49:02.713261+00:00,base,AERO,1.5052,aerodrome,aerodrome,514011,1,15,2,0.6182,1
+2026-07-01T13:55:50.858268+00:00,solana,ARC,6.4404,raydium,meteora,440143,0,12,11,5.5313,1
+2026-07-01T14:28:52.285326+00:00,base,EURC,0.885,aerodrome,aerodrome,568225,1,2,0,-0.6975,0
+2026-07-01T14:27:05.952283+00:00,sui,SUI,0.5492,momentum,steamm,342681,0,4,0,-1.1049,0
+2026-07-01T14:28:52.285326+00:00,solana,GIGA,1.8153,meteora,raydium,251847,1,3,0,-1.9079,0
+2026-07-01T14:34:11.080048+00:00,base,EURC,0.885,aerodrome,aerodrome,568019,1,2,0,-0.6947,0
