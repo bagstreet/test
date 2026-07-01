@@ -21652,3 +21652,9 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-07-01T20:25:43.418586+00:00,base,EURC→USDC→EURC,2,aerodrome/aerodrome,17.53,6.41,0.5092,0,0
 2026-07-01T20:27:24.874953+00:00,solana,$WIF→SOL→$WIF,2,raydium/orca,23.4908,1.0,0.0898,0,0
 2026-07-01T20:27:24.874953+00:00,base,EURC→USDC→EURC,2,aerodrome/aerodrome,17.53,6.41,0.5092,0,0
+2026-07-01T20:39:26.075994+00:00,solana,USDT→USDC→USDT,2,raydium/orca,2.0016,131.34,1.2979,0,0
+2026-07-01T20:41:04.222315+00:00,solana,USDC→USDT→USDC,2,orca/raydium,2.0016,17.56,0.1649,0,0
+2026-07-01T20:42:47.207076+00:00,solana,USDT→USDC→USDT,2,orca/meteora,0.7834,6.45,0.0152,0,0
+2026-07-01T20:44:34.259881+00:00,solana,USDT→USDC→USDT,2,orca/meteora,0.7834,6.45,0.0152,0,0
+2026-07-01T20:46:23.631187+00:00,solana,USDT→USDC→USDT,2,raydium/orca,2.0016,17.6,0.1653,0,0
+2026-07-01T20:48:13.426224+00:00,solana,USDT→USDC→USDT,2,raydium/meteora,0.3412,2.88,-0.0051,0,0
