@@ -19958,3 +19958,35 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-07-01T00:26:50.096178+00:00,solana,IOT→HNT→IOT,2,orca/raydium,1.0558,1.0,-0.0406,0,0
 2026-07-01T00:26:50.096178+00:00,base,AERO→ETH→WEETH→AERO,3,uniswap/uniswap/aerodrome,0.6441,45.64,0.1256,0,0
 2026-07-01T00:26:50.096178+00:00,aptos,APT→USDT→APT,2,aux/liquidswap,173.8282,7.69,5.0152,0,0
+2026-07-01T00:39:41.314280+00:00,sui,SUI→WAL→SUI,2,momentum/magma,1.5347,1.0,-0.1341,0,0
+2026-07-01T00:39:41.314280+00:00,solana,USDC→JITOSOL→FARTCOIN →USDC,3,orca/meteora/raydium,211.011,1.0,0.0573,0,0
+2026-07-01T00:39:41.314280+00:00,base,WETH→VVV→WETH,2,sushiswap/pancakeswap,7.9253,1.0,-0.9017,0,0
+2026-07-01T00:39:41.314280+00:00,aptos,USDT→WETH→USDT,2,liquidswap/liquidswap,199.4815,87.42,139.7872,0,0
+2026-07-01T00:41:19.583550+00:00,sui,SUI→WAL→SUI,2,momentum/magma,1.5347,1.0,-0.1341,0,0
+2026-07-01T00:41:19.583550+00:00,solana,USDC→JITOSOL→FARTCOIN →USDC,3,orca/meteora/raydium,211.011,1.0,0.0573,0,0
+2026-07-01T00:41:19.583550+00:00,base,WETH→VVV→WETH,2,sushiswap/pancakeswap,7.9253,1.0,-0.9017,0,0
+2026-07-01T00:41:19.583550+00:00,aptos,USDT→WETH→USDT,2,liquidswap/liquidswap,199.4815,87.42,139.7872,0,0
+2026-07-01T00:42:58.499295+00:00,sui,SUI→WAL→SUI,2,cetus/magma,1.6235,1.0,-0.1334,0,0
+2026-07-01T00:42:58.499295+00:00,solana,TROLL→USDC→JITOSOL→CBBTC→IME→TROLL,5,raydium/orca/raydium/meteora/meteora,196.0056,1.0,-0.8674,0,0
+2026-07-01T00:42:58.499295+00:00,base,WETH→VVV→WETH,2,sushiswap/pancakeswap,7.9253,1.0,-0.9017,0,0
+2026-07-01T00:42:58.499295+00:00,aptos,USDT→WETH→USDT,2,liquidswap/liquidswap,199.4815,87.42,139.7872,0,0
+2026-07-01T00:44:37.586130+00:00,sui,SUI→WAL→SUI,2,cetus/magma,1.6935,1.0,-0.1329,0,0
+2026-07-01T00:44:37.586130+00:00,solana,TROLL→USDC→JITOSOL→CBBTC→IME→TROLL,5,raydium/orca/raydium/meteora/meteora,195.913,1.0,-0.8674,0,0
+2026-07-01T00:44:37.586130+00:00,base,WETH→VVV→WETH,2,sushiswap/pancakeswap,7.9253,1.0,-0.9017,0,0
+2026-07-01T00:44:37.586130+00:00,aptos,USDT→WETH→USDT,2,liquidswap/liquidswap,199.4815,87.42,139.7872,0,0
+2026-07-01T00:46:16.682026+00:00,sui,SUI→WAL→SUI,2,bluefin/magma,1.5666,1.0,-0.1339,0,0
+2026-07-01T00:46:16.682026+00:00,solana,TROLL→USDC→JITOSOL→CBBTC→IME→TROLL,5,raydium/orca/raydium/meteora/meteora,195.913,1.0,-0.8674,0,0
+2026-07-01T00:46:16.682026+00:00,base,WETH→VVV→WETH,2,sushiswap/pancakeswap,7.9253,1.0,-0.9017,0,0
+2026-07-01T00:46:16.682026+00:00,aptos,USDT→WETH→USDT,2,liquidswap/liquidswap,199.4815,87.42,139.7872,0,0
+2026-07-01T00:47:55.543674+00:00,sui,SUI→TURBOS→SUI,2,cetus/turbos-finance,1.3884,1.0,-0.4564,0,0
+2026-07-01T00:47:55.543674+00:00,solana,IME→TROLL→USDC→JITOSOL→CBBTC→IME,5,meteora/raydium/orca/raydium/meteora,195.804,2.0,3.1773,0,0
+2026-07-01T00:47:55.543674+00:00,base,WETH→VVV→WETH,2,sushiswap/pancakeswap,7.9253,1.0,-0.9017,0,0
+2026-07-01T00:47:55.543674+00:00,aptos,USDT→WETH→USDT,2,liquidswap/liquidswap,199.4815,87.42,139.7872,0,0
+2026-07-01T00:49:34.468990+00:00,sui,SUI→TURBOS→SUI,2,cetus/turbos-finance,1.3884,1.0,-0.4564,0,0
+2026-07-01T00:49:34.468990+00:00,solana,IME→TROLL→USDC→JITOSOL→CBBTC→IME,5,meteora/raydium/orca/raydium/meteora,195.804,2.0,3.1773,0,0
+2026-07-01T00:49:34.468990+00:00,base,WETH→VVV→WETH,2,sushiswap/pancakeswap,7.9253,1.0,-0.9017,0,0
+2026-07-01T00:49:34.468990+00:00,aptos,USDT→WETH→USDT,2,liquidswap/liquidswap,199.4815,87.42,139.7872,0,0
+2026-07-01T00:51:13.549264+00:00,sui,SUI→TURBOS→SUI,2,cetus/turbos-finance,1.3884,1.0,-0.4564,0,0
+2026-07-01T00:51:13.549264+00:00,solana,IME→TROLL→USDC→JITOSOL→CBBTC→IME,5,meteora/raydium/orca/raydium/meteora,195.804,2.0,3.1773,0,0
+2026-07-01T00:51:13.549264+00:00,base,WETH→VVV→WETH,2,sushiswap/pancakeswap,7.9253,1.0,-0.9017,0,0
+2026-07-01T00:51:13.549264+00:00,aptos,USDT→WETH→USDT,2,liquidswap/liquidswap,199.4815,87.42,139.7872,0,0
