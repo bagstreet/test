@@ -23225,3 +23225,11 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-07-02T18:59:33.813716+00:00,base,USDC→ETH→USDC,2,uniswap/uniswap,3.4716,68.17,1.1432,0,0
 2026-07-02T19:01:12.996058+00:00,base,USDC→ETH→USDC,2,uniswap/uniswap,3.4716,68.17,1.1432,0,0
 2026-07-02T19:02:54.111031+00:00,base,USDC→ETH→USDC,2,uniswap/uniswap,3.4716,68.17,1.1432,0,0
+2026-07-02T19:15:37.972921+00:00,sui,NAVX→TURBOS→NAVX,2,turbos-finance/turbos-finance,0.5965,1.0,-0.9838,0,0
+2026-07-02T19:17:22.826578+00:00,sui,NAVX→TURBOS→NAVX,2,turbos-finance/turbos-finance,0.5965,1.0,-0.9838,0,0
+2026-07-02T19:19:06.446807+00:00,sui,NAVX→TURBOS→NAVX,2,turbos-finance/turbos-finance,0.5965,1.0,-0.9838,0,0
+2026-07-02T19:20:50.201874+00:00,sui,NAVX→TURBOS→NAVX,2,turbos-finance/turbos-finance,0.5965,1.0,-0.9838,0,0
+2026-07-02T19:22:34.304319+00:00,sui,NAVX→TURBOS→NAVX,2,turbos-finance/turbos-finance,0.5965,1.0,-0.9838,0,0
+2026-07-02T19:24:18.170849+00:00,sui,NAVX→TURBOS→NAVX,2,turbos-finance/turbos-finance,0.5965,1.0,-0.9838,0,0
+2026-07-02T19:26:02.572913+00:00,sui,NAVX→TURBOS→NAVX,2,turbos-finance/turbos-finance,0.5965,1.0,-0.9838,0,0
+2026-07-02T19:27:47.313427+00:00,sui,NAVX→TURBOS→NAVX,2,turbos-finance/turbos-finance,0.5965,1.0,-0.9838,0,0
