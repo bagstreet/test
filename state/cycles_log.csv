@@ -23136,3 +23136,16 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-07-02T17:16:39.277898+00:00,sui,FUD→SUI→USDC→FUD,3,cetus/magma/turbos-finance,5.9333,1.0,-0.1609,0,0
 2026-07-02T17:16:39.277898+00:00,base,DIEM→USDC→DIEM,2,uniswap/aerodrome,0.8684,1.0,-0.6726,0,0
 2026-07-02T17:16:39.277898+00:00,aptos,CAKE→USDC→CAKE,2,pancakeswap/pancakeswap,1.7373,1.0,-0.1297,0,0
+2026-07-02T17:31:08.835106+00:00,base,DIEM→VVV→DIEM,2,aerodrome/uniswap,0.4898,1.0,-0.7248,0,0
+2026-07-02T17:32:51.230022+00:00,solana,USDC→RAY→USDC,2,raydium/raydium,1.0393,315.85,1.6271,1,1
+2026-07-02T17:32:51.230022+00:00,base,DIEM→VVV→DIEM,2,aerodrome/uniswap,0.4898,1.0,-0.7248,0,0
+2026-07-02T17:34:33.313100+00:00,solana,RAY→USDC→RAY,2,raydium/raydium,1.0393,446.68,2.3052,1,1
+2026-07-02T17:34:33.313100+00:00,base,DIEM→VVV→DIEM,2,aerodrome/uniswap,0.4898,1.0,-0.7248,0,0
+2026-07-02T17:36:14.046839+00:00,solana,BONK→USDC→BONK,2,raydium/orca,0.3071,20.68,0.0217,0,0
+2026-07-02T17:36:14.046839+00:00,base,DIEM→VVV→DIEM,2,aerodrome/uniswap,0.4898,1.0,-0.7248,0,0
+2026-07-02T17:37:55.556989+00:00,solana,BONK→USDC→BONK,2,meteora/orca,0.2647,7.2,-0.0005,0,0
+2026-07-02T17:37:55.556989+00:00,base,DIEM→VVV→DIEM,2,aerodrome/uniswap,0.4898,1.0,-0.7248,0,0
+2026-07-02T17:39:36.871924+00:00,solana,BONK→USDC→BONK,2,orca/orca,0.2337,25.59,0.0199,0,0
+2026-07-02T17:39:36.871924+00:00,base,DIEM→VVV→DIEM,2,aerodrome/uniswap,0.4898,1.0,-0.7248,0,0
+2026-07-02T17:41:18.166792+00:00,base,DIEM→VVV→DIEM,2,aerodrome/uniswap,0.4898,1.0,-0.7248,0,0
+2026-07-02T17:43:01.664965+00:00,base,DIEM→VVV→DIEM,2,aerodrome/uniswap,0.4898,1.0,-0.7248,0,0
