@@ -22584,3 +22584,15 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-07-02T09:12:19.868872+00:00,solana,SOL→PYTH→SOL,2,meteora/meteora,7.3291,1.0,-0.3712,0,0
 2026-07-02T09:12:19.868872+00:00,base,USDC→SURPLUS→DIEM→USDC,3,uniswap/aerodrome/uniswap,29.5327,1.0,-0.4869,0,0
 2026-07-02T09:12:19.868872+00:00,aptos,APT→USDC→APT,2,pancakeswap/liquidswap,168.5568,15.78,10.6048,0,0
+2026-07-02T09:15:38.002967+00:00,sui,NAVX→SEND→SUI→NAVX,3,steamm/flowx/cetus,8.9872,1.0,-0.9627,0,0
+2026-07-02T09:15:38.002967+00:00,solana,SYRUPUSDC→COINOMI→WET→SOL→SYRUPUSDC,4,orca/orca/raydium/raydium,13.9623,1.0,-0.8064,0,0
+2026-07-02T09:17:16.421006+00:00,sui,NAVX→SEND→SUI→NAVX,3,steamm/flowx/cetus,9.2735,1.0,-0.9625,0,0
+2026-07-02T09:17:16.421006+00:00,solana,SYRUPUSDC→COINOMI→WET→SOL→SYRUPUSDC,4,orca/orca/raydium/raydium,13.9623,1.0,-0.8064,0,0
+2026-07-02T09:18:54.697958+00:00,solana,SYRUPUSDC→COINOMI→WET→SOL→SYRUPUSDC,4,orca/orca/raydium/raydium,13.9623,1.0,-0.8064,0,0
+2026-07-02T09:20:33.202488+00:00,solana,WET→SOL→SYRUPUSDC→COINOMI→WET,4,raydium/raydium/orca/orca,13.8544,1.0,-0.1162,0,0
+2026-07-02T09:22:11.452393+00:00,solana,WET→SOL→SYRUPUSDC→COINOMI→WET,4,raydium/raydium/orca/orca,14.0957,1.0,-0.1143,0,0
+2026-07-02T09:23:49.598084+00:00,solana,COINOMI→WET→SOL→SYRUPUSDC→COINOMI,4,orca/raydium/raydium/orca,14.0957,2.0,0.2532,0,0
+2026-07-02T09:25:28.009070+00:00,sui,NAVX→SEND→SUI→NAVX,3,steamm/flowx/cetus,9.1245,1.0,-0.9626,0,0
+2026-07-02T09:25:28.009070+00:00,solana,COINOMI→WET→SOL→SYRUPUSDC→COINOMI,4,orca/raydium/raydium/orca,14.8504,2.0,0.2681,0,0
+2026-07-02T09:27:06.339308+00:00,sui,NAVX→SEND→SUI→NAVX,3,steamm/flowx/cetus,9.0901,1.0,-0.9626,0,0
+2026-07-02T09:27:06.339308+00:00,solana,COINOMI→WET→SOL→SYRUPUSDC→COINOMI,4,orca/raydium/raydium/orca,14.5723,2.0,0.2626,0,0
