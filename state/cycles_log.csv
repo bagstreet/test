@@ -22627,3 +22627,12 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-07-02T09:42:39.359902+00:00,solana,BONK→SOL→BONK,2,meteora/orca,45.7388,143.07,29.6375,0,0
 2026-07-02T09:42:39.359902+00:00,base,AERO→WETH→AERO,2,aerodrome/aerodrome,0.4369,624.36,1.3325,1,1
 2026-07-02T09:42:39.359902+00:00,aptos,TAPT→USDC→TAPT,2,animeswap/aux,9.7494,1.0,-0.7993,0,0
+2026-07-02T09:45:37.433297+00:00,base,VVV→DIEM→VVV,2,uniswap/aerodrome,0.2333,1.0,-0.0501,0,0
+2026-07-02T09:47:15.719288+00:00,base,VVV→DIEM→VVV,2,uniswap/aerodrome,0.2333,1.0,-0.0501,0,0
+2026-07-02T09:48:53.957133+00:00,base,VVV→DIEM→VVV,2,uniswap/aerodrome,0.2333,1.0,-0.0501,0,0
+2026-07-02T09:50:32.169326+00:00,base,VVV→DIEM→VVV,2,uniswap/aerodrome,0.2333,1.0,-0.0501,0,0
+2026-07-02T09:52:10.561862+00:00,base,VVV→DIEM→VVV,2,uniswap/aerodrome,0.2333,1.0,-0.0501,0,0
+2026-07-02T09:53:48.902600+00:00,base,VVV→DIEM→VVV,2,uniswap/aerodrome,0.2333,1.0,-0.0501,0,0
+2026-07-02T09:55:27.430895+00:00,base,VVV→DIEM→VVV,2,uniswap/aerodrome,0.2333,1.0,-0.0501,0,0
+2026-07-02T09:57:05.568226+00:00,solana,IMT→JITOSOL→USDG→IMT,3,pumpswap/orca/orca,1.9898,1.0,-0.7287,0,0
+2026-07-02T09:57:05.568226+00:00,base,VVV→DIEM→VVV,2,uniswap/aerodrome,0.2333,1.0,-0.0501,0,0
