@@ -22743,3 +22743,17 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-07-02T11:40:56.330937+00:00,solana,URANUS→ILY→URANUS,2,meteora/meteora,244.1663,1.0,-0.3241,0,0
 2026-07-02T11:42:34.668473+00:00,sui,KW→USDT→KW,2,turbos-finance/turbos-finance,71.5596,3.55,1.0808,0,0
 2026-07-02T11:42:34.668473+00:00,solana,ILY→URANUS→ILY,2,meteora/meteora,244.1663,11.06,25.008,0,0
+2026-07-02T11:45:38.875052+00:00,sui,FOMO→VSUI→FOMO,2,cetus/cetus,-0.4994,1.0,-0.0889,0,0
+2026-07-02T11:45:38.875052+00:00,sui,USDC→VSUI→USDC,2,turbos-finance/momentum,3.9635,1.0,-0.7054,0,0
+2026-07-02T11:47:17.949530+00:00,sui,FOMO→VSUI→FOMO,2,cetus/cetus,-0.4994,1.0,-0.0889,0,0
+2026-07-02T11:47:17.949530+00:00,sui,USDC→VSUI→USDC,2,turbos-finance/momentum,3.9635,1.0,-0.7054,0,0
+2026-07-02T11:48:57.010524+00:00,sui,FOMO→VSUI→FOMO,2,cetus/cetus,-0.4994,1.0,-0.0889,0,0
+2026-07-02T11:48:57.010524+00:00,sui,USDC→VSUI→USDC,2,turbos-finance/momentum,3.9635,1.0,-0.7054,0,0
+2026-07-02T11:50:36.517463+00:00,sui,FOMO→VSUI→FOMO,2,cetus/cetus,-0.4994,1.0,-0.0889,0,0
+2026-07-02T11:50:36.517463+00:00,sui,USDC→VSUI→USDC,2,turbos-finance/momentum,3.9635,1.0,-0.7054,0,0
+2026-07-02T11:52:15.746538+00:00,sui,VSUI→USDC→VSUI,2,momentum/turbos-finance,3.9635,1.0,-0.6492,0,0
+2026-07-02T11:52:15.746538+00:00,solana,IMT→USDT→IMT,2,raydium/orca,42.2878,1.0,-0.1905,0,0
+2026-07-02T11:53:54.889329+00:00,sui,VSUI→USDC→VSUI,2,momentum/turbos-finance,3.9635,1.0,-0.6492,0,0
+2026-07-02T11:53:54.889329+00:00,solana,IMT→USDT→IMT,2,raydium/orca,42.2878,1.0,-0.1905,0,0
+2026-07-02T11:55:34.074014+00:00,sui,VSUI→USDC→VSUI,2,momentum/turbos-finance,3.9635,1.0,-0.6492,0,0
+2026-07-02T11:57:13.269262+00:00,sui,VSUI→USDC→VSUI,2,momentum/turbos-finance,3.831,1.0,-0.6494,0,0
