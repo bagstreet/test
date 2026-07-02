@@ -22716,3 +22716,12 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-07-02T10:51:52.631431+00:00,solana,HYPE→SOL→NEET→HYPE,3,pumpswap/meteora/meteora,31.7134,1.0,-0.844,0,0
 2026-07-02T10:51:52.631431+00:00,base,VVV→WETH→VVV,2,pancakeswap/sushiswap,4.9407,1.0,-0.0363,0,0
 2026-07-02T10:51:52.631431+00:00,aptos,USDT→STAPT→USDT,2,pancakeswap/pancakeswap,5.2511,1.0,-0.3707,0,0
+2026-07-02T11:04:45.652065+00:00,solana,SOL→NEET→SOL,2,meteora/meteora,30.443,1.0,-0.9774,0,0
+2026-07-02T11:06:23.462222+00:00,solana,NEET→SOL→NEET,2,meteora/meteora,30.443,15.27,2.1595,0,0
+2026-07-02T11:08:01.484320+00:00,solana,SOL→NEET→SOL,2,meteora/meteora,30.443,1.0,-0.9774,0,0
+2026-07-02T11:09:39.720205+00:00,solana,SOL→NEET→SOL,2,meteora/meteora,30.443,1.0,-0.9774,0,0
+2026-07-02T11:11:17.971163+00:00,solana,SOL→NEET→SOL,2,meteora/meteora,30.443,1.0,-0.9774,0,0
+2026-07-02T11:12:56.105349+00:00,solana,SOL→$WIF→SOL,2,meteora/raydium,24.6806,1.0,-0.9874,0,0
+2026-07-02T11:14:34.295382+00:00,solana,SOL→$WIF→SOL,2,orca/raydium,24.6135,1.0,-0.9874,0,0
+2026-07-02T11:16:12.341103+00:00,solana,SOL→$WIF→SOL,2,orca/raydium,24.6135,1.0,-0.9874,0,0
+2026-07-02T11:16:12.341103+00:00,aptos,USDT→WETH→USDT,2,pancakeswap/liquidswap,197.9203,85.19,61.8328,0,0
