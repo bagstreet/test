@@ -22500,3 +22500,17 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-07-02T07:25:29.380001+00:00,aptos,APT→USDT→APT,2,liquidswap/liquidswap,166.5731,40.73,25.751,0,0
 2026-07-02T07:27:07.544848+00:00,sui,FOMO→VSUI→FOMO,2,cetus/cetus,-0.4994,1.0,-0.0889,0,0
 2026-07-02T07:27:07.544848+00:00,aptos,APT→USDT→APT,2,liquidswap/liquidswap,166.5731,40.73,25.751,0,0
+2026-07-02T07:31:05.953442+00:00,solana,$WIF→SOL→$WIF,2,raydium/orca,24.095,1.0,0.0958,0,0
+2026-07-02T07:31:05.953442+00:00,base,AERO→DIEM→AERO,2,aerodrome/uniswap,1.2345,1.0,-0.0302,0,0
+2026-07-02T07:32:48.009448+00:00,solana,$WIF→SOL→$WIF,2,raydium/orca,24.095,1.0,0.0958,0,0
+2026-07-02T07:32:48.009448+00:00,base,AERO→DIEM→AERO,2,aerodrome/uniswap,1.2345,1.0,-0.0302,0,0
+2026-07-02T07:34:29.780992+00:00,solana,$WIF→SOL→$WIF,2,raydium/orca,24.095,1.0,0.0958,0,0
+2026-07-02T07:34:29.780992+00:00,base,AERO→DIEM→AERO,2,aerodrome/uniswap,1.2345,1.0,-0.0302,0,0
+2026-07-02T07:36:13.024873+00:00,solana,SOL→$WIF→SOL,2,orca/raydium,24.095,1.0,-0.9884,0,0
+2026-07-02T07:36:13.024873+00:00,base,AERO→DIEM→AERO,2,aerodrome/uniswap,1.2345,1.0,-0.0302,0,0
+2026-07-02T07:37:55.397458+00:00,solana,$WIF→SOL→$WIF,2,raydium/orca,24.095,1.0,0.0958,0,0
+2026-07-02T07:37:55.397458+00:00,base,AERO→DIEM→AERO,2,aerodrome/uniswap,1.2345,1.0,-0.0302,0,0
+2026-07-02T07:39:45.370231+00:00,solana,SOL→$WIF→SOL,2,orca/raydium,24.095,1.0,-0.9884,0,0
+2026-07-02T07:39:45.370231+00:00,base,AERO→DIEM→AERO,2,aerodrome/uniswap,1.2345,1.0,-0.0302,0,0
+2026-07-02T07:41:28.343802+00:00,base,AERO→DIEM→AERO,2,aerodrome/uniswap,1.2345,1.0,-0.0302,0,0
+2026-07-02T07:43:13.593722+00:00,base,AERO→DIEM→AERO,2,aerodrome/uniswap,1.2345,1.0,-0.0302,0,0
