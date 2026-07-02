@@ -6198,3 +6198,11 @@ t0,chain,token,entry_spread_pct,lo_dex,hi_dex,min_tvl,whale,n_samples,n_pos_afte
 2026-07-02T01:27:50.261952+00:00,base,VIRTUAL,0.3299,aerodrome,aerodrome,420313,1,11,0,-1.0016,0
 2026-07-02T01:27:50.261952+00:00,base,WETH,0.3261,uniswap,uniswap,780237,1,11,0,-0.4542,0
 2026-07-02T02:01:11.861163+00:00,base,EURC,0.885,aerodrome,aerodrome,544017,0,2,0,-1.2375,0
+2026-07-02T02:07:37.619659+00:00,sui,USDC,0.3002,turbos-finance,turbos-finance,267844,1,6,0,-1.6494,0
+2026-07-02T01:45:37.526400+00:00,base,AERO,1.3453,aerodrome,aerodrome,2567523,1,18,10,0.7949,1
+2026-07-02T01:47:23.994060+00:00,solana,SOL,0.8205,raydium,pumpswap,609034,1,18,3,0.5837,1
+2026-07-02T02:17:12.651241+00:00,base,EURC,0.885,aerodrome,aerodrome,542252,1,2,0,-1.1931,0
+2026-07-02T02:23:37.554405+00:00,sui,CETUS,0.5537,cetus,cetus,439872,0,2,0,-0.9912,0
+2026-07-02T01:54:31.994348+00:00,solana,JUP,0.9314,meteora,meteora,269612,1,18,0,-1.0527,0
+2026-07-02T01:54:31.994348+00:00,base,VVV,0.8753,uniswap,aerodrome,550506,1,18,0,-0.3147,0
+2026-07-02T01:56:18.915149+00:00,solana,HYPE,0.6539,meteora,orca,1364857,1,18,0,-0.1397,0
