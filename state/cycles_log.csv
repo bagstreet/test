@@ -22241,3 +22241,18 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-07-02T04:11:33.791112+00:00,aptos,APT→USDT→APT,2,liquidswap/liquidswap,166.5731,40.73,25.751,0,0
 2026-07-02T04:13:17.682184+00:00,solana,USDT→FARTCOIN →USDC→USDT,3,meteora/meteora/orca,6.6916,1.0,0.0222,0,0
 2026-07-02T04:13:17.682184+00:00,aptos,APT→USDT→APT,2,liquidswap/liquidswap,166.5731,40.73,25.751,0,0
+2026-07-02T04:15:37.833841+00:00,aptos,APT→USDC→APT,2,pancakeswap/liquidswap,163.6499,94.57,61.4933,0,0
+2026-07-02T04:17:14.155681+00:00,solana,MET→TRUMP→SOLM→MET,3,meteora/meteora/meteora,4.1828,1.0,-0.9918,0,0
+2026-07-02T04:17:14.155681+00:00,aptos,APT→USDC→APT,2,pancakeswap/liquidswap,163.6499,94.57,61.4933,0,0
+2026-07-02T04:18:50.452492+00:00,solana,MET→TRUMP→SOLM→MET,3,meteora/meteora/meteora,5.02,1.0,-0.9918,0,0
+2026-07-02T04:18:50.452492+00:00,aptos,APT→USDC→APT,2,pancakeswap/liquidswap,163.6499,94.57,61.4933,0,0
+2026-07-02T04:20:26.604835+00:00,solana,MET→TRUMP→SOLM→MET,3,meteora/meteora/meteora,5.02,1.0,-0.9918,0,0
+2026-07-02T04:20:26.604835+00:00,aptos,APT→USDC→APT,2,pancakeswap/liquidswap,163.6499,94.57,61.4933,0,0
+2026-07-02T04:22:02.933740+00:00,solana,USDC→MET→USDC,2,meteora/meteora,160.4086,275651.67,169172.4279,1,1
+2026-07-02T04:22:02.933740+00:00,aptos,APT→USDC→APT,2,pancakeswap/liquidswap,163.6499,94.57,61.4933,0,0
+2026-07-02T04:23:39.114434+00:00,solana,MET→USDC→MET,2,meteora/meteora,160.4086,883747.24,542371.7178,1,1
+2026-07-02T04:23:39.114434+00:00,aptos,APT→USDC→APT,2,pancakeswap/liquidswap,163.606,94.57,61.477,0,0
+2026-07-02T04:25:15.253061+00:00,solana,USDC→MET→USDC,2,meteora/meteora,159.4522,275149.5,168048.1421,1,1
+2026-07-02T04:25:15.253061+00:00,aptos,APT→USDC→APT,2,pancakeswap/liquidswap,163.606,94.57,61.477,0,0
+2026-07-02T04:26:51.267045+00:00,solana,USDC→MET→USDC,2,meteora/meteora,158.0981,1811.02,1098.4519,0,0
+2026-07-02T04:26:51.267045+00:00,aptos,APT→USDC→APT,2,pancakeswap/liquidswap,163.606,94.57,61.477,0,0
