@@ -24844,3 +24844,4 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-07-03T16:31:58.861135+00:00,aptos,CAKE→USDC→CAKE,2,pancakeswap/pancakeswap,2.2439,5.83,0.045,0,0
 2026-07-03T16:33:38.492724+00:00,solana,MELANIA→SOL→MELANIA,2,raydium/raydium,75.5952,4.51,1.4572,0,0
 2026-07-03T16:33:38.492724+00:00,aptos,CAKE→USDC→CAKE,2,pancakeswap/pancakeswap,2.2439,5.83,0.045,0,0
+2026-07-03T16:45:59.156989+00:00,sui,FOMO→VSUI→FOMO,2,cetus/cetus,-0.4994,1.0,-0.088,0,0
