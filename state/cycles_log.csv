@@ -24114,3 +24114,16 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-07-03T06:37:39.225532+00:00,solana,FARTCOIN →USELESS→FARTCOIN ,2,orca/meteora,4.9666,1.0,-0.0841,0,0
 2026-07-03T06:37:39.225532+00:00,base,SURPLUS→DIEM→VVV→SURPLUS,3,aerodrome/aerodrome/uniswap,6.3023,137.56,7.522,0,0
 2026-07-03T06:37:39.225532+00:00,aptos,USDC→APT→USDC,2,liquidswap/thala,163.4145,9.94,6.1724,0,0
+2026-07-03T06:49:37.240030+00:00,solana,PAWEL→SOL→PAWEL,2,meteora/pumpswap,1.1347,1.1,-0.0038,0,0
+2026-07-03T06:49:37.240030+00:00,base,AERO→USDBC→WEETH→AERO,3,aerodrome/pancakeswap/aerodrome,4.0974,1.0,-0.171,0,0
+2026-07-03T06:51:15.085694+00:00,base,AERO→USDBC→WEETH→AERO,3,aerodrome/pancakeswap/aerodrome,4.0974,1.0,-0.171,0,0
+2026-07-03T06:52:53.501127+00:00,solana,PAWEL→SOL→PAWEL,2,meteora/pumpswap,1.1347,1.1,-0.0038,0,0
+2026-07-03T06:52:53.501127+00:00,base,AERO→USDBC→WEETH→AERO,3,aerodrome/pancakeswap/aerodrome,4.0974,1.0,-0.171,0,0
+2026-07-03T06:54:31.756148+00:00,base,AERO→USDBC→WEETH→AERO,3,aerodrome/pancakeswap/aerodrome,4.0974,1.0,-0.171,0,0
+2026-07-03T06:56:09.976603+00:00,solana,PAWEL→SOL→PAWEL,2,meteora/pumpswap,1.1347,1.1,-0.0038,0,0
+2026-07-03T06:56:09.976603+00:00,base,AERO→USDBC→WEETH→AERO,3,aerodrome/pancakeswap/aerodrome,4.0974,1.0,-0.171,0,0
+2026-07-03T06:57:48.343497+00:00,solana,PAWEL→SOL→PAWEL,2,meteora/pumpswap,1.1347,1.1,-0.0038,0,0
+2026-07-03T06:57:48.343497+00:00,base,AERO→USDBC→WEETH→AERO,3,aerodrome/pancakeswap/aerodrome,4.0974,1.0,-0.171,0,0
+2026-07-03T06:59:26.672210+00:00,base,AERO→USDBC→WEETH→AERO,3,aerodrome/pancakeswap/aerodrome,4.0974,1.0,-0.171,0,0
+2026-07-03T07:01:04.829988+00:00,solana,PAWEL→SOL→PAWEL,2,meteora/pumpswap,1.1347,1.1,-0.0038,0,0
+2026-07-03T07:01:04.829988+00:00,base,AERO→USDBC→WEETH→AERO,3,aerodrome/pancakeswap/aerodrome,4.0974,1.0,-0.171,0,0
