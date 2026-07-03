@@ -7061,3 +7061,9 @@ t0,chain,token,entry_spread_pct,lo_dex,hi_dex,min_tvl,whale,n_samples,n_pos_afte
 2026-07-03T17:55:35.419369+00:00,solana,POPCAT,0.6144,raydium,raydium,619868,1,8,0,-0.1261,0
 2026-07-03T17:57:14.037240+00:00,solana,KINS,0.4159,raydium,raydium,8240621,1,9,2,0.0874,1
 2026-07-03T17:57:14.037240+00:00,solana,CARDS,0.3308,raydium,raydium,9257381,1,10,1,0.1708,0
+2026-07-03T17:49:01.183532+00:00,solana,PENGU,0.6555,meteora,orca,2426648,0,20,0,-0.0098,0
+2026-07-03T18:08:21.486338+00:00,solana,KLED,1.8615,raydium,raydium,9809099,1,8,3,0.0765,1
+2026-07-03T18:13:41.635288+00:00,solana,POPCAT,1.492,raydium,raydium,621640,0,5,0,-0.5668,0
+2026-07-03T17:49:01.183532+00:00,base,VVV,0.4338,aerodrome,aerodrome,312269,1,20,0,-0.5511,0
+2026-07-03T18:04:47.871457+00:00,solana,SPX,0.6983,raydium,raydium,8435880,1,12,2,1.7735,1
+2026-07-03T18:06:34.857716+00:00,solana,WETH,0.8844,raydium,raydium,8453759,1,12,5,0.433,1
