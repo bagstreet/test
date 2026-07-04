@@ -7395,3 +7395,4 @@ t0,chain,token,entry_spread_pct,lo_dex,hi_dex,min_tvl,whale,n_samples,n_pos_afte
 2026-07-04T11:41:40.216145+00:00,solana,SOL,1.0577,meteora,raydium,652132,1,13,2,0.0425,1
 2026-07-04T11:43:15.947712+00:00,base,DIEM,0.7977,aerodrome,aerodrome,264104,1,13,0,-0.0475,0
 2026-07-04T11:44:51.770208+00:00,base,VVV,0.5757,aerodrome,aerodrome,2639669,1,13,0,-0.4675,0
+2026-07-04T11:51:15.037619+00:00,solana,MET,1.4444,meteora,meteora,324901,0,14,1,0.1005,0
