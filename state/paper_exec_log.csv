@@ -7260,3 +7260,8 @@ t0,chain,token,entry_spread_pct,lo_dex,hi_dex,min_tvl,whale,n_samples,n_pos_afte
 2026-07-04T03:23:57.396286+00:00,base,DIEM,0.6168,aerodrome,aerodrome,3132225,0,17,3,0.1935,1
 2026-07-04T03:23:57.396286+00:00,base,WETH,0.534,aerodrome,uniswap,268205,1,17,0,-0.3924,0
 2026-07-04T03:25:37.552858+00:00,solana,USELESS,0.4313,meteora,orca,257354,1,17,0,-1.1167,0
+2026-07-04T03:31:07.206377+00:00,base,AERO,0.4366,aerodrome,uniswap,929780,1,17,0,-0.221,0
+2026-07-04T03:36:07.465148+00:00,base,VVV,0.8157,uniswap,aerodrome,645134,1,17,5,0.0204,1
+2026-07-04T03:36:07.465148+00:00,base,VIRTUAL,0.6627,aerodrome,aerodrome,482202,1,17,0,-0.2533,0
+2026-07-04T03:37:47.382843+00:00,solana,JUP,0.5401,meteora,orca,341231,0,17,0,-0.5932,0
+2026-07-04T03:42:47.238468+00:00,solana,DAI,5.1308,orca,orca,19856351,0,17,16,4.6102,1
