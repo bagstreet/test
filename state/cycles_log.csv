@@ -26812,3 +26812,6 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-07-04T18:07:52.331379+00:00,solana,LMAO!→PEPE→LMAO!,2,meteora/meteora,3.3859,1.0,-0.6956,0,0
 2026-07-04T18:07:52.331379+00:00,base,VVV→DIEM→VVV,2,aerodrome/uniswap,6.7547,4.29,0.1125,0,0
 2026-07-04T18:07:52.331379+00:00,aptos,STAPT→USDT→STAPT,2,pancakeswap/liquidswap,6.9583,1.0,-0.3309,0,0
+2026-07-04T18:23:41.538586+00:00,solana,PEPE→LMAO!→USDT→PEPE,3,meteora/raydium/meteora,2.7973,1.0,-0.0505,0,0
+2026-07-04T18:25:21.430727+00:00,solana,TRUMP→MELANIA→TRUMP,2,raydium/raydium,3.6704,1.0,-0.6468,0,0
+2026-07-04T18:27:01.335614+00:00,solana,TRUMP→MELANIA→TRUMP,2,raydium/raydium,3.6704,1.0,-0.6468,0,0
