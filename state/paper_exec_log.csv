@@ -7338,3 +7338,6 @@ t0,chain,token,entry_spread_pct,lo_dex,hi_dex,min_tvl,whale,n_samples,n_pos_afte
 2026-07-04T07:58:08.072989+00:00,sui,USDC,0.3107,turbos-finance,cetus,277891,1,13,0,-1.2175,0
 2026-07-04T07:58:08.072989+00:00,base,VVV,0.7775,uniswap,aerodrome,678120,1,13,0,-0.362,0
 2026-07-04T07:59:43.870409+00:00,sui,USDSUI,0.3412,turbos-finance,cetus,267919,0,13,0,-0.9618,0
+2026-07-04T08:18:25.930283+00:00,sui,BUCK,0.3413,bluefin,bluefin,282012,0,11,0,-1.5479,0
+2026-07-04T08:18:25.930283+00:00,base,AERO,1.1298,aerodrome,aerodrome,770297,1,11,0,-0.1039,0
+2026-07-04T08:22:00.218304+00:00,base,VIRTUAL,1.3456,aerodrome,aerodrome,478574,0,11,1,0.0081,0
