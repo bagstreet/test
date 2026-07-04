@@ -7341,3 +7341,5 @@ t0,chain,token,entry_spread_pct,lo_dex,hi_dex,min_tvl,whale,n_samples,n_pos_afte
 2026-07-04T08:18:25.930283+00:00,sui,BUCK,0.3413,bluefin,bluefin,282012,0,11,0,-1.5479,0
 2026-07-04T08:18:25.930283+00:00,base,AERO,1.1298,aerodrome,aerodrome,770297,1,11,0,-0.1039,0
 2026-07-04T08:22:00.218304+00:00,base,VIRTUAL,1.3456,aerodrome,aerodrome,478574,0,11,1,0.0081,0
+2026-07-04T08:29:09.872461+00:00,solana,SOL,0.5222,meteora,pumpswap,2643498,1,11,2,3.4872,1
+2026-07-04T08:30:57.406833+00:00,base,CBBTC,1.0798,uniswap,aerodrome,587019,1,10,0,-0.1031,0
