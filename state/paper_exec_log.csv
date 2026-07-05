@@ -7640,3 +7640,5 @@ t0,chain,token,entry_spread_pct,lo_dex,hi_dex,min_tvl,whale,n_samples,n_pos_afte
 2026-07-05T02:48:54.828689+00:00,solana,SOL,0.7572,meteora,raydium,697166,1,17,1,0.0588,0
 2026-07-05T03:03:00.210419+00:00,solana,POPCAT,0.805,raydium,raydium,608256,0,11,0,-0.3531,0
 2026-07-05T03:22:22.387222+00:00,solana,TRUMP,0.5618,orca,meteora,874907,1,2,0,-0.5132,0
+2026-07-05T03:19:02.936428+00:00,aptos,USDC,0.4208,thala,liquidswap,259461,0,7,0,-1.6219,0
+2026-07-05T03:34:32.352772+00:00,solana,TRUMP,0.565,orca,meteora,872495,1,2,0,-0.5134,0
