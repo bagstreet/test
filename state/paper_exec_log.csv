@@ -7581,3 +7581,4 @@ t0,chain,token,entry_spread_pct,lo_dex,hi_dex,min_tvl,whale,n_samples,n_pos_afte
 2026-07-04T23:19:38.303885+00:00,base,WETH,0.9096,aerodrome,0x03C01Acae3D0173a93d819efDc832C7C4F153B06,389212,1,11,0,-0.693,0
 2026-07-04T23:34:03.417733+00:00,solana,PENGU,0.7239,orca,meteora,2395535,0,11,10,0.0564,1
 2026-07-04T23:39:01.897867+00:00,solana,FO,0.3802,meteora,meteora,2902759,0,11,0,-0.22,0
+2026-07-04T23:44:00.977373+00:00,solana,SOL,0.9175,meteora,raydium,652040,1,11,1,0.3641,0
