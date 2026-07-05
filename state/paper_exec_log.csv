@@ -7632,3 +7632,5 @@ t0,chain,token,entry_spread_pct,lo_dex,hi_dex,min_tvl,whale,n_samples,n_pos_afte
 2026-07-05T02:17:21.533227+00:00,solana,PENGU,1.0567,meteora,pumpswap,1155518,0,18,17,0.4582,1
 2026-07-05T02:17:21.533227+00:00,base,ETH,1.838,uniswap,uniswap,266661,0,18,3,0.1824,1
 2026-07-05T02:19:00.157915+00:00,base,CBETH,2.2163,aerodrome,uniswap,511763,0,18,17,0.9137,1
+2026-07-05T02:57:08.995036+00:00,solana,TRUMP,0.5618,meteora,meteora,2974452,0,4,0,-0.0732,0
+2026-07-05T02:39:23.296176+00:00,base,AERO,1.2305,aerodrome,uniswap,383687,1,17,0,-0.0673,0
