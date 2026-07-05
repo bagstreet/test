@@ -7897,3 +7897,6 @@ t0,chain,token,entry_spread_pct,lo_dex,hi_dex,min_tvl,whale,n_samples,n_pos_afte
 2026-07-05T17:35:38.267703+00:00,solana,PENGU,3.1563,orca,pumpswap,1167523,1,11,5,2.3926,1
 2026-07-05T17:35:38.267703+00:00,base,WETH,0.7376,uniswap,quickswap,289124,1,11,0,-0.2366,0
 2026-07-05T17:45:39.181602+00:00,sui,USDC,0.3098,turbos-finance,turbos-finance,278867,1,8,0,-1.0,0
+2026-07-05T17:43:59.059542+00:00,base,CBBTC,3.1767,aerodrome,aerodrome,264130,1,11,10,1.409,1
+2026-07-05T17:45:39.181602+00:00,base,VIRTUAL,0.9901,aerodrome,aerodrome,658156,1,11,0,-0.2516,0
+2026-07-05T17:45:39.181602+00:00,base,SOL,0.3952,aerodrome,aerodrome,271762,1,11,0,-1.7166,0
