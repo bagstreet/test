@@ -7588,3 +7588,5 @@ t0,chain,token,entry_spread_pct,lo_dex,hi_dex,min_tvl,whale,n_samples,n_pos_afte
 2026-07-05T00:03:07.226797+00:00,base,VIRTUAL,0.7071,uniswap,aerodrome,1071209,1,18,0,-0.379,0
 2026-07-05T00:03:07.226797+00:00,base,AERO,0.4293,aerodrome,aerodrome,647065,1,18,0,-0.2283,0
 2026-07-05T00:06:29.649054+00:00,base,DIEM,1.0962,aerodrome,aerodrome,3313510,0,18,1,0.4566,0
+2026-07-05T00:17:18.039179+00:00,sui,CETUS,0.8026,cetus,cetus,449543,0,18,0,-0.8597,0
+2026-07-05T00:17:18.039179+00:00,solana,SOL,1.5373,meteora,raydium,654197,1,18,1,0.0672,0
