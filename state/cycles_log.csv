@@ -29700,3 +29700,15 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-07-06T10:41:31.316993+00:00,solana,BUTTCOIN→USDC→BUTTCOIN,2,pumpswap/meteora,3.36,1.0,-0.899,0,0
 2026-07-06T10:43:13.795147+00:00,sui,KW→USDT→KW,2,turbos-finance/turbos-finance,71.1489,3.54,1.0697,0,0
 2026-07-06T10:43:13.795147+00:00,solana,BUTTCOIN→USDC→BUTTCOIN,2,pumpswap/orca,3.0333,1.0,-0.8994,0,0
+2026-07-06T10:45:38.701122+00:00,solana,TROLL→USDC→USDT→PEPE→TROLL,4,raydium/orca/meteora/meteora,163.1122,1.0,-0.9402,0,0
+2026-07-06T10:47:18.633050+00:00,solana,TROLL→USDC→USDT→PEPE→TROLL,4,raydium/orca/meteora/meteora,163.1122,1.0,-0.9402,0,0
+2026-07-06T10:48:58.256780+00:00,solana,TROLL→USDC→USDT→PEPE→TROLL,4,raydium/orca/meteora/meteora,163.1122,1.0,-0.9402,0,0
+2026-07-06T10:50:38.265145+00:00,solana,TROLL→USDC→USDT→PEPE→TROLL,4,raydium/orca/meteora/meteora,162.8924,1.0,-0.9403,0,0
+2026-07-06T10:52:18.024169+00:00,sui,KW→USDT→KW,2,turbos-finance/turbos-finance,71.1489,3.54,1.0697,0,0
+2026-07-06T10:52:18.024169+00:00,solana,PEPE→TROLL→USDC→USDT→PEPE,4,meteora/raydium/orca/meteora,164.9758,2.0,2.8311,0,0
+2026-07-06T10:53:57.518675+00:00,sui,KW→USDT→KW,2,turbos-finance/turbos-finance,71.1489,3.54,1.0697,0,0
+2026-07-06T10:53:57.518675+00:00,solana,PEPE→TROLL→USDC→USDT→PEPE,4,meteora/raydium/orca/meteora,164.9758,2.0,2.8311,0,0
+2026-07-06T10:55:38.209062+00:00,sui,KW→USDT→KW,2,turbos-finance/turbos-finance,71.1489,3.54,1.0697,0,0
+2026-07-06T10:55:38.209062+00:00,solana,PEPE→TROLL→USDC→USDT→PEPE,4,meteora/raydium/orca/meteora,164.9758,2.0,2.8311,0,0
+2026-07-06T10:57:18.081488+00:00,sui,KW→USDT→KW,2,turbos-finance/turbos-finance,71.1489,3.54,1.0697,0,0
+2026-07-06T10:57:18.081488+00:00,solana,PEPE→TROLL→USDC→USDT→PEPE,4,meteora/raydium/orca/meteora,164.9758,2.0,2.8311,0,0
