@@ -8382,3 +8382,5 @@ t0,chain,token,entry_spread_pct,lo_dex,hi_dex,min_tvl,whale,n_samples,n_pos_afte
 2026-07-06T16:38:26.787033+00:00,solana,USELESS,1.5769,orca,meteora,258321,0,17,0,-0.8579,0
 2026-07-06T16:38:26.787033+00:00,base,VVV,1.7544,uniswap,aerodrome,614395,1,17,0,-0.5512,0
 2026-07-06T16:41:58.413279+00:00,solana,BUTTCOIN,0.3381,meteora,pumpswap,287426,1,17,3,1.0553,1
+2026-07-06T17:15:40.395430+00:00,solana,BUTTCOIN,0.668,pumpswap,meteora,288237,1,5,0,-1.2202,0
+2026-07-06T16:52:14.213232+00:00,base,WETH,0.5768,uniswap,0x03C01Acae3D0173a93d819efDc832C7C4F153B06,389301,1,17,0,-0.4538,0
