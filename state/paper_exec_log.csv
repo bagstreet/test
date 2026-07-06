@@ -8030,3 +8030,4 @@ t0,chain,token,entry_spread_pct,lo_dex,hi_dex,min_tvl,whale,n_samples,n_pos_afte
 2026-07-06T01:06:31.368651+00:00,sui,USDC,0.3208,turbos-finance,cetus,266305,1,13,0,-1.2229,0
 2026-07-06T00:56:21.584284+00:00,base,CBBTC,2.9055,aerodrome,aerodrome,267953,1,19,18,1.2329,1
 2026-07-06T00:56:21.584284+00:00,base,WETH,0.5707,0x03C01Acae3D0173a93d819efDc832C7C4F153B06,hydrex,389212,1,19,0,-0.7826,0
+2026-07-06T01:25:25.168152+00:00,solana,POPCAT,0.4886,raydium,raydium,614926,0,6,0,-0.5056,0
