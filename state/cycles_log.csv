@@ -29765,3 +29765,14 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-07-06T12:02:01.942565+00:00,sui,KW→USDT→KW,2,turbos-finance/turbos-finance,71.1489,3.54,1.0697,0,0
 2026-07-06T12:02:01.942565+00:00,solana,PEPE→USDT→PENGU→PEPE,3,meteora/raydium/meteora,1.8747,1.0,-0.0862,0,0
 2026-07-06T12:02:01.942565+00:00,base,ZORA→ETH→ZORA,2,uniswap/uniswap,5.0823,42.38,1.0336,0,0
+2026-07-06T12:15:41.738811+00:00,aptos,APT→USDT→APT,2,pancakeswap/liquidswap,166.3799,8.28,5.2132,0,0
+2026-07-06T12:17:26.301446+00:00,aptos,APT→USDT→APT,2,pancakeswap/liquidswap,166.3799,8.28,5.2132,0,0
+2026-07-06T12:19:10.130936+00:00,aptos,USDT→APT→USDT,2,liquidswap/pancakeswap,166.3799,2.2,1.3688,0,0
+2026-07-06T12:20:54.356564+00:00,aptos,USDT→APT→USDT,2,liquidswap/pancakeswap,166.3799,2.2,1.3688,0,0
+2026-07-06T12:22:38.874674+00:00,aptos,USDT→APT→USDT,2,liquidswap/pancakeswap,166.3799,2.2,1.3688,0,0
+2026-07-06T12:24:23.345752+00:00,base,TOSHI→WETH→TOSHI,2,alien-base/uniswap,2.4694,1.0,-0.5497,0,0
+2026-07-06T12:24:23.345752+00:00,aptos,ZUSDC→APT→ZUSDC,2,cellana/cellana,0.1295,11.71,-0.0124,1,0
+2026-07-06T12:26:07.952711+00:00,base,TOSHI→WETH→TOSHI,2,alien-base/uniswap,2.4694,1.0,-0.5497,0,0
+2026-07-06T12:26:07.952711+00:00,aptos,USDT→APT→USDT,2,liquidswap/pancakeswap,166.3799,2.2,1.3688,0,0
+2026-07-06T12:27:52.501854+00:00,base,TOSHI→WETH→TOSHI,2,alien-base/uniswap,2.4694,1.0,-0.5497,0,0
+2026-07-06T12:27:52.501854+00:00,aptos,USDT→APT→USDT,2,liquidswap/pancakeswap,166.3799,2.2,1.3688,0,0
