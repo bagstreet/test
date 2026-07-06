@@ -8189,3 +8189,11 @@ t0,chain,token,entry_spread_pct,lo_dex,hi_dex,min_tvl,whale,n_samples,n_pos_afte
 2026-07-06T09:22:14.190563+00:00,solana,ORE,1.1088,meteora,orca,304251,0,17,0,-0.7064,0
 2026-07-06T09:34:38.799048+00:00,sui,USDC,0.3102,turbos-finance,turbos-finance,273466,1,13,0,-1.1576,0
 2026-07-06T09:25:28.872034+00:00,base,WETH,0.9403,uniswap,uniswap,863733,1,17,2,0.0428,1
+2026-07-06T09:31:17.577484+00:00,base,CBBTC,2.0242,aerodrome,uniswap,295036,1,17,13,0.3767,1
+2026-07-06T09:32:58.269095+00:00,sui,USDSUI,0.3203,cetus,turbos-finance,816727,0,17,0,-0.6604,0
+2026-07-06T09:32:58.269095+00:00,base,ETH,1.4559,uniswap,uniswap,266890,0,17,0,-0.0391,0
+2026-07-06T09:34:38.799048+00:00,base,WEETH,0.819,aerodrome,aerodrome,496739,0,17,0,-0.3171,0
+2026-07-06T09:39:41.420802+00:00,base,SOL,0.3494,aerodrome,pancakeswap,328853,0,17,0,-1.5431,0
+2026-07-06T10:10:30.666896+00:00,solana,USDC,0.5106,meteora,orca,275376,0,2,0,-1.9401,0
+2026-07-06T09:43:03.045637+00:00,base,CBETH,1.0651,aerodrome,alien-base,280662,0,17,0,-0.7681,0
+2026-07-06T09:43:03.045637+00:00,base,BRETT,0.5813,aerodrome,uniswap,780777,0,17,0,-0.4689,0
