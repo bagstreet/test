@@ -8876,3 +8876,14 @@ t0,chain,token,entry_spread_pct,lo_dex,hi_dex,min_tvl,whale,n_samples,n_pos_afte
 2026-07-07T15:05:06.739471+00:00,sui,USDC,0.4017,turbos-finance,turbos-finance,271531,1,18,0,-1.3816,0
 2026-07-07T15:36:17.251842+00:00,solana,TRIPLET,0.4969,meteora,pumpswap,446559,1,2,0,-1.1113,0
 2026-07-07T15:37:55.647109+00:00,base,EURC,0.885,aerodrome,aerodrome,254865,1,2,0,-1.1687,0
+2026-07-07T15:39:34.088180+00:00,base,SOL,0.3707,aerodrome,pancakeswap,254990,1,6,0,-1.3477,0
+2026-07-07T15:45:40.167531+00:00,base,EURC,0.885,aerodrome,aerodrome,258498,1,3,0,-1.1451,0
+2026-07-07T15:37:55.647109+00:00,base,ZEN,0.716,aerodrome,aerodrome,1229653,0,8,0,-0.1665,0
+2026-07-07T15:22:32.946783+00:00,sui,CETUS,1.5292,cetus,cetus,443360,0,17,7,6.8777,1
+2026-07-07T15:20:50.937717+00:00,base,WETH,0.6686,uniswap,pancakeswap,927134,1,18,4,0.0688,1
+2026-07-07T15:20:50.937717+00:00,base,CBBTC,0.4968,uniswap,aerodrome,451840,1,18,5,0.5494,1
+2026-07-07T15:37:55.647109+00:00,solana,ZEC,0.3934,meteora,orca,284659,1,10,0,-1.0827,0
+2026-07-07T15:39:34.088180+00:00,solana,AVICI,0.4278,meteora,metadao,621179,1,9,0,-0.6265,0
+2026-07-07T15:42:50.918094+00:00,solana,RAY,1.2601,raydium,raydium,1013522,1,7,0,-0.4868,0
+2026-07-07T15:42:50.918094+00:00,solana,NEET,0.5983,pumpswap,raydium,363591,0,7,0,-1.4425,0
+2026-07-07T15:24:15.368984+00:00,base,CBETH,0.7107,alien-base,aerodrome,260198,1,17,0,-0.8923,0
