@@ -8923,3 +8923,7 @@ t0,chain,token,entry_spread_pct,lo_dex,hi_dex,min_tvl,whale,n_samples,n_pos_afte
 2026-07-07T16:53:29.121287+00:00,solana,DAI,1.0507,orca,orca,19648006,0,13,12,0.5299,1
 2026-07-07T16:56:51.940015+00:00,base,SOL,0.3159,aerodrome,aerodrome,252425,1,11,0,-1.1929,0
 2026-07-07T17:18:00.955380+00:00,base,ZEN,0.4587,aerodrome,aerodrome,1080183,0,7,0,-0.6444,0
+2026-07-07T17:00:13.772239+00:00,base,WETH,0.7301,uniswap,0x03C01Acae3D0173a93d819efDc832C7C4F153B06,390094,1,12,0,-0.2554,0
+2026-07-07T17:00:13.772239+00:00,base,CBBTC,0.5839,quickswap,uniswap,301684,1,12,0,-0.256,0
+2026-07-07T17:01:55.006835+00:00,base,CBETH,1.6334,alien-base,pancakeswap,260198,1,12,0,-0.4911,0
+2026-07-07T17:23:13.396905+00:00,base,VVV,0.6941,uniswap,aerodrome,392011,1,8,0,-0.6135,0
