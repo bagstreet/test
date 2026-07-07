@@ -31349,3 +31349,27 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-07-07T10:13:33.374944+00:00,sui,SUI→BUCK→SUI,2,cetus/flowx,1.2316,1.0,-0.5167,0,0
 2026-07-07T10:13:33.374944+00:00,solana,TRUMPBUCKS→MET→TRUMPBUCKS,2,meteora/meteora,5.5145,6.68,0.1716,0,0
 2026-07-07T10:13:33.374944+00:00,aptos,USDT→TAPT→USDT,2,pancakeswap/liquidswap,7.3365,1.0,-0.9695,0,0
+2026-07-07T10:15:41.961907+00:00,sui,KW→TURBOS→KW,2,turbos-finance/turbos-finance,72.3619,1.94,0.5857,0,0
+2026-07-07T10:15:41.961907+00:00,solana,SOL→FARTCOIN →SOL,2,meteora/raydium,5.28,1.0,-0.8697,0,0
+2026-07-07T10:15:41.961907+00:00,aptos,ZUSDC→ZUSDT→USDT→APT→ZUSDC,4,cellana/cellana/liquidswap/cellana,160.908,23.95,14.7145,0,0
+2026-07-07T10:17:26.988738+00:00,sui,KW→TURBOS→KW,2,turbos-finance/turbos-finance,72.3619,1.94,0.5857,0,0
+2026-07-07T10:17:26.988738+00:00,solana,FARTCOIN →SOL→FARTCOIN ,2,raydium/meteora,5.28,2.06,0.0436,0,0
+2026-07-07T10:17:26.988738+00:00,aptos,ZUSDC→ZUSDT→USDT→APT→ZUSDC,4,cellana/cellana/liquidswap/cellana,160.9137,23.95,14.715,0,0
+2026-07-07T10:19:12.280327+00:00,sui,KW→TURBOS→KW,2,turbos-finance/turbos-finance,72.3619,1.94,0.5857,0,0
+2026-07-07T10:19:12.280327+00:00,solana,SOL→FARTCOIN →SOL,2,meteora/raydium,5.28,1.0,-0.8697,0,0
+2026-07-07T10:19:12.280327+00:00,aptos,ZUSDC→ZUSDT→USDT→APT→ZUSDC,4,cellana/cellana/liquidswap/cellana,160.9137,23.95,14.715,0,0
+2026-07-07T10:20:57.819033+00:00,sui,KW→TURBOS→KW,2,turbos-finance/turbos-finance,72.3619,1.94,0.5857,0,0
+2026-07-07T10:20:57.819033+00:00,solana,USDC→WET→SOL→TRUMPBUCKS→BONK→USDC,5,meteora/raydium/raydium/meteora/meteora,359.9247,1.0,-0.9634,0,0
+2026-07-07T10:20:57.819033+00:00,aptos,ZUSDC→ZUSDT→USDT→APT→ZUSDC,4,cellana/cellana/liquidswap/cellana,160.9137,23.95,14.715,0,0
+2026-07-07T10:22:43.036774+00:00,sui,KW→TURBOS→KW,2,turbos-finance/turbos-finance,72.3619,1.94,0.5857,0,0
+2026-07-07T10:22:43.036774+00:00,solana,USDC→WET→SOL→TRUMPBUCKS→BONK→USDC,5,meteora/raydium/raydium/meteora/meteora,359.9247,1.0,-0.9634,0,0
+2026-07-07T10:22:43.036774+00:00,aptos,ZUSDC→ZUSDT→USDT→APT→ZUSDC,4,cellana/cellana/liquidswap/cellana,160.9137,23.95,14.715,0,0
+2026-07-07T10:24:29.300549+00:00,sui,KW→TURBOS→KW,2,turbos-finance/turbos-finance,72.3619,1.94,0.5857,0,0
+2026-07-07T10:24:29.300549+00:00,solana,USDC→WET→SOL→TRUMPBUCKS→BONK→USDC,5,meteora/raydium/raydium/meteora/meteora,359.9247,1.0,-0.9634,0,0
+2026-07-07T10:24:29.300549+00:00,aptos,ZUSDT→APT→ZUSDC→ZUSDT,3,cellana/cellana/cellana,0.0236,1.0,-0.0206,0,0
+2026-07-07T10:26:14.269184+00:00,sui,KW→TURBOS→KW,2,turbos-finance/turbos-finance,72.3619,1.94,0.5857,0,0
+2026-07-07T10:26:14.269184+00:00,solana,USDC→WET→SOL→TRUMPBUCKS→BONK→USDC,5,meteora/raydium/raydium/meteora/meteora,359.9247,1.0,-0.9634,0,0
+2026-07-07T10:26:14.269184+00:00,aptos,ZUSDC→ZUSDT→USDT→APT→ZUSDC,4,cellana/cellana/liquidswap/cellana,161.0128,23.98,14.7405,0,0
+2026-07-07T10:27:59.490140+00:00,sui,KW→TURBOS→KW,2,turbos-finance/turbos-finance,72.3619,1.94,0.5857,0,0
+2026-07-07T10:27:59.490140+00:00,solana,USDC→WET→SOL→TRUMPBUCKS→BONK→USDC,5,meteora/raydium/meteora/meteora/meteora,360.3618,1.0,-0.9634,0,0
+2026-07-07T10:27:59.490140+00:00,aptos,ZUSDC→ZUSDT→USDT→APT→ZUSDC,4,cellana/cellana/liquidswap/cellana,161.0128,23.98,14.7405,0,0
