@@ -8687,3 +8687,7 @@ t0,chain,token,entry_spread_pct,lo_dex,hi_dex,min_tvl,whale,n_samples,n_pos_afte
 2026-07-07T06:52:23.093428+00:00,solana,SOL,0.3447,raydium,raydium,868576,1,17,1,0.7942,0
 2026-07-07T06:54:02.976545+00:00,base,WETH,0.3288,uniswap,quickswap,257211,1,17,0,-0.6434,0
 2026-07-07T06:57:23.422109+00:00,base,MAMO,1.4765,aerodrome,aerodrome,367152,0,17,0,-0.1145,0
+2026-07-07T07:15:41.666779+00:00,solana,ARC,0.7168,meteora,raydium,402423,0,10,0,-0.7777,0
+2026-07-07T07:03:05.553438+00:00,solana,SPCX,1.3575,meteora,meteora,927582,0,18,1,0.5282,0
+2026-07-07T07:07:58.446681+00:00,base,CBBTC,3.4051,uniswap,aerodrome,309770,1,17,16,1.8112,1
+2026-07-07T07:36:20.123336+00:00,solana,FARTCOIN ,0.4963,orca,raydium,952536,0,3,0,-0.5596,0
