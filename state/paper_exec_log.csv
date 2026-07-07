@@ -8966,3 +8966,11 @@ t0,chain,token,entry_spread_pct,lo_dex,hi_dex,min_tvl,whale,n_samples,n_pos_afte
 2026-07-07T19:13:17.766417+00:00,base,VIRTUAL,0.7836,aerodrome,aerodrome,577079,1,12,0,-0.3316,0
 2026-07-07T19:14:56.002778+00:00,base,CBBTC,1.1934,uniswap,aerodrome,577025,1,11,0,-0.0013,0
 2026-07-07T19:16:34.922712+00:00,base,WETH,0.8363,quickswap,uniswap,435560,1,11,0,-0.5403,0
+2026-07-07T19:31:17.225986+00:00,solana,ANSEM,0.8444,pumpswap,meteora,2546767,1,17,0,-0.0061,0
+2026-07-07T19:36:14.075606+00:00,base,EURC,0.885,aerodrome,aerodrome,264452,1,16,0,-1.0974,0
+2026-07-07T19:51:19.338583+00:00,base,SOL,0.5559,aerodrome,pancakeswap,260434,1,8,0,-1.174,0
+2026-07-07T19:36:14.075606+00:00,base,AERO,0.8645,aerodrome,aerodrome,649527,1,17,0,-0.0504,0
+2026-07-07T19:39:31.280439+00:00,solana,SOL,0.5434,raydium,pumpswap,2622336,1,17,1,0.0121,0
+2026-07-07T19:42:48.473850+00:00,base,ZEN,0.7026,aerodrome,aerodrome,1064293,0,15,0,-0.1748,0
+2026-07-07T19:42:48.473850+00:00,base,MAMO,1.4536,aerodrome,aerodrome,250407,0,17,0,-0.2166,0
+2026-07-07T20:09:50.429776+00:00,base,SOL,0.3327,aerodrome,pancakeswap,260594,1,3,0,-1.5254,0
