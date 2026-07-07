@@ -8963,3 +8963,6 @@ t0,chain,token,entry_spread_pct,lo_dex,hi_dex,min_tvl,whale,n_samples,n_pos_afte
 2026-07-07T19:05:05.967596+00:00,base,ETH,1.5199,uniswap,uniswap,273760,0,12,7,0.2332,1
 2026-07-07T19:06:43.915697+00:00,solana,SOL,0.6475,raydium,raydium,1203699,1,12,1,0.0395,0
 2026-07-07T19:31:17.225986+00:00,solana,USDC,0.3019,meteora,orca,1008882,0,6,0,-0.5951,0
+2026-07-07T19:13:17.766417+00:00,base,VIRTUAL,0.7836,aerodrome,aerodrome,577079,1,12,0,-0.3316,0
+2026-07-07T19:14:56.002778+00:00,base,CBBTC,1.1934,uniswap,aerodrome,577025,1,11,0,-0.0013,0
+2026-07-07T19:16:34.922712+00:00,base,WETH,0.8363,quickswap,uniswap,435560,1,11,0,-0.5403,0
