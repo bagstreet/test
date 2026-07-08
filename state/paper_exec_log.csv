@@ -9115,3 +9115,4 @@ t0,chain,token,entry_spread_pct,lo_dex,hi_dex,min_tvl,whale,n_samples,n_pos_afte
 2026-07-08T03:24:26.290665+00:00,solana,USDC,0.9465,raydium,orca,1072840,0,2,0,-0.878,0
 2026-07-08T02:56:07.877315+00:00,base,GULD,7.2552,uniswap,uniswap,1608994,1,17,16,8.6204,1
 2026-07-08T02:56:07.877315+00:00,base,VIRTUAL,0.3987,aerodrome,aerodrome,462159,1,17,0,-0.6591,0
+2026-07-08T03:05:00.295534+00:00,base,CBETH,0.7332,alien-base,aerodrome,256121,0,18,0,-1.225,0
