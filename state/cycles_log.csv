@@ -33050,3 +33050,16 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-07-08T10:31:22.929051+00:00,aptos,USDC→CAKE→USDC,2,pancakeswap/pancakeswap,1.2727,1.0,-0.1025,0,0
 2026-07-08T10:33:03.311407+00:00,sui,USDC→SUI→USDC,2,steamm/steamm,4.063,1.0,-0.0302,0,0
 2026-07-08T10:33:03.311407+00:00,aptos,USDC→CAKE→USDC,2,pancakeswap/pancakeswap,1.2727,1.0,-0.1025,0,0
+2026-07-08T10:45:41.184649+00:00,base,AERO→WSTETH→USDBC→AERO,3,pancakeswap/aerodrome/aerodrome,8.0372,1.0,-0.8572,0,0
+2026-07-08T10:47:23.586754+00:00,base,AERO→WSTETH→USDBC→AERO,3,pancakeswap/aerodrome/aerodrome,8.0372,1.0,-0.8572,0,0
+2026-07-08T10:49:06.917760+00:00,base,AERO→WSTETH→USDBC→AERO,3,pancakeswap/aerodrome/aerodrome,8.0372,1.0,-0.8572,0,0
+2026-07-08T10:50:50.485680+00:00,solana,PEPE→JUP→XSOL→PEPE,3,meteora/meteora/meteora,0.4367,1.0,-0.0404,0,0
+2026-07-08T10:50:50.485680+00:00,base,AERO→WSTETH→USDBC→AERO,3,pancakeswap/aerodrome/aerodrome,8.0372,1.0,-0.8572,0,0
+2026-07-08T10:52:34.421457+00:00,solana,JUP→XSOL→PEPE→JUP,3,meteora/meteora/meteora,0.4367,1.0,-0.995,0,0
+2026-07-08T10:52:34.421457+00:00,base,AERO→WSTETH→USDBC→AERO,3,pancakeswap/aerodrome/aerodrome,8.0372,1.0,-0.8572,0,0
+2026-07-08T10:54:17.965441+00:00,solana,PEPE→JUP→XSOL→PEPE,3,meteora/meteora/meteora,0.4367,1.0,-0.0404,0,0
+2026-07-08T10:54:17.965441+00:00,base,AERO→WSTETH→USDBC→AERO,3,pancakeswap/aerodrome/aerodrome,8.0372,1.0,-0.8572,0,0
+2026-07-08T10:56:00.824318+00:00,solana,PEPE→JUP→XSOL→PEPE,3,meteora/meteora/meteora,0.4367,1.0,-0.0404,0,0
+2026-07-08T10:56:00.824318+00:00,base,AEROBUD→ALB→AEROBUD,2,alien-base/alien-base,0.7058,1.0,-0.1143,0,0
+2026-07-08T10:57:44.370991+00:00,solana,PEPE→JUP→XSOL→PEPE,3,meteora/meteora/meteora,0.4367,1.0,-0.0404,0,0
+2026-07-08T10:57:44.370991+00:00,base,AEROBUD→ALB→AEROBUD,2,alien-base/alien-base,0.7058,1.0,-0.1143,0,0
