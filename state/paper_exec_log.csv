@@ -9124,3 +9124,10 @@ t0,chain,token,entry_spread_pct,lo_dex,hi_dex,min_tvl,whale,n_samples,n_pos_afte
 2026-07-08T03:32:54.331743+00:00,base,SOL,0.3225,aerodrome,aerodrome,280414,1,17,0,-1.443,0
 2026-07-08T03:41:04.911048+00:00,sui,CETUS,0.3924,cetus,cetus,437510,0,17,0,-0.6857,0
 2026-07-08T03:41:04.911048+00:00,base,WETH,0.3064,aerodrome,uniswap,1149743,1,17,0,-0.3345,0
+2026-07-08T03:45:40.695787+00:00,solana,MET,1.5514,meteora,meteora,298682,0,17,11,0.5723,1
+2026-07-08T03:45:40.695787+00:00,base,MAMO,1.3727,aerodrome,aerodrome,327421,1,17,0,-0.2086,0
+2026-07-08T04:04:39.005890+00:00,base,SOL,0.3944,aerodrome,aerodrome,258039,1,7,0,-1.5675,0
+2026-07-08T03:52:35.120659+00:00,base,ETH,1.4618,uniswap,uniswap,269837,0,17,7,0.4501,1
+2026-07-08T03:54:18.898330+00:00,base,CBBTC,0.7843,aerodrome,uniswap,442442,1,17,0,-0.0298,0
+2026-07-08T03:56:02.636139+00:00,base,WEETH,2.4446,aerodrome,aerodrome,434025,0,17,16,1.0215,1
+2026-07-08T04:19:10.235961+00:00,solana,FARTCOIN ,0.4746,raydium,orca,927916,0,6,0,-0.5632,0
