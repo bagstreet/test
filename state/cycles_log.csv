@@ -32316,3 +32316,11 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-07-08T00:42:59.792874+00:00,sui,HASUI→USDC→HASUI,2,cetus/cetus,2.8898,1.0,-0.6501,0,0
 2026-07-08T00:42:59.792874+00:00,solana,MELANIA→SOL→MELANIA,2,raydium/raydium,73.5843,2.0,1.005,0,0
 2026-07-08T00:42:59.792874+00:00,aptos,USDC→CAKE→USDC,2,pancakeswap/pancakeswap,1.8769,1.0,-0.0943,0,0
+2026-07-08T00:45:37.084388+00:00,sui,KW→USDT→KW,2,turbos-finance/turbos-finance,68.7227,3.42,1.0035,0,0
+2026-07-08T00:47:18.678416+00:00,sui,KW→USDT→KW,2,turbos-finance/turbos-finance,68.7227,3.42,1.0035,0,0
+2026-07-08T00:48:59.813987+00:00,sui,KW→USDT→KW,2,turbos-finance/turbos-finance,68.7227,3.42,1.0035,0,0
+2026-07-08T00:48:59.813987+00:00,solana,MELANIA→TRUMP→MELANIA,2,raydium/raydium,194.6085,1.0,-0.8964,0,0
+2026-07-08T00:50:41.010005+00:00,sui,KW→USDT→KW,2,turbos-finance/turbos-finance,68.7227,3.42,1.0035,0,0
+2026-07-08T00:50:41.010005+00:00,solana,MELANIA→TRUMP→MELANIA,2,raydium/raydium,194.6085,1.0,-0.8964,0,0
+2026-07-08T00:52:22.600977+00:00,sui,KW→USDT→KW,2,turbos-finance/turbos-finance,68.7227,3.42,1.0035,0,0
+2026-07-08T00:52:22.600977+00:00,solana,MELANIA→TRUMP→MELANIA,2,raydium/raydium,194.6085,1.0,-0.8964,0,0
