@@ -9861,3 +9861,4 @@ t0,chain,token,entry_spread_pct,lo_dex,hi_dex,min_tvl,whale,n_samples,n_pos_afte
 2026-07-09T19:52:41.265758+00:00,base,WETH,0.5059,uniswap,aerodrome,817351,1,12,0,-0.4839,0
 2026-07-09T19:59:43.178080+00:00,solana,BUTTCOIN,1.6408,pumpswap,meteora,315811,1,12,4,0.5807,1
 2026-07-09T19:59:43.178080+00:00,base,CBBTC,0.5234,aerodrome,hydrex,311556,1,12,0,-1.1246,0
+2026-07-09T20:01:28.429707+00:00,solana,PENGU,0.746,meteora,orca,2278347,1,13,2,0.07,1
