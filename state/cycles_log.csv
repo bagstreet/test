@@ -35173,3 +35173,4 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-07-09T20:04:59.956643+00:00,sui,BLUE→CETUS→BLUE,2,cetus/cetus,0.6568,1.0,-0.0202,0,0
 2026-07-09T20:04:59.956643+00:00,solana,MELANIA→SOL→MELANIA,2,raydium/orca,74.4243,4.33,1.3783,0,0
 2026-07-09T20:04:59.956643+00:00,aptos,USDT→APT→USDT,2,liquidswap/pancakeswap,157.8186,2.19,1.3085,0,0
+2026-07-09T20:19:48.729051+00:00,solana,PEPE→67→SOLM→NOBODY→PEPE,4,meteora/meteora/meteora/meteora,7.5723,1.0,-0.0751,0,0
