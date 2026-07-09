@@ -9763,3 +9763,7 @@ t0,chain,token,entry_spread_pct,lo_dex,hi_dex,min_tvl,whale,n_samples,n_pos_afte
 2026-07-09T15:06:39.462710+00:00,solana,FO,0.6422,meteora,meteora,2360335,0,3,1,0.3652,0
 2026-07-09T14:40:38.451621+00:00,solana,JITOSOL,0.5958,orca,meteora,2132084,1,11,0,-0.5211,0
 2026-07-09T14:40:38.451621+00:00,base,CBETH,0.36,aerodrome,alien-base,275494,1,11,0,-0.692,0
+2026-07-09T15:08:21.389851+00:00,solana,RAY,1.6013,raydium,raydium,978847,1,10,2,0.6921,1
+2026-07-09T15:17:35.609134+00:00,solana,ZEC,0.8203,meteora,meteora,269802,0,5,0,-0.7987,0
+2026-07-09T15:21:06.492519+00:00,solana,ORE,0.8081,meteora,orca,312640,0,3,0,-0.9719,0
+2026-07-09T15:22:52.364477+00:00,base,EURC,0.885,aerodrome,aerodrome,252438,1,2,0,-1.1186,0
