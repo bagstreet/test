@@ -10236,3 +10236,8 @@ t0,chain,token,entry_spread_pct,lo_dex,hi_dex,min_tvl,whale,n_samples,n_pos_afte
 2026-07-10T15:19:04.552421+00:00,solana,JUP,1.5362,meteora,meteora,321028,0,17,0,-0.5132,0
 2026-07-10T15:45:40.227762+00:00,sui,USDSUI,0.3402,bluefin,turbos-finance,845053,0,5,0,-0.6241,0
 2026-07-10T15:22:28.034014+00:00,base,ETH,1.0045,uniswap,uniswap,281574,0,17,1,0.0207,0
+2026-07-10T15:31:16.593362+00:00,solana,BUTTCOIN,1.2163,meteora,pumpswap,296567,1,17,1,1.1044,0
+2026-07-10T15:39:52.977385+00:00,solana,PENGU,0.7528,meteora,pumpswap,1110085,0,16,0,-0.108,0
+2026-07-10T15:36:25.657861+00:00,base,WEETH,0.9509,aerodrome,aerodrome,480420,0,18,0,-0.3832,0
+2026-07-10T15:36:25.657861+00:00,base,VIRTUAL,0.6649,aerodrome,uniswap,1003634,1,18,0,-0.2351,0
+2026-07-10T15:39:52.977385+00:00,base,AERO,0.9462,aerodrome,uniswap,342041,1,18,0,-0.4897,0
