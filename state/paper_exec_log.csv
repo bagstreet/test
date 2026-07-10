@@ -10048,3 +10048,4 @@ t0,chain,token,entry_spread_pct,lo_dex,hi_dex,min_tvl,whale,n_samples,n_pos_afte
 2026-07-10T05:49:38.339938+00:00,base,WSTETH,0.8618,aerodrome,quickswap,273135,0,12,0,-1.1042,0
 2026-07-10T05:51:21.270512+00:00,solana,SOL,0.5451,meteora,orca,695897,1,12,1,0.0796,0
 2026-07-10T05:51:21.270512+00:00,base,VVV,0.9641,aerodrome,uniswap,393922,0,12,0,-0.718,0
+2026-07-10T05:59:57.129646+00:00,base,WETH,0.9528,uniswap,pancakeswap,821173,1,11,0,-0.4451,0
