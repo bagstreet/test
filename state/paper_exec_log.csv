@@ -10145,3 +10145,6 @@ t0,chain,token,entry_spread_pct,lo_dex,hi_dex,min_tvl,whale,n_samples,n_pos_afte
 2026-07-10T10:38:13.642201+00:00,base,VIRTUAL,0.7323,aerodrome,uniswap,396376,1,17,0,-0.1833,0
 2026-07-10T10:39:57.466238+00:00,solana,BUTTCOIN,1.753,meteora,pumpswap,293985,0,17,11,0.7876,1
 2026-07-10T10:41:41.343018+00:00,solana,POPCAT,4.8263,raydium,raydium,601616,1,17,7,2.1663,1
+2026-07-10T10:45:40.409706+00:00,solana,USELESS,0.5647,meteora,orca,266267,1,17,0,-1.1556,0
+2026-07-10T10:47:22.189425+00:00,solana,PENGU,0.4587,meteora,orca,2370623,0,17,0,-0.2105,0
+2026-07-10T10:57:28.817093+00:00,base,CBETH,0.3107,alien-base,aerodrome,262090,1,17,0,-1.5523,0
