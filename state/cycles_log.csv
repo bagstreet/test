@@ -38473,3 +38473,12 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-07-11T20:15:24.139059+00:00,base,HASH→ALB→HASH,2,alien-base/uniswap,0.1125,1.0,-0.0397,0,0
 2026-07-11T20:17:04.750081+00:00,solana,BONK→PUMP→USDC→BONK,3,raydium/meteora/orca,1.7358,1.0,-0.1079,0,0
 2026-07-11T20:17:04.750081+00:00,base,HASH→ALB→HASH,2,alien-base/uniswap,0.1125,1.0,-0.0397,0,0
+2026-07-11T20:31:19.773511+00:00,base,B3→WETH→B3,2,aerodrome/sushiswap,33.7195,1.0,-0.9724,0,0
+2026-07-11T20:33:00.739363+00:00,base,B3→WETH→B3,2,aerodrome/sushiswap,33.7195,1.0,-0.9724,0,0
+2026-07-11T20:34:41.747702+00:00,base,B3→WETH→B3,2,aerodrome/sushiswap,33.7195,1.0,-0.9724,0,0
+2026-07-11T20:36:23.470544+00:00,base,B3→WETH→B3,2,aerodrome/sushiswap,33.7195,1.0,-0.9724,0,0
+2026-07-11T20:38:05.032050+00:00,base,B3→WETH→B3,2,aerodrome/sushiswap,33.7195,1.0,-0.9724,0,0
+2026-07-11T20:39:46.149928+00:00,base,B3→WETH→B3,2,aerodrome/sushiswap,33.7195,1.0,-0.9724,0,0
+2026-07-11T20:41:26.490658+00:00,base,B3→WETH→B3,2,aerodrome/sushiswap,33.7195,1.0,-0.9724,0,0
+2026-07-11T20:43:07.483352+00:00,solana,PEPE→BUTTCOIN→NEET→PEPE,3,meteora/meteora/meteora,1.8447,1.0,-0.0578,0,0
+2026-07-11T20:43:07.483352+00:00,base,B3→WETH→B3,2,aerodrome/sushiswap,33.7195,1.0,-0.9724,0,0
