@@ -10358,3 +10358,4 @@ t0,chain,token,entry_spread_pct,lo_dex,hi_dex,min_tvl,whale,n_samples,n_pos_afte
 2026-07-11T00:42:21.318296+00:00,solana,SOL,0.7602,meteora,pumpswap,690247,1,11,0,-0.2167,0
 2026-07-11T00:42:21.318296+00:00,base,CBBTC,2.1129,aerodrome,hydrex,309472,1,11,2,0.3797,1
 2026-07-11T00:42:21.318296+00:00,base,VIRTUAL,0.6814,aerodrome,aerodrome,371266,1,11,0,-0.1367,0
+2026-07-11T01:01:24.807950+00:00,solana,MET,197.7419,meteora,meteora,627488,0,13,12,197.1222,1
