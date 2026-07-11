@@ -10510,3 +10510,6 @@ t0,chain,token,entry_spread_pct,lo_dex,hi_dex,min_tvl,whale,n_samples,n_pos_afte
 2026-07-11T11:51:10.952052+00:00,solana,MET,1.0376,meteora,meteora,790725,0,12,2,0.0312,1
 2026-07-11T11:52:56.308365+00:00,solana,ANSEM,1.2739,meteora,pumpswap,541493,1,12,11,2.2852,1
 2026-07-11T11:54:42.333026+00:00,sui,USDC,0.321,turbos-finance,turbos-finance,271824,0,12,0,-1.4243,0
+2026-07-11T11:58:14.168229+00:00,sui,CETUS,0.7697,cetus,cetus,441943,0,12,0,-0.6364,0
+2026-07-11T11:59:59.616333+00:00,base,VIRTUAL,0.3218,aerodrome,aerodrome,387773,1,11,0,-0.4087,0
+2026-07-11T12:01:45.397587+00:00,base,WETH,0.4449,uniswap,aerodrome,814408,1,11,0,-0.8762,0
