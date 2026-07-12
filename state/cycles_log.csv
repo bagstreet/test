@@ -39880,3 +39880,17 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-07-12T18:32:27.583224+00:00,sui,KW→USDT→KW,2,turbos-finance/turbos-finance,68.8584,3.43,1.0062,0,0
 2026-07-12T18:32:27.583224+00:00,solana,PAWEL→POPCAT→SOL→USDS→PAWEL,4,meteora/raydium/orca/meteora,5.5554,1.09,0.0199,0,0
 2026-07-12T18:32:27.583224+00:00,base,AERO→USDBC→AERO,2,aerodrome/aerodrome,0.6179,4.27,-0.0168,0,0
+2026-07-12T18:45:47.890771+00:00,sui,KW→TURBOS→KW,2,turbos-finance/turbos-finance,68.4251,1.75,0.5004,0,0
+2026-07-12T18:45:47.890771+00:00,solana,PAWEL→JITOSOL→CSR→POPCAT→PAWEL,4,meteora/meteora/meteora/meteora,1.9916,1.0,-0.1179,0,0
+2026-07-12T18:47:34.465210+00:00,sui,KW→TURBOS→KW,2,turbos-finance/turbos-finance,68.4251,1.75,0.5004,0,0
+2026-07-12T18:47:34.465210+00:00,solana,CSR→TRUMP→USDT→PAWEL→JITOSOL→CSR,5,meteora/raydium/meteora/meteora/meteora,2.6779,1.0,-0.0662,0,0
+2026-07-12T18:49:21.098154+00:00,sui,KW→TURBOS→KW,2,turbos-finance/turbos-finance,68.4251,1.75,0.5004,0,0
+2026-07-12T18:49:21.098154+00:00,solana,PAWEL→JITOSOL→CSR→TRUMP→USDT→PAWEL,5,meteora/meteora/meteora/raydium/meteora,2.5821,1.0,-0.1168,0,0
+2026-07-12T18:51:07.205367+00:00,sui,KW→TURBOS→KW,2,turbos-finance/turbos-finance,68.4251,1.75,0.5004,0,0
+2026-07-12T18:51:07.205367+00:00,solana,PAWEL→JITOSOL→CSR→TRUMP→USDT→PAWEL,5,meteora/meteora/meteora/raydium/meteora,2.5821,1.0,-0.1168,0,0
+2026-07-12T18:52:53.545319+00:00,sui,KW→TURBOS→KW,2,turbos-finance/turbos-finance,68.4251,1.75,0.5004,0,0
+2026-07-12T18:54:39.688466+00:00,sui,KW→TURBOS→KW,2,turbos-finance/turbos-finance,68.4251,1.75,0.5004,0,0
+2026-07-12T18:54:39.688466+00:00,solana,PAWEL→JITOSOL→CSR→TRUMP→USDT→PAWEL,5,meteora/meteora/meteora/raydium/meteora,2.5821,1.0,-0.1168,0,0
+2026-07-12T18:56:25.775074+00:00,sui,KW→TURBOS→KW,2,turbos-finance/turbos-finance,68.4251,1.75,0.5004,0,0
+2026-07-12T18:56:25.775074+00:00,solana,CSR→USDT→PAWEL→JITOSOL→CSR,4,meteora/meteora/meteora/meteora,2.9379,1.0,0.001,0,0
+2026-07-12T18:58:11.362004+00:00,sui,KW→TURBOS→KW,2,turbos-finance/turbos-finance,68.4251,1.75,0.5004,0,0
