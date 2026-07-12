@@ -39647,3 +39647,6 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-07-12T14:20:44.795732+00:00,aptos,CAKE→USDC→CAKE,2,pancakeswap/pancakeswap,0.5776,1.0,-0.137,0,0
 2026-07-12T14:22:29.938935+00:00,sui,KW→USDT→KW,2,turbos-finance/turbos-finance,68.2731,3.4,0.989,0,0
 2026-07-12T14:22:29.938935+00:00,aptos,CAKE→USDC→CAKE,2,pancakeswap/pancakeswap,0.5776,1.0,-0.137,0,0
+2026-07-12T14:40:24.806734+00:00,solana,BLZE→BSOL→BLZE,2,orca/orca,0.397,12.94,0.0157,0,0
+2026-07-12T14:47:20.638320+00:00,sui,KW→USDT→KW,2,turbos-finance/turbos-finance,68.2731,3.4,0.989,0,0
+2026-07-12T14:47:20.638320+00:00,solana,BLZE→BSOL→BLZE,2,orca/orca,0.397,12.97,0.0157,0,0
