@@ -40362,3 +40362,15 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-07-13T01:13:21.722470+00:00,solana,ANSEM→USDC→ANSEM,2,meteora/meteora,24.0895,342.64,39.0358,0,0
 2026-07-13T01:13:21.722470+00:00,base,AERO→BNKR→VIRTUAL→MAMO→CBBTC→AERO,5,aerodrome/aerodrome/aerodrome/aerodrome/aerodrome,2.4007,1.0,-0.886,0,0
 2026-07-13T01:13:21.722470+00:00,aptos,STAPT→USDC→STAPT,2,pancakeswap/pancakeswap,7.848,1.0,-0.1716,0,0
+2026-07-13T01:15:41.248444+00:00,sui,KW→USDT→KW,2,turbos-finance/turbos-finance,68.115,3.38,0.9836,0,0
+2026-07-13T01:15:41.248444+00:00,solana,$WIF→POPCAT→$WIF,2,raydium/meteora,0.6405,1.0,-0.0634,0,0
+2026-07-13T01:17:23.498571+00:00,sui,KW→USDT→KW,2,turbos-finance/turbos-finance,68.115,3.38,0.9836,0,0
+2026-07-13T01:17:23.498571+00:00,solana,CSR→BONK→$WIF→CSR,3,meteora/orca/meteora,0.0617,1.0,-0.0361,0,0
+2026-07-13T01:17:23.498571+00:00,base,VIRTUAL→MAMO→CBBTC→VIRTUAL,3,aerodrome/aerodrome/aerodrome,0.4483,6.46,-0.0155,1,0
+2026-07-13T01:19:05.385791+00:00,sui,KW→USDT→KW,2,turbos-finance/turbos-finance,68.115,3.38,0.9836,0,0
+2026-07-13T01:20:47.120483+00:00,sui,KW→USDT→KW,2,turbos-finance/turbos-finance,68.115,3.38,0.9836,0,0
+2026-07-13T01:20:47.120483+00:00,solana,CSR→MM→SOL→CSR,3,meteora/meteora/raydium,5.5456,1.0,-0.1067,0,0
+2026-07-13T01:22:31.528013+00:00,sui,KW→USDT→KW,2,turbos-finance/turbos-finance,68.115,3.38,0.9836,0,0
+2026-07-13T01:24:13.812128+00:00,sui,KW→USDT→KW,2,turbos-finance/turbos-finance,68.115,3.38,0.9836,0,0
+2026-07-13T01:25:55.868148+00:00,sui,KW→USDT→KW,2,turbos-finance/turbos-finance,68.115,3.38,0.9836,0,0
+2026-07-13T01:27:38.041812+00:00,sui,KW→USDT→KW,2,turbos-finance/turbos-finance,68.115,3.38,0.9836,0,0
