@@ -41770,3 +41770,11 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-07-13T19:23:14.220259+00:00,sui,DEEP→CETUS→DEEP,2,cetus/cetus,4.3471,1.0,-0.064,0,0
 2026-07-13T19:23:14.220259+00:00,solana,MET→JUP→MET,2,meteora/meteora,2.1268,31.57,0.324,0,0
 2026-07-13T19:23:14.220259+00:00,base,VIRTUAL→MAMO→VIRTUAL,2,uniswap/aerodrome,4.0691,1.0,-0.1054,0,0
+2026-07-13T19:36:36.987772+00:00,base,USD+→WETH→USD+,2,equalizer/velocimeter,1.4348,1.0,-0.067,0,0
+2026-07-13T19:38:18.717910+00:00,base,USD+→WETH→USD+,2,equalizer/velocimeter,1.4348,1.0,-0.067,0,0
+2026-07-13T19:40:00.585432+00:00,base,USD+→WETH→USD+,2,equalizer/velocimeter,1.4348,1.0,-0.067,0,0
+2026-07-13T19:41:42.722988+00:00,base,USD+→WETH→USD+,2,equalizer/velocimeter,1.4348,1.0,-0.067,0,0
+2026-07-13T19:45:05.700097+00:00,base,USD+→WETH→USD+,2,equalizer/velocimeter,1.4348,1.0,-0.067,0,0
+2026-07-13T19:46:47.113858+00:00,base,USD+→WETH→USD+,2,equalizer/velocimeter,1.4348,1.0,-0.067,0,0
+2026-07-13T19:48:28.637905+00:00,solana,PEPE→LMAO!→USDT→PEPE,3,meteora/raydium/meteora,1.7144,1.0,-0.0842,0,0
+2026-07-13T19:48:28.637905+00:00,base,USD+→WETH→USD+,2,equalizer/velocimeter,1.4348,1.0,-0.067,0,0
