@@ -41694,3 +41694,15 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-07-13T17:52:40.917186+00:00,solana,SHITCOIN→TRUMPBUCKS→SHITCOIN,2,meteora/meteora,0.2383,1.0,-0.0134,0,0
 2026-07-13T17:52:40.917186+00:00,base,USDC→USDBC→ALB→USDC,3,aerodrome/alien-base/alien-base,2.6705,1.0,-0.9933,0,0
 2026-07-13T17:52:40.917186+00:00,aptos,WETH→USDT→WETH,2,liquidswap/liquidswap,195.2092,1.0,-0.7111,0,0
+2026-07-13T18:05:54.790128+00:00,sui,KW→TURBOS→KW,2,turbos-finance/turbos-finance,68.5525,1.85,0.5327,0,0
+2026-07-13T18:05:54.790128+00:00,base,BNKR→ETH→BNKR,2,uniswap/uniswap,1.498,5.54,0.0113,0,0
+2026-07-13T18:07:36.936238+00:00,sui,KW→TURBOS→KW,2,turbos-finance/turbos-finance,68.5525,1.85,0.5327,0,0
+2026-07-13T18:09:18.783118+00:00,sui,KW→TURBOS→KW,2,turbos-finance/turbos-finance,68.5525,1.85,0.5327,0,0
+2026-07-13T18:11:00.273258+00:00,sui,KW→TURBOS→KW,2,turbos-finance/turbos-finance,68.5525,1.85,0.5327,0,0
+2026-07-13T18:12:41.822721+00:00,sui,KW→TURBOS→KW,2,turbos-finance/turbos-finance,68.5525,1.85,0.5327,0,0
+2026-07-13T18:14:23.490558+00:00,sui,KW→TURBOS→KW,2,turbos-finance/turbos-finance,68.5525,1.85,0.5327,0,0
+2026-07-13T18:14:23.490558+00:00,solana,MELANIA→TRUMP→MELANIA,2,raydium/orca,1.5897,1.0,-0.0797,0,0
+2026-07-13T18:16:04.751610+00:00,sui,KW→TURBOS→KW,2,turbos-finance/turbos-finance,68.5525,1.85,0.5327,0,0
+2026-07-13T18:16:04.751610+00:00,solana,MELANIA→TRUMP→MELANIA,2,raydium/orca,1.5897,1.0,-0.0797,0,0
+2026-07-13T18:17:51.100453+00:00,sui,KW→TURBOS→KW,2,turbos-finance/turbos-finance,68.5525,1.85,0.5327,0,0
+2026-07-13T18:17:51.100453+00:00,solana,MELANIA→TRUMP→MELANIA,2,raydium/orca,1.5897,1.0,-0.0797,0,0
