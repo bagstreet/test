@@ -11300,3 +11300,6 @@ t0,chain,token,entry_spread_pct,lo_dex,hi_dex,min_tvl,whale,n_samples,n_pos_afte
 2026-07-13T06:05:00.611033+00:00,solana,BUTTCOIN,0.4444,meteora,pumpswap,368627,1,12,0,-1.0523,0
 2026-07-13T06:17:20.234442+00:00,solana,TRIPLET,1.7909,pumpswap,meteora,545037,1,5,2,0.5565,1
 2026-07-13T06:24:07.115374+00:00,base,EURC,0.885,aerodrome,aerodrome,576749,1,2,0,-1.195,0
+2026-07-13T06:05:00.611033+00:00,solana,FO,0.636,meteora,meteora,2366490,0,18,9,0.2157,1
+2026-07-13T06:06:45.338338+00:00,base,CBBTC,0.9029,aerodrome,uniswap,577401,1,18,0,-0.2914,0
+2026-07-13T06:08:30.432004+00:00,solana,ANSEM,1.2736,pumpswap,meteora,376107,1,18,9,0.6565,1
