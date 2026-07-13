@@ -41778,3 +41778,11 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-07-13T19:46:47.113858+00:00,base,USD+→WETH→USD+,2,equalizer/velocimeter,1.4348,1.0,-0.067,0,0
 2026-07-13T19:48:28.637905+00:00,solana,PEPE→LMAO!→USDT→PEPE,3,meteora/raydium/meteora,1.7144,1.0,-0.0842,0,0
 2026-07-13T19:48:28.637905+00:00,base,USD+→WETH→USD+,2,equalizer/velocimeter,1.4348,1.0,-0.067,0,0
+2026-07-13T20:01:37.746605+00:00,aptos,USDT→APT→USDT,2,liquidswap/liquidswap,168.9957,2.3,1.4516,0,0
+2026-07-13T20:03:21.759937+00:00,aptos,USDT→APT→USDT,2,liquidswap/liquidswap,168.9957,2.3,1.4516,0,0
+2026-07-13T20:05:04.081686+00:00,aptos,USDT→APT→USDT,2,liquidswap/liquidswap,168.9957,2.3,1.4516,0,0
+2026-07-13T20:06:47.056905+00:00,aptos,APT→USDT→APT,2,liquidswap/liquidswap,168.9957,8.9,5.6778,0,0
+2026-07-13T20:08:29.493786+00:00,aptos,APT→USDT→APT,2,liquidswap/liquidswap,168.9957,8.9,5.6778,0,0
+2026-07-13T20:10:11.641848+00:00,aptos,USDT→APT→USDT,2,liquidswap/liquidswap,168.9957,2.3,1.4516,0,0
+2026-07-13T20:11:53.897583+00:00,aptos,USDT→APT→USDT,2,liquidswap/liquidswap,168.9957,2.3,1.4516,0,0
+2026-07-13T20:13:35.925672+00:00,aptos,USDT→APT→USDT,2,liquidswap/liquidswap,168.9957,2.3,1.4516,0,0
