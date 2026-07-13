@@ -11255,3 +11255,12 @@ t0,chain,token,entry_spread_pct,lo_dex,hi_dex,min_tvl,whale,n_samples,n_pos_afte
 2026-07-13T03:43:05.884620+00:00,base,VVV,1.0557,uniswap,uniswap,382605,1,12,0,-0.5897,0
 2026-07-13T03:50:36.232436+00:00,solana,FARTCOIN ,0.6325,raydium,orca,932937,0,13,0,-0.2968,0
 2026-07-13T03:50:36.232436+00:00,base,EURC,0.885,aerodrome,aerodrome,533644,1,13,0,-0.352,0
+2026-07-13T03:53:53.967440+00:00,base,KTA,3.3223,aerodrome,uniswap,351576,0,12,2,1.683,1
+2026-07-13T03:53:53.967440+00:00,base,CBETH,2.6097,aerodrome,alien-base,266863,1,12,11,0.759,1
+2026-07-13T03:57:12.388880+00:00,base,WETH,0.7255,uniswap,uniswap,257870,1,10,0,-0.5556,0
+2026-07-13T04:35:02.883165+00:00,base,SOL,0.303,aerodrome,aerodrome,323183,1,2,0,-1.6955,0
+2026-07-13T04:14:57.889967+00:00,sui,USDC,0.3018,turbos-finance,turbos-finance,266916,1,8,0,-1.6412,0
+2026-07-13T04:35:02.883165+00:00,solana,TRIPLET,0.5631,pumpswap,meteora,542540,1,4,0,-0.0578,0
+2026-07-13T04:11:30.588269+00:00,solana,SOL,0.4494,raydium,raydium,2996336,1,12,4,9.2525,1
+2026-07-13T04:11:30.588269+00:00,base,CBBTC,0.4973,quickswap,aerodrome,293918,1,12,0,-0.2058,0
+2026-07-13T04:11:30.588269+00:00,base,VIRTUAL,0.4648,uniswap,aerodrome,1006768,1,12,0,-0.2283,0
