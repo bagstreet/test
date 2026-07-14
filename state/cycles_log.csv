@@ -43556,3 +43556,17 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-07-14T19:17:53.953490+00:00,sui,SUI→USDT→SUI,2,steamm/cetus,9.7978,1.0,-0.5128,0,0
 2026-07-14T19:17:53.953490+00:00,solana,IMT→USDG→SOL→PUPS→IMT,4,orca/orca/orca/raydium,172.7465,1.0,0.5774,0,0
 2026-07-14T19:17:53.953490+00:00,base,ALB→WETH→ALB,2,alien-base/alien-base,0.3819,1.0,-0.0294,0,0
+2026-07-14T19:31:16.088412+00:00,base,KTA→WETH→KTA,2,pancakeswap/uniswap,0.8854,1.0,-0.0296,0,0
+2026-07-14T19:31:16.088412+00:00,aptos,USDT→STAPT→USDT,2,pancakeswap/pancakeswap,7.0238,1.0,-0.3533,0,0
+2026-07-14T19:33:04.268715+00:00,base,KTA→WETH→KTA,2,pancakeswap/uniswap,0.8854,1.0,-0.0296,0,0
+2026-07-14T19:33:04.268715+00:00,aptos,USDT→STAPT→USDT,2,pancakeswap/pancakeswap,7.0238,1.0,-0.3533,0,0
+2026-07-14T19:34:51.994070+00:00,sui,TURBOS→NS→TURBOS,2,turbos-finance/turbos-finance,3.9782,1.0,-0.4089,0,0
+2026-07-14T19:34:51.994070+00:00,base,KTA→WETH→KTA,2,pancakeswap/uniswap,0.8854,1.0,-0.0296,0,0
+2026-07-14T19:34:51.994070+00:00,aptos,USDT→STAPT→USDT,2,pancakeswap/pancakeswap,7.0238,1.0,-0.3533,0,0
+2026-07-14T19:36:39.786520+00:00,aptos,USDT→STAPT→USDT,2,pancakeswap/pancakeswap,7.0238,1.0,-0.3533,0,0
+2026-07-14T19:38:27.768384+00:00,sui,TURBOS→NS→TURBOS,2,turbos-finance/turbos-finance,3.9782,1.0,-0.4089,0,0
+2026-07-14T19:38:27.768384+00:00,aptos,USDT→STAPT→USDT,2,pancakeswap/pancakeswap,7.0238,1.0,-0.3533,0,0
+2026-07-14T19:40:15.188446+00:00,sui,TURBOS→NS→TURBOS,2,turbos-finance/turbos-finance,3.9782,1.0,-0.4089,0,0
+2026-07-14T19:40:15.188446+00:00,aptos,USDT→STAPT→USDT,2,pancakeswap/pancakeswap,7.0238,1.0,-0.3533,0,0
+2026-07-14T19:42:03.413083+00:00,aptos,USDT→STAPT→USDT,2,pancakeswap/pancakeswap,7.0238,1.0,-0.3533,0,0
+2026-07-14T19:43:50.872046+00:00,aptos,USDT→STAPT→USDT,2,pancakeswap/pancakeswap,7.0238,1.0,-0.3533,0,0
