@@ -42682,3 +42682,17 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-07-14T06:48:18.330120+00:00,sui,HASUI→CETUS→HASUI,2,cetus/cetus,0.1552,1.0,-0.6916,0,0
 2026-07-14T06:48:18.330120+00:00,solana,ORE→USDC→ORE,2,meteora/meteora,7.336,1.0,-0.759,0,0
 2026-07-14T06:48:18.330120+00:00,aptos,USDC→STAPT→USDC,2,liquidswap/pancakeswap,6.4385,1.0,-0.0362,0,0
+2026-07-14T07:01:31.023290+00:00,base,WETH→CBETH→AXLUSDC→WETH,3,aerodrome/shark-swap/swapbased,0.4618,1.0,-0.9518,0,0
+2026-07-14T07:03:13.200994+00:00,base,WETH→CBETH→AXLUSDC→WETH,3,aerodrome/shark-swap/swapbased,0.4618,1.0,-0.9518,0,0
+2026-07-14T07:04:55.122046+00:00,solana,IMT→BAN→PAWEL→PUPS→IMT,4,raydium/meteora/meteora/raydium,159.4599,1.0,0.4186,0,0
+2026-07-14T07:04:55.122046+00:00,base,WETH→CBETH→AXLUSDC→WETH,3,aerodrome/shark-swap/swapbased,0.4618,1.0,-0.9518,0,0
+2026-07-14T07:06:36.981374+00:00,solana,IMT→BAN→PAWEL→PUPS→IMT,4,raydium/meteora/meteora/raydium,159.4599,1.0,0.4186,0,0
+2026-07-14T07:06:36.981374+00:00,base,WETH→CBETH→AXLUSDC→WETH,3,aerodrome/shark-swap/swapbased,0.4618,1.0,-0.9518,0,0
+2026-07-14T07:08:18.788850+00:00,solana,IMT→BAN→PAWEL→PUPS→IMT,4,raydium/meteora/meteora/raydium,159.4599,1.0,0.4186,0,0
+2026-07-14T07:08:18.788850+00:00,base,WETH→CBETH→AXLUSDC→WETH,3,aerodrome/shark-swap/swapbased,0.4618,1.0,-0.9518,0,0
+2026-07-14T07:10:00.591326+00:00,solana,IMT→BAN→PAWEL→PUPS→IMT,4,raydium/meteora/meteora/raydium,159.4599,1.0,0.4186,0,0
+2026-07-14T07:10:00.591326+00:00,base,WETH→CBETH→AXLUSDC→WETH,3,aerodrome/shark-swap/swapbased,0.4618,1.0,-0.9518,0,0
+2026-07-14T07:11:42.629754+00:00,solana,IMT→BAN→PAWEL→PUPS→IMT,4,raydium/meteora/meteora/raydium,159.4599,1.0,0.4186,0,0
+2026-07-14T07:11:42.629754+00:00,base,WETH→CBETH→AXLUSDC→WETH,3,aerodrome/shark-swap/swapbased,0.4618,1.0,-0.9518,0,0
+2026-07-14T07:13:24.353330+00:00,solana,IMT→BAN→PAWEL→PUPS→IMT,4,raydium/meteora/meteora/raydium,159.4599,1.0,0.4186,0,0
+2026-07-14T07:13:24.353330+00:00,base,WETH→CBETH→AXLUSDC→WETH,3,aerodrome/shark-swap/swapbased,0.4618,1.0,-0.9518,0,0
