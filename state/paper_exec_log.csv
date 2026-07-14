@@ -11665,3 +11665,11 @@ t0,chain,token,entry_spread_pct,lo_dex,hi_dex,min_tvl,whale,n_samples,n_pos_afte
 2026-07-14T00:32:57.294274+00:00,base,CBBTC,0.87,uniswap,aerodrome,464865,1,17,12,1.6753,1
 2026-07-14T00:32:57.294274+00:00,base,WETH,0.6047,uniswap,aerodrome,272775,1,17,0,-0.0857,0
 2026-07-14T00:58:23.684378+00:00,base,EURC,0.885,aerodrome,aerodrome,619091,1,3,0,-0.2627,0
+2026-07-14T00:45:39.939313+00:00,solana,USDE,0.3863,orca,orca,2142161,0,17,0,-0.2778,0
+2026-07-14T00:47:30.240191+00:00,base,AERO,1.2666,aerodrome,uniswap,326820,0,18,12,0.8714,1
+2026-07-14T00:49:19.460102+00:00,solana,BUTTCOIN,0.5742,meteora,pumpswap,313161,1,18,0,-0.7252,0
+2026-07-14T01:11:50.315537+00:00,base,SOL,0.3056,aerodrome,aerodrome,286747,1,6,0,-1.5613,0
+2026-07-14T00:51:08.733484+00:00,solana,ORE,1.2013,meteora,orca,304848,0,18,0,-0.6114,0
+2026-07-14T01:22:30.152804+00:00,base,EURC,0.885,aerodrome,aerodrome,665457,1,2,0,-0.6605,0
+2026-07-14T00:56:34.530237+00:00,sui,USDC,0.3513,turbos-finance,turbos-finance,264962,0,18,0,-1.6916,0
+2026-07-14T01:22:30.152804+00:00,sui,CETUS,1.3024,cetus,cetus,435515,0,4,0,-0.1737,0
