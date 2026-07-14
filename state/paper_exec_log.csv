@@ -11749,3 +11749,4 @@ t0,chain,token,entry_spread_pct,lo_dex,hi_dex,min_tvl,whale,n_samples,n_pos_afte
 2026-07-14T04:39:58.944661+00:00,solana,TRUMP,0.6536,meteora,meteora,2753862,0,13,2,0.0078,1
 2026-07-14T05:06:53.594116+00:00,base,EURC,0.885,aerodrome,aerodrome,680996,1,3,0,-0.2624,0
 2026-07-14T04:43:26.532225+00:00,base,VIRTUAL,0.4744,aerodrome,aerodrome,471481,1,17,0,-0.6894,0
+2026-07-14T04:51:00.507597+00:00,solana,ORE,0.9089,meteora,orca,305384,0,18,0,-0.9015,0
