@@ -11757,3 +11757,6 @@ t0,chain,token,entry_spread_pct,lo_dex,hi_dex,min_tvl,whale,n_samples,n_pos_afte
 2026-07-14T05:10:29.196469+00:00,solana,RAY,0.3321,raydium,raydium,967470,1,18,0,-0.2902,0
 2026-07-14T05:10:29.196469+00:00,base,CBETH,1.7594,alien-base,hydrex,257419,0,18,0,-0.2859,0
 2026-07-14T05:10:29.196469+00:00,base,ETH,1.2337,uniswap,uniswap,287767,0,18,0,-0.5967,0
+2026-07-14T05:17:28.480978+00:00,base,VIRTUAL,0.3641,uniswap,aerodrome,326669,1,18,0,-0.9455,0
+2026-07-14T05:20:56.228646+00:00,base,EURC,0.885,aerodrome,aerodrome,673015,1,18,0,-0.1799,0
+2026-07-14T05:26:07.820669+00:00,base,AERO,0.8777,aerodrome,uniswap,324071,1,18,13,0.2745,1
