@@ -12190,3 +12190,5 @@ t0,chain,token,entry_spread_pct,lo_dex,hi_dex,min_tvl,whale,n_samples,n_pos_afte
 2026-07-15T05:25:53.406703+00:00,solana,ORE,1.1133,meteora,orca,316134,0,17,0,-0.6525,0
 2026-07-15T05:27:34.897681+00:00,solana,ARC,2.1142,meteora,raydium,416587,0,17,15,1.0987,1
 2026-07-15T05:36:26.607941+00:00,solana,MET,202.4803,meteora,meteora,264455,0,13,2,200.4673,1
+2026-07-15T05:41:30.074610+00:00,solana,SOL,0.6809,meteora,pumpswap,691944,1,17,1,0.1595,0
+2026-07-15T05:43:11.532035+00:00,solana,PENGU,0.5405,meteora,orca,2250915,0,17,2,0.703,1
