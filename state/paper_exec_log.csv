@@ -12173,3 +12173,8 @@ t0,chain,token,entry_spread_pct,lo_dex,hi_dex,min_tvl,whale,n_samples,n_pos_afte
 2026-07-15T04:39:04.289156+00:00,solana,JITOSOL,0.7823,meteora,orca,2111572,0,12,10,0.2929,1
 2026-07-15T04:39:04.289156+00:00,base,CBBTC,0.5143,uniswap,pancakeswap,459955,1,12,0,-0.6263,0
 2026-07-15T04:42:46.326526+00:00,solana,HYPE,0.6435,orca,meteora,1470482,1,12,0,-0.1892,0
+2026-07-15T04:44:36.781860+00:00,base,CBETH,0.5362,alien-base,aerodrome,273120,1,12,0,-1.244,0
+2026-07-15T04:46:27.156395+00:00,base,VIRTUAL,0.4271,aerodrome,aerodrome,367651,1,12,0,-0.8261,0
+2026-07-15T04:48:17.831884+00:00,solana,JLP,0.5464,meteora,orca,352133,0,12,0,-1.09,0
+2026-07-15T04:48:17.831884+00:00,base,WETH,0.3101,uniswap,aerodrome,288216,1,12,0,-1.107,0
+2026-07-15T05:17:24.927743+00:00,sui,CETUS,0.3257,cetus,cetus,445631,0,6,0,-0.9112,0
