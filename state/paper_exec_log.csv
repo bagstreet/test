@@ -12110,3 +12110,9 @@ t0,chain,token,entry_spread_pct,lo_dex,hi_dex,min_tvl,whale,n_samples,n_pos_afte
 2026-07-15T01:10:18.313385+00:00,base,VIRTUAL,0.5126,aerodrome,aerodrome,373039,1,12,0,-0.6722,0
 2026-07-15T01:12:06.924463+00:00,base,AIXBT,0.9559,uniswap,uniswap,290813,0,12,0,-0.6552,0
 2026-07-15T01:12:06.924463+00:00,base,CBBTC,0.7108,uniswap,aerodrome,461532,1,12,0,-0.3735,0
+2026-07-15T01:19:17.632859+00:00,base,WETH,0.3043,pancakeswap,uniswap,3542285,1,12,0,-0.5635,0
+2026-07-15T01:22:52.861557+00:00,base,GULD,0.9042,uniswap,uniswap,1527715,1,10,9,3.6335,1
+2026-07-15T01:38:04.464839+00:00,solana,SOL,0.6202,raydium,pumpswap,2566071,1,12,4,26.6031,1
+2026-07-15T01:43:19.598208+00:00,base,MAMO,1.3691,aerodrome,aerodrome,254825,0,12,0,-0.6593,0
+2026-07-15T01:43:19.598208+00:00,base,VIRTUAL,0.9429,aerodrome,aerodrome,370659,1,12,0,-0.357,0
+2026-07-15T01:43:19.598208+00:00,base,CBETH,0.8121,aerodrome,alien-base,275189,1,12,0,-1.0057,0
