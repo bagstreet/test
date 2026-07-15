@@ -44765,3 +44765,11 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-07-15T13:11:43.401527+00:00,aptos,USDT→STAPT→USDT,2,pancakeswap/pancakeswap,7.0238,1.0,-0.3533,0,0
 2026-07-15T13:13:25.327637+00:00,solana,CIRCUIT→SOL→BERT→TRUMP→CIRCUIT,4,meteora/raydium/meteora/meteora,18.3263,31.01,2.7118,0,0
 2026-07-15T13:13:25.327637+00:00,aptos,USDT→STAPT→USDT,2,pancakeswap/pancakeswap,7.0238,1.0,-0.3533,0,0
+2026-07-15T13:26:18.338709+00:00,solana,SOL→BERT→TRUMP→MELANIA→SOL,4,raydium/meteora/raydium/raydium,91.8539,1.0,-0.9949,0,0
+2026-07-15T13:28:03.123493+00:00,solana,SOL→BERT→TRUMP→MELANIA→SOL,4,raydium/meteora/raydium/raydium,91.8539,1.0,-0.9949,0,0
+2026-07-15T13:29:47.504186+00:00,solana,SOL→BERT→TRUMP→MELANIA→SOL,4,raydium/meteora/raydium/raydium,91.8539,1.0,-0.9949,0,0
+2026-07-15T13:31:31.658078+00:00,solana,SOL→BERT→TRUMP→MELANIA→SOL,4,raydium/meteora/raydium/raydium,91.8539,1.0,-0.9949,0,0
+2026-07-15T13:33:17.228189+00:00,solana,SOL→BERT→TRUMP→MELANIA→SOL,4,raydium/meteora/raydium/raydium,91.8539,1.0,-0.9949,0,0
+2026-07-15T13:35:02.010578+00:00,solana,TRUMP→MELANIA→SOL→BERT→TRUMP,4,raydium/raydium/raydium/meteora,91.8539,1.0,-0.5366,0,0
+2026-07-15T13:36:47.029201+00:00,solana,USDC→FARTCOIN →ARC→USDC,3,meteora/orca/meteora,13.2378,2.42,0.1451,0,0
+2026-07-15T13:38:31.756784+00:00,solana,TRUMP→MELANIA→SOL→BERT→TRUMP,4,raydium/raydium/raydium/meteora,90.1922,1.0,-0.5376,0,0
