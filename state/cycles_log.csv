@@ -44180,3 +44180,5 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-07-15T04:48:17.831884+00:00,solana,GIZMO→PUPS→GIZMO,2,meteora/meteora,18.2426,3.18,0.2678,0,0
 2026-07-15T04:48:17.831884+00:00,base,KTA→KAITO→MAMO→KTA,3,sushiswap/aerodrome/aerodrome,8.3875,1.0,-0.4407,0,0
 2026-07-15T04:48:17.831884+00:00,aptos,USDC→SOL→USDC,2,pancakeswap/liquidswap,139.2941,1.0,-0.8953,0,0
+2026-07-15T05:01:41.270479+00:00,solana,BONK→SOL→JUP→BONK,3,raydium/meteora/meteora,7.4572,1.0,0.0255,0,0
+2026-07-15T05:03:23.194333+00:00,solana,BONK→SOL→JUP→BONK,3,meteora/meteora/meteora,3.2314,31.24,0.4907,0,0
