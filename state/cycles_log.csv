@@ -43867,3 +43867,11 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-07-14T23:42:26.661364+00:00,solana,MOBY→BERT→MOBY,2,meteora/meteora,3.1256,2.32,0.0259,0,0
 2026-07-14T23:42:26.661364+00:00,base,AERO→B3→ETH→AERO,3,aerodrome/uniswap/uniswap,18.9031,1.0,-0.9559,0,0
 2026-07-14T23:42:26.661364+00:00,aptos,USDT→APT→USDT,2,liquidswap/thala,159.8724,9.59,5.8519,0,0
+2026-07-14T23:55:43.984393+00:00,sui,VSUI→BUCK→USDC→VSUI,3,cetus/bluefin/turbos-finance,0.9087,1.0,-0.6585,0,0
+2026-07-14T23:57:24.896509+00:00,sui,VSUI→BUCK→USDC→VSUI,3,cetus/bluefin/turbos-finance,0.9087,1.0,-0.6585,0,0
+2026-07-14T23:59:06.220210+00:00,sui,VSUI→BUCK→USDC→VSUI,3,cetus/bluefin/turbos-finance,1.0206,1.0,-0.6583,0,0
+2026-07-15T00:00:47.419127+00:00,sui,VSUI→BUCK→USDC→VSUI,3,cetus/bluefin/turbos-finance,1.0206,1.0,-0.6583,0,0
+2026-07-15T00:02:29.688097+00:00,sui,VSUI→BUCK→USDC→VSUI,3,cetus/bluefin/turbos-finance,1.1201,1.0,-0.6582,0,0
+2026-07-15T00:04:11.392126+00:00,sui,VSUI→BUCK→USDC→VSUI,3,cetus/bluefin/turbos-finance,1.1201,1.0,-0.6582,0,0
+2026-07-15T00:05:53.032852+00:00,sui,VSUI→BUCK→USDC→VSUI,3,cetus/bluefin/turbos-finance,1.1201,1.0,-0.6582,0,0
+2026-07-15T00:07:35.069547+00:00,sui,VSUI→BUCK→USDC→VSUI,3,cetus/bluefin/turbos-finance,1.1201,1.0,-0.6582,0,0
