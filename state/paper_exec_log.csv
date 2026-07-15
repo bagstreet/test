@@ -12116,3 +12116,5 @@ t0,chain,token,entry_spread_pct,lo_dex,hi_dex,min_tvl,whale,n_samples,n_pos_afte
 2026-07-15T01:43:19.598208+00:00,base,MAMO,1.3691,aerodrome,aerodrome,254825,0,12,0,-0.6593,0
 2026-07-15T01:43:19.598208+00:00,base,VIRTUAL,0.9429,aerodrome,aerodrome,370659,1,12,0,-0.357,0
 2026-07-15T01:43:19.598208+00:00,base,CBETH,0.8121,aerodrome,alien-base,275189,1,12,0,-1.0057,0
+2026-07-15T01:45:04.703525+00:00,base,CBBTC,0.9761,aerodrome,aerodrome,560697,1,12,0,-0.2543,0
+2026-07-15T01:46:50.550212+00:00,base,AERO,0.6955,aerodrome,aerodrome,2905688,1,12,2,0.0964,1
