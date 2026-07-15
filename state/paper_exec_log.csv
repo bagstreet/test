@@ -12137,3 +12137,7 @@ t0,chain,token,entry_spread_pct,lo_dex,hi_dex,min_tvl,whale,n_samples,n_pos_afte
 2026-07-15T02:47:19.348017+00:00,base,AIXBT,1.2786,uniswap,uniswap,290026,0,11,0,-0.335,0
 2026-07-15T02:55:36.021694+00:00,base,GULD,2.7005,uniswap,uniswap,1699431,1,7,5,1.9636,1
 2026-07-15T02:39:52.587273+00:00,base,VVV,1.0185,aerodrome,uniswap,448472,1,17,0,-0.6457,0
+2026-07-15T02:45:39.558439+00:00,solana,SOL,0.7806,raydium,pumpswap,887606,1,18,3,0.6667,1
+2026-07-15T02:50:38.159689+00:00,solana,JITOSOL,0.4724,orca,meteora,380294,1,17,0,-0.1712,0
+2026-07-15T02:50:38.159689+00:00,base,CBBTC,0.8042,uniswap,aerodrome,602655,1,17,0,-0.361,0
+2026-07-15T02:50:38.159689+00:00,base,VIRTUAL,0.481,uniswap,aerodrome,654255,1,17,0,-0.6319,0
