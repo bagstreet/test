@@ -12960,3 +12960,7 @@ t0,chain,token,entry_spread_pct,lo_dex,hi_dex,min_tvl,whale,n_samples,n_pos_afte
 2026-07-16T22:22:47.023087+00:00,solana,MET,0.5277,meteora,meteora,659126,0,12,0,-0.1144,0
 2026-07-16T22:22:47.023087+00:00,base,FBOMB,2.0619,aerodrome,aerodrome,1122877,0,12,11,2.0087,1
 2026-07-16T22:24:30.180591+00:00,base,AERO,1.1765,aerodrome,uniswap,329578,1,12,0,-0.0443,0
+2026-07-16T23:00:26.188781+00:00,sui,WAL,0.4298,bluefin,bluefin,296499,0,2,0,-1.8477,0
+2026-07-16T22:31:22.307375+00:00,base,CBBTC,3.5906,aerodrome,aerodrome,327696,1,13,12,2.0123,1
+2026-07-16T22:55:16.080737+00:00,base,SOL,0.4245,aerodrome,aerodrome,298356,1,6,0,-1.8925,0
+2026-07-16T22:33:05.570920+00:00,base,WETH,0.3945,quickswap,uniswap,348167,1,13,0,-0.261,0
