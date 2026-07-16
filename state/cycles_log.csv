@@ -45532,3 +45532,14 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-07-16T02:43:21.443199+00:00,sui,NAVX→SUI→NAVX,2,cetus/flowx,2.5333,1.0,-0.1783,0,0
 2026-07-16T02:43:21.443199+00:00,solana,SOL→JTO→SOL,2,meteora/raydium,56.7104,1.0,-0.9034,0,0
 2026-07-16T02:43:21.443199+00:00,aptos,WETH→USDC→WETH,2,liquidswap/aux,207.1601,1.0,-0.9861,0,0
+2026-07-16T02:45:40.109290+00:00,sui,TURBOS→KW→TURBOS,2,turbos-finance/turbos-finance,77.319,1.0,-0.9144,0,0
+2026-07-16T02:45:40.109290+00:00,solana,RTM→SOL→RTM,2,meteora/meteora,9.7415,1.0,-0.8268,0,0
+2026-07-16T02:47:22.185517+00:00,sui,TURBOS→KW→TURBOS,2,turbos-finance/turbos-finance,77.319,1.0,-0.9144,0,0
+2026-07-16T02:47:22.185517+00:00,solana,RTM→SOL→RTM,2,meteora/meteora,9.7415,1.0,-0.8268,0,0
+2026-07-16T02:49:03.844031+00:00,sui,TURBOS→KW→TURBOS,2,turbos-finance/turbos-finance,77.319,1.0,-0.9144,0,0
+2026-07-16T02:49:03.844031+00:00,solana,RTM→SOL→RTM,2,meteora/meteora,9.7415,1.0,-0.8268,0,0
+2026-07-16T02:50:45.054610+00:00,solana,RTM→SOL→RTM,2,meteora/meteora,9.7415,1.0,-0.8268,0,0
+2026-07-16T02:52:26.385584+00:00,solana,RTM→SOL→RTM,2,meteora/meteora,9.7415,1.0,-0.8268,0,0
+2026-07-16T02:54:08.213622+00:00,solana,RTM→SOL→RTM,2,meteora/meteora,9.7415,1.0,-0.8268,0,0
+2026-07-16T02:55:49.432599+00:00,solana,RTM→SOL→RTM,2,meteora/meteora,9.7415,1.0,-0.8268,0,0
+2026-07-16T02:57:31.029247+00:00,solana,RTM→SOL→RTM,2,meteora/meteora,9.7415,1.0,-0.8268,0,0
