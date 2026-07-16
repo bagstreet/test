@@ -12845,3 +12845,12 @@ t0,chain,token,entry_spread_pct,lo_dex,hi_dex,min_tvl,whale,n_samples,n_pos_afte
 2026-07-16T14:14:51.223120+00:00,base,AERO,1.0398,aerodrome,aerodrome,565352,1,18,3,0.0936,1
 2026-07-16T14:15:43.559352+00:00,base,CBBTC,1.1053,aerodrome,aerodrome,320442,1,17,0,-0.3225,0
 2026-07-16T14:22:41.516576+00:00,base,CBETH,2.3763,alien-base,uniswap,274345,1,17,16,0.4168,1
+2026-07-16T14:36:29.373646+00:00,solana,ANSEM,0.497,meteora,meteora,327679,1,14,0,-0.0382,0
+2026-07-16T14:52:57.163056+00:00,solana,RAY,7.9738,raydium,raydium,2555172,1,5,1,0.018,0
+2026-07-16T14:41:36.014502+00:00,base,VIRTUAL,0.6082,aerodrome,uniswap,1114413,1,11,0,-0.1192,0
+2026-07-16T14:56:32.452658+00:00,base,SOL,0.42,aerodrome,pancakeswap,258128,1,3,0,-1.6069,0
+2026-07-16T14:47:35.454492+00:00,base,CBBTC,1.4349,aerodrome,aerodrome,320442,1,12,2,0.1624,1
+2026-07-16T14:47:35.454492+00:00,base,MAMO,0.8965,aerodrome,aerodrome,332509,0,12,0,-0.7753,0
+2026-07-16T14:47:35.454492+00:00,base,AERO,0.741,aerodrome,aerodrome,621726,1,12,0,-0.1224,0
+2026-07-16T15:15:17.403774+00:00,solana,JUP,0.7897,orca,meteora,308198,0,5,0,-0.9589,0
+2026-07-16T15:17:06.011933+00:00,solana,MSOL,2.8925,raydium,orca,282328,0,4,2,0.9752,1
