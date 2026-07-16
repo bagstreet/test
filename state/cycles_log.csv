@@ -46251,3 +46251,6 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-07-16T13:23:57.543577+00:00,sui,SUI→DEEP→SUI,2,flowx/steamm,1.6516,1.0,-0.4561,0,0
 2026-07-16T13:23:57.543577+00:00,solana,SOL→TRUMP→SOL,2,orca/meteora,16.0431,11.13,0.85,0,0
 2026-07-16T13:23:57.543577+00:00,base,MAMO→ETH→SURPLUS→WETH→MAMO,4,uniswap/uniswap/uniswap/aerodrome,42.7833,1.0,-0.8944,0,0
+2026-07-16T13:37:59.136358+00:00,sui,KW→USDT→KW,2,turbos-finance/turbos-finance,73.6155,3.69,1.1528,0,0
+2026-07-16T13:48:12.301898+00:00,sui,KW→USDT→KW,2,turbos-finance/turbos-finance,73.6155,3.69,1.1528,0,0
+2026-07-16T13:49:54.608652+00:00,sui,KW→USDT→KW,2,turbos-finance/turbos-finance,73.6155,3.69,1.1528,0,0
