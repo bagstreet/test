@@ -46675,3 +46675,6 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-07-16T20:49:11.311967+00:00,solana,ILY→URANUS→ILY,2,meteora/meteora,242.9683,7.68,17.2133,0,0
 2026-07-16T20:49:11.311967+00:00,base,WETH→AERO→WETH,2,aerodrome/aerodrome,0.8599,1.61,-0.0231,1,0
 2026-07-16T20:49:11.311967+00:00,aptos,APT→USDT→APT,2,aux/liquidswap,166.0403,7.61,4.7841,0,0
+2026-07-16T21:12:55.084575+00:00,solana,NOBODY→CSR→GODL→SOL→NOBODY,4,meteora/meteora/meteora/meteora,4.8358,1.0,-0.9925,0,0
+2026-07-16T21:14:37.966494+00:00,solana,NOBODY→CSR→GODL→SOL→NOBODY,4,meteora/meteora/meteora/meteora,4.8358,1.0,-0.9925,0,0
+2026-07-16T21:14:37.966494+00:00,base,ZORA→AERO→ZORA,2,aerodrome/aerodrome,2.9704,1.0,-0.0413,0,0
