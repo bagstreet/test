@@ -47112,3 +47112,14 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-07-17T03:28:11.756967+00:00,sui,KW→USDT→KW,2,turbos-finance/turbos-finance,74.2963,3.73,1.1739,0,0
 2026-07-17T03:28:11.756967+00:00,solana,ILY→URANUS→ILY,2,meteora/meteora,242.9683,7.68,17.2133,0,0
 2026-07-17T03:28:11.756967+00:00,base,USDT→WETH→GHO→USDT,3,baseswap/quickswap/uniswap,1.8262,1.0,-0.1296,0,0
+2026-07-17T03:31:03.045581+00:00,sui,WAL→VSUI→WAL,2,magma/turbos-finance,0.0176,1.0,-0.5812,0,0
+2026-07-17T03:31:03.045581+00:00,base,SOL→WETH→SOL,2,aerodrome/equalizer,4.1742,1.0,-0.9757,0,0
+2026-07-17T03:32:44.588174+00:00,sui,WAL→VSUI→WAL,2,magma/turbos-finance,0.0176,1.0,-0.5812,0,0
+2026-07-17T03:32:44.588174+00:00,base,SOL→WETH→SOL,2,aerodrome/equalizer,4.1742,1.0,-0.9757,0,0
+2026-07-17T03:34:26.584787+00:00,sui,WAL→VSUI→WAL,2,magma/turbos-finance,0.0176,1.0,-0.5812,0,0
+2026-07-17T03:34:26.584787+00:00,base,SOL→WETH→SOL,2,aerodrome/equalizer,4.1742,1.0,-0.9757,0,0
+2026-07-17T03:36:08.254775+00:00,sui,WAL→VSUI→WAL,2,magma/turbos-finance,0.0176,1.0,-0.5812,0,0
+2026-07-17T03:37:49.948851+00:00,sui,WAL→VSUI→WAL,2,magma/turbos-finance,0.0176,1.0,-0.5812,0,0
+2026-07-17T03:39:31.552424+00:00,sui,WAL→VSUI→WAL,2,magma/turbos-finance,0.0176,1.0,-0.5812,0,0
+2026-07-17T03:41:13.202240+00:00,sui,WAL→VSUI→WAL,2,magma/turbos-finance,0.0176,1.0,-0.5812,0,0
+2026-07-17T03:42:55.110914+00:00,sui,WAL→VSUI→WAL,2,magma/turbos-finance,0.0176,1.0,-0.5812,0,0
