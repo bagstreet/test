@@ -13392,3 +13392,4 @@ t0,chain,token,entry_spread_pct,lo_dex,hi_dex,min_tvl,whale,n_samples,n_pos_afte
 2026-07-17T20:03:47.725668+00:00,solana,JUP,4.9041,meteora,orca,304026,1,18,17,3.4778,1
 2026-07-17T20:03:47.725668+00:00,solana,SOL,0.6283,orca,pumpswap,2505085,1,18,5,1.0748,1
 2026-07-17T20:41:31.731981+00:00,solana,FARTCOIN ,0.3028,raydium,orca,474480,1,2,0,-0.5681,0
+2026-07-17T20:21:01.243273+00:00,base,CBBTC,1.8885,uniswap,aerodrome,325243,1,18,17,1.4749,1
