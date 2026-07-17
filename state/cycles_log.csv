@@ -48086,3 +48086,13 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-07-17T18:04:21.094138+00:00,solana,$WIF→SOL→$WIF,2,raydium/orca,29.3008,1.06,0.1348,0,0
 2026-07-17T18:04:21.094138+00:00,base,WETH→VVV→WETH,2,sushiswap/aerodrome,6.1517,1.0,-0.1946,0,0
 2026-07-17T18:04:21.094138+00:00,aptos,USDC→WETH→USDC,2,pancakeswap/liquidswap,201.0785,45.57,33.4795,0,0
+2026-07-17T18:17:03.133127+00:00,solana,WPOND→USDC→USDT→PEPE→WPOND,4,raydium/meteora/meteora/raydium,199.0624,1.0,0.2437,0,0
+2026-07-17T18:17:03.133127+00:00,base,FBOMB→SOL→ETH→BMX→FBOMB,4,aerodrome/uniswap/uniswap/aerodrome,109.7811,2.0,2.141,0,0
+2026-07-17T18:18:48.230100+00:00,solana,WPOND→USDC→USDT→PEPE→WPOND,4,raydium/meteora/meteora/raydium,199.0624,1.0,0.2437,0,0
+2026-07-17T18:18:48.230100+00:00,base,FBOMB→SOL→ETH→BMX→FBOMB,4,aerodrome/uniswap/uniswap/aerodrome,109.7811,2.0,2.141,0,0
+2026-07-17T18:20:32.796603+00:00,base,FBOMB→SOL→ETH→BMX→FBOMB,4,aerodrome/uniswap/uniswap/aerodrome,109.7811,2.0,2.141,0,0
+2026-07-17T18:22:17.445975+00:00,base,FBOMB→SOL→ETH→BMX→FBOMB,4,aerodrome/uniswap/uniswap/aerodrome,109.7811,2.0,2.141,0,0
+2026-07-17T18:24:02.247562+00:00,base,FBOMB→SOL→ETH→BMX→FBOMB,4,aerodrome/uniswap/uniswap/aerodrome,109.7811,2.0,2.141,0,0
+2026-07-17T18:25:47.330119+00:00,base,FBOMB→SOL→ETH→BMX→FBOMB,4,aerodrome/uniswap/uniswap/aerodrome,109.7811,2.0,2.141,0,0
+2026-07-17T18:27:32.070894+00:00,base,FBOMB→SOL→ETH→BMX→FBOMB,4,aerodrome/uniswap/uniswap/aerodrome,109.7811,2.0,2.141,0,0
+2026-07-17T18:29:16.218031+00:00,base,FBOMB→SOL→ETH→BMX→FBOMB,4,aerodrome/uniswap/uniswap/aerodrome,109.7811,2.0,2.141,0,0
