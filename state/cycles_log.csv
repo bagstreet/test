@@ -47766,3 +47766,5 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-07-17T13:12:48.438630+00:00,sui,SUI→NAVX→SUI,2,cetus/cetus,1.826,1.0,-0.9577,0,0
 2026-07-17T13:12:48.438630+00:00,solana,USELESS→USDC→USELESS,2,meteora/orca,5.9426,5.76,0.1586,0,0
 2026-07-17T13:12:48.438630+00:00,base,VVV→CBBTC→VVV,2,hydrex/uniswap,1.1083,1.0,-0.0264,0,0
+2026-07-17T13:17:25.383195+00:00,base,VVV→CBBTC→VVV,2,hydrex/uniswap,1.1083,1.0,-0.0264,0,0
+2026-07-17T13:19:09.649045+00:00,base,VVV→CBBTC→VVV,2,hydrex/uniswap,1.2332,1.0,-0.0252,0,0
