@@ -13130,3 +13130,7 @@ t0,chain,token,entry_spread_pct,lo_dex,hi_dex,min_tvl,whale,n_samples,n_pos_afte
 2026-07-17T07:20:04.671305+00:00,base,AERO,0.7387,aerodrome,uniswap,320855,1,12,1,0.1582,0
 2026-07-17T07:23:38.547545+00:00,solana,RAY,0.3149,raydium,raydium,970861,0,12,1,5.0146,0
 2026-07-17T07:25:25.300289+00:00,base,VIRTUAL,0.4236,uniswap,uniswap,710480,1,12,0,-0.6246,0
+2026-07-17T07:30:46.252041+00:00,solana,SOL,0.4573,raydium,pumpswap,2513466,1,11,0,-0.2429,0
+2026-07-17T07:28:59.300328+00:00,base,GULD,1.6653,uniswap,uniswap,1668269,1,12,11,1.048,1
+2026-07-17T07:30:46.252041+00:00,base,CBBTC,3.2373,aerodrome,aerodrome,325640,1,11,10,1.5626,1
+2026-07-17T07:30:46.252041+00:00,base,FBOMB,0.9151,aerodrome,aerodrome,1150320,1,11,10,0.6494,1
