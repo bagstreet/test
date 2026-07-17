@@ -13042,3 +13042,5 @@ t0,chain,token,entry_spread_pct,lo_dex,hi_dex,min_tvl,whale,n_samples,n_pos_afte
 2026-07-17T03:06:25.694791+00:00,base,WETH,0.727,uniswap,uniswap,807720,1,18,0,-0.2828,0
 2026-07-17T03:08:10.878343+00:00,solana,UMBRA,0.4197,meteora,metadao,370493,0,18,0,-1.0555,0
 2026-07-17T03:08:10.878343+00:00,base,ETH,1.5567,uniswap,uniswap,655350,1,18,17,0.3987,1
+2026-07-17T03:21:03.602429+00:00,solana,MET,1.2143,meteora,meteora,617842,1,17,0,-0.0019,0
+2026-07-17T03:24:37.370960+00:00,solana,SOL,0.5468,raydium,raydium,1258813,1,18,1,0.0474,0
