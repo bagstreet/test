@@ -48096,3 +48096,16 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-07-17T18:25:47.330119+00:00,base,FBOMB→SOL→ETH→BMX→FBOMB,4,aerodrome/uniswap/uniswap/aerodrome,109.7811,2.0,2.141,0,0
 2026-07-17T18:27:32.070894+00:00,base,FBOMB→SOL→ETH→BMX→FBOMB,4,aerodrome/uniswap/uniswap/aerodrome,109.7811,2.0,2.141,0,0
 2026-07-17T18:29:16.218031+00:00,base,FBOMB→SOL→ETH→BMX→FBOMB,4,aerodrome/uniswap/uniswap/aerodrome,109.7811,2.0,2.141,0,0
+2026-07-17T18:31:00.224968+00:00,solana,PEPE→MELANIA→SOL→WPOND→PEPE,4,meteora/raydium/meteora/raydium,72.4397,1.0,-0.9083,0,0
+2026-07-17T18:31:00.224968+00:00,aptos,WETH→USDC→WETH,2,liquidswap/animeswap,222.4283,1.0,-0.9789,0,0
+2026-07-17T18:32:40.112438+00:00,solana,PEPE→MELANIA→SOL→WPOND→PEPE,4,meteora/raydium/meteora/raydium,74.7192,1.0,-0.9082,0,0
+2026-07-17T18:32:40.112438+00:00,aptos,WETH→USDC→WETH,2,liquidswap/animeswap,222.4283,1.0,-0.9789,0,0
+2026-07-17T18:34:20.047541+00:00,solana,PEPE→MELANIA→SOL→WPOND→PEPE,4,meteora/raydium/meteora/raydium,74.7192,1.0,-0.9082,0,0
+2026-07-17T18:34:20.047541+00:00,aptos,WETH→USDC→WETH,2,liquidswap/animeswap,222.4283,1.0,-0.9789,0,0
+2026-07-17T18:35:59.850931+00:00,solana,PEPE→MELANIA→SOL→WPOND→PEPE,4,meteora/raydium/meteora/raydium,74.7192,1.0,-0.9082,0,0
+2026-07-17T18:35:59.850931+00:00,aptos,WETH→USDC→WETH,2,liquidswap/animeswap,222.4283,1.0,-0.9789,0,0
+2026-07-17T18:37:39.855868+00:00,solana,PEPE→MELANIA→SOL→WPOND→PEPE,4,meteora/raydium/meteora/raydium,74.7192,1.0,-0.9082,0,0
+2026-07-17T18:37:39.855868+00:00,aptos,WETH→USDC→WETH,2,liquidswap/animeswap,222.4283,1.0,-0.9789,0,0
+2026-07-17T18:39:20.660486+00:00,aptos,WETH→USDC→WETH,2,liquidswap/animeswap,222.4283,1.0,-0.9789,0,0
+2026-07-17T18:41:00.347871+00:00,aptos,WETH→USDC→WETH,2,liquidswap/animeswap,222.4283,1.0,-0.9789,0,0
+2026-07-17T18:42:40.149018+00:00,aptos,WETH→USDC→WETH,2,liquidswap/animeswap,222.4283,1.0,-0.9789,0,0
