@@ -49802,3 +49802,8 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-07-18T18:57:31.187501+00:00,solana,67→SOL→GODL→CIRCUIT→67,4,meteora/meteora/meteora/meteora,14.2681,4.66,0.3113,0,0
 2026-07-18T18:57:31.187501+00:00,base,PING→ETH→PING,2,uniswap/uniswap,1.8721,1.0,-0.0209,0,0
 2026-07-18T18:57:31.187501+00:00,aptos,APT→USDT→APT,2,aux/liquidswap,163.9548,7.53,4.682,0,0
+2026-07-18T19:01:01.254207+00:00,sui,TURBOS→NS→TURBOS,2,turbos-finance/turbos-finance,1.361,1.0,-0.4308,0,0
+2026-07-18T19:02:42.248156+00:00,sui,TURBOS→NS→TURBOS,2,turbos-finance/turbos-finance,1.361,1.0,-0.4308,0,0
+2026-07-18T19:04:23.253567+00:00,sui,TURBOS→NS→TURBOS,2,turbos-finance/turbos-finance,1.361,1.0,-0.4308,0,0
+2026-07-18T19:06:04.409324+00:00,sui,TURBOS→NS→TURBOS,2,turbos-finance/turbos-finance,1.361,1.0,-0.4308,0,0
+2026-07-18T19:07:45.610811+00:00,sui,TURBOS→NS→TURBOS,2,turbos-finance/turbos-finance,1.361,1.0,-0.4308,0,0
