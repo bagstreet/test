@@ -49400,3 +49400,11 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-07-18T12:41:28.010372+00:00,solana,WPOND→USDC→$WIF→PEPE→WPOND,4,raydium/meteora/meteora/raydium,213.7677,1.0,0.3054,0,0
 2026-07-18T12:43:13.449256+00:00,sui,USDC→US→USDC,2,cetus/cetus,6.7295,1.0,-0.8417,0,0
 2026-07-18T12:43:13.449256+00:00,solana,WPOND→USDC→$WIF→PEPE→WPOND,4,raydium/meteora/meteora/raydium,213.7677,1.0,0.3054,0,0
+2026-07-18T12:55:47.876842+00:00,base,ZORA→USDC→TOSHI→ETH→ZORA,4,uniswap/uniswap/uniswap/uniswap,97.9512,79.34,32.2577,0,0
+2026-07-18T12:57:33.641086+00:00,base,ZORA→USDC→TOSHI→ETH→ZORA,4,uniswap/uniswap/uniswap/uniswap,97.7764,26.88,10.8918,0,0
+2026-07-18T12:59:18.129387+00:00,base,ZORA→USDC→TOSHI→ETH→ZORA,4,uniswap/uniswap/uniswap/uniswap,97.9221,79.33,32.2471,0,0
+2026-07-18T13:01:02.018320+00:00,base,ZORA→USDC→TOSHI→ETH→ZORA,4,uniswap/uniswap/uniswap/uniswap,99.9039,80.84,33.426,0,0
+2026-07-18T13:02:45.918446+00:00,base,ZORA→USDC→TOSHI→ETH→ZORA,4,uniswap/uniswap/uniswap/uniswap,99.0879,27.22,11.157,0,0
+2026-07-18T13:04:31.580622+00:00,base,ZORA→USDC→TOSHI→ETH→ZORA,4,uniswap/uniswap/uniswap/uniswap,99.0879,27.22,11.157,0,0
+2026-07-18T13:06:15.408356+00:00,base,ZORA→USDC→TOSHI→ETH→ZORA,4,uniswap/uniswap/uniswap/uniswap,98.2136,26.97,10.9708,0,0
+2026-07-18T13:07:58.635804+00:00,base,ZORA→USDC→TOSHI→ETH→ZORA,4,uniswap/uniswap/uniswap/uniswap,97.7472,26.83,10.8701,0,0
