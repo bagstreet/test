@@ -13481,3 +13481,5 @@ t0,chain,token,entry_spread_pct,lo_dex,hi_dex,min_tvl,whale,n_samples,n_pos_afte
 2026-07-18T01:50:53.252130+00:00,solana,ORE,0.8709,meteora,orca,305844,1,18,0,-0.9375,0
 2026-07-18T02:15:38.578831+00:00,solana,BUTTCOIN,1.2932,pumpswap,meteora,345773,0,6,0,-0.2058,0
 2026-07-18T02:08:04.864878+00:00,solana,FARTCOIN ,0.3723,raydium,orca,874246,0,11,0,-0.4356,0
+2026-07-18T02:25:49.802996+00:00,solana,BUTTCOIN,0.5945,pumpswap,meteora,347762,1,5,0,-1.4138,0
+2026-07-18T02:34:17.369490+00:00,solana,TRUMP,0.6289,meteora,meteora,2849984,1,5,0,-0.0153,0
