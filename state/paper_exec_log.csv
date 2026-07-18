@@ -13769,3 +13769,7 @@ t0,chain,token,entry_spread_pct,lo_dex,hi_dex,min_tvl,whale,n_samples,n_pos_afte
 2026-07-18T18:06:30.456867+00:00,base,CBBTC,3.997,aerodrome,aerodrome,304686,1,12,11,2.2652,1
 2026-07-18T18:06:30.456867+00:00,base,VIRTUAL,0.7266,aerodrome,aerodrome,495574,1,12,0,-0.4992,0
 2026-07-18T18:37:40.947862+00:00,solana,BUTTCOIN,0.5045,meteora,pumpswap,349632,1,2,0,-1.2061,0
+2026-07-18T18:30:56.146858+00:00,solana,ARC,1.6847,meteora,raydium,366868,0,9,7,0.0656,1
+2026-07-18T18:13:21.039507+00:00,base,AERO,0.6181,aerodrome,aerodrome,2745923,1,12,0,-0.1996,0
+2026-07-18T18:45:37.870700+00:00,sui,US,1.4131,cetus,cetus,658291,1,2,0,-1.1078,0
+2026-07-18T18:16:44.683971+00:00,solana,SOL,1.7689,meteora,raydium,1294916,0,11,0,-0.1828,0
