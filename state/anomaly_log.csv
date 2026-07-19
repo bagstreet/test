@@ -80018,3 +80018,17 @@ ts,chain,token,disp_pct,z,cheap_dex,rich_dex,min_tvl,whale
 2026-07-19T00:41:10.787858+00:00,solana,USDC,0.7926,71.56,raydium,orca,1211931,0
 2026-07-19T00:41:10.787858+00:00,base,CBBTC,1.4122,-0.08,aerodrome,pancakeswap,310108,1
 2026-07-19T00:42:53.738360+00:00,base,CBBTC,1.4122,-0.02,aerodrome,pancakeswap,310108,1
+2026-07-19T00:45:40.510751+00:00,base,CBBTC,1.4122,-0.02,aerodrome,pancakeswap,310108,1
+2026-07-19T00:45:40.510751+00:00,base,WETH,0.7904,-0.7,uniswap,aerodrome,806396,1
+2026-07-19T00:47:26.898813+00:00,base,CBBTC,1.4122,0.0,aerodrome,pancakeswap,310108,1
+2026-07-19T00:47:26.898813+00:00,base,WETH,0.7904,-0.7,uniswap,aerodrome,806396,1
+2026-07-19T00:49:13.143517+00:00,base,CBBTC,1.4122,0.0,aerodrome,pancakeswap,310108,1
+2026-07-19T00:49:13.143517+00:00,base,WETH,0.7904,-0.7,uniswap,aerodrome,806396,1
+2026-07-19T00:50:58.997093+00:00,base,CBBTC,1.4122,0.0,aerodrome,pancakeswap,310108,1
+2026-07-19T00:50:58.997093+00:00,base,WETH,0.7909,-0.69,uniswap,aerodrome,806396,1
+2026-07-19T00:52:45.197406+00:00,base,CBBTC,1.3456,-2.21,aerodrome,uniswap,310108,1
+2026-07-19T00:52:45.197406+00:00,base,WETH,0.7914,-0.73,uniswap,aerodrome,806396,1
+2026-07-19T00:54:31.527276+00:00,base,CBBTC,1.364,-1.47,aerodrome,pancakeswap,310108,1
+2026-07-19T00:54:31.527276+00:00,base,WETH,0.7925,-0.39,uniswap,aerodrome,806396,1
+2026-07-19T00:56:17.818295+00:00,solana,FO,0.6894,4.63,meteora,meteora,2615118,0
+2026-07-19T00:58:03.958968+00:00,solana,FO,0.6894,3.71,meteora,meteora,2615116,0
