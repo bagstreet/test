@@ -50212,3 +50212,7 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-07-19T01:13:26.689755+00:00,solana,PEPE→MELANIA→SOL→USELESS→USD1→PEPE,5,meteora/raydium/meteora/raydium/meteora,86.2571,1.0,0.016,0,0
 2026-07-19T01:13:26.689755+00:00,base,DEGEN→AERO→DEGEN,2,aerodrome/aerodrome,1.4558,1.0,-0.0281,0,0
 2026-07-19T01:13:26.689755+00:00,aptos,USDT→APT→USDT,2,liquidswap/aux,163.9548,1.98,1.2142,0,0
+2026-07-19T01:15:39.649831+00:00,solana,HOUSE→SOL→HOUSE,2,meteora/orca,93.0951,2.0,1.817,0,0
+2026-07-19T01:19:08.006770+00:00,solana,HOUSE→SOL→HOUSE,2,meteora/orca,93.0951,2.0,1.817,0,0
+2026-07-19T01:26:04.207730+00:00,solana,HOUSE→SOL→HOUSE,2,meteora/orca,93.0951,2.0,1.817,0,0
+2026-07-19T01:27:48.255660+00:00,solana,HOUSE→SOL→HOUSE,2,meteora/orca,93.0951,2.0,1.817,0,0
