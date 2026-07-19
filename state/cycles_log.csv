@@ -50512,3 +50512,10 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-07-19T05:12:38.819437+00:00,sui,KW→TURBOS→KW,2,turbos-finance/turbos-finance,72.6377,2.09,0.6354,0,0
 2026-07-19T05:12:38.819437+00:00,solana,CIRCUIT→67→CSR→GODL→CIRCUIT,4,meteora/meteora/meteora/meteora,11.4667,1.0,-0.842,0,0
 2026-07-19T05:12:38.819437+00:00,base,TOSHI→WETH→TOSHI,2,pancakeswap/aerodrome,2.921,4.27,0.0319,0,0
+2026-07-19T05:17:22.492500+00:00,solana,CSR→FARTCOIN→CIRCUIT→67→CSR,4,meteora/meteora/meteora/meteora,10.0901,1.06,0.0423,0,0
+2026-07-19T05:19:04.980997+00:00,solana,CSR→FARTCOIN→CIRCUIT→67→CSR,4,meteora/meteora/meteora/meteora,10.0901,1.06,0.0423,0,0
+2026-07-19T05:20:47.751180+00:00,solana,CSR→FARTCOIN→CIRCUIT→67→CSR,4,meteora/meteora/meteora/meteora,10.0901,1.06,0.0423,0,0
+2026-07-19T05:22:31.117530+00:00,solana,67→CSR→FARTCOIN→CIRCUIT→67,4,meteora/meteora/meteora/meteora,10.0901,1.0,-0.839,0,0
+2026-07-19T05:24:13.682371+00:00,solana,67→CSR→FARTCOIN→CIRCUIT→67,4,meteora/meteora/meteora/meteora,10.0901,1.0,-0.839,0,0
+2026-07-19T05:25:56.227970+00:00,solana,CIRCUIT→67→CSR→FARTCOIN→CIRCUIT,4,meteora/meteora/meteora/meteora,10.0901,1.0,-0.5373,0,0
+2026-07-19T05:27:39.172616+00:00,solana,CIRCUIT→67→CSR→FARTCOIN→CIRCUIT,4,meteora/meteora/meteora/meteora,10.0901,1.0,-0.5373,0,0
