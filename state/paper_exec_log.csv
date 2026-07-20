@@ -14596,3 +14596,11 @@ t0,chain,token,entry_spread_pct,lo_dex,hi_dex,min_tvl,whale,n_samples,n_pos_afte
 2026-07-20T19:58:11.333763+00:00,base,AERO,0.6676,aerodrome,aerodrome,509496,1,11,2,0.2502,1
 2026-07-20T20:06:08.800650+00:00,base,VIRTUAL,0.7804,uniswap,aerodrome,462763,1,12,0,-0.0719,0
 2026-07-20T20:33:49.398315+00:00,base,MSETH,0.3264,aerodrome,aerodrome,17438659,0,3,0,-0.1514,0
+2026-07-20T20:13:01.724536+00:00,base,MAMO,0.8512,aerodrome,aerodrome,379585,0,10,0,-0.9848,0
+2026-07-20T20:26:42.224102+00:00,base,ETH,1.4597,uniswap,uniswap,309859,1,12,0,-0.3327,0
+2026-07-20T20:28:28.969580+00:00,solana,JUP,0.668,meteora,orca,326217,0,12,0,-0.8505,0
+2026-07-20T20:28:28.969580+00:00,solana,SOL,0.6193,meteora,raydium,702473,1,12,0,-0.2829,0
+2026-07-20T20:28:28.969580+00:00,base,CBBTC,4.014,aerodrome,aerodrome,304360,1,12,11,2.3475,1
+2026-07-20T20:33:49.398315+00:00,base,WEETH,0.5894,aerodrome,aerodrome,374472,0,9,0,-0.9802,0
+2026-07-20T20:33:49.398315+00:00,base,CBETH,0.5636,alien-base,hydrex,300067,0,12,0,-1.1969,0
+2026-07-20T20:33:49.398315+00:00,base,WETH,0.3236,uniswap,quickswap,317339,1,12,0,-0.6723,0
