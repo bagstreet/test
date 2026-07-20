@@ -14640,3 +14640,4 @@ t0,chain,token,entry_spread_pct,lo_dex,hi_dex,min_tvl,whale,n_samples,n_pos_afte
 2026-07-20T23:02:48.600990+00:00,solana,PUMP,0.3491,raydium,pumpswap,359269,1,6,0,-0.0059,0
 2026-07-20T23:06:26.136425+00:00,solana,HYPE,0.5452,meteora,orca,1062901,1,4,0,-0.3316,0
 2026-07-20T22:41:52.738127+00:00,base,MSETH,0.5466,aerodrome,aerodrome,17484373,0,11,9,0.0222,1
+2026-07-20T22:43:36.354343+00:00,base,WETH,0.3037,quickswap,0x03C01Acae3D0173a93d819efDc832C7C4F153B06,316301,1,11,0,-0.3737,0
