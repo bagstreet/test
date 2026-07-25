@@ -54834,3 +54834,11 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-07-25T17:48:32.058039+00:00,aptos,USDC→WETH→USDC,2,pancakeswap/pancakeswap,2.0214,1.0,-0.0159,0,0
 2026-07-25T17:50:15.135411+00:00,solana,USELESS→IME→USELESS,2,meteora/meteora,11.8336,1.0,-0.9532,0,0
 2026-07-25T17:50:15.135411+00:00,aptos,USDC→WETH→USDC,2,pancakeswap/pancakeswap,2.0214,1.0,-0.0159,0,0
+2026-07-25T18:35:07.719101+00:00,solana,USDC→ANSEM→TROLL→USDC,3,meteora/meteora/orca,3.3551,1.0,-0.0871,0,0
+2026-07-25T18:36:52.144454+00:00,solana,USDC→ANSEM→TROLL→USDC,3,meteora/meteora/orca,2.8603,1.0,-0.0896,0,0
+2026-07-25T18:38:36.039832+00:00,solana,TROLL→ANSEM→SOL→RTM→IME→TROLL,5,meteora/meteora/meteora/meteora/meteora,52.5804,1.0,-0.9109,0,0
+2026-07-25T18:40:19.723747+00:00,solana,USDC→ANSEM→USDC,2,orca/meteora,1.4193,82.28,0.5719,1,1
+2026-07-25T18:42:03.939973+00:00,solana,USDC→ANSEM→USDC,2,meteora/orca,1.9022,3.9,0.027,0,0
+2026-07-25T18:43:48.859514+00:00,solana,IME→TROLL→USDC→ANSEM→RTM→IME,5,meteora/meteora/orca/meteora/meteora,7.2737,1.12,0.0299,0,0
+2026-07-25T18:45:33.189732+00:00,solana,ANSEM→RTM→IME→TROLL→ANSEM,4,meteora/meteora/meteora/meteora,8.272,1.0,-0.986,0,0
+2026-07-25T18:47:17.557844+00:00,solana,IME→TROLL→USDC→ANSEM→RTM→IME,5,meteora/meteora/meteora/meteora/meteora,10.2642,1.52,0.0663,0,0
