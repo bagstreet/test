@@ -15604,3 +15604,10 @@ t0,chain,token,entry_spread_pct,lo_dex,hi_dex,min_tvl,whale,n_samples,n_pos_afte
 2026-07-28T21:26:15.370347+00:00,base,AERO,0.9589,aerodrome,aerodrome,835056,1,5,2,0.0328,1
 2026-07-28T21:27:59.056138+00:00,base,VIRTUAL,0.6133,aerodrome,aerodrome,481090,1,4,0,-0.0383,0
 2026-07-28T21:27:59.056138+00:00,base,WETH,0.5975,uniswap,uniswap,829190,1,4,0,-0.2571,0
+2026-07-28T22:31:44.119945+00:00,sui,CETUS,0.9206,cetus,cetus,431128,0,8,0,-0.8538,0
+2026-07-28T22:31:44.119945+00:00,solana,JITOSOL,0.6292,orca,meteora,355926,0,8,0,-0.4752,0
+2026-07-28T22:33:24.815558+00:00,solana,CATE,1.2192,meteora,pumpswap,252445,1,7,1,0.7254,0
+2026-07-28T22:33:24.815558+00:00,solana,SOL,0.5287,meteora,raydium,2817497,1,7,1,0.0959,0
+2026-07-28T22:30:03.204477+00:00,base,CBETH,0.5597,alien-base,alien-base,277455,0,9,0,-1.3576,0
+2026-07-28T22:31:44.119945+00:00,base,CBBTC,4.6895,aerodrome,aerodrome,346735,1,8,7,3.7971,1
+2026-07-28T22:31:44.119945+00:00,base,WETH,0.7263,uniswap,aerodrome,829249,1,8,0,-0.3121,0
