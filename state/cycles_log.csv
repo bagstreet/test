@@ -55983,3 +55983,21 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-07-29T09:31:18.800235+00:00,solana,USDC→FARTCOIN →USDC,2,raydium/meteora,1.0205,1.0,-0.0082,0,0
 2026-07-29T09:33:04.584309+00:00,sui,SUI→USDC→SUI,2,magma/steamm,1.5095,1.06,-0.0121,0,0
 2026-07-29T09:33:04.584309+00:00,solana,USDC→FARTCOIN →USDC,2,raydium/meteora,1.0205,1.0,-0.0082,0,0
+2026-07-29T11:37:36.557546+00:00,sui,TURBOS→KW→USDT→MUSIC→TURBOS,4,turbos-finance/turbos-finance/cetus/turbos-finance,128.5886,1.0,-0.7844,0,0
+2026-07-29T11:37:36.557546+00:00,base,VIRTUAL→ETH→VIRTUAL,2,uniswap/uniswap,0.4194,4.09,-0.0214,0,0
+2026-07-29T11:39:25.652349+00:00,sui,TURBOS→KW→USDT→MUSIC→TURBOS,4,turbos-finance/turbos-finance/cetus/turbos-finance,128.5886,1.0,-0.7844,0,0
+2026-07-29T11:39:25.652349+00:00,base,VIRTUAL→ETH→VIRTUAL,2,uniswap/uniswap,0.3508,3.43,-0.024,0,0
+2026-07-29T11:41:15.457617+00:00,sui,TURBOS→KW→USDT→MUSIC→TURBOS,4,turbos-finance/turbos-finance/cetus/turbos-finance,128.5886,1.0,-0.7844,0,0
+2026-07-29T11:41:15.457617+00:00,solana,GUAC→JUP→GUAC,2,orca/orca,0.6456,1.0,-0.1424,0,0
+2026-07-29T11:41:15.457617+00:00,base,VIRTUAL→ETH→VIRTUAL,2,uniswap/uniswap,0.3508,3.43,-0.024,0,0
+2026-07-29T11:43:07.512018+00:00,sui,TURBOS→KW→USDT→MUSIC→TURBOS,4,turbos-finance/turbos-finance/cetus/turbos-finance,128.5886,1.0,-0.7844,0,0
+2026-07-29T11:43:07.512018+00:00,base,VIRTUAL→ETH→VIRTUAL,2,uniswap/uniswap,0.3508,3.43,-0.024,0,0
+2026-07-29T11:44:59.495062+00:00,sui,TURBOS→KW→USDT→MUSIC→TURBOS,4,turbos-finance/turbos-finance/cetus/turbos-finance,128.5886,1.0,-0.7844,0,0
+2026-07-29T11:44:59.495062+00:00,base,VIRTUAL→ETH→VIRTUAL,2,uniswap/uniswap,0.3508,3.43,-0.024,0,0
+2026-07-29T11:46:49.811322+00:00,sui,TURBOS→KW→USDT→MUSIC→TURBOS,4,turbos-finance/turbos-finance/cetus/turbos-finance,128.5886,1.0,-0.7844,0,0
+2026-07-29T11:46:49.811322+00:00,base,VIRTUAL→ETH→VIRTUAL,2,uniswap/uniswap,0.3508,3.43,-0.024,0,0
+2026-07-29T11:48:39.870320+00:00,sui,TURBOS→KW→USDT→MUSIC→TURBOS,4,turbos-finance/turbos-finance/cetus/turbos-finance,128.5886,1.0,-0.7844,0,0
+2026-07-29T11:48:39.870320+00:00,solana,GUAC→JUP→GUAC,2,orca/orca,0.6456,1.0,-0.1424,0,0
+2026-07-29T11:48:39.870320+00:00,base,VIRTUAL→ETH→VIRTUAL,2,uniswap/uniswap,0.3508,3.43,-0.024,0,0
+2026-07-29T11:50:29.833370+00:00,sui,TURBOS→KW→USDT→MUSIC→TURBOS,4,turbos-finance/turbos-finance/cetus/turbos-finance,128.5886,1.0,-0.7844,0,0
+2026-07-29T11:50:29.833370+00:00,base,VIRTUAL→ETH→VIRTUAL,2,uniswap/uniswap,0.3508,3.43,-0.024,0,0
