@@ -15788,3 +15788,12 @@ t0,chain,token,entry_spread_pct,lo_dex,hi_dex,min_tvl,whale,n_samples,n_pos_afte
 2026-07-30T06:03:28.821992+00:00,solana,MET,1.6628,meteora,meteora,279664,0,9,0,-0.2679,0
 2026-07-30T06:03:28.821992+00:00,base,CBETH,0.8028,alien-base,alien-base,275056,0,9,0,-1.1426,0
 2026-07-30T06:05:15.932765+00:00,base,CBBTC,2.3058,uniswap,aerodrome,363393,1,8,7,1.6433,1
+2026-07-30T08:45:46.480525+00:00,solana,SOL,0.5178,meteora,raydium,605515,1,9,0,-0.0294,0
+2026-07-30T08:54:06.844086+00:00,solana,JUP,0.8222,meteora,orca,347075,0,4,0,-0.7789,0
+2026-07-30T08:45:46.480525+00:00,base,AERO,1.0286,aerodrome,aerodrome,810215,1,9,0,-0.5932,0
+2026-07-30T08:45:46.480525+00:00,base,VIRTUAL,0.8946,aerodrome,aerodrome,404297,0,9,0,-0.2447,0
+2026-07-30T08:45:46.480525+00:00,base,WETH,0.7391,uniswap,pancakeswap,832965,1,9,0,-0.0557,0
+2026-07-30T08:45:46.480525+00:00,base,WEETH,0.4066,aerodrome,aerodrome,363663,0,9,0,-0.8873,0
+2026-07-30T08:47:26.743695+00:00,base,CBBTC,3.2358,aerodrome,aerodrome,366614,1,8,7,1.6433,1
+2026-07-30T08:50:46.806450+00:00,base,PING,3.4572,uniswap,uniswap,254663,0,6,5,1.385,1
+2026-07-30T10:56:04.730517+00:00,solana,BUTTCOIN,3.1687,pumpswap,meteora,274231,1,8,6,1.0176,1
