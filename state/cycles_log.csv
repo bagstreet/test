@@ -56909,3 +56909,27 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-08-01T09:30:30.501745+00:00,sui,USDC→WAL→USDC,2,steamm/steamm,1.4355,1.0,-0.0176,0,0
 2026-08-01T09:30:30.501745+00:00,solana,PNUT →SJ→MOODENG→PNUT ,3,orca/orca/meteora,0.0146,1.0,-0.025,0,0
 2026-08-01T09:30:30.501745+00:00,base,ZORA→ETH→ZORA,2,uniswap/uniswap,11.5588,92.39,5.1638,0,0
+2026-08-01T10:53:35.606792+00:00,sui,WAL→HAEDAL→SUI→WAL,3,cetus/momentum/cetus,4.6277,1.0,-0.8526,0,0
+2026-08-01T10:53:35.606792+00:00,solana,SHDW→FPHX→KMNO→JUP→PYTH→SHDW,5,meteora/meteora/raydium/orca/orca,2.9666,1.0,-0.7687,0,0
+2026-08-01T10:53:35.606792+00:00,base,USDC→USDT→BRETT→USDC,3,aerodrome/aerodrome/aerodrome,4.6924,1.0,-0.8719,0,0
+2026-08-01T10:55:22.551630+00:00,sui,WAL→HAEDAL→SUI→WAL,3,cetus/momentum/cetus,4.6277,1.0,-0.8526,0,0
+2026-08-01T10:55:22.551630+00:00,solana,SHDW→FPHX→KMNO→JUP→PYTH→SHDW,5,meteora/meteora/raydium/orca/orca,2.9666,1.0,-0.7687,0,0
+2026-08-01T10:55:22.551630+00:00,base,USDC→USDT→BRETT→USDC,3,aerodrome/aerodrome/aerodrome,4.6924,1.0,-0.8719,0,0
+2026-08-01T10:57:09.087943+00:00,sui,WAL→HAEDAL→SUI→WAL,3,cetus/momentum/cetus,4.6277,1.0,-0.8526,0,0
+2026-08-01T10:57:09.087943+00:00,solana,PYTH→SHDW→FPHX→KMNO→JUP→PYTH,5,orca/meteora/meteora/raydium/orca,2.9666,1.0,-0.8828,0,0
+2026-08-01T10:57:09.087943+00:00,base,USDC→USDT→BRETT→USDC,3,aerodrome/aerodrome/aerodrome,4.6924,1.0,-0.8719,0,0
+2026-08-01T10:58:55.225375+00:00,sui,WAL→HAEDAL→SUI→WAL,3,cetus/momentum/cetus,4.6277,1.0,-0.8526,0,0
+2026-08-01T10:58:55.225375+00:00,solana,SHDW→FPHX→KMNO→JUP→PYTH→SHDW,5,meteora/meteora/raydium/orca/orca,2.9666,1.0,-0.7687,0,0
+2026-08-01T10:58:55.225375+00:00,base,USDC→USDT→BRETT→USDC,3,aerodrome/aerodrome/aerodrome,4.6924,1.0,-0.8719,0,0
+2026-08-01T11:00:42.135561+00:00,sui,WAL→HAEDAL→SUI→WAL,3,cetus/momentum/cetus,4.6277,1.0,-0.8526,0,0
+2026-08-01T11:00:42.135561+00:00,solana,SHDW→FPHX→KMNO→JUP→PYTH→SHDW,5,meteora/meteora/raydium/orca/orca,2.9666,1.0,-0.7687,0,0
+2026-08-01T11:00:42.135561+00:00,base,USDC→USDT→BRETT→USDC,3,aerodrome/aerodrome/aerodrome,4.6924,1.0,-0.8719,0,0
+2026-08-01T11:02:29.108726+00:00,sui,WAL→HAEDAL→SUI→WAL,3,cetus/momentum/cetus,4.6277,1.0,-0.8526,0,0
+2026-08-01T11:02:29.108726+00:00,solana,SHDW→FPHX→KMNO→JUP→PYTH→SHDW,5,meteora/meteora/raydium/orca/orca,2.9666,1.0,-0.7687,0,0
+2026-08-01T11:02:29.108726+00:00,base,USDC→USDT→BRETT→USDC,3,aerodrome/aerodrome/aerodrome,4.6924,1.0,-0.8719,0,0
+2026-08-01T11:04:15.034814+00:00,sui,WAL→HAEDAL→SUI→WAL,3,cetus/momentum/cetus,4.6277,1.0,-0.8526,0,0
+2026-08-01T11:04:15.034814+00:00,solana,KMNO→JUP→MET→USDC→KMNO,4,raydium/meteora/meteora/meteora,208.6679,189.38,143.3321,0,0
+2026-08-01T11:04:15.034814+00:00,base,USDC→USDT→BRETT→USDC,3,aerodrome/aerodrome/aerodrome,4.6924,1.0,-0.8719,0,0
+2026-08-01T11:06:01.565235+00:00,sui,WAL→HAEDAL→SUI→WAL,3,cetus/momentum/momentum,4.5968,1.0,-0.8527,0,0
+2026-08-01T11:06:01.565235+00:00,solana,KMNO→JUP→MET→USDC→KMNO,4,raydium/meteora/meteora/meteora,208.6679,189.38,143.3321,0,0
+2026-08-01T11:06:01.565235+00:00,base,USDC→USDT→BRETT→USDC,3,aerodrome/aerodrome/aerodrome,4.6924,1.0,-0.8719,0,0
