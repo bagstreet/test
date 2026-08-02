@@ -16129,3 +16129,7 @@ t0,chain,token,entry_spread_pct,lo_dex,hi_dex,min_tvl,whale,n_samples,n_pos_afte
 2026-08-02T09:24:25.445331+00:00,base,WETH,0.3192,uniswap,aerodrome,848957,1,7,0,-0.6014,0
 2026-08-02T09:29:33.462046+00:00,base,VIRTUAL,0.4616,aerodrome,uniswap,1041206,1,4,0,-0.424,0
 2026-08-02T09:32:57.598869+00:00,base,SOL,0.3093,aerodrome,aerodrome,265786,1,2,0,-1.8928,0
+2026-08-02T10:54:41.362480+00:00,sui,BUCK,0.3707,bluefin,cetus,282533,0,9,0,-1.546,0
+2026-08-02T10:54:41.362480+00:00,base,MAMO,0.5725,aerodrome,aerodrome,335553,0,9,0,-1.0595,0
+2026-08-02T11:01:22.439487+00:00,base,CBBTC,3.7487,aerodrome,uniswap,337994,1,5,4,2.0638,1
+2026-08-02T11:06:23.892938+00:00,base,VIRTUAL,0.3028,aerodrome,aerodrome,384169,1,2,0,-0.9997,0
