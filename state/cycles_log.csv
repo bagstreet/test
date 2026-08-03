@@ -57833,3 +57833,11 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-08-03T20:17:35.413990+00:00,sui,USDC→CETUS→USDC,2,cetus/cetus,24.795,68.96,8.0569,1,1
 2026-08-03T20:17:35.413990+00:00,solana,PAWEL→GIGA→USDC→GARI→PAWEL,4,meteora/meteora/meteora/meteora,5.9552,1.0,0.0037,0,0
 2026-08-03T20:17:35.413990+00:00,aptos,USDC→APT→ZUSDC→USDC,3,liquidswap/cellana/cellana,168.1197,1.0,-0.2298,0,0
+2026-08-03T21:18:11.181793+00:00,sui,NAVX→USDC→NAVX,2,cetus/cetus,6.4554,1.0,-0.282,0,0
+2026-08-03T21:18:11.181793+00:00,solana,DBR→SOL→DBR,2,meteora/meteora,3.376,1.0,-0.8338,0,0
+2026-08-03T21:19:54.770187+00:00,solana,DBR→SOL→DBR,2,meteora/meteora,3.376,1.0,-0.8338,0,0
+2026-08-03T21:23:28.121908+00:00,solana,DBR→SOL→DBR,2,meteora/meteora,3.376,1.0,-0.8338,0,0
+2026-08-03T21:25:11.918665+00:00,solana,DBR→SOL→DBR,2,meteora/meteora,3.376,1.0,-0.8338,0,0
+2026-08-03T21:26:57.104528+00:00,solana,DBR→SOL→DBR,2,meteora/meteora,3.376,1.0,-0.8338,0,0
+2026-08-03T21:28:42.336698+00:00,solana,DBR→SOL→DBR,2,meteora/meteora,3.376,1.0,-0.8338,0,0
+2026-08-03T21:30:26.107196+00:00,solana,DBR→SOL→DBR,2,meteora/meteora,3.376,1.0,-0.8338,0,0
