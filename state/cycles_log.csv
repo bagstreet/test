@@ -58019,3 +58019,11 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-08-04T12:05:50.249685+00:00,solana,SOL→JTO→SOL,2,orca/raydium,62.1241,1.0,-0.9212,0,0
 2026-08-04T12:05:50.249685+00:00,base,ETH→VVV→ETH,2,uniswap/uniswap,0.1405,1.0,-0.0323,0,0
 2026-08-04T12:05:50.249685+00:00,aptos,USDT→APT→USDT,2,liquidswap/liquidswap,170.5474,20.86,13.429,0,0
+2026-08-04T13:39:37.454881+00:00,solana,SOL→$WIF→SOL,2,fluxbeam/raydium,31.29,1.0,-0.9918,0,0
+2026-08-04T13:41:22.229538+00:00,solana,SOL→$WIF→SOL,2,fluxbeam/raydium,31.29,1.0,-0.9918,0,0
+2026-08-04T13:43:06.290067+00:00,solana,SOL→$WIF→SOL,2,fluxbeam/raydium,31.29,1.0,-0.9918,0,0
+2026-08-04T13:44:50.218485+00:00,solana,$WIF→SOL→$WIF,2,raydium/fluxbeam,31.29,1.09,0.1489,0,0
+2026-08-04T13:46:35.084651+00:00,solana,SOL→$WIF→SOL,2,fluxbeam/raydium,31.29,1.0,-0.9918,0,0
+2026-08-04T13:48:19.410727+00:00,solana,SOL→$WIF→SOL,2,fluxbeam/raydium,31.29,1.0,-0.9918,0,0
+2026-08-04T13:50:03.552732+00:00,solana,SOL→$WIF→SOL,2,fluxbeam/raydium,31.29,1.0,-0.9918,0,0
+2026-08-04T13:51:49.722911+00:00,solana,SOL→$WIF→SOL,2,fluxbeam/raydium,31.29,1.0,-0.9918,0,0
