@@ -58999,3 +58999,15 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-08-07T18:24:02.706799+00:00,sui,WUSDC→WETH→WUSDC,2,flowx/cetus,0.0965,1.0,-0.07,0,0
 2026-08-07T18:24:02.706799+00:00,solana,USDC→SOL→USDC,2,meteora/meteora,1.0304,295.31,1.5075,1,1
 2026-08-07T18:24:02.706799+00:00,base,USDC→ZORA→USDC,2,aerodrome/uniswap,96.1797,1.0,-0.9394,0,0
+2026-08-07T19:12:34.622211+00:00,base,USDC→VVV→USDC,2,uniswap/aerodrome,1.6125,1.0,-0.3704,0,0
+2026-08-07T19:14:23.269530+00:00,base,USDC→VVV→USDC,2,uniswap/aerodrome,1.6125,1.0,-0.3704,0,0
+2026-08-07T19:16:08.451787+00:00,base,USDC→VVV→USDC,2,uniswap/aerodrome,1.6125,1.0,-0.3704,0,0
+2026-08-07T19:17:56.017020+00:00,base,USDC→VVV→USDC,2,uniswap/aerodrome,1.6125,1.0,-0.3704,0,0
+2026-08-07T19:19:46.470709+00:00,base,USDC→VVV→USDC,2,uniswap/aerodrome,1.6125,1.0,-0.3704,0,0
+2026-08-07T19:19:46.470709+00:00,aptos,USDC→APT→BUSD→USDC,3,liquidswap/pancakeswap/pancakeswap,465.3427,1.0,-0.5146,0,0
+2026-08-07T19:21:32.402603+00:00,base,VVV→USDC→VVV,2,aerodrome/uniswap,1.6125,1.0,-0.891,0,0
+2026-08-07T19:21:32.402603+00:00,aptos,USDC→APT→BUSD→USDC,3,liquidswap/pancakeswap/pancakeswap,465.3427,1.0,-0.5146,0,0
+2026-08-07T19:23:20.134865+00:00,base,VVV→USDC→VVV,2,aerodrome/uniswap,1.6125,1.0,-0.891,0,0
+2026-08-07T19:23:20.134865+00:00,aptos,USDC→APT→BUSD→USDC,3,liquidswap/pancakeswap/pancakeswap,465.3427,1.0,-0.5146,0,0
+2026-08-07T19:25:07.236820+00:00,base,VVV→USDC→VVV,2,aerodrome/uniswap,1.6125,1.0,-0.891,0,0
+2026-08-07T19:25:07.236820+00:00,aptos,USDC→APT→BUSD→USDC,3,liquidswap/pancakeswap/pancakeswap,465.3427,1.0,-0.5146,0,0
