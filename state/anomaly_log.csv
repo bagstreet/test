@@ -92264,3 +92264,11 @@ ts,chain,token,disp_pct,z,cheap_dex,rich_dex,min_tvl,whale
 2026-08-07T22:57:17.561285+00:00,base,VVV,0.7055,-1.99,aerodrome,uniswap,252148,1
 2026-08-07T22:58:59.462280+00:00,solana,SOL,0.6052,-0.75,orca,pumpswap,2486799,1
 2026-08-07T23:04:12.037901+00:00,solana,SOL,0.9758,0.87,raydium,pumpswap,2504576,1
+2026-08-07T23:22:16.549666+00:00,solana,SOL,0.3399,-2.57,orca,meteora,633333,1
+2026-08-07T23:22:16.549666+00:00,base,CBBTC,1.423,,uniswap,aerodrome,371215,1
+2026-08-07T23:24:06.974916+00:00,solana,SOL,0.8296,0.05,raydium,pumpswap,2504821,1
+2026-08-07T23:29:31.867586+00:00,solana,SOL,0.6513,-0.97,raydium,pumpswap,762950,1
+2026-08-07T23:29:31.867586+00:00,solana,HYPE,0.3601,1.02,meteora,meteora,865719,1
+2026-08-07T23:31:20.602605+00:00,solana,SOL,0.6377,-1.04,meteora,pumpswap,2504818,1
+2026-08-07T23:31:20.602605+00:00,solana,HYPE,0.3119,0.53,meteora,orca,1228143,1
+2026-08-07T23:33:07.079678+00:00,solana,SOL,0.6377,-1.1,raydium,pumpswap,762968,1
