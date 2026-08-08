@@ -92503,3 +92503,8 @@ ts,chain,token,disp_pct,z,cheap_dex,rich_dex,min_tvl,whale
 2026-08-08T11:16:52.060022+00:00,solana,RAY,1.0979,2.23,raydium,raydium,2456224,1
 2026-08-08T11:16:52.060022+00:00,solana,SOL,0.6619,0.83,meteora,raydium,639590,1
 2026-08-08T11:16:52.060022+00:00,base,WETH,0.3665,0.15,aerodrome,uniswap,1142991,1
+2026-08-08T11:39:29.424385+00:00,solana,WBTC,1.5593,4.96,orca,orca,938564,0
+2026-08-08T11:42:59.416523+00:00,base,VVV,0.6222,11.15,uniswap,uniswap,250367,0
+2026-08-08T11:44:46.464441+00:00,base,VVV,0.6222,4.48,uniswap,uniswap,250367,0
+2026-08-08T11:46:31.671522+00:00,base,VVV,0.6222,3.4,uniswap,uniswap,250367,0
+2026-08-08T11:51:49.574319+00:00,base,SOL,0.3051,0.58,pancakeswap,aerodrome,264033,1
