@@ -92384,3 +92384,8 @@ ts,chain,token,disp_pct,z,cheap_dex,rich_dex,min_tvl,whale
 2026-08-08T06:07:04.399552+00:00,base,CBBTC,1.3871,-0.4,aerodrome,aerodrome,370689,1
 2026-08-08T06:10:48.530438+00:00,base,CBBTC,1.3871,-0.46,aerodrome,aerodrome,370689,1
 2026-08-08T06:14:31.520740+00:00,solana,PUMP,0.3057,-0.64,raydium,orca,423136,1
+2026-08-08T07:11:20.986644+00:00,solana,CUPSEY,2.3016,1.41,pumpswap,meteora,405868,1
+2026-08-08T07:11:20.986644+00:00,base,CBBTC,1.3872,-1.01,aerodrome,aerodrome,370689,1
+2026-08-08T07:11:20.986644+00:00,base,AERO,0.9587,4.22,aerodrome,uniswap,300185,0
+2026-08-08T07:13:05.671086+00:00,solana,CUPSEY,1.6562,0.79,pumpswap,meteora,405868,1
+2026-08-08T07:13:05.671086+00:00,base,AERO,1.0048,3.63,aerodrome,uniswap,300185,0
