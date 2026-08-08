@@ -16813,3 +16813,8 @@ t0,chain,token,entry_spread_pct,lo_dex,hi_dex,min_tvl,whale,n_samples,n_pos_afte
 2026-08-08T09:32:56.931043+00:00,base,ETH,1.1686,uniswap,uniswap,660583,0,4,0,-0.0064,0
 2026-08-08T10:03:20.308730+00:00,solana,CUPSEY,1.997,pumpswap,meteora,376575,1,5,3,2.907,1
 2026-08-08T10:06:58.734841+00:00,base,MSUSD,0.3614,aerodrome,aerodrome,1766374,1,4,0,-0.7873,0
+2026-08-08T10:01:32.326405+00:00,solana,SOL,0.4335,meteora,meteora,1978089,1,8,0,-0.1481,0
+2026-08-08T10:06:58.734841+00:00,sui,CETUS,3.1357,cetus,cetus,433405,1,8,2,1.7118,1
+2026-08-08T10:10:37.783110+00:00,base,CBBTC,1.6974,aerodrome,aerodrome,370689,1,8,0,-0.0446,0
+2026-08-08T10:10:37.783110+00:00,base,WETH,0.3847,aerodrome,uniswap,861287,1,8,0,-0.5372,0
+2026-08-08T10:12:26.766302+00:00,base,AERO,1.1002,aerodrome,uniswap,299488,0,8,0,-0.876,0
