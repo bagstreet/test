@@ -93439,3 +93439,11 @@ ts,chain,token,disp_pct,z,cheap_dex,rich_dex,min_tvl,whale
 2026-08-09T19:06:14.144248+00:00,base,CBBTC,3.6569,-0.61,aerodrome,aerodrome,356625,1
 2026-08-09T19:07:59.279393+00:00,base,CBBTC,3.6569,-0.61,aerodrome,aerodrome,356625,1
 2026-08-09T19:09:43.005209+00:00,solana,SOL,0.8587,0.12,raydium,meteora,619444,1
+2026-08-09T19:29:42.830234+00:00,solana,MSOL,1.0869,3.22,orca,raydium,277084,0
+2026-08-09T19:29:42.830234+00:00,solana,SOL,0.5617,-0.34,pumpswap,meteora,619444,1
+2026-08-09T19:31:29.382902+00:00,solana,MSOL,1.0869,3.71,orca,raydium,277084,0
+2026-08-09T19:31:29.382902+00:00,solana,SOL,0.8454,0.1,raydium,raydium,880666,1
+2026-08-09T19:33:15.801889+00:00,solana,SOL,0.8583,0.1,raydium,raydium,880796,1
+2026-08-09T19:36:52.539711+00:00,base,VIRTUAL,0.894,-1.18,aerodrome,aerodrome,447024,1
+2026-08-09T19:38:39.967479+00:00,base,VIRTUAL,0.8579,-1.5,uniswap,aerodrome,410591,1
+2026-08-09T19:40:27.403846+00:00,solana,SOL,0.5669,-0.39,pumpswap,meteora,619444,1
