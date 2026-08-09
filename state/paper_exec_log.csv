@@ -17108,3 +17108,8 @@ t0,chain,token,entry_spread_pct,lo_dex,hi_dex,min_tvl,whale,n_samples,n_pos_afte
 2026-08-09T19:55:24.934540+00:00,solana,FO,0.3666,meteora,meteora,2920288,0,7,0,-0.581,0
 2026-08-09T19:36:52.539711+00:00,base,VIRTUAL,0.894,aerodrome,aerodrome,447024,1,11,0,-0.6178,0
 2026-08-09T20:04:04.858305+00:00,solana,ANSEM,0.8121,pumpswap,meteora,1698708,0,7,0,-0.2136,0
+2026-08-09T20:04:04.858305+00:00,solana,SOL,0.5317,raydium,meteora,619444,1,12,6,188.4185,1
+2026-08-09T20:05:48.218020+00:00,base,CBBTC,3.5854,aerodrome,aerodrome,356625,1,11,10,1.9623,1
+2026-08-09T20:17:39.266296+00:00,base,CBETH,0.5711,alien-base,alien-base,269642,1,9,0,-1.1808,0
+2026-08-09T20:17:39.266296+00:00,base,WETH,0.3099,quickswap,aerodrome,346054,1,9,0,-1.2558,0
+2026-08-09T20:30:11.437878+00:00,base,VIRTUAL,0.6607,aerodrome,aerodrome,476555,1,4,0,-0.716,0
