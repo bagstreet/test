@@ -93447,3 +93447,15 @@ ts,chain,token,disp_pct,z,cheap_dex,rich_dex,min_tvl,whale
 2026-08-09T19:36:52.539711+00:00,base,VIRTUAL,0.894,-1.18,aerodrome,aerodrome,447024,1
 2026-08-09T19:38:39.967479+00:00,base,VIRTUAL,0.8579,-1.5,uniswap,aerodrome,410591,1
 2026-08-09T19:40:27.403846+00:00,solana,SOL,0.5669,-0.39,pumpswap,meteora,619444,1
+2026-08-09T19:55:24.934540+00:00,solana,SOL,0.5643,-0.39,pumpswap,meteora,619444,1
+2026-08-09T19:55:24.934540+00:00,solana,FO,0.3666,3.08,meteora,meteora,2920288,0
+2026-08-09T19:57:09.254957+00:00,solana,SOL,0.7146,-0.17,raydium,meteora,619444,1
+2026-08-09T20:00:36.542736+00:00,solana,SOL,0.5917,-0.18,raydium,meteora,619444,1
+2026-08-09T20:02:21.086639+00:00,solana,SOL,0.4796,-0.31,orca,raydium,880568,1
+2026-08-09T20:02:21.086639+00:00,base,MSUSD,0.321,4.25,aerodrome,aerodrome,1755263,0
+2026-08-09T20:04:04.858305+00:00,solana,ANSEM,0.8121,4.16,pumpswap,meteora,1698708,0
+2026-08-09T20:04:04.858305+00:00,solana,SOL,0.5317,-0.23,raydium,meteora,619444,1
+2026-08-09T20:05:48.218020+00:00,solana,SOL,0.7538,0.09,raydium,meteora,619444,1
+2026-08-09T20:05:48.218020+00:00,base,CBBTC,3.5854,-1.9,aerodrome,aerodrome,356625,1
+2026-08-09T20:07:31.769523+00:00,solana,ANSEM,0.5236,1.67,meteora,pumpswap,1690118,1
+2026-08-09T20:07:31.769523+00:00,base,CBBTC,3.5854,-1.85,aerodrome,aerodrome,356625,1
