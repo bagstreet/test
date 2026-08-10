@@ -17175,3 +17175,10 @@ t0,chain,token,entry_spread_pct,lo_dex,hi_dex,min_tvl,whale,n_samples,n_pos_afte
 2026-08-10T04:38:54.292182+00:00,base,VIRTUAL,0.3567,aerodrome,aerodrome,419245,1,8,0,-0.6658,0
 2026-08-10T04:42:25.955728+00:00,base,CBETH,0.3423,aerodrome,alien-base,270013,1,6,0,-1.2911,0
 2026-08-10T04:42:25.955728+00:00,base,WETH,0.3154,quickswap,uniswap,252471,1,6,0,-0.5315,0
+2026-08-10T06:00:05.338566+00:00,solana,JUP,0.6061,meteora,orca,340610,0,9,0,-0.8484,0
+2026-08-10T06:01:53.472840+00:00,solana,SOL,1.0748,meteora,raydium,614281,1,8,1,0.2425,0
+2026-08-10T06:10:57.986518+00:00,solana,ANSEM,0.3984,pumpswap,meteora,357277,1,3,0,-0.1371,0
+2026-08-10T06:00:05.338566+00:00,base,VVV,1.281,uniswap,aerodrome,259711,0,9,0,-0.7607,0
+2026-08-10T06:01:53.472840+00:00,base,CBBTC,3.3981,aerodrome,aerodrome,355018,1,8,7,2.0266,1
+2026-08-10T06:01:53.472840+00:00,base,VIRTUAL,0.9447,aerodrome,aerodrome,421586,1,8,2,0.2792,1
+2026-08-10T06:07:19.736610+00:00,base,WETH,0.3179,uniswap,pancakeswap,252507,1,5,0,-1.8203,0
