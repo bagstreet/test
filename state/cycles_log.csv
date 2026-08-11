@@ -61676,3 +61676,6 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-08-11T11:38:39.300570+00:00,solana,IMT→GRASS→IMT,2,pumpswap/orca,0.0139,1.0,-0.5118,0,0
 2026-08-11T11:38:39.300570+00:00,base,AERO→VVV→AERO,2,aerodrome/sushiswap,2.0927,1.0,-0.0474,0,0
 2026-08-11T11:38:39.300570+00:00,aptos,USDT→APT→USDT,2,liquidswap/aux,169.1656,1.88,1.1856,0,0
+2026-08-11T12:05:33.521923+00:00,base,TYBG→MAMO→WETH→TYBG,3,aerodrome/uniswap/solidlycom,4.6963,7.86,0.2764,0,0
+2026-08-11T12:09:07.214648+00:00,solana,GHOST→HORSEMEAT→SEIGE→FARTCOIN →SOL→GHOST,5,orca/raydium/raydium/raydium/meteora,8.4425,1.5,0.0522,0,0
+2026-08-11T12:17:59.428192+00:00,solana,GHOST→HORSEMEAT→SEIGE→FARTCOIN →SOL→GHOST,5,orca/raydium/raydium/raydium/meteora,8.4425,1.5,0.0522,0,0
