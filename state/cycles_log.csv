@@ -62707,3 +62707,5 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-08-13T11:48:49.488705+00:00,sui,KW→USDT→KW,2,turbos-finance/turbos-finance,67.4403,3.34,0.9613,0,0
 2026-08-13T11:48:49.488705+00:00,solana,USDT→USDC→USDT,2,meteora/meteora,14.3608,1.0,0.0141,0,0
 2026-08-13T11:48:49.488705+00:00,base,USDC→USDT→USDC,2,pancakeswap/aerodrome,0.5328,1.0,-0.0303,0,0
+2026-08-13T12:33:38.092699+00:00,sui,SCB→USDC→CETUS→FUD→SCB,4,flowx/cetus/cetus/flowx,15.7844,1.0,-0.9189,0,0
+2026-08-13T12:35:24.864434+00:00,sui,SCB→USDC→CETUS→FUD→SCB,4,flowx/cetus/cetus/flowx,15.7844,1.0,-0.9189,0,0
