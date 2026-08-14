@@ -17845,3 +17845,8 @@ t0,chain,token,entry_spread_pct,lo_dex,hi_dex,min_tvl,whale,n_samples,n_pos_afte
 2026-08-13T23:26:30.770650+00:00,solana,SOL,0.4564,meteora,pumpswap,2545028,1,7,1,0.0279,0
 2026-08-13T23:24:40.555109+00:00,base,CBBTC,0.9884,aerodrome,aerodrome,432247,0,8,0,-0.2663,0
 2026-08-13T23:24:40.555109+00:00,base,WETH,0.4552,uniswap,uniswap,831107,1,8,0,-0.5328,0
+2026-08-14T00:05:21.659622+00:00,solana,SOL,0.869,pumpswap,raydium,950374,1,8,0,-0.1183,0
+2026-08-14T00:03:29.662163+00:00,base,FBOMB,0.7117,aerodrome,aerodrome,1002829,0,9,0,-0.1886,0
+2026-08-14T00:05:21.659622+00:00,base,CBBTC,1.1598,aerodrome,aerodrome,432614,1,8,0,-0.1061,0
+2026-08-14T00:05:21.659622+00:00,base,VIRTUAL,0.8351,aerodrome,aerodrome,344131,1,8,0,-0.3672,0
+2026-08-14T00:07:17.318909+00:00,base,MAMO,0.754,aerodrome,aerodrome,327129,0,7,0,-0.5501,0
