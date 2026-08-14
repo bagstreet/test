@@ -17898,3 +17898,13 @@ t0,chain,token,entry_spread_pct,lo_dex,hi_dex,min_tvl,whale,n_samples,n_pos_afte
 2026-08-14T10:39:22.286142+00:00,base,CBBTC,1.1442,aerodrome,aerodrome,430726,1,8,0,-0.2609,0
 2026-08-14T10:39:22.286142+00:00,base,SOL,0.3048,aerodrome,aerodrome,359649,1,8,0,-1.2343,0
 2026-08-14T10:41:04.447590+00:00,base,WETH,0.5507,uniswap,uniswap,831022,1,7,0,-0.4327,0
+2026-08-14T11:26:09.078264+00:00,solana,JUP,1.0291,orca,meteora,311949,0,8,0,-0.7535,0
+2026-08-14T11:27:55.409989+00:00,solana,SOL,155.2409,meteora,meteora,345382,1,7,6,153.5823,1
+2026-08-14T11:24:21.911931+00:00,base,MAMO,0.897,aerodrome,aerodrome,358103,0,9,0,-0.7215,0
+2026-08-14T11:24:21.911931+00:00,base,DIEM,0.3916,aerodrome,aerodrome,307433,0,9,0,-0.221,0
+2026-08-14T11:26:09.078264+00:00,base,CBBTC,1.1442,aerodrome,aerodrome,430726,1,8,0,-0.2828,0
+2026-08-14T11:26:09.078264+00:00,base,WETH,0.4997,uniswap,uniswap,831022,1,8,0,-0.4832,0
+2026-08-14T11:26:09.078264+00:00,base,SOL,0.3446,aerodrome,aerodrome,256262,1,8,0,-1.2489,0
+2026-08-14T11:35:04.338274+00:00,solana,FO,0.3703,meteora,meteora,2927533,0,4,0,-0.2954,0
+2026-08-14T11:35:04.338274+00:00,base,VIRTUAL,0.8679,aerodrome,aerodrome,478501,1,4,0,-0.4696,0
+2026-08-14T11:35:04.338274+00:00,base,VVV,0.3393,uniswap,aerodrome,412576,0,4,0,-0.5193,0
