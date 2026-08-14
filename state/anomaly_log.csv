@@ -97080,3 +97080,12 @@ ts,chain,token,disp_pct,z,cheap_dex,rich_dex,min_tvl,whale
 2026-08-14T22:48:43.703797+00:00,solana,SOL,0.4541,-0.24,raydium,orca,889508,1
 2026-08-14T22:48:43.703797+00:00,base,CBBTC,1.4327,-0.0,aerodrome,aerodrome,424369,1
 2026-08-14T22:48:43.703797+00:00,base,SOL,0.3062,0.69,aerodrome,aerodrome,355235,1
+2026-08-14T22:56:45.383296+00:00,base,AERO,0.9524,4.35,uniswap,aerodrome,872531,0
+2026-08-14T22:58:33.407176+00:00,base,AERO,0.9777,3.47,uniswap,aerodrome,872312,0
+2026-08-14T23:02:09.529253+00:00,solana,SOL,0.4005,-0.2,meteora,orca,453118,1
+2026-08-14T23:03:58.727378+00:00,solana,SOL,0.4138,-0.16,meteora,raydium,891568,1
+2026-08-14T23:03:58.727378+00:00,base,CBBTC,1.5421,2.64,aerodrome,aerodrome,424369,1
+2026-08-14T23:03:58.727378+00:00,base,VIRTUAL,0.9688,2.03,uniswap,aerodrome,382744,1
+2026-08-14T23:05:47.171549+00:00,solana,SOL,0.4138,-0.16,meteora,raydium,891584,1
+2026-08-14T23:05:47.171549+00:00,base,VIRTUAL,0.8973,1.27,uniswap,aerodrome,382650,1
+2026-08-14T23:09:23.527739+00:00,base,MAMO,1.0868,4.92,aerodrome,aerodrome,361689,0
