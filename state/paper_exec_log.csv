@@ -18152,3 +18152,4 @@ t0,chain,token,entry_spread_pct,lo_dex,hi_dex,min_tvl,whale,n_samples,n_pos_afte
 2026-08-15T17:18:23.402597+00:00,base,CBBTC,0.9173,aerodrome,aerodrome,564657,1,14,0,-0.2826,0
 2026-08-15T17:18:23.402597+00:00,base,CBETH,0.6262,alien-base,aerodrome,264276,1,14,0,-1.3453,0
 2026-08-15T17:18:23.402597+00:00,base,WETH,0.4285,uniswap,uniswap,250193,1,14,0,-1.6469,0
+2026-08-15T17:39:06.088097+00:00,base,VIRTUAL,1.5003,aerodrome,aerodrome,267396,1,14,0,-0.3007,0
