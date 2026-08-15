@@ -63776,3 +63776,7 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-08-15T07:18:47.753542+00:00,solana,$WIF→SOL→$WIF,2,raydium/meteora,32.5705,1.15,0.1638,0,0
 2026-08-15T07:18:47.753542+00:00,base,ZORA→WETH→KEYCAT→MAMO→ZORA,4,pancakeswap/pancakeswap/aerodrome/aerodrome,12.0521,1.0,-0.8795,0,0
 2026-08-15T07:18:47.753542+00:00,aptos,USDA→USDC→USDA,2,aux/liquidswap,182.4319,79.63,54.1718,0,0
+2026-08-15T07:40:02.494639+00:00,sui,HIPPO→SUI→HIPPO,2,momentum/cetus,1.7296,1.0,-0.0211,0,0
+2026-08-15T07:40:02.494639+00:00,base,MAMO→ZORA→VIRTUAL→MAMO,3,aerodrome/uniswap/uniswap,6.2618,1.0,-0.9853,0,0
+2026-08-15T07:41:46.987650+00:00,base,MAMO→ZORA→VIRTUAL→MAMO,3,aerodrome/uniswap/uniswap,6.2618,1.0,-0.9853,0,0
+2026-08-15T07:52:13.110244+00:00,base,KEYCAT→WETH→KEYCAT,2,uniswap/pancakeswap,15.6058,2.0,0.2815,0,0

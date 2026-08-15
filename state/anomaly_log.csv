@@ -97340,3 +97340,10 @@ ts,chain,token,disp_pct,z,cheap_dex,rich_dex,min_tvl,whale
 2026-08-15T07:16:55.240997+00:00,base,CBBTC,1.3086,-2.03,aerodrome,aerodrome,425521,1
 2026-08-15T07:16:55.240997+00:00,base,WETH,0.3056,0.67,uniswap,aerodrome,250193,1
 2026-08-15T07:18:47.753542+00:00,base,CBBTC,1.3086,-1.99,aerodrome,aerodrome,425521,1
+2026-08-15T07:40:02.494639+00:00,solana,META,2.2075,6.45,meteora,meteora,291827,0
+2026-08-15T07:40:02.494639+00:00,base,CBBTC,1.3086,-1.97,aerodrome,aerodrome,425521,1
+2026-08-15T07:41:46.987650+00:00,solana,META,2.2075,3.76,meteora,meteora,291827,0
+2026-08-15T07:41:46.987650+00:00,base,CBBTC,1.3086,-1.96,aerodrome,aerodrome,425521,1
+2026-08-15T07:45:16.040200+00:00,solana,TRUMP,0.7143,4.9,meteora,raydium,775820,0
+2026-08-15T07:50:28.965381+00:00,solana,SOL,0.6901,-142.24,meteora,raydium,845727,1
+2026-08-15T07:52:13.110244+00:00,solana,SOL,0.8239,-4.83,raydium,pumpswap,2532596,1
