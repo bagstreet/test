@@ -97145,3 +97145,11 @@ ts,chain,token,disp_pct,z,cheap_dex,rich_dex,min_tvl,whale
 2026-08-15T00:07:20.091708+00:00,sui,USDSUI,0.3816,3.43,turbos-finance,bluefin,442649,0
 2026-08-15T00:07:20.091708+00:00,base,CBBTC,1.6125,0.0,aerodrome,aerodrome,424369,1
 2026-08-15T00:09:03.485693+00:00,base,CBBTC,1.6125,0.0,aerodrome,aerodrome,424369,1
+2026-08-15T00:46:51.573103+00:00,base,WSTETH,0.5905,3.63,aerodrome,aerodrome,413986,0
+2026-08-15T00:46:51.573103+00:00,base,CBETH,0.305,3.91,alien-base,aerodrome,298179,0
+2026-08-15T00:48:35.643905+00:00,base,CBBTC,1.2668,-4.83,aerodrome,aerodrome,424369,1
+2026-08-15T00:48:35.643905+00:00,base,WETH,0.3017,3.2,uniswap,aerodrome,7907861,0
+2026-08-15T00:50:19.414761+00:00,base,CBBTC,1.2668,-3.54,aerodrome,aerodrome,424369,1
+2026-08-15T00:50:19.414761+00:00,base,WETH,0.3023,2.69,uniswap,aerodrome,7907882,1
+2026-08-15T00:59:00.730335+00:00,base,CBBTC,1.2668,-2.15,aerodrome,aerodrome,424369,1
+2026-08-15T00:59:00.730335+00:00,base,VVV,0.5068,3.59,aerodrome,aerodrome,293604,0
