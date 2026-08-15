@@ -97462,3 +97462,12 @@ ts,chain,token,disp_pct,z,cheap_dex,rich_dex,min_tvl,whale
 2026-08-15T11:17:54.895336+00:00,base,VIRTUAL,0.4295,-1.59,aerodrome,aerodrome,267396,1
 2026-08-15T11:19:42.042623+00:00,base,CBBTC,0.3422,-1.87,aerodrome,aerodrome,563304,1
 2026-08-15T11:21:29.191917+00:00,base,CBBTC,0.3422,-1.83,aerodrome,aerodrome,563304,1
+2026-08-15T11:33:32.964510+00:00,solana,MET,1.6585,39.4,meteora,meteora,275089,0
+2026-08-15T11:36:57.712120+00:00,base,CBBTC,0.3088,-1.23,uniswap,aerodrome,563304,1
+2026-08-15T11:38:40.441095+00:00,solana,TRUMP,0.7143,4.9,meteora,meteora,2671310,0
+2026-08-15T11:38:40.441095+00:00,base,CBBTC,0.3088,-1.25,uniswap,aerodrome,563304,1
+2026-08-15T11:38:40.441095+00:00,base,VIRTUAL,0.3038,-2.28,aerodrome,aerodrome,267396,1
+2026-08-15T11:40:22.748534+00:00,solana,TRUMP,0.7143,3.54,meteora,meteora,2671310,0
+2026-08-15T11:40:22.748534+00:00,base,CBBTC,0.3088,-1.19,uniswap,aerodrome,563304,1
+2026-08-15T11:40:22.748534+00:00,base,VIRTUAL,0.3038,-2.2,aerodrome,aerodrome,267396,1
+2026-08-15T11:42:05.061558+00:00,base,CBBTC,0.3088,-1.24,uniswap,aerodrome,563304,1
