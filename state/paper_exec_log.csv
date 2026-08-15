@@ -18057,3 +18057,4 @@ t0,chain,token,entry_spread_pct,lo_dex,hi_dex,min_tvl,whale,n_samples,n_pos_afte
 2026-08-15T07:09:24.840305+00:00,base,WETH,0.3029,uniswap,aerodrome,250193,1,7,0,-1.7942,0
 2026-08-15T07:15:03.108167+00:00,solana,FO,0.3121,meteora,meteora,2944418,0,6,0,-0.3243,0
 2026-08-15T07:45:16.040200+00:00,solana,TRUMP,0.7143,meteora,raydium,775820,0,2,0,-0.5167,0
+2026-08-15T07:40:02.494639+00:00,solana,META,2.2075,meteora,meteora,291827,0,16,14,0.3363,1
