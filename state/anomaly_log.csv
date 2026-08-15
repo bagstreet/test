@@ -97448,3 +97448,6 @@ ts,chain,token,disp_pct,z,cheap_dex,rich_dex,min_tvl,whale
 2026-08-15T10:16:19.552993+00:00,base,CBBTC,0.7697,0.0,aerodrome,uniswap,456285,1
 2026-08-15T10:21:40.824517+00:00,base,VVV,0.5111,4.9,uniswap,aerodrome,272853,0
 2026-08-15T10:23:27.667359+00:00,base,VVV,0.5111,3.54,uniswap,aerodrome,272853,0
+2026-08-15T10:35:57.551822+00:00,base,CBBTC,0.7987,0.3,aerodrome,aerodrome,563226,1
+2026-08-15T10:37:40.571058+00:00,base,CBBTC,0.7278,-0.57,aerodrome,aerodrome,563226,1
+2026-08-15T10:39:22.826830+00:00,base,VIRTUAL,0.5899,-1.45,aerodrome,uniswap,1042609,1
