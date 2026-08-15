@@ -97845,3 +97845,7 @@ ts,chain,token,disp_pct,z,cheap_dex,rich_dex,min_tvl,whale
 2026-08-15T19:40:44.446233+00:00,solana,SOL,4.3239,-0.0,meteora,raydium,596942,1
 2026-08-15T19:40:44.446233+00:00,base,CBBTC,0.5782,-0.25,aerodrome,uniswap,457441,1
 2026-08-15T19:42:36.624096+00:00,base,CBBTC,0.5782,-0.3,aerodrome,uniswap,457441,1
+2026-08-15T19:52:10.422986+00:00,solana,SOL,4.1173,-0.38,meteora,pumpswap,596942,1
+2026-08-15T19:53:53.340280+00:00,solana,SOL,4.1173,-0.37,meteora,pumpswap,596942,1
+2026-08-15T19:55:36.878679+00:00,solana,SOL,4.4891,0.28,meteora,raydium,596942,1
+2026-08-15T20:00:46.188057+00:00,base,CBBTC,0.5587,-1.33,aerodrome,uniswap,457441,1
