@@ -97312,3 +97312,9 @@ ts,chain,token,disp_pct,z,cheap_dex,rich_dex,min_tvl,whale
 2026-08-15T06:06:26.592413+00:00,solana,SOL,11.0443,0.02,meteora,raydium,576132,1
 2026-08-15T06:06:26.592413+00:00,base,CBBTC,1.3303,,aerodrome,uniswap,425337,1
 2026-08-15T06:08:10.695732+00:00,base,CBBTC,1.3303,,aerodrome,uniswap,425337,1
+2026-08-15T06:29:16.249201+00:00,base,CBBTC,1.3303,,aerodrome,uniswap,425337,1
+2026-08-15T06:31:04.550757+00:00,base,CBBTC,1.3303,,aerodrome,uniswap,425337,1
+2026-08-15T06:36:30.160770+00:00,solana,CBBTC,1.6573,8.74,meteora,orca,2112064,1
+2026-08-15T06:38:17.894300+00:00,solana,CBBTC,1.6573,4.13,meteora,orca,2112064,1
+2026-08-15T06:38:17.894300+00:00,base,CBBTC,1.3086,-4.91,aerodrome,aerodrome,425337,1
+2026-08-15T06:40:06.967500+00:00,base,CBBTC,1.3086,-3.55,aerodrome,aerodrome,425337,1
