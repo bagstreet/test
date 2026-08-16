@@ -98338,3 +98338,12 @@ ts,chain,token,disp_pct,z,cheap_dex,rich_dex,min_tvl,whale
 2026-08-16T11:46:11.318339+00:00,base,VIRTUAL,1.1525,1.96,aerodrome,aerodrome,267762,1
 2026-08-16T11:46:11.318339+00:00,base,CBBTC,0.7985,-2.78,aerodrome,aerodrome,430612,1
 2026-08-16T11:47:53.056308+00:00,base,CBBTC,0.7985,-2.54,aerodrome,aerodrome,430612,1
+2026-08-16T11:54:37.183943+00:00,base,CBBTC,0.7985,-2.11,aerodrome,aerodrome,430612,1
+2026-08-16T11:58:12.912087+00:00,solana,SOL,1.6066,0.05,meteora,raydium,2008227,1
+2026-08-16T12:01:49.024235+00:00,solana,SOL,1.6066,0.06,meteora,raydium,2008227,1
+2026-08-16T12:01:49.024235+00:00,base,CBBTC,0.8103,-0.63,aerodrome,aerodrome,430612,1
+2026-08-16T12:03:36.891920+00:00,solana,SOL,0.9352,-0.01,raydium,meteora,610538,1
+2026-08-16T12:03:36.891920+00:00,solana,TRUMP,0.7194,4.9,meteora,meteora,2639804,0
+2026-08-16T12:03:36.891920+00:00,base,CBBTC,0.8103,-0.02,aerodrome,aerodrome,430612,1
+2026-08-16T12:05:24.409323+00:00,solana,TRUMP,0.7194,3.54,meteora,meteora,2639794,0
+2026-08-16T12:05:24.409323+00:00,base,CBBTC,0.8103,-0.0,aerodrome,aerodrome,430612,1
