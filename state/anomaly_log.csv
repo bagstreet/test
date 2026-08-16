@@ -98317,3 +98317,7 @@ ts,chain,token,disp_pct,z,cheap_dex,rich_dex,min_tvl,whale
 2026-08-16T10:46:30.483421+00:00,base,VIRTUAL,1.1015,3.46,uniswap,aerodrome,665754,0
 2026-08-16T10:50:05.095018+00:00,base,AERO,0.5747,3.11,aerodrome,aerodrome,1177810,0
 2026-08-16T10:51:52.164322+00:00,base,CBBTC,1.3916,0.0,aerodrome,aerodrome,430612,1
+2026-08-16T11:04:16.601889+00:00,solana,USDE,0.3704,4.9,orca,meteora,1522976,0
+2026-08-16T11:06:01.369033+00:00,solana,USDE,0.3704,3.54,orca,meteora,1522976,0
+2026-08-16T11:09:30.363006+00:00,solana,SOL,2.8564,-234.88,meteora,raydium,608386,1
+2026-08-16T11:11:17.393732+00:00,solana,SOL,0.9487,-5.19,raydium,pumpswap,2531307,1
