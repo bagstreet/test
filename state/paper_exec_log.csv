@@ -18279,3 +18279,4 @@ t0,chain,token,entry_spread_pct,lo_dex,hi_dex,min_tvl,whale,n_samples,n_pos_afte
 2026-08-16T09:15:06.887286+00:00,base,CBBTC,1.4013,aerodrome,aerodrome,430368,1,11,3,0.0211,1
 2026-08-16T09:16:51.474425+00:00,base,MAMO,0.6757,aerodrome,aerodrome,360736,0,11,0,-0.9231,0
 2026-08-16T09:51:30.983444+00:00,solana,JTO,0.6063,orca,orca,1366440,1,2,0,-0.7924,0
+2026-08-16T09:45:50.389254+00:00,base,MORPHO,0.5102,uniswap,aerodrome,375026,1,11,0,-0.5451,0
