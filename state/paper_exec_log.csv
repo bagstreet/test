@@ -18385,3 +18385,11 @@ t0,chain,token,entry_spread_pct,lo_dex,hi_dex,min_tvl,whale,n_samples,n_pos_afte
 2026-08-16T19:32:07.045671+00:00,base,CBBTC,0.7925,uniswap,aerodrome,456360,1,8,0,-0.3734,0
 2026-08-16T19:39:08.340711+00:00,base,MAMO,0.962,aerodrome,aerodrome,361625,0,5,0,-0.6456,0
 2026-08-16T19:40:53.213358+00:00,base,AERO,1.135,aerodrome,aerodrome,1223862,1,5,1,0.3152,0
+2026-08-16T20:09:22.377453+00:00,solana,PUMP,0.6204,pumpswap,meteora,2121851,0,8,0,-0.2578,0
+2026-08-16T20:07:37.090186+00:00,base,BRETT,0.891,aerodrome,uniswap,627245,0,9,0,-0.2482,0
+2026-08-16T20:09:22.377453+00:00,solana,ORE,2.1476,meteora,orca,271837,0,11,10,0.1757,1
+2026-08-16T20:09:22.377453+00:00,solana,SOL,0.6406,orca,pumpswap,2510535,1,11,3,0.0088,1
+2026-08-16T20:09:22.377453+00:00,base,CBBTC,0.8217,pancakeswap,aerodrome,577728,1,11,0,-0.3387,0
+2026-08-16T20:11:07.750497+00:00,solana,SPCX,0.9381,meteora,raydium,392053,0,11,0,-0.5827,0
+2026-08-16T20:12:53.125385+00:00,base,AERO,0.9376,aerodrome,aerodrome,687256,1,11,0,-0.1459,0
+2026-08-16T20:36:52.390630+00:00,base,EURC,0.8696,aerodrome,aerodrome,391093,0,5,0,-0.6547,0
