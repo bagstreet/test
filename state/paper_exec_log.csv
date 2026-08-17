@@ -18715,3 +18715,4 @@ t0,chain,token,entry_spread_pct,lo_dex,hi_dex,min_tvl,whale,n_samples,n_pos_afte
 2026-08-17T19:17:02.560714+00:00,solana,RAY,0.6477,raydium,raydium,936952,0,3,0,-0.79,0
 2026-08-17T19:37:07.034840+00:00,solana,USDG,4.1875,orca,orca,3582063,1,2,0,-0.5759,0
 2026-08-17T19:42:35.944982+00:00,solana,USDC,0.4597,meteora,orca,267178,0,2,0,-1.9886,0
+2026-08-17T19:37:07.034840+00:00,base,DIEM,0.4357,aerodrome,aerodrome,323389,1,16,0,-1.2897,0
