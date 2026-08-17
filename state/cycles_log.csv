@@ -66183,3 +66183,14 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-08-17T04:49:06.993561+00:00,sui,USDC→HASUI→USDC,2,momentum/cetus,0.0701,1.0,-0.0557,0,0
 2026-08-17T04:49:06.993561+00:00,solana,GIGA→IME→USDC→GIGA,3,meteora/meteora/meteora,3.4964,1.0,-0.0001,0,0
 2026-08-17T04:49:06.993561+00:00,base,DEGEN→USDC→DEGEN,2,uniswap/pancakeswap,2.5917,1.0,-0.0688,0,0
+2026-08-17T05:19:27.170317+00:00,sui,KW→USDT→USDC→KW,3,turbos-finance/magma/turbos-finance,73.71,3.67,1.1468,0,0
+2026-08-17T05:19:27.170317+00:00,solana,BOME→PAWEL→GIGA→CIRCUIT→$WIF→BOME,5,meteora/meteora/meteora/meteora/raydium,2.3439,1.0,-0.5866,0,0
+2026-08-17T05:21:08.628871+00:00,sui,KW→USDT→USDC→KW,3,turbos-finance/magma/turbos-finance,73.71,3.67,1.1468,0,0
+2026-08-17T05:21:08.628871+00:00,solana,PAWEL→GIGA→CIRCUIT→$WIF→BOME→PAWEL,5,meteora/meteora/meteora/raydium/meteora,2.3439,1.0,-0.0179,0,0
+2026-08-17T05:22:50.522913+00:00,solana,BOME→PAWEL→GIGA→CIRCUIT→$WIF→BOME,5,meteora/meteora/meteora/meteora/raydium,2.3439,1.0,-0.5866,0,0
+2026-08-17T05:24:32.501849+00:00,solana,PAWEL→GIGA→CIRCUIT→$WIF→BOME→PAWEL,5,meteora/meteora/meteora/raydium/meteora,2.3439,1.0,-0.0179,0,0
+2026-08-17T05:26:14.191439+00:00,solana,PAWEL→GIGA→CIRCUIT→$WIF→BOME→PAWEL,5,meteora/meteora/meteora/raydium/meteora,2.3439,1.0,-0.0179,0,0
+2026-08-17T05:27:55.635023+00:00,solana,PAWEL→GIGA→CIRCUIT→$WIF→BOME→PAWEL,5,meteora/meteora/meteora/raydium/meteora,2.3439,1.0,-0.0179,0,0
+2026-08-17T05:29:39.288406+00:00,solana,BOME→PAWEL→GIGA→CIRCUIT→$WIF→BOME,5,meteora/meteora/meteora/meteora/raydium,2.3439,1.0,-0.5866,0,0
+2026-08-17T05:31:22.177983+00:00,sui,KW→USDT→USDC→KW,3,turbos-finance/magma/turbos-finance,73.71,3.67,1.1468,0,0
+2026-08-17T05:31:22.177983+00:00,solana,BOME→PAWEL→GIGA→CIRCUIT→$WIF→BOME,5,meteora/meteora/meteora/meteora/raydium,2.3439,1.0,-0.5866,0,0
