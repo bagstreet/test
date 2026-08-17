@@ -66415,3 +66415,10 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-08-17T11:51:50.304502+00:00,solana,HYPE→USDC→USDT→HYPE,3,meteora/meteora/meteora,5.5611,1.0,-0.0605,0,0
 2026-08-17T11:51:50.304502+00:00,base,PZERO→SCALE→FBOMB→PZERO,3,equalizer/equalizer/equalizer,1.6364,3.53,-0.0013,0,0
 2026-08-17T11:51:50.304502+00:00,aptos,USDT→WBTC→USDT,2,liquidswap/liquidswap,2.2892,1.0,-0.3725,0,0
+2026-08-17T12:00:00.900911+00:00,solana,PAWEL→SPX→MSOL→MELANIA→PAWEL,4,meteora/raydium/orca/meteora,1.2151,1.0,-0.0062,0,0
+2026-08-17T12:00:00.900911+00:00,base,AERO→VVV→CBBTC→AERO,3,aerodrome/hydrex/aerodrome,0.3745,1.0,-0.0417,0,0
+2026-08-17T12:01:50.401255+00:00,base,CBBTC→CBETH→CBBTC,2,aerodrome/aerodrome,0.2829,1.0,-0.0314,0,0
+2026-08-17T12:03:39.842298+00:00,base,CBETH→CBBTC→CBETH,2,aerodrome/aerodrome,0.2829,9.92,-0.016,0,0
+2026-08-17T12:05:29.084024+00:00,base,CBETH→CBBTC→CBETH,2,aerodrome/aerodrome,0.2829,9.92,-0.016,0,0
+2026-08-17T12:07:18.257662+00:00,base,AERO→CBBTC→AERO,2,aerodrome/aerodrome,0.0541,163.71,0.0143,1,0
+2026-08-17T12:09:07.168845+00:00,base,AERO→CBBTC→AERO,2,aerodrome/aerodrome,0.0541,170.12,0.016,1,0
