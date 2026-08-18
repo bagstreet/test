@@ -18993,3 +18993,4 @@ t0,chain,token,entry_spread_pct,lo_dex,hi_dex,min_tvl,whale,n_samples,n_pos_afte
 2026-08-18T17:53:10.485699+00:00,base,CBBTC,1.2256,aerodrome,aerodrome,455068,1,7,0,-0.1549,0
 2026-08-18T17:54:57.397521+00:00,base,WETH,0.8123,uniswap,uniswap,822137,1,6,0,-0.1757,0
 2026-08-18T18:00:24.410532+00:00,base,EURC,0.8696,aerodrome,aerodrome,426242,0,3,0,-0.5703,0
+2026-08-18T19:36:38.575923+00:00,solana,ANSEM,2.5434,meteora,meteora,256499,1,16,15,1.3602,1

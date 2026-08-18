@@ -67723,3 +67723,7 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-08-18T19:49:04.787603+00:00,solana,MELANIA→MSOL→MELANIA,2,orca/orca,1.9526,1.0,-0.3513,0,0
 2026-08-18T19:49:04.787603+00:00,base,SURPLUS→USDC→MAMO→ZORA→ETH→SURPLUS,5,uniswap/hydrex/aerodrome/uniswap/uniswap,38.185,1.0,-0.533,0,0
 2026-08-18T19:49:04.787603+00:00,aptos,STAPT→USDC→STAPT,2,pancakeswap/liquidswap,5.7438,13.76,0.3698,0,0
+2026-08-18T19:56:05.212646+00:00,solana,67→SOL→67,2,raydium/meteora,63.6648,1.0,-0.3103,0,0
+2026-08-18T19:59:45.538595+00:00,solana,67→SOL→67,2,raydium/meteora,63.6648,1.0,-0.3103,0,0
+2026-08-18T20:05:19.069927+00:00,solana,67→SOL→67,2,raydium/meteora,63.6648,1.0,-0.3103,0,0
+2026-08-18T20:07:11.490648+00:00,solana,67→SOL→67,2,raydium/meteora,63.6648,1.0,-0.3103,0,0
