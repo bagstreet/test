@@ -68614,3 +68614,5 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-08-19T23:47:17.822600+00:00,sui,KW→USDT→KW,2,turbos-finance/turbos-finance,191.3877,8.24,5.8054,0,0
 2026-08-19T23:47:17.822600+00:00,solana,CATBAT→CSR→USCR→SOL→CATBAT,4,meteora/meteora/orca/meteora,21.0669,1.0,-0.3068,0,0
 2026-08-19T23:47:17.822600+00:00,base,AERO→USDC→AERO,2,aerodrome/aerodrome,0.8423,942.3,3.93,1,1
+2026-08-20T00:06:49.625842+00:00,base,MAMO→WETH→MAMO,2,uniswap/aerodrome,7.2829,32.89,1.1468,0,0
+2026-08-20T00:08:37.215318+00:00,base,MAMO→WETH→MAMO,2,uniswap/aerodrome,7.4099,33.46,1.1875,0,0
