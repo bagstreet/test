@@ -68839,3 +68839,12 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-08-20T07:27:04.032971+00:00,sui,KW→USDT→KW,2,turbos-finance/turbos-finance,191.3877,8.24,5.8054,0,0
 2026-08-20T07:27:04.032971+00:00,solana,SOL→BERT→SOL,2,raydium/meteora,6.6211,1.0,-0.9605,0,0
 2026-08-20T07:27:04.032971+00:00,base,USDBC→ALB→USDBC,2,alien-base/alien-base,0.5026,1.0,-0.1522,0,0
+2026-08-20T07:56:08.172988+00:00,solana,BSOL→JUP→MSOL→BSOL,3,meteora/raydium/meteora,0.5692,1.0,-0.8027,0,0
+2026-08-20T07:57:58.301227+00:00,solana,BSOL→JUP→MSOL→BSOL,3,meteora/raydium/meteora,0.5692,1.0,-0.8027,0,0
+2026-08-20T07:59:48.664260+00:00,solana,MSOL→BSOL→JUP→MSOL,3,meteora/meteora/raydium,0.5692,1.0,-0.8128,0,0
+2026-08-20T08:01:40.285742+00:00,solana,BSOL→JUP→MSOL→BSOL,3,meteora/raydium/meteora,0.5692,1.0,-0.8027,0,0
+2026-08-20T08:03:34.069502+00:00,solana,BSOL→JUP→BSOL,2,meteora/orca,1.1685,1.0,-0.1533,0,0
+2026-08-20T08:05:28.013280+00:00,solana,JUP→BSOL→JUP,2,orca/meteora,1.1357,17.72,0.0903,0,0
+2026-08-20T08:07:19.932744+00:00,solana,BSOL→JUP→BSOL,2,meteora/orca,1.1357,1.0,-0.1647,0,0
+2026-08-20T08:09:09.788600+00:00,sui,SUI→USDC→SUI,2,steamm/steamm,11.1937,1.0,-0.4262,0,0
+2026-08-20T08:09:09.788600+00:00,solana,JUP→BSOL→JUP,2,orca/meteora,1.1357,17.72,0.0903,0,0
