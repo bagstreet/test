@@ -69060,3 +69060,8 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-08-21T05:33:35.176330+00:00,sui,HIPPO→SUI→HIPPO,2,cetus/momentum,2.6118,1.0,-0.012,0,0
 2026-08-21T05:33:35.176330+00:00,solana,WEN→SOL→WEN,2,meteora/meteora,153.8545,4310.15,2557.1227,0,0
 2026-08-21T05:33:35.176330+00:00,base,HYDX→CBBTC→SOL→USDC→HYDX,4,hydrex/aerodrome/aerodrome/uniswap,5.9914,1.0,-0.4777,0,0
+2026-08-21T05:53:37.444559+00:00,base,EURC→CBBTC→EURC,2,pancakeswap/aerodrome,1.82,1.0,-0.0225,0,0
+2026-08-21T05:55:22.551288+00:00,base,EURC→CBBTC→EURC,2,pancakeswap/aerodrome,1.82,1.0,-0.0225,0,0
+2026-08-21T05:57:06.912698+00:00,base,EURC→CBBTC→EURC,2,pancakeswap/aerodrome,1.8857,1.0,-0.0218,0,0
+2026-08-21T05:58:52.761533+00:00,base,EURC→CBBTC→EURC,2,pancakeswap/aerodrome,1.8857,1.0,-0.0218,0,0
+2026-08-21T06:00:42.435286+00:00,base,EURC→CBBTC→EURC,2,pancakeswap/aerodrome,1.8857,1.0,-0.0218,0,0
