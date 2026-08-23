@@ -20252,3 +20252,6 @@ t0,chain,token,entry_spread_pct,lo_dex,hi_dex,min_tvl,whale,n_samples,n_pos_afte
 2026-08-23T18:46:08.740318+00:00,base,VIRTUAL,0.4183,uniswap,aerodrome,1346449,1,11,0,-0.4082,0
 2026-08-23T18:49:42.533824+00:00,base,WETH,0.5122,uniswap,0x03C01Acae3D0173a93d819efDc832C7C4F153B06,408962,1,12,0,-0.8427,0
 2026-08-23T18:51:27.847628+00:00,solana,ANSEM,0.4202,meteora,meteora,285221,1,12,0,-0.0301,0
+2026-08-23T19:14:28.500074+00:00,base,EURC,0.8621,aerodrome,aerodrome,407060,1,9,0,-0.5172,0
+2026-08-23T19:36:22.882866+00:00,base,EURC,0.8621,aerodrome,aerodrome,444288,1,2,0,-1.17,0
+2026-08-23T19:12:43.877398+00:00,solana,JITOSOL,0.4062,orca,meteora,385566,0,15,0,-0.4447,0
