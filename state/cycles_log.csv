@@ -69755,3 +69755,13 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-08-23T05:51:55.666732+00:00,solana,OGDOGE→IME→OGDOGE,2,meteora/meteora,0.5643,1.0,-0.0288,0,0
 2026-08-23T05:53:37.749444+00:00,sui,CETUS→BLUE→CETUS,2,cetus/cetus,7.2928,1.71,0.0412,0,0
 2026-08-23T05:53:37.749444+00:00,solana,OGDOGE→IME→OGDOGE,2,meteora/meteora,0.5643,1.0,-0.0288,0,0
+2026-08-23T05:59:57.009709+00:00,base,ZRO→WETH→ZRO,2,memebox/uniswap,5.5312,1.0,-0.0906,0,0
+2026-08-23T06:01:49.024082+00:00,base,ZRO→WETH→ZRO,2,memebox/uniswap,5.5312,1.0,-0.0906,0,0
+2026-08-23T06:03:40.467414+00:00,base,ZRO→WETH→ZRO,2,memebox/uniswap,5.5312,1.0,-0.0906,0,0
+2026-08-23T06:05:32.023689+00:00,sui,TURBOS→NS→TURBOS,2,turbos-finance/turbos-finance,0.6993,1.0,-0.4342,0,0
+2026-08-23T06:05:32.023689+00:00,base,ZRO→WETH→ZRO,2,memebox/uniswap,5.5312,1.0,-0.0906,0,0
+2026-08-23T06:07:21.356469+00:00,sui,TURBOS→NS→TURBOS,2,turbos-finance/turbos-finance,0.6993,1.0,-0.4342,0,0
+2026-08-23T06:09:10.641021+00:00,sui,TURBOS→NS→TURBOS,2,turbos-finance/turbos-finance,0.6993,1.0,-0.4342,0,0
+2026-08-23T06:11:00.631797+00:00,sui,TURBOS→NS→TURBOS,2,turbos-finance/turbos-finance,0.6993,1.0,-0.4342,0,0
+2026-08-23T06:12:51.331670+00:00,sui,TURBOS→NS→TURBOS,2,turbos-finance/turbos-finance,0.6993,1.0,-0.4342,0,0
+2026-08-23T06:12:51.331670+00:00,solana,BONK→$WIF→BONK,2,meteora/orca,2.0124,1.46,0.0046,0,0
