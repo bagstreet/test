@@ -70029,3 +70029,17 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-08-23T11:23:33.749099+00:00,solana,BONK→JTO→PYTH→PEPE→BONK,4,orca/orca/meteora/meteora,1.7454,1.0,-0.0247,0,0
 2026-08-23T11:25:24.755774+00:00,sui,SUI→BUCK→SUI,2,cetus/cetus,51.6942,1.0,-0.9125,0,0
 2026-08-23T11:25:24.755774+00:00,solana,BONK→JTO→PYTH→PEPE→BONK,4,orca/orca/meteora/meteora,1.7919,1.0,-0.0242,0,0
+2026-08-23T11:33:10.014634+00:00,sui,CETUS→NS→CETUS,2,cetus/cetus,4.1039,1.58,0.0122,0,0
+2026-08-23T11:33:10.014634+00:00,solana,ESR→MON→IMT→TRIPLET→ESR,4,meteora/meteora/pumpswap/meteora,5.8119,1.0,-0.4082,0,0
+2026-08-23T11:34:57.629853+00:00,sui,CETUS→NS→CETUS,2,cetus/cetus,4.1039,1.58,0.0122,0,0
+2026-08-23T11:34:57.629853+00:00,solana,ESR→MON→IMT→TRIPLET→ESR,4,meteora/meteora/pumpswap/meteora,5.8119,1.0,-0.4082,0,0
+2026-08-23T11:36:45.594219+00:00,sui,NS→CETUS→NS,2,cetus/cetus,4.1039,3.11,0.0431,0,0
+2026-08-23T11:38:33.188786+00:00,sui,NS→CETUS→NS,2,cetus/cetus,4.7761,3.59,0.0647,0,0
+2026-08-23T11:38:33.188786+00:00,solana,ESR→MON→IMT→TRIPLET→ESR,4,meteora/meteora/pumpswap/meteora,5.8119,1.0,-0.4082,0,0
+2026-08-23T11:40:21.042143+00:00,sui,NS→CETUS→NS,2,cetus/cetus,4.7761,3.59,0.0647,0,0
+2026-08-23T11:42:09.211184+00:00,sui,NS→CETUS→NS,2,cetus/cetus,5.0816,3.81,0.0755,0,0
+2026-08-23T11:42:09.211184+00:00,base,USDBC→BSTONK→USDC→WSTETH→CBETH→USDBC,5,uniswap/uniswap/quickswap/solidlycom/uniswap,104.8234,1.0,-0.8251,0,0
+2026-08-23T11:43:56.921310+00:00,sui,TURBOS→KW→USDT→CETUS→NS→TURBOS,5,turbos-finance/turbos-finance/cetus/cetus/turbos-finance,211.7757,1.0,-0.7888,0,0
+2026-08-23T11:43:56.921310+00:00,base,USDBC→BSTONK→USDC→WSTETH→CBETH→USDBC,5,uniswap/uniswap/quickswap/solidlycom/uniswap,104.8234,1.0,-0.8251,0,0
+2026-08-23T11:45:45.236624+00:00,sui,KW→USDT→CETUS→NS→TURBOS→KW,5,turbos-finance/cetus/cetus/turbos-finance/turbos-finance,211.7757,2.0,3.2625,0,0
+2026-08-23T11:45:45.236624+00:00,solana,ESR→MON→IMT→TRIPLET→ESR,4,meteora/meteora/pumpswap/meteora,5.8119,1.0,-0.4082,0,0
