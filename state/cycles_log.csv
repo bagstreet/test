@@ -70241,3 +70241,13 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-08-23T15:22:05.564439+00:00,sui,FOMO→VSUI→FOMO,2,cetus/cetus,-0.4994,1.0,-0.0842,0,0
 2026-08-23T15:22:05.564439+00:00,base,AERO→USDBC→AERO,2,uniswap/aerodrome,1.6226,2.46,-0.0101,0,0
 2026-08-23T15:22:05.564439+00:00,aptos,USDT→STAPT→USDT,2,liquidswap/pancakeswap,0.8332,1.0,-0.435,0,0
+2026-08-23T15:33:48.161998+00:00,sui,KW→USDT→USDC→TURBOS→KW,4,turbos-finance/cetus/turbos-finance/turbos-finance,205.5301,3.1,4.2945,0,0
+2026-08-23T15:35:31.661951+00:00,sui,KW→USDT→USDC→TURBOS→KW,4,turbos-finance/cetus/turbos-finance/turbos-finance,205.5301,3.1,4.2945,0,0
+2026-08-23T15:37:14.638662+00:00,sui,KW→USDT→USDC→TURBOS→KW,4,turbos-finance/cetus/turbos-finance/turbos-finance,205.5301,3.1,4.2945,0,0
+2026-08-23T15:37:14.638662+00:00,solana,USDT→FARTCOIN →PENGU→USDT,3,meteora/meteora/raydium,0.4235,1.0,-0.0741,0,0
+2026-08-23T15:38:57.750461+00:00,sui,KW→USDT→USDC→TURBOS→KW,4,turbos-finance/cetus/turbos-finance/turbos-finance,205.5301,3.1,4.2945,0,0
+2026-08-23T15:40:42.381464+00:00,sui,KW→USDT→USDC→TURBOS→KW,4,turbos-finance/cetus/turbos-finance/turbos-finance,205.5301,3.1,4.2945,0,0
+2026-08-23T15:42:25.637652+00:00,sui,KW→USDT→USDC→TURBOS→KW,4,turbos-finance/cetus/turbos-finance/turbos-finance,205.5301,3.1,4.2945,0,0
+2026-08-23T15:44:08.400782+00:00,sui,KW→USDT→USDC→TURBOS→KW,4,turbos-finance/cetus/turbos-finance/turbos-finance,205.5301,3.1,4.2945,0,0
+2026-08-23T15:45:51.539493+00:00,sui,KW→USDT→USDC→TURBOS→KW,4,turbos-finance/cetus/turbos-finance/turbos-finance,205.5301,3.1,4.2945,0,0
+2026-08-23T15:45:51.539493+00:00,solana,USELESS→FARTCOIN →USDT→CSR→USELESS,4,orca/meteora/meteora/meteora,1.4192,1.0,-0.9959,0,0
