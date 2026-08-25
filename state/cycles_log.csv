@@ -71516,3 +71516,11 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-08-25T11:28:21.652366+00:00,solana,GIGA→CSR→GHOST→PEPE→GIGA,4,meteora/meteora/meteora/meteora,1.63,1.0,-0.8987,0,0
 2026-08-25T11:30:09.460942+00:00,solana,GIGA→CSR→GHOST→PEPE→GIGA,4,meteora/meteora/meteora/meteora,1.63,1.0,-0.8987,0,0
 2026-08-25T11:30:09.460942+00:00,base,AERO→DIEM→AERO,2,uniswap/aerodrome,3.5364,1.0,-0.3691,0,0
+2026-08-25T11:50:26.739697+00:00,solana,PYTH→JUP→PYTH,2,orca/raydium,0.4,1.27,-0.0075,0,0
+2026-08-25T11:52:11.451556+00:00,solana,JUP→PYTH→JUP,2,raydium/orca,0.4,1.0,-0.0128,0,0
+2026-08-25T11:53:56.415341+00:00,solana,PYTH→JUP→PYTH,2,orca/raydium,0.4,1.27,-0.0075,0,0
+2026-08-25T11:55:43.551710+00:00,solana,JUP→PYTH→JUP,2,raydium/orca,0.4,1.0,-0.0128,0,0
+2026-08-25T11:57:29.049496+00:00,solana,PYTH→JUP→PYTH,2,orca/raydium,0.356,1.13,-0.008,0,0
+2026-08-25T11:59:13.697418+00:00,solana,JUP→PYTH→JUP,2,raydium/orca,0.4405,1.0,-0.0124,0,0
+2026-08-25T12:00:59.766603+00:00,solana,JUP→PYTH→JUP,2,raydium/orca,0.3971,1.0,-0.0128,0,0
+2026-08-25T12:02:46.913167+00:00,solana,JUP→PYTH→JUP,2,raydium/orca,0.3537,1.0,-0.0132,0,0
