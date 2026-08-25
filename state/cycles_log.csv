@@ -71506,3 +71506,13 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-08-25T11:09:36.489994+00:00,sui,DEEP→WAL→DEEP,2,fullsail/cetus,0.0443,1.0,-0.1229,0,0
 2026-08-25T11:09:36.489994+00:00,base,TOSHI→BRETT→TOSHI,2,aerodrome/aerodrome,12.4022,1.0,-0.0783,0,0
 2026-08-25T11:09:36.489994+00:00,aptos,APT→USDT→APT,2,aux/liquidswap,174.3154,7.92,5.1771,0,0
+2026-08-25T11:17:35.372721+00:00,solana,PEPE→GIGA→CSR→GHOST→PEPE,4,meteora/meteora/meteora/meteora,2.7331,1.0,-0.2632,0,0
+2026-08-25T11:19:22.611916+00:00,solana,PEPE→GIGA→CSR→GHOST→PEPE,4,meteora/meteora/meteora/meteora,2.7331,1.0,-0.2632,0,0
+2026-08-25T11:21:10.382373+00:00,sui,SUAI→USDT→SUAI,2,cetus/cetus,5.6885,1.0,-0.937,0,0
+2026-08-25T11:22:58.992032+00:00,sui,SUAI→USDT→SUAI,2,cetus/cetus,5.6885,1.0,-0.937,0,0
+2026-08-25T11:22:58.992032+00:00,solana,GIGA→CSR→GHOST→PEPE→GIGA,4,meteora/meteora/meteora/meteora,1.63,1.0,-0.8987,0,0
+2026-08-25T11:24:46.552875+00:00,solana,CSR→GHOST→PEPE→GIGA→CSR,4,meteora/meteora/meteora/meteora,1.63,1.0,-0.0651,0,0
+2026-08-25T11:26:34.107013+00:00,solana,GIGA→CSR→GHOST→PEPE→GIGA,4,meteora/meteora/meteora/meteora,1.63,1.0,-0.8987,0,0
+2026-08-25T11:28:21.652366+00:00,solana,GIGA→CSR→GHOST→PEPE→GIGA,4,meteora/meteora/meteora/meteora,1.63,1.0,-0.8987,0,0
+2026-08-25T11:30:09.460942+00:00,solana,GIGA→CSR→GHOST→PEPE→GIGA,4,meteora/meteora/meteora/meteora,1.63,1.0,-0.8987,0,0
+2026-08-25T11:30:09.460942+00:00,base,AERO→DIEM→AERO,2,uniswap/aerodrome,3.5364,1.0,-0.3691,0,0
