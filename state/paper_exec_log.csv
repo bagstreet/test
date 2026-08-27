@@ -21263,3 +21263,11 @@ t0,chain,token,entry_spread_pct,lo_dex,hi_dex,min_tvl,whale,n_samples,n_pos_afte
 2026-08-26T23:53:16.281167+00:00,base,BASECAT,1.7266,uniswap,uniswap,416683,1,6,0,-0.0055,0
 2026-08-26T23:56:53.086153+00:00,base,NVDAC,0.4105,uniswap,aerodrome,377124,1,4,0,-0.9153,0
 2026-08-26T23:56:53.086153+00:00,base,SOL,0.3051,pancakeswap,aerodrome,444837,1,4,0,-1.3128,0
+2026-08-27T05:24:47.248019+00:00,solana,SOL,0.5555,orca,pumpswap,2918767,1,7,2,0.0887,1
+2026-08-27T05:26:31.954992+00:00,solana,ANSEM,0.4322,meteora,pumpswap,2504017,1,6,0,-0.2262,0
+2026-08-27T05:23:02.495637+00:00,base,CBBTC,1.7214,uniswap,aerodrome,480398,1,8,7,0.3873,1
+2026-08-27T05:23:02.495637+00:00,base,CBETH,0.6196,aerodrome,alien-base,396094,1,8,0,-0.8697,0
+2026-08-27T05:26:31.954992+00:00,base,VIRTUAL,0.6946,uniswap,aerodrome,1375831,1,6,0,-0.4174,0
+2026-08-27T05:26:31.954992+00:00,base,SOL,0.3468,aerodrome,pancakeswap,306407,1,6,0,-1.2594,0
+2026-08-27T05:30:00.688274+00:00,base,WETH,0.3374,aerodrome,uniswap,321875,1,4,0,-0.2656,0
+2026-08-27T16:35:35.219561+00:00,solana,TRUMP,0.361,meteora,orca,290146,1,7,0,-1.5145,0
