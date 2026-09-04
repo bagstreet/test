@@ -21687,3 +21687,11 @@ t0,chain,token,entry_spread_pct,lo_dex,hi_dex,min_tvl,whale,n_samples,n_pos_afte
 2026-09-03T22:57:39.132633+00:00,base,CBBTC,1.3777,aerodrome,aerodrome,500929,1,8,2,0.0776,1
 2026-09-03T23:01:11.495965+00:00,base,WETH,0.3228,aerodrome,uniswap,368776,1,6,0,-0.613,0
 2026-09-04T00:34:10.999678+00:00,solana,SKR,1.271,orca,orca,698384,0,3,0,-1.0194,0
+2026-09-04T00:32:26.484077+00:00,solana,SOL,0.5597,orca,raydium,2962463,1,8,0,-0.047,0
+2026-09-04T00:35:55.845747+00:00,solana,TRIPLET,1.4888,meteora,pumpswap,446925,1,6,0,-0.7519,0
+2026-09-04T00:41:07.930654+00:00,solana,JIMOTHY,0.6238,meteora,pumpswap,335177,1,3,0,-1.524,0
+2026-09-04T00:30:41.687846+00:00,base,AERO,0.9903,aerodrome,uniswap,348588,1,9,0,-0.3978,0
+2026-09-04T00:32:26.484077+00:00,base,DIEM,1.5518,uniswap,aerodrome,270070,0,8,0,-0.2727,0
+2026-09-04T00:32:26.484077+00:00,base,CBBTC,0.971,aerodrome,aerodrome,501908,1,8,0,-0.1718,0
+2026-09-04T00:34:10.999678+00:00,base,WETH,0.3012,uniswap,quickswap,276452,1,7,0,-0.6307,0
+2026-09-04T00:42:51.919658+00:00,base,BASECAT,0.4331,uniswap,uniswap,254492,1,2,0,-2.0733,0
