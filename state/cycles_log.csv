@@ -73753,3 +73753,13 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-09-04T19:43:57.512780+00:00,aptos,USDT→APT→USDT,2,liquidswap/liquidswap,166.909,25.84,16.3575,0,0
 2026-09-04T19:45:43.638144+00:00,sui,KW→USDT→KW,2,turbos-finance/turbos-finance,179.7365,7.77,5.2081,0,0
 2026-09-04T19:45:43.638144+00:00,solana,BERT→SOL→BERT,2,meteora/meteora,7.9051,51.04,1.9691,0,0
+2026-09-04T23:28:50.288981+00:00,solana,$HACHI→SOL→$HACHI,2,raydium/meteora,198.7847,2.0,2.9804,0,0
+2026-09-04T23:30:44.479121+00:00,sui,KW→USDT→KW,2,turbos-finance/turbos-finance,181.7969,7.88,5.3249,0,0
+2026-09-04T23:32:38.070292+00:00,sui,KW→USDT→KW,2,turbos-finance/turbos-finance,181.7969,7.88,5.3249,0,0
+2026-09-04T23:32:38.070292+00:00,solana,$HACHI→SOL→$HACHI,2,raydium/meteora,198.7847,2.0,2.9804,0,0
+2026-09-04T23:34:31.884341+00:00,sui,KW→USDT→KW,2,turbos-finance/turbos-finance,181.7969,7.88,5.3249,0,0
+2026-09-04T23:34:31.884341+00:00,solana,$HACHI→SOL→$HACHI,2,raydium/meteora,198.7847,2.0,2.9804,0,0
+2026-09-04T23:36:25.451536+00:00,solana,$HACHI→SOL→$HACHI,2,raydium/meteora,198.7847,2.0,2.9804,0,0
+2026-09-04T23:38:19.401554+00:00,solana,$HACHI→SOL→$HACHI,2,raydium/meteora,198.7847,2.0,2.9804,0,0
+2026-09-04T23:40:12.857726+00:00,solana,$HACHI→SOL→$HACHI,2,raydium/meteora,198.7847,2.0,2.9804,0,0
+2026-09-04T23:42:06.467245+00:00,solana,$HACHI→SOL→$HACHI,2,raydium/meteora,198.7847,2.0,2.9804,0,0
