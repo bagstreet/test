@@ -21771,3 +21771,10 @@ t0,chain,token,entry_spread_pct,lo_dex,hi_dex,min_tvl,whale,n_samples,n_pos_afte
 2026-09-05T09:23:02.556857+00:00,solana,JITOSOL,0.4891,meteora,meteora,2599443,0,9,0,-0.1653,0
 2026-09-05T09:24:49.121642+00:00,solana,JIMOTHY,2.1749,meteora,pumpswap,336193,1,8,2,0.6745,1
 2026-09-05T09:30:08.578412+00:00,base,AERO,0.7542,aerodrome,aerodrome,1137179,1,5,0,-0.099,0
+2026-09-05T12:51:46.534468+00:00,solana,USELESS,0.4628,meteora,orca,471008,1,9,0,-0.4303,0
+2026-09-05T12:53:31.187044+00:00,solana,SOL,0.6628,raydium,meteora,600111,1,8,1,0.3126,0
+2026-09-05T12:57:00.576578+00:00,solana,SKR,0.4793,meteora,orca,251073,1,6,0,-0.4177,0
+2026-09-05T12:51:46.534468+00:00,base,DIEM,1.0803,aerodrome,uniswap,286585,0,9,1,0.949,0
+2026-09-05T12:51:46.534468+00:00,base,CBBTC,0.8094,aerodrome,aerodrome,499803,1,9,0,-0.1931,0
+2026-09-05T12:51:46.534468+00:00,base,VIRTUAL,0.6217,aerodrome,aerodrome,421993,1,9,0,-0.3536,0
+2026-09-05T13:03:59.270258+00:00,base,AERO,0.8657,uniswap,aerodrome,354167,1,2,0,-0.6413,0

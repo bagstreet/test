@@ -73858,3 +73858,12 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-09-05T13:03:59.270258+00:00,sui,CETUS→DEEP→CETUS,2,cetus/cetus,3.0542,1.0,-0.17,0,0
 2026-09-05T13:03:59.270258+00:00,solana,IME→TROLL→IME,2,meteora/meteora,0.3739,3.7,-0.0031,0,0
 2026-09-05T13:03:59.270258+00:00,base,USDBC→USDT→VVV→VIRTUAL→ETH→USDBC,5,aerodrome/uniswap/uniswap/uniswap/uniswap,4.0415,1.0,-0.1343,0,0
+2026-09-05T15:40:46.391997+00:00,solana,IME→ORE→IME,2,meteora/meteora,0.937,3.01,0.0041,0,0
+2026-09-05T15:40:46.391997+00:00,base,AERO→USDBC→WEETH→AERO,3,aerodrome/pancakeswap/aerodrome,1.0296,1.0,-0.1727,0,0
+2026-09-05T15:42:30.843578+00:00,solana,IME→ORE→IME,2,meteora/meteora,1.3251,4.25,0.0181,0,0
+2026-09-05T15:42:30.843578+00:00,base,AERO→USDBC→WEETH→AERO,3,aerodrome/pancakeswap/aerodrome,1.0296,1.0,-0.1727,0,0
+2026-09-05T15:44:15.201174+00:00,solana,IME→ORE→IME,2,meteora/meteora,1.3251,4.25,0.0181,0,0
+2026-09-05T15:44:15.201174+00:00,base,AERO→USDBC→WEETH→AERO,3,aerodrome/pancakeswap/aerodrome,1.0296,1.0,-0.1727,0,0
+2026-09-05T15:45:59.636607+00:00,solana,IME→ORE→IME,2,meteora/meteora,1.3251,4.25,0.0181,0,0
+2026-09-05T15:47:44.195079+00:00,solana,IME→ORE→IME,2,meteora/meteora,1.3251,4.25,0.0181,0,0
+2026-09-05T15:51:12.885893+00:00,solana,IME→ORE→IME,2,meteora/meteora,1.3251,4.25,0.0181,0,0
