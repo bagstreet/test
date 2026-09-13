@@ -22426,3 +22426,13 @@ t0,chain,token,entry_spread_pct,lo_dex,hi_dex,min_tvl,whale,n_samples,n_pos_afte
 2026-09-13T13:23:53.879047+00:00,base,CBBTC,0.5323,aerodrome,uniswap,622589,1,8,0,-0.5608,0
 2026-09-13T13:27:23.931873+00:00,base,VVV,0.6868,aerodrome,aerodrome,482508,1,6,0,-0.6894,0
 2026-09-13T13:29:08.635837+00:00,base,DIEM,0.447,aerodrome,aerodrome,663097,1,5,0,-0.021,0
+2026-09-13T17:01:16.433982+00:00,solana,SOL,0.5062,raydium,raydium,4771251,1,8,0,-0.4181,0
+2026-09-13T16:59:30.970984+00:00,base,WSTETH,1.4877,aerodrome,aerodrome,837937,0,9,8,0.9483,1
+2026-09-13T16:59:30.970984+00:00,base,FBOMB,0.9185,aerodrome,aerodrome,332523,0,9,0,-0.7859,0
+2026-09-13T17:01:16.433982+00:00,base,AERO,1.211,uniswap,aerodrome,380842,0,8,3,0.1045,1
+2026-09-13T17:01:16.433982+00:00,base,CBBTC,0.5273,aerodrome,uniswap,375171,1,8,0,-0.2797,0
+2026-09-13T17:03:02.006324+00:00,base,WETH,1.0169,uniswap,aerodrome,256622,1,7,0,-1.0433,0
+2026-09-13T17:06:33.440763+00:00,base,VVV,0.5955,aerodrome,aerodrome,486028,1,5,0,-0.6293,0
+2026-09-13T17:06:33.440763+00:00,base,DIEM,0.3639,aerodrome,aerodrome,283897,1,5,0,-0.3034,0
+2026-09-13T17:11:50.319895+00:00,base,WBTC,0.4657,uniswap,uniswap,295656,0,2,0,-1.4704,0
+2026-09-13T19:11:58.760363+00:00,solana,FARTCOIN ,0.4208,orca,raydium,963544,0,2,0,-0.5557,0
