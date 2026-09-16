@@ -22640,3 +22640,11 @@ t0,chain,token,entry_spread_pct,lo_dex,hi_dex,min_tvl,whale,n_samples,n_pos_afte
 2026-09-16T06:43:13.360583+00:00,base,MAMO,1.2197,aerodrome,aerodrome,301699,0,9,0,-0.6076,0
 2026-09-16T06:43:13.360583+00:00,base,VVV,0.5985,aerodrome,aerodrome,504688,1,9,0,-0.6836,0
 2026-09-16T06:44:55.665786+00:00,base,CBBTC,0.5251,aerodrome,pancakeswap,480071,1,8,0,-0.6757,0
+2026-09-16T12:05:35.087151+00:00,solana,SOL,0.799,raydium,raydium,613163,1,8,0,-0.0158,0
+2026-09-16T12:09:17.475380+00:00,solana,FO,0.3397,meteora,meteora,1505697,0,6,0,-0.2904,0
+2026-09-16T12:03:44.441004+00:00,base,FBOMB,1.6787,aerodrome,aerodrome,281288,0,9,0,-0.2449,0
+2026-09-16T12:03:44.441004+00:00,base,WETH,0.7612,uniswap,quickswap,251075,1,9,0,-0.3118,0
+2026-09-16T12:05:35.087151+00:00,base,CBBTC,0.8482,aerodrome,quickswap,287441,1,8,0,-0.0127,0
+2026-09-16T12:14:51.915515+00:00,base,VVV,0.6588,aerodrome,aerodrome,556445,1,3,0,-0.6958,0
+2026-09-16T12:14:51.915515+00:00,base,CBETH,0.6563,alien-base,hydrex,265456,1,3,0,-1.3521,0
+2026-09-16T12:14:51.915515+00:00,base,DIEM,0.4876,aerodrome,aerodrome,404101,1,3,0,-1.0037,0
