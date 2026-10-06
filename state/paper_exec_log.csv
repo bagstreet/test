@@ -23916,3 +23916,16 @@ t0,chain,token,entry_spread_pct,lo_dex,hi_dex,min_tvl,whale,n_samples,n_pos_afte
 2026-10-05T22:00:31.279616+00:00,base,CBBTC,0.5886,aerodrome,pancakeswap,418421,1,8,0,-0.3098,0
 2026-10-05T22:00:31.279616+00:00,base,WETH,0.4256,uniswap,aerodrome,912087,1,8,0,-0.4088,0
 2026-10-05T22:03:59.818315+00:00,base,VIRTUAL,0.6232,aerodrome,aerodrome,555255,1,6,0,-0.1683,0
+2026-10-06T02:02:37.158595+00:00,sui,USDC,0.5412,aftermath,turbos-finance,356034,1,9,0,-1.1033,0
+2026-10-06T02:04:24.919572+00:00,solana,SOL,0.7498,raydium,pumpswap,1938266,1,8,1,0.0252,0
+2026-10-06T02:02:37.158595+00:00,base,FBOMB,1.647,aerodrome,aerodrome,382425,0,9,7,0.0995,1
+2026-10-06T02:02:37.158595+00:00,base,AERO,1.0185,aerodrome,aerodrome,814513,1,9,1,0.4376,0
+2026-10-06T02:02:37.158595+00:00,base,MAMO,0.6124,aerodrome,aerodrome,401290,0,9,0,-0.4079,0
+2026-10-06T02:02:37.158595+00:00,base,SOL,0.4979,aerodrome,aerodrome,525848,1,9,0,-0.7225,0
+2026-10-06T02:04:24.919572+00:00,base,CBBTC,0.8359,pancakeswap,aerodrome,639273,1,8,0,-0.1518,0
+2026-10-06T02:04:24.919572+00:00,base,ETH,0.3397,uniswap,uniswap,434006,1,8,0,-1.0771,0
+2026-10-06T02:06:12.173872+00:00,base,WETH,0.3031,uniswap,aerodrome,265035,1,7,0,-1.3248,0
+2026-10-06T02:07:59.318563+00:00,base,MORPHO,0.722,aerodrome,uniswap,406140,1,6,0,-0.7644,0
+2026-10-06T02:09:46.554827+00:00,base,VVV,0.7309,uniswap,aerodrome,463698,1,5,0,-0.1012,0
+2026-10-06T02:11:33.354112+00:00,base,DIEM,0.3542,aerodrome,aerodrome,375164,1,4,0,-1.3008,0
+2026-10-06T08:54:37.790051+00:00,solana,FO,0.3453,meteora,meteora,1482949,0,5,0,-0.494,0
