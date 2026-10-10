@@ -24142,3 +24142,10 @@ t0,chain,token,entry_spread_pct,lo_dex,hi_dex,min_tvl,whale,n_samples,n_pos_afte
 2026-10-10T02:35:23.054734+00:00,base,CBBTC,0.8296,aerodrome,uniswap,296828,1,8,0,-0.915,0
 2026-10-10T02:35:23.054734+00:00,base,VIRTUAL,0.3943,aerodrome,uniswap,872909,1,8,0,-0.4794,0
 2026-10-10T02:37:06.329641+00:00,base,AERO,0.486,uniswap,aerodrome,547215,1,7,0,-0.7464,0
+2026-10-10T08:58:04.839693+00:00,sui,AFSUI,2.5641,aftermath,aftermath,2722639,0,9,7,1.9162,1
+2026-10-10T08:59:47.020122+00:00,solana,MET,0.937,meteora,meteora,565621,1,8,1,0.3026,0
+2026-10-10T08:59:47.020122+00:00,solana,SOL,0.586,raydium,raydium,4771576,1,8,1,5.9963,0
+2026-10-10T09:03:09.809093+00:00,solana,FO,0.5109,meteora,meteora,1409839,0,6,0,-0.2733,0
+2026-10-10T09:08:14.534136+00:00,solana,PUMP,93.6722,meteora,pumpswap,1671827,1,3,1,92.9324,0
+2026-10-10T09:03:09.809093+00:00,base,CBBTC,0.8132,aerodrome,uniswap,297168,1,6,0,-1.0344,0
+2026-10-10T09:06:32.882775+00:00,base,AERO,1.0069,uniswap,aerodrome,572190,1,4,0,-0.8589,0
