@@ -24365,3 +24365,10 @@ t0,chain,token,entry_spread_pct,lo_dex,hi_dex,min_tvl,whale,n_samples,n_pos_afte
 2026-10-14T12:15:59.450262+00:00,base,WSTETH,0.4521,aerodrome,aerodrome,850583,0,8,0,-0.5197,0
 2026-10-14T12:15:59.450262+00:00,base,WETH,0.3604,uniswap,uniswap,907758,1,8,0,-0.6387,0
 2026-10-14T17:09:17.947148+00:00,solana,WETH,0.8066,raydium,orca,443867,0,4,0,-0.595,0
+2026-10-14T17:19:52.487301+00:00,sui,USDC,0.3908,turbos-finance,aftermath,350051,1,3,0,-1.3634,0
+2026-10-14T17:09:17.947148+00:00,solana,JUP,0.8889,meteora,orca,724933,1,9,0,-0.1315,0
+2026-10-14T17:11:03.876615+00:00,solana,PUMP,0.6089,meteora,meteora,1746564,1,8,4,0.0471,1
+2026-10-14T17:11:03.876615+00:00,solana,HYPE,0.3626,orca,meteora,318801,1,8,0,-1.4575,0
+2026-10-14T17:09:17.947148+00:00,base,WEETH,2.4801,aerodrome,aerodrome,1219329,0,9,7,1.6506,1
+2026-10-14T17:11:03.876615+00:00,base,CBBTC,1.0703,aerodrome,uniswap,282948,1,8,0,-0.8449,0
+2026-10-14T17:19:52.487301+00:00,base,VVV,0.829,uniswap,aerodrome,400869,1,3,0,-0.5844,0
