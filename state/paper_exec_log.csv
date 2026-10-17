@@ -24554,3 +24554,11 @@ t0,chain,token,entry_spread_pct,lo_dex,hi_dex,min_tvl,whale,n_samples,n_pos_afte
 2026-10-17T06:10:29.133435+00:00,base,AERO,0.7598,aerodrome,aerodrome,1618585,1,8,0,-0.7904,0
 2026-10-17T06:10:29.133435+00:00,base,WETH,0.6244,uniswap,uniswap,874945,1,8,0,-0.1593,0
 2026-10-17T06:10:29.133435+00:00,base,CBBTC,0.5815,aerodrome,uniswap,279204,1,8,0,-1.1039,0
+2026-10-17T10:36:36.173415+00:00,sui,USDC,0.3605,turbos-finance,aftermath,349473,0,8,0,-1.1341,0
+2026-10-17T10:36:36.173415+00:00,solana,ZCAT,3.8154,meteora,raydium,633462,1,8,0,-0.3168,0
+2026-10-17T10:36:36.173415+00:00,solana,CARDS,1.1716,orca,raydium,413294,1,8,1,0.3988,0
+2026-10-17T10:43:26.102768+00:00,solana,FARTCOIN ,116.1272,raydium,orca,253678,1,4,2,114.0499,1
+2026-10-17T10:34:53.544844+00:00,base,FBOMB,2.1515,aerodrome,aerodrome,327967,0,9,8,0.6653,1
+2026-10-17T10:34:53.544844+00:00,base,VIRTUAL,1.052,uniswap,aerodrome,527202,0,9,0,-0.1649,0
+2026-10-17T10:36:36.173415+00:00,base,CBBTC,0.9282,aerodrome,aerodrome,261346,1,8,0,-0.0707,0
+2026-10-17T10:38:18.619561+00:00,base,AERO,1.0504,aerodrome,aerodrome,301167,1,7,0,-0.0854,0
