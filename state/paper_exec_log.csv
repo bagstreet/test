@@ -24597,3 +24597,12 @@ t0,chain,token,entry_spread_pct,lo_dex,hi_dex,min_tvl,whale,n_samples,n_pos_afte
 2026-10-17T23:05:14.092977+00:00,base,WETH,1.0184,uniswap,aerodrome,899876,1,9,8,0.0724,1
 2026-10-17T23:05:14.092977+00:00,base,WSTETH,0.7182,aerodrome,aerodrome,818054,0,9,0,-0.2526,0
 2026-10-17T23:07:01.319385+00:00,base,CBBTC,0.7522,aerodrome,uniswap,260663,1,8,0,-1.2839,0
+2026-10-18T01:05:20.983283+00:00,sui,USDC,0.4108,turbos-finance,aftermath,349449,1,5,0,-1.2952,0
+2026-10-18T01:00:12.593019+00:00,solana,STONK,0.9597,orca,raydium,496724,0,8,1,0.5474,0
+2026-10-18T01:00:12.593019+00:00,solana,SOL,0.4073,meteora,raydium,3316997,1,8,0,-0.0387,0
+2026-10-18T01:03:38.116186+00:00,solana,USDC,0.381,pancakeswap,meteora,252820,1,6,0,-0.8457,0
+2026-10-18T01:08:47.227980+00:00,solana,USDE,0.6505,orca,orca,1665033,0,3,0,-0.5695,0
+2026-10-18T01:10:30.158036+00:00,solana,PUMP,1.1369,meteora,pumpswap,250266,0,2,0,-0.1557,0
+2026-10-18T01:00:12.593019+00:00,base,CBBTC,0.7246,aerodrome,uniswap,260886,1,8,0,-0.3386,0
+2026-10-18T01:07:04.219995+00:00,base,WETH,0.9154,uniswap,pancakeswap,900572,1,4,0,-0.0053,0
+2026-10-18T05:23:02.591044+00:00,solana,WETH,1.099,raydium,orca,438556,0,4,0,-0.4804,0
