@@ -80023,3 +80023,14 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-10-18T17:04:53.682852+00:00,sui,CETUS→US→USDC→BLUE→CETUS,4,cetus/cetus/aftermath/cetus,6.9993,1.37,0.0273,0,0
 2026-10-18T17:04:53.682852+00:00,solana,WETH→USDC→WETH,2,meteora/raydium,0.3805,1.0,-0.4071,0,0
 2026-10-18T17:04:53.682852+00:00,base,USDC→DIEM→USDC,2,aerodrome/uniswap,8.1551,2.75,0.1928,0,0
+2026-10-18T19:02:24.396140+00:00,solana,WPOND→SOL→WPOND,2,raydium/meteora,45.3684,1.0,0.1147,0,0
+2026-10-18T19:02:24.396140+00:00,base,SURPLUS→ETH→USDT→WETH→SURPLUS,4,uniswap/uniswap/pancakeswap/uniswap,18.209,1.0,-0.6352,0,0
+2026-10-18T19:04:08.038057+00:00,solana,WPOND→SOL→WPOND,2,raydium/meteora,45.3684,1.0,0.1147,0,0
+2026-10-18T19:04:08.038057+00:00,base,SURPLUS→ETH→USDT→WETH→SURPLUS,4,uniswap/uniswap/pancakeswap/uniswap,18.209,1.0,-0.6352,0,0
+2026-10-18T19:05:50.863326+00:00,base,SURPLUS→ETH→USDT→WETH→SURPLUS,4,uniswap/uniswap/pancakeswap/uniswap,18.209,1.0,-0.6352,0,0
+2026-10-18T19:07:34.314338+00:00,base,SURPLUS→ETH→USDT→WETH→SURPLUS,4,uniswap/uniswap/pancakeswap/uniswap,18.209,1.0,-0.6352,0,0
+2026-10-18T19:09:17.468310+00:00,solana,WPOND→SOL→WPOND,2,raydium/meteora,45.3684,1.0,0.1147,0,0
+2026-10-18T19:09:17.468310+00:00,base,SURPLUS→ETH→USDT→WETH→SURPLUS,4,uniswap/uniswap/pancakeswap/uniswap,18.0972,1.0,-0.6356,0,0
+2026-10-18T19:11:00.618450+00:00,base,SURPLUS→ETH→USDT→WETH→SURPLUS,4,uniswap/uniswap/pancakeswap/uniswap,18.0972,1.0,-0.6356,0,0
+2026-10-18T19:12:43.766147+00:00,base,SURPLUS→ETH→USDT→WETH→SURPLUS,4,uniswap/uniswap/pancakeswap/uniswap,18.0972,1.0,-0.6356,0,0
+2026-10-18T19:14:26.882106+00:00,base,SURPLUS→ETH→USDT→WETH→SURPLUS,4,uniswap/uniswap/pancakeswap/uniswap,18.0972,1.0,-0.6356,0,0
