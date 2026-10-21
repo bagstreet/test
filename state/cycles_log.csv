@@ -80468,3 +80468,14 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-10-21T17:37:31.149822+00:00,solana,USDT→USDC→USDT,2,raydium/orca,20.885,1381.14,137.3812,0,0
 2026-10-21T17:37:31.149822+00:00,base,USOL→USDC→SOL→USOL,3,uniswap/uniswap/equalizer,21.8725,1.0,-0.7682,0,0
 2026-10-21T17:37:31.149822+00:00,aptos,USDC→WETH→USDC,2,liquidswap/liquidswap,203.115,7.15,5.281,0,0
+2026-10-21T20:43:40.654532+00:00,base,WETH→OLAS→USDC→WETH,3,balancer/aerodrome/aerodrome,5.1557,1.0,-0.7702,0,0
+2026-10-21T20:45:30.914645+00:00,base,WETH→OLAS→USDC→WETH,3,balancer/aerodrome/aerodrome,5.1557,1.0,-0.7702,0,0
+2026-10-21T20:47:21.998454+00:00,base,WETH→OLAS→USDC→WETH,3,balancer/aerodrome/aerodrome,5.1557,1.0,-0.7702,0,0
+2026-10-21T20:49:11.940441+00:00,base,WETH→OLAS→USDC→WETH,3,balancer/aerodrome/aerodrome,5.1557,1.0,-0.7702,0,0
+2026-10-21T20:51:02.736192+00:00,base,WETH→OLAS→USDC→WETH,3,balancer/aerodrome/aerodrome,5.1557,1.0,-0.7702,0,0
+2026-10-21T20:52:53.421458+00:00,solana,IMT→USD1→IMT,2,pumpswap/pumpswap,2.0655,1.0,-0.5162,0,0
+2026-10-21T20:52:53.421458+00:00,base,WETH→OLAS→USDC→WETH,3,balancer/aerodrome/aerodrome,5.1557,1.0,-0.7702,0,0
+2026-10-21T20:54:50.716432+00:00,solana,IMT→USD1→IMT,2,pumpswap/pumpswap,2.0655,1.0,-0.5162,0,0
+2026-10-21T20:54:50.716432+00:00,base,WETH→OLAS→USDC→WETH,3,balancer/aerodrome/aerodrome,5.1557,1.0,-0.7702,0,0
+2026-10-21T20:56:40.875580+00:00,solana,IMT→USD1→IMT,2,pumpswap/pumpswap,2.0655,1.0,-0.5162,0,0
+2026-10-21T20:56:40.875580+00:00,base,WETH→OLAS→USDC→WETH,3,balancer/aerodrome/aerodrome,5.1557,1.0,-0.7702,0,0
