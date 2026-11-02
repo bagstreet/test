@@ -25398,3 +25398,7 @@ t0,chain,token,entry_spread_pct,lo_dex,hi_dex,min_tvl,whale,n_samples,n_pos_afte
 2026-11-01T19:19:30.383757+00:00,base,CBBTC,0.4236,uniswap,uniswap,1581669,1,4,0,-0.3308,0
 2026-11-01T22:47:40.785002+00:00,solana,SYRUPUSDC,0.8475,orca,orca,532172,0,5,0,-0.4047,0
 2026-11-01T22:45:58.812073+00:00,solana,FO,0.602,meteora,meteora,667553,0,8,0,-0.4977,0
+2026-11-01T22:47:40.785002+00:00,solana,SOL,4.5246,orca,raydium,20470754,1,8,3,2.8552,1
+2026-11-01T22:47:40.785002+00:00,solana,JITOSOL,1.1382,orca,meteora,1105298,0,8,6,0.2758,1
+2026-11-01T22:52:44.351567+00:00,solana,STONK,1.2744,orca,meteora,1612193,0,5,4,0.9506,1
+2026-11-01T22:57:49.683339+00:00,base,CBBTC,0.3126,uniswap,uniswap,1251972,1,2,0,-0.5505,0
