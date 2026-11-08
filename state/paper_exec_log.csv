@@ -25637,3 +25637,11 @@ t0,chain,token,entry_spread_pct,lo_dex,hi_dex,min_tvl,whale,n_samples,n_pos_afte
 2026-11-08T14:39:08.354159+00:00,base,VIRTUAL,1.0244,uniswap,aerodrome,417362,0,9,0,-0.1732,0
 2026-11-08T14:40:51.641083+00:00,base,CBBTC,0.4649,uniswap,pancakeswap,5175217,1,8,0,-0.0734,0
 2026-11-08T14:49:28.799838+00:00,base,WETH,0.3234,uniswap,aerodrome,294215,1,3,0,-0.4386,0
+2026-11-08T19:08:24.499378+00:00,solana,MET,0.5568,meteora,meteora,375519,1,8,0,-0.623,0
+2026-11-08T19:13:45.921070+00:00,solana,SOL,1.9401,orca,meteora,1384945,1,5,0,-0.2221,0
+2026-11-08T19:19:10.652694+00:00,solana,USDC,0.3408,pancakeswap,raydium,1576578,1,2,0,-1.0847,0
+2026-11-08T19:06:37.907512+00:00,base,AERO,0.8869,aero,aerodrome,757994,1,9,1,0.714,0
+2026-11-08T19:06:37.907512+00:00,base,ETH,0.8793,uniswap,uniswap,639047,0,9,1,0.0456,0
+2026-11-08T19:08:24.499378+00:00,base,CBBTC,0.4031,uniswap,pancakeswap,5154347,1,8,0,-0.5882,0
+2026-11-08T22:49:52.155553+00:00,solana,FARTCOIN ,27.5893,orca,raydium,798029,1,3,0,-0.5532,0
+2026-11-08T22:53:19.175145+00:00,solana,USDC,0.4648,pancakeswap,raydium,1526318,1,3,0,-0.3279,0
