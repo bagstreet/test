@@ -83199,3 +83199,16 @@ ts,chain,cycle,legs,dexes,gross_pct,opt_usd,net_usd,executable,win
 2026-11-13T16:02:00.701320+00:00,solana,RAY→SOL→USDT→RAY,3,raydium/pancakeswap/raydium,3.1263,8.47,0.1214,0,0
 2026-11-13T16:02:00.701320+00:00,base,AERO→MORPHO→USDT→USDBC→AERO,4,aerodrome/aerodrome/aerodrome/aerodrome,4.7168,1.0,-0.4318,0,0
 2026-11-13T16:02:00.701320+00:00,aptos,APT→USDT→APT,2,pancakeswap/liquidswap,177.3649,1.0,-0.3594,0,0
+2026-11-13T21:42:13.315482+00:00,sui,SUIUSDT→USDC→SUIUSDT,2,bluefin/momentum,12.0842,1824.41,107.0697,1,1
+2026-11-13T21:42:13.315482+00:00,base,USDC→USD+→USDC,2,swapbased/baseswap,5.3323,1.0,-0.9904,0,0
+2026-11-13T21:44:00.896266+00:00,base,USD+→USDC→USD+,2,baseswap/swapbased,5.3323,1.0,-0.9918,0,0
+2026-11-13T21:45:48.043607+00:00,solana,USDC→CBBTC→USDC,2,meteora/meteora,0.0674,5.6,-0.0081,0,0
+2026-11-13T21:45:48.043607+00:00,base,USD+→USDC→USD+,2,baseswap/swapbased,5.3323,1.0,-0.9918,0,0
+2026-11-13T21:47:36.187113+00:00,base,USD+→USDC→USD+,2,baseswap/swapbased,5.3323,1.0,-0.9918,0,0
+2026-11-13T21:49:24.047683+00:00,solana,CSR→CBBTC→SOL→QI→CSR,4,meteora/meteora/meteora/meteora,5.1403,1.0,-0.0371,0,0
+2026-11-13T21:49:24.047683+00:00,base,USD+→USDC→USD+,2,baseswap/swapbased,5.3323,1.0,-0.9918,0,0
+2026-11-13T21:51:11.567283+00:00,solana,QI→CSR→CBBTC→SOL→QI,4,meteora/meteora/meteora/meteora,5.1403,1.0,-0.1665,0,0
+2026-11-13T21:51:11.567283+00:00,base,USD+→USDC→USD+,2,baseswap/swapbased,5.3323,1.0,-0.9918,0,0
+2026-11-13T21:52:59.606648+00:00,base,USD+→USDC→USD+,2,baseswap/swapbased,5.3323,1.0,-0.9918,0,0
+2026-11-13T21:54:47.896054+00:00,solana,QI→CSR→CBBTC→USDC→SOL→QI,5,meteora/meteora/meteora/pumpswap/meteora,5.2862,1.0,-0.1653,0,0
+2026-11-13T21:54:47.896054+00:00,base,USD+→USDC→USD+,2,baseswap/swapbased,5.3323,1.0,-0.9918,0,0
